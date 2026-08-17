@@ -2,15 +2,15 @@
   "meta": {
     "nome": "teste - acesso 2",
     "salvoPor": "Matheus",
-    "salvoEm": "2026-08-17T02:29:17.274Z",
+    "salvoEm": "2026-08-17T02:53:53.403Z",
     "resumo": {
       "google": {
         "campanhas": 2,
-        "verba": 0
+        "verba": 1500
       },
       "meta": {
         "campanhas": 2,
-        "verba": 0
+        "verba": 1000
       }
     },
     "share": "vj6zn9r6t67cnx"
@@ -90,7 +90,9 @@
               "_lines": [
                 "Grupo de anúncios 1"
               ],
-              "_apoio": [],
+              "_apoio": [
+                "R$ 375,00/mês · 50,0%"
+              ],
               "_w": 149.5,
               "_h": 36,
               "ads": {
@@ -109,7 +111,11 @@
                 "descPins": [
                   0
                 ]
-              }
+              },
+              "_dragStartX": 499.75,
+              "_dragStartY": -129.625,
+              "_dragged": false,
+              "budget": 375
             },
             {
               "name": "Grupo de anúncios 2",
@@ -154,9 +160,15 @@
               "_lines": [
                 "Grupo de anúncios 2"
               ],
-              "_apoio": [],
+              "_apoio": [
+                "R$ 375,00/mês · 50,0%"
+              ],
               "_w": 149.5,
-              "_h": 36
+              "_h": 36,
+              "_dragStartX": 499.75,
+              "_dragStartY": -18.125,
+              "_dragged": false,
+              "budget": 375
             }
           ],
           "uid": "umswl0zhet08nkx",
@@ -164,12 +176,15 @@
           "_lines": [
             "Campanha 1"
           ],
-          "_apoio": [],
+          "_apoio": [
+            "R$ 750,00/mês · 50,0%"
+          ],
           "_w": 195,
-          "_h": 40,
+          "_h": 51.375,
           "_dragStartX": 255.5,
           "_dragStartY": -73.875,
-          "_dragged": false
+          "_dragged": false,
+          "budget": 750
         },
         {
           "name": "Campanha 2",
@@ -222,9 +237,15 @@
               "_lines": [
                 "Grupo de anúncios 1"
               ],
-              "_apoio": [],
+              "_apoio": [
+                "R$ 750,00/mês · 100,0%"
+              ],
               "_w": 149.5,
-              "_h": 36
+              "_h": 36,
+              "_dragStartX": 499.75,
+              "_dragStartY": 73.875,
+              "_dragged": false,
+              "budget": 750
             }
           ],
           "uid": "umswl0zhepy3cqf",
@@ -232,9 +253,15 @@
           "_lines": [
             "Campanha 2"
           ],
-          "_apoio": [],
+          "_apoio": [
+            "R$ 750,00/mês · 50,0%"
+          ],
           "_w": 195,
-          "_h": 40
+          "_h": 51.375,
+          "_dragStartX": 255.5,
+          "_dragStartY": 73.875,
+          "_dragged": false,
+          "budget": 750
         }
       ],
       "uid": "umswl0zhe37y384",
@@ -243,10 +270,11 @@
         "Google Ads"
       ],
       "_apoio": [
+        "R$ 1.500,00/mês",
         "Campanhas"
       ],
       "_w": 172,
-      "_h": 52.625,
+      "_h": 63.625,
       "tracos": [],
       "notas": [],
       "_dragStartX": 0,
@@ -260,7 +288,8 @@
         "descriptions": [],
         "headPins": [],
         "descPins": []
-      }
+      },
+      "budget": 1500
     },
     "meta": {
       "name": "Meta Ads",
@@ -273,14 +302,14 @@
         {
           "name": "Conversão",
           "color": "#1B2F6A",
-          "x": 255.5,
+          "x": 254.59091186523438,
           "y": -93,
           "collapsed": false,
           "suggestion": false,
           "children": [
             {
               "name": "Remarketing — site 30d",
-              "x": 509.5,
+              "x": 508.5909118652344,
               "y": -186,
               "collapsed": false,
               "suggestion": false,
@@ -295,7 +324,7 @@
             },
             {
               "name": "Lookalike 1% — compradores",
-              "x": 522.5,
+              "x": 521.5909118652344,
               "y": -124,
               "collapsed": false,
               "suggestion": false,
@@ -310,7 +339,7 @@
             },
             {
               "name": "Interesses",
-              "x": 470.5,
+              "x": 469.5909118652344,
               "y": -62,
               "collapsed": false,
               "suggestion": false,
@@ -325,7 +354,7 @@
             },
             {
               "name": "Advantage+ (aberto)",
-              "x": 499.75,
+              "x": 498.8409118652344,
               "y": 0,
               "collapsed": false,
               "suggestion": false,
@@ -344,12 +373,15 @@
           "_lines": [
             "Conversão"
           ],
-          "_apoio": [],
+          "_apoio": [
+            "R$ 500,00/mês · 50,0%"
+          ],
           "_w": 195,
-          "_h": 40,
-          "_dragStartX": 260,
-          "_dragStartY": -140,
-          "_dragged": false
+          "_h": 51.375,
+          "_dragStartX": 255.5,
+          "_dragStartY": -93,
+          "_dragged": false,
+          "budget": 500
         },
         {
           "name": "Reconhecimento",
@@ -395,9 +427,15 @@
           "_lines": [
             "Reconhecimento"
           ],
-          "_apoio": [],
+          "_apoio": [
+            "R$ 500,00/mês · 50,0%"
+          ],
           "_w": 195,
-          "_h": 40
+          "_h": 51.375,
+          "_dragStartX": 255.5,
+          "_dragStartY": 93,
+          "_dragged": false,
+          "budget": 500
         }
       ],
       "uid": "umswl0zheh42dwm",
@@ -406,12 +444,17 @@
         "Meta Ads"
       ],
       "_apoio": [
+        "R$ 1.000,00/mês",
         "Campanhas e públicos"
       ],
       "_w": 172,
-      "_h": 52.625,
+      "_h": 63.625,
       "tracos": [],
-      "notas": []
+      "notas": [],
+      "_dragStartX": 0,
+      "_dragStartY": 0,
+      "_dragged": false,
+      "budget": 1000
     },
     "cliente": "teste - acesso 2"
   }
