@@ -1,21 +1,5 @@
 {
   "projetos": {
-    "teste": {
-      "nome": "Teste",
-      "salvoPor": "Matheus",
-      "salvoEm": "2026-08-17T02:32:08.720Z",
-      "resumo": {
-        "google": {
-          "campanhas": 2,
-          "verba": 2000
-        },
-        "meta": {
-          "campanhas": 2,
-          "verba": 6000
-        }
-      },
-      "share": "yt5i72zj9b6udp"
-    },
     "matheus/teste-3": {
       "nome": "Teste 3",
       "salvoPor": "Matheus",
