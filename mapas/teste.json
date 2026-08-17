@@ -2,7 +2,7 @@
   "meta": {
     "nome": "Teste",
     "salvoPor": "Matheus",
-    "salvoEm": "2026-08-17T01:54:37.338Z",
+    "salvoEm": "2026-08-17T02:32:08.720Z",
     "resumo": {
       "google": {
         "campanhas": 2,
@@ -33,7 +33,7 @@
           "collapsed": false,
           "children": [
             {
-              "name": "Grupo de anúncios 1",
+              "name": "Grupo de anúncios 10",
               "suggestion": false,
               "x": 540,
               "y": -140,
@@ -88,12 +88,12 @@
               "uid": "umswka0c9nct63o",
               "id": "n3",
               "_lines": [
-                "Grupo de anúncios 1"
+                "Grupo de anúncios 10"
               ],
               "_apoio": [
                 "R$ 500,00/mês · 50,0%"
               ],
-              "_w": 149.5,
+              "_w": 156,
               "_h": 36,
               "_dragStartX": 540,
               "_dragStartY": -140,
