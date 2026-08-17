@@ -15,6 +15,21 @@
         }
       },
       "share": "yt5i72zj9b6udp"
+    },
+    "teste-2": {
+      "nome": "Teste 2",
+      "salvoPor": "Matheus",
+      "salvoEm": "2026-08-17T01:46:40.091Z",
+      "resumo": {
+        "google": {
+          "campanhas": 2,
+          "verba": 0
+        },
+        "meta": {
+          "campanhas": 2,
+          "verba": 0
+        }
+      }
     }
   }
 }
