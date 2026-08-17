@@ -30,6 +30,21 @@
         }
       },
       "share": "yt5i72zj9b6udp"
+    },
+    "testes/teste-3": {
+      "nome": "Teste 3",
+      "salvoPor": "Matheus",
+      "salvoEm": "2026-08-17T02:47:29.619Z",
+      "resumo": {
+        "google": {
+          "campanhas": 1,
+          "verba": 20000
+        },
+        "meta": {
+          "campanhas": 2,
+          "verba": 1000
+        }
+      }
     }
   }
 }
