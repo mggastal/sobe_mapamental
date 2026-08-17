@@ -31,22 +31,6 @@
         }
       }
     },
-    "teste---acesso-2": {
-      "nome": "teste - acesso 2",
-      "salvoPor": "Matheus",
-      "salvoEm": "2026-08-17T02:29:17.274Z",
-      "resumo": {
-        "google": {
-          "campanhas": 2,
-          "verba": 0
-        },
-        "meta": {
-          "campanhas": 2,
-          "verba": 0
-        }
-      },
-      "share": "vj6zn9r6t67cnx"
-    },
     "matheus/teste-3": {
       "nome": "Teste 3",
       "salvoPor": "Matheus",
