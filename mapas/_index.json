@@ -50,11 +50,11 @@
     "teste-3": {
       "nome": "Teste 3",
       "salvoPor": "Matheus",
-      "salvoEm": "2026-08-17T02:46:15.866Z",
+      "salvoEm": "2026-08-17T02:46:57.386Z",
       "resumo": {
         "google": {
           "campanhas": 1,
-          "verba": 1000
+          "verba": 20000
         },
         "meta": {
           "campanhas": 2,
