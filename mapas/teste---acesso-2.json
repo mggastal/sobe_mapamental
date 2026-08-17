@@ -1,8 +1,8 @@
 {
   "meta": {
     "nome": "teste - acesso 2",
-    "salvoPor": "Sobe",
-    "salvoEm": "2026-08-17T01:55:59.895Z",
+    "salvoPor": "Matheus",
+    "salvoEm": "2026-08-17T02:29:17.274Z",
     "resumo": {
       "google": {
         "campanhas": 2,
@@ -28,22 +28,22 @@
           "name": "Campanha 1",
           "color": "#1B2F6A",
           "suggestion": false,
-          "x": 260,
-          "y": -80,
+          "x": 255.5,
+          "y": -73.875,
           "collapsed": false,
           "children": [
             {
               "name": "Grupo de anúncios 1",
               "suggestion": false,
-              "x": 540,
-              "y": -140,
+              "x": 499.75,
+              "y": -129.625,
               "collapsed": false,
               "children": [
                 {
                   "name": "palavra-chave 1",
                   "suggestion": false,
-                  "x": 820,
-                  "y": -170,
+                  "x": 701.35,
+                  "y": -168.625,
                   "collapsed": false,
                   "uid": "umswl0zhe1elqxc",
                   "id": "n4",
@@ -57,8 +57,8 @@
                 {
                   "name": "palavra-chave 2",
                   "suggestion": false,
-                  "x": 820,
-                  "y": -140,
+                  "x": 701.35,
+                  "y": -129.625,
                   "collapsed": false,
                   "uid": "umswl0zhexsvexw",
                   "id": "n5",
@@ -72,8 +72,8 @@
                 {
                   "name": "palavra-chave 3",
                   "suggestion": false,
-                  "x": 820,
-                  "y": -110,
+                  "x": 701.35,
+                  "y": -90.625,
                   "collapsed": false,
                   "uid": "umswl0zhetq325v",
                   "id": "n6",
@@ -92,20 +92,37 @@
               ],
               "_apoio": [],
               "_w": 149.5,
-              "_h": 36
+              "_h": 36,
+              "ads": {
+                "url": "",
+                "path1": "",
+                "path2": "",
+                "headlines": [
+                  ""
+                ],
+                "descriptions": [
+                  ""
+                ],
+                "headPins": [
+                  0
+                ],
+                "descPins": [
+                  0
+                ]
+              }
             },
             {
               "name": "Grupo de anúncios 2",
               "suggestion": false,
-              "x": 540,
-              "y": -20,
+              "x": 499.75,
+              "y": -18.125,
               "collapsed": false,
               "children": [
                 {
                   "name": "palavra-chave 1",
                   "suggestion": false,
-                  "x": 820,
-                  "y": -35,
+                  "x": 701.35,
+                  "y": -37.625,
                   "collapsed": false,
                   "uid": "umswl0zhewweqqc",
                   "id": "n8",
@@ -119,8 +136,8 @@
                 {
                   "name": "palavra-chave 2",
                   "suggestion": false,
-                  "x": 820,
-                  "y": -5,
+                  "x": 701.35,
+                  "y": 1.375,
                   "collapsed": false,
                   "uid": "umswl0zhefgvwon",
                   "id": "n9",
@@ -149,28 +166,31 @@
           ],
           "_apoio": [],
           "_w": 195,
-          "_h": 40
+          "_h": 40,
+          "_dragStartX": 255.5,
+          "_dragStartY": -73.875,
+          "_dragged": false
         },
         {
           "name": "Campanha 2",
           "color": "#328596",
           "suggestion": false,
-          "x": 260,
-          "y": 110,
+          "x": 255.5,
+          "y": 73.875,
           "collapsed": false,
           "children": [
             {
               "name": "Grupo de anúncios 1",
               "suggestion": false,
-              "x": 540,
-              "y": 110,
+              "x": 499.75,
+              "y": 73.875,
               "collapsed": false,
               "children": [
                 {
                   "name": "palavra-chave 1",
                   "suggestion": false,
-                  "x": 820,
-                  "y": 95,
+                  "x": 701.35,
+                  "y": 54.375,
                   "collapsed": false,
                   "uid": "umswl0zheef1qit",
                   "id": "n12",
@@ -184,8 +204,8 @@
                 {
                   "name": "palavra-chave 2",
                   "suggestion": false,
-                  "x": 820,
-                  "y": 125,
+                  "x": 701.35,
+                  "y": 93.375,
                   "collapsed": false,
                   "uid": "umswl0zhe2y2he0",
                   "id": "n13",
@@ -228,7 +248,19 @@
       "_w": 172,
       "_h": 52.625,
       "tracos": [],
-      "notas": []
+      "notas": [],
+      "_dragStartX": 0,
+      "_dragStartY": 0,
+      "_dragged": false,
+      "sharedAds": {
+        "url": "",
+        "path1": "",
+        "path2": "",
+        "headlines": [],
+        "descriptions": [],
+        "headPins": [],
+        "descPins": []
+      }
     },
     "meta": {
       "name": "Meta Ads",
@@ -241,84 +273,145 @@
         {
           "name": "Conversão",
           "color": "#1B2F6A",
-          "x": 260,
-          "y": -140,
+          "x": 255.5,
+          "y": -93,
           "collapsed": false,
           "suggestion": false,
           "children": [
             {
               "name": "Remarketing — site 30d",
-              "x": 540,
-              "y": -230,
+              "x": 509.5,
+              "y": -186,
               "collapsed": false,
               "suggestion": false,
               "uid": "umswl0zhej8h255",
-              "id": "n16"
+              "id": "n16",
+              "_lines": [
+                "Remarketing — site 30d"
+              ],
+              "_apoio": [],
+              "_w": 169,
+              "_h": 36
             },
             {
               "name": "Lookalike 1% — compradores",
-              "x": 540,
-              "y": -170,
+              "x": 522.5,
+              "y": -124,
               "collapsed": false,
               "suggestion": false,
               "uid": "umswl0zheat216n",
-              "id": "n17"
+              "id": "n17",
+              "_lines": [
+                "Lookalike 1% — compradores"
+              ],
+              "_apoio": [],
+              "_w": 195,
+              "_h": 36
             },
             {
               "name": "Interesses",
-              "x": 540,
-              "y": -110,
+              "x": 470.5,
+              "y": -62,
               "collapsed": false,
               "suggestion": false,
               "uid": "umswl0zheldo6t6",
-              "id": "n18"
+              "id": "n18",
+              "_lines": [
+                "Interesses"
+              ],
+              "_apoio": [],
+              "_w": 91,
+              "_h": 36
             },
             {
               "name": "Advantage+ (aberto)",
-              "x": 540,
-              "y": -50,
+              "x": 499.75,
+              "y": 0,
               "collapsed": false,
               "suggestion": false,
               "uid": "umswl0zhe3tn8k9",
-              "id": "n19"
+              "id": "n19",
+              "_lines": [
+                "Advantage+ (aberto)"
+              ],
+              "_apoio": [],
+              "_w": 149.5,
+              "_h": 36
             }
           ],
           "uid": "umswl0zheojom1m",
-          "id": "n15"
+          "id": "n15",
+          "_lines": [
+            "Conversão"
+          ],
+          "_apoio": [],
+          "_w": 195,
+          "_h": 40,
+          "_dragStartX": 260,
+          "_dragStartY": -140,
+          "_dragged": false
         },
         {
           "name": "Reconhecimento",
           "color": "#328596",
-          "x": 260,
-          "y": 150,
+          "x": 255.5,
+          "y": 93,
           "collapsed": false,
           "suggestion": false,
           "children": [
             {
               "name": "Ampla — região",
-              "x": 540,
-              "y": 110,
+              "x": 483.5,
+              "y": 62,
               "collapsed": false,
               "suggestion": false,
               "uid": "umswl0zhedzt4u2",
-              "id": "n21"
+              "id": "n21",
+              "_lines": [
+                "Ampla — região"
+              ],
+              "_apoio": [],
+              "_w": 117,
+              "_h": 36
             },
             {
               "name": "Interesses amplos",
-              "x": 540,
-              "y": 175,
+              "x": 493.25,
+              "y": 124,
               "collapsed": false,
               "suggestion": false,
               "uid": "umswl0zhef80dqv",
-              "id": "n22"
+              "id": "n22",
+              "_lines": [
+                "Interesses amplos"
+              ],
+              "_apoio": [],
+              "_w": 136.5,
+              "_h": 36
             }
           ],
           "uid": "umswl0zheib0wwy",
-          "id": "n20"
+          "id": "n20",
+          "_lines": [
+            "Reconhecimento"
+          ],
+          "_apoio": [],
+          "_w": 195,
+          "_h": 40
         }
       ],
       "uid": "umswl0zheh42dwm",
-      "id": "n14"
+      "id": "n14",
+      "_lines": [
+        "Meta Ads"
+      ],
+      "_apoio": [
+        "Campanhas e públicos"
+      ],
+      "_w": 172,
+      "_h": 52.625,
+      "tracos": [],
+      "notas": []
     },
     "cliente": "teste - acesso 2"
   }
