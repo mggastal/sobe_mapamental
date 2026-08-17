@@ -2,11 +2,11 @@
   "meta": {
     "nome": "Teste 3",
     "salvoPor": "Matheus",
-    "salvoEm": "2026-08-17T02:46:15.866Z",
+    "salvoEm": "2026-08-17T02:46:57.386Z",
     "resumo": {
       "google": {
         "campanhas": 1,
-        "verba": 1000
+        "verba": 20000
       },
       "meta": {
         "campanhas": 2,
@@ -20,7 +20,7 @@
       "note": "Campanhas",
       "suggestion": false,
       "x": 0,
-      "y": 0,
+      "y": -0.0000019073486328125,
       "collapsed": false,
       "children": [
         {
@@ -28,21 +28,21 @@
           "color": "#1B2F6A",
           "suggestion": false,
           "x": 259.0909118652344,
-          "y": -80,
+          "y": -80.00000190734863,
           "collapsed": false,
           "children": [
             {
               "name": "Grupo de anúncios 1",
               "suggestion": false,
               "x": 539.0909118652344,
-              "y": -140,
+              "y": -140.00000190734863,
               "collapsed": false,
               "children": [
                 {
                   "name": "palavra-chave 1",
                   "suggestion": false,
                   "x": 819.0909118652344,
-                  "y": -170,
+                  "y": -170.00000190734863,
                   "collapsed": false,
                   "uid": "umswkp5yf7tl6z7",
                   "id": "n4",
@@ -61,7 +61,7 @@
                   "name": "palavra-chave 2",
                   "suggestion": false,
                   "x": 819.0909118652344,
-                  "y": -140,
+                  "y": -140.00000190734863,
                   "collapsed": false,
                   "uid": "umswkp5yftrfs37",
                   "id": "n5",
@@ -80,7 +80,7 @@
                   "name": "palavra-chave 3",
                   "suggestion": false,
                   "x": 819.0909118652344,
-                  "y": -110,
+                  "y": -110.00000190734863,
                   "collapsed": false,
                   "uid": "umswkp5yfe5xljn",
                   "id": "n6",
@@ -135,12 +135,12 @@
             "Teste 1"
           ],
           "_apoio": [
-            "R$ 20.000,00/mês · 2000,0%"
+            "R$ 20.000,00/mês · 100,0%"
           ],
           "_w": 195,
           "_h": 51.375,
           "_dragStartX": 259.0909118652344,
-          "_dragStartY": -80,
+          "_dragStartY": -80.00000190734863,
           "_dragged": false,
           "budget": 20000
         }
@@ -151,7 +151,7 @@
         "Google Ads"
       ],
       "_apoio": [
-        "R$ 1.000,00/mês",
+        "R$ 20.000,00/mês",
         "Campanhas"
       ],
       "_w": 172,
@@ -159,9 +159,9 @@
       "tracos": [],
       "notas": [],
       "_dragStartX": 0,
-      "_dragStartY": 0,
+      "_dragStartY": -0.0000019073486328125,
       "_dragged": false,
-      "budget": 1000,
+      "budget": 20000,
       "sharedAds": {
         "url": "",
         "path1": "",
