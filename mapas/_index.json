@@ -46,6 +46,21 @@
         }
       },
       "share": "vj6zn9r6t67cnx"
+    },
+    "teste-3": {
+      "nome": "Teste 3",
+      "salvoPor": "Matheus",
+      "salvoEm": "2026-08-17T02:45:39.762Z",
+      "resumo": {
+        "google": {
+          "campanhas": 1,
+          "verba": 1000
+        },
+        "meta": {
+          "campanhas": 2,
+          "verba": 1000
+        }
+      }
     }
   }
 }
