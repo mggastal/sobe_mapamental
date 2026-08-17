@@ -2,15 +2,15 @@
   "meta": {
     "nome": "Teste 2",
     "salvoPor": "Matheus",
-    "salvoEm": "2026-08-17T01:46:40.091Z",
+    "salvoEm": "2026-08-17T01:47:41.412Z",
     "resumo": {
       "google": {
         "campanhas": 2,
-        "verba": 0
+        "verba": 1000
       },
       "meta": {
         "campanhas": 2,
-        "verba": 0
+        "verba": 1000
       }
     }
   },
@@ -24,25 +24,25 @@
       "collapsed": false,
       "children": [
         {
-          "name": "Campanha 1",
+          "name": "Teste 1",
           "color": "#1B2F6A",
           "suggestion": false,
-          "x": 260,
-          "y": -80,
+          "x": 259.0909118652344,
+          "y": -79.09091186523438,
           "collapsed": false,
           "children": [
             {
               "name": "Grupo de anúncios 1",
               "suggestion": false,
-              "x": 540,
-              "y": -140,
+              "x": 539.0909118652344,
+              "y": -139.09091186523438,
               "collapsed": false,
               "children": [
                 {
                   "name": "palavra-chave 1",
                   "suggestion": false,
-                  "x": 820,
-                  "y": -170,
+                  "x": 819.0909118652344,
+                  "y": -169.09091186523438,
                   "collapsed": false,
                   "uid": "umswkp5yf7tl6z7",
                   "id": "n4",
@@ -56,8 +56,8 @@
                 {
                   "name": "palavra-chave 2",
                   "suggestion": false,
-                  "x": 820,
-                  "y": -140,
+                  "x": 819.0909118652344,
+                  "y": -139.09091186523438,
                   "collapsed": false,
                   "uid": "umswkp5yftrfs37",
                   "id": "n5",
@@ -71,8 +71,8 @@
                 {
                   "name": "palavra-chave 3",
                   "suggestion": false,
-                  "x": 820,
-                  "y": -110,
+                  "x": 819.0909118652344,
+                  "y": -109.09091186523438,
                   "collapsed": false,
                   "uid": "umswkp5yfe5xljn",
                   "id": "n6",
@@ -89,22 +89,28 @@
               "_lines": [
                 "Grupo de anúncios 1"
               ],
-              "_apoio": [],
+              "_apoio": [
+                "R$ 125,00/mês · 25,0%"
+              ],
               "_w": 149.5,
-              "_h": 36
+              "_h": 36,
+              "_dragStartX": 539.0909118652344,
+              "_dragStartY": -139.09091186523438,
+              "_dragged": false,
+              "budget": 125
             },
             {
               "name": "Grupo de anúncios 2",
               "suggestion": false,
-              "x": 540,
-              "y": -20,
+              "x": 539.0909118652344,
+              "y": -19.090911865234375,
               "collapsed": false,
               "children": [
                 {
                   "name": "palavra-chave 1",
                   "suggestion": false,
-                  "x": 820,
-                  "y": -35,
+                  "x": 819.0909118652344,
+                  "y": -34.090911865234375,
                   "collapsed": false,
                   "uid": "umswkp5yftep0r8",
                   "id": "n8",
@@ -118,8 +124,8 @@
                 {
                   "name": "palavra-chave 2",
                   "suggestion": false,
-                  "x": 820,
-                  "y": -5,
+                  "x": 819.0909118652344,
+                  "y": -4.090911865234375,
                   "collapsed": false,
                   "uid": "umswkp5yfq17u3n",
                   "id": "n9",
@@ -136,39 +142,51 @@
               "_lines": [
                 "Grupo de anúncios 2"
               ],
-              "_apoio": [],
+              "_apoio": [
+                "R$ 375,00/mês · 75,0%"
+              ],
               "_w": 149.5,
-              "_h": 36
+              "_h": 36,
+              "_dragStartX": 539.0909118652344,
+              "_dragStartY": -19.090911865234375,
+              "_dragged": false,
+              "budget": 375
             }
           ],
           "uid": "umswkp5yfyvkp9o",
           "id": "n2",
           "_lines": [
-            "Campanha 1"
+            "Teste 1"
           ],
-          "_apoio": [],
+          "_apoio": [
+            "R$ 500,00/mês · 50,0%"
+          ],
           "_w": 195,
-          "_h": 40
+          "_h": 51.375,
+          "_dragStartX": 260,
+          "_dragStartY": -80,
+          "_dragged": false,
+          "budget": 500
         },
         {
           "name": "Campanha 2",
           "color": "#328596",
           "suggestion": false,
-          "x": 260,
+          "x": 259.0909118652344,
           "y": 110,
           "collapsed": false,
           "children": [
             {
               "name": "Grupo de anúncios 1",
               "suggestion": false,
-              "x": 540,
+              "x": 539.0909118652344,
               "y": 110,
               "collapsed": false,
               "children": [
                 {
                   "name": "palavra-chave 1",
                   "suggestion": false,
-                  "x": 820,
+                  "x": 819.0909118652344,
                   "y": 95,
                   "collapsed": false,
                   "uid": "umswkp5yf2t4iln",
@@ -183,7 +201,7 @@
                 {
                   "name": "palavra-chave 2",
                   "suggestion": false,
-                  "x": 820,
+                  "x": 819.0909118652344,
                   "y": 125,
                   "collapsed": false,
                   "uid": "umswkp5yfe1ea52",
@@ -201,9 +219,15 @@
               "_lines": [
                 "Grupo de anúncios 1"
               ],
-              "_apoio": [],
+              "_apoio": [
+                "R$ 500,00/mês · 100,0%"
+              ],
               "_w": 149.5,
-              "_h": 36
+              "_h": 36,
+              "_dragStartX": 539.0909118652344,
+              "_dragStartY": 110,
+              "_dragged": false,
+              "budget": 500
             }
           ],
           "uid": "umswkp5yfh5c43b",
@@ -211,9 +235,15 @@
           "_lines": [
             "Campanha 2"
           ],
-          "_apoio": [],
+          "_apoio": [
+            "R$ 500,00/mês · 50,0%"
+          ],
           "_w": 195,
-          "_h": 40
+          "_h": 51.375,
+          "_dragStartX": 260,
+          "_dragStartY": 110,
+          "_dragged": false,
+          "budget": 500
         }
       ],
       "uid": "umswkp5yfd8uj8o",
@@ -222,12 +252,17 @@
         "Google Ads"
       ],
       "_apoio": [
+        "R$ 1.000,00/mês",
         "Campanhas"
       ],
       "_w": 172,
-      "_h": 52.625,
+      "_h": 63.625,
       "tracos": [],
-      "notas": []
+      "notas": [],
+      "_dragStartX": 0,
+      "_dragStartY": 0,
+      "_dragged": false,
+      "budget": 1000
     },
     "meta": {
       "name": "Meta Ads",
@@ -252,7 +287,19 @@
               "collapsed": false,
               "suggestion": false,
               "uid": "umswkp5yfptz1da",
-              "id": "n16"
+              "id": "n16",
+              "_lines": [
+                "Remarketing — site 30d"
+              ],
+              "_apoio": [
+                "R$ 125,00/mês · 25,0%"
+              ],
+              "_w": 169,
+              "_h": 36,
+              "_dragStartX": 540,
+              "_dragStartY": -230,
+              "_dragged": false,
+              "budget": 125
             },
             {
               "name": "Lookalike 1% — compradores",
@@ -261,7 +308,19 @@
               "collapsed": false,
               "suggestion": false,
               "uid": "umswkp5yf18z7hr",
-              "id": "n17"
+              "id": "n17",
+              "_lines": [
+                "Lookalike 1% — compradores"
+              ],
+              "_apoio": [
+                "R$ 125,00/mês · 25,0%"
+              ],
+              "_w": 195,
+              "_h": 36,
+              "_dragStartX": 540,
+              "_dragStartY": -170,
+              "_dragged": false,
+              "budget": 125
             },
             {
               "name": "Interesses",
@@ -270,7 +329,19 @@
               "collapsed": false,
               "suggestion": false,
               "uid": "umswkp5yf4fq747",
-              "id": "n18"
+              "id": "n18",
+              "_lines": [
+                "Interesses"
+              ],
+              "_apoio": [
+                "R$ 125,00/mês · 25,0%"
+              ],
+              "_w": 91,
+              "_h": 36,
+              "_dragStartX": 540,
+              "_dragStartY": -110,
+              "_dragged": false,
+              "budget": 125
             },
             {
               "name": "Advantage+ (aberto)",
@@ -279,11 +350,35 @@
               "collapsed": false,
               "suggestion": false,
               "uid": "umswkp5yfhzxus6",
-              "id": "n19"
+              "id": "n19",
+              "_lines": [
+                "Advantage+ (aberto)"
+              ],
+              "_apoio": [
+                "R$ 125,00/mês · 25,0%"
+              ],
+              "_w": 149.5,
+              "_h": 36,
+              "_dragStartX": 540,
+              "_dragStartY": -50,
+              "_dragged": false,
+              "budget": 125
             }
           ],
           "uid": "umswkp5yffyrvgg",
-          "id": "n15"
+          "id": "n15",
+          "_lines": [
+            "Conversão"
+          ],
+          "_apoio": [
+            "R$ 500,00/mês · 50,0%"
+          ],
+          "_w": 195,
+          "_h": 51.375,
+          "_dragStartX": 260,
+          "_dragStartY": -140,
+          "_dragged": false,
+          "budget": 500
         },
         {
           "name": "Reconhecimento",
@@ -300,7 +395,19 @@
               "collapsed": false,
               "suggestion": false,
               "uid": "umswkp5yf5l95nm",
-              "id": "n21"
+              "id": "n21",
+              "_lines": [
+                "Ampla — região"
+              ],
+              "_apoio": [
+                "R$ 125,00/mês · 25,0%"
+              ],
+              "_w": 117,
+              "_h": 36,
+              "_dragStartX": 540,
+              "_dragStartY": 110,
+              "_dragged": false,
+              "budget": 125
             },
             {
               "name": "Interesses amplos",
@@ -309,15 +416,54 @@
               "collapsed": false,
               "suggestion": false,
               "uid": "umswkp5yfeg9vcw",
-              "id": "n22"
+              "id": "n22",
+              "_lines": [
+                "Interesses amplos"
+              ],
+              "_apoio": [
+                "R$ 375,00/mês · 75,0%"
+              ],
+              "_w": 136.5,
+              "_h": 36,
+              "_dragStartX": 540,
+              "_dragStartY": 175,
+              "_dragged": false,
+              "budget": 375
             }
           ],
           "uid": "umswkp5yf2zcb5v",
-          "id": "n20"
+          "id": "n20",
+          "_lines": [
+            "Reconhecimento"
+          ],
+          "_apoio": [
+            "R$ 500,00/mês · 50,0%"
+          ],
+          "_w": 195,
+          "_h": 51.375,
+          "_dragStartX": 260,
+          "_dragStartY": 150,
+          "_dragged": false,
+          "budget": 500
         }
       ],
       "uid": "umswkp5yfqkfs5v",
-      "id": "n14"
+      "id": "n14",
+      "_lines": [
+        "Meta Ads"
+      ],
+      "_apoio": [
+        "R$ 1.000,00/mês",
+        "Campanhas e públicos"
+      ],
+      "_w": 172,
+      "_h": 63.625,
+      "tracos": [],
+      "notas": [],
+      "_dragStartX": 0,
+      "_dragStartY": 0,
+      "_dragged": false,
+      "budget": 1000
     },
     "cliente": "Teste 2"
   }
