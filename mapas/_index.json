@@ -19,15 +19,15 @@
     "teste-2": {
       "nome": "Teste 2",
       "salvoPor": "Matheus",
-      "salvoEm": "2026-08-17T01:46:40.091Z",
+      "salvoEm": "2026-08-17T01:47:41.412Z",
       "resumo": {
         "google": {
           "campanhas": 2,
-          "verba": 0
+          "verba": 1000
         },
         "meta": {
           "campanhas": 2,
-          "verba": 0
+          "verba": 1000
         }
       }
     }
