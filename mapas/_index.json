@@ -61,6 +61,21 @@
         }
       },
       "share": "vj6zn9r6t67cnx"
+    },
+    "matheus/testee-5": {
+      "nome": "testee 5",
+      "salvoPor": "Matheus",
+      "salvoEm": "2026-08-17T03:06:43.971Z",
+      "resumo": {
+        "google": {
+          "campanhas": 2,
+          "verba": 1500
+        },
+        "meta": {
+          "campanhas": 2,
+          "verba": 1000
+        }
+      }
     }
   }
 }
