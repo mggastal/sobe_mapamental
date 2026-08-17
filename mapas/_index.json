@@ -3,15 +3,15 @@
     "teste": {
       "nome": "Teste",
       "salvoPor": "Matheus",
-      "salvoEm": "2026-08-17T01:34:52.788Z",
+      "salvoEm": "2026-08-17T01:54:37.338Z",
       "resumo": {
         "google": {
           "campanhas": 2,
-          "verba": 0
+          "verba": 2000
         },
         "meta": {
           "campanhas": 2,
-          "verba": 0
+          "verba": 6000
         }
       },
       "share": "yt5i72zj9b6udp"
