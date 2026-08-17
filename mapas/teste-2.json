@@ -2,10 +2,10 @@
   "meta": {
     "nome": "Teste 2",
     "salvoPor": "Matheus",
-    "salvoEm": "2026-08-17T01:47:41.412Z",
+    "salvoEm": "2026-08-17T01:50:46.900Z",
     "resumo": {
       "google": {
-        "campanhas": 2,
+        "campanhas": 1,
         "verba": 1000
       },
       "meta": {
@@ -28,21 +28,21 @@
           "color": "#1B2F6A",
           "suggestion": false,
           "x": 259.0909118652344,
-          "y": -79.09091186523438,
+          "y": -80,
           "collapsed": false,
           "children": [
             {
               "name": "Grupo de anúncios 1",
               "suggestion": false,
               "x": 539.0909118652344,
-              "y": -139.09091186523438,
+              "y": -140,
               "collapsed": false,
               "children": [
                 {
                   "name": "palavra-chave 1",
                   "suggestion": false,
                   "x": 819.0909118652344,
-                  "y": -169.09091186523438,
+                  "y": -170,
                   "collapsed": false,
                   "uid": "umswkp5yf7tl6z7",
                   "id": "n4",
@@ -50,14 +50,18 @@
                     "palavra-chave 1"
                   ],
                   "_apoio": [],
-                  "_w": 109.7,
-                  "_h": 27
+                  "_w": 156.7,
+                  "_h": 27,
+                  "_dragStartX": 819.0909118652344,
+                  "_dragStartY": -170,
+                  "_dragged": false,
+                  "match": "ampla"
                 },
                 {
                   "name": "palavra-chave 2",
                   "suggestion": false,
                   "x": 819.0909118652344,
-                  "y": -139.09091186523438,
+                  "y": -140,
                   "collapsed": false,
                   "uid": "umswkp5yftrfs37",
                   "id": "n5",
@@ -65,14 +69,18 @@
                     "palavra-chave 2"
                   ],
                   "_apoio": [],
-                  "_w": 109.7,
-                  "_h": 27
+                  "_w": 156.7,
+                  "_h": 27,
+                  "_dragStartX": 819.0909118652344,
+                  "_dragStartY": -140,
+                  "_dragged": false,
+                  "match": "ampla"
                 },
                 {
                   "name": "palavra-chave 3",
                   "suggestion": false,
                   "x": 819.0909118652344,
-                  "y": -109.09091186523438,
+                  "y": -110,
                   "collapsed": false,
                   "uid": "umswkp5yfe5xljn",
                   "id": "n6",
@@ -80,8 +88,12 @@
                     "palavra-chave 3"
                   ],
                   "_apoio": [],
-                  "_w": 109.7,
-                  "_h": 27
+                  "_w": 156.7,
+                  "_h": 27,
+                  "_dragStartX": 819.0909118652344,
+                  "_dragStartY": -110,
+                  "_dragged": false,
+                  "match": "frase"
                 }
               ],
               "uid": "umswkp5yf2qwjhk",
@@ -90,67 +102,31 @@
                 "Grupo de anúncios 1"
               ],
               "_apoio": [
-                "R$ 125,00/mês · 25,0%"
+                "R$ 125,00/mês · 12,5%"
               ],
               "_w": 149.5,
               "_h": 36,
               "_dragStartX": 539.0909118652344,
-              "_dragStartY": -139.09091186523438,
+              "_dragStartY": -140,
               "_dragged": false,
-              "budget": 125
-            },
-            {
-              "name": "Grupo de anúncios 2",
-              "suggestion": false,
-              "x": 539.0909118652344,
-              "y": -19.090911865234375,
-              "collapsed": false,
-              "children": [
-                {
-                  "name": "palavra-chave 1",
-                  "suggestion": false,
-                  "x": 819.0909118652344,
-                  "y": -34.090911865234375,
-                  "collapsed": false,
-                  "uid": "umswkp5yftep0r8",
-                  "id": "n8",
-                  "_lines": [
-                    "palavra-chave 1"
-                  ],
-                  "_apoio": [],
-                  "_w": 109.7,
-                  "_h": 27
-                },
-                {
-                  "name": "palavra-chave 2",
-                  "suggestion": false,
-                  "x": 819.0909118652344,
-                  "y": -4.090911865234375,
-                  "collapsed": false,
-                  "uid": "umswkp5yfq17u3n",
-                  "id": "n9",
-                  "_lines": [
-                    "palavra-chave 2"
-                  ],
-                  "_apoio": [],
-                  "_w": 109.7,
-                  "_h": 27
-                }
-              ],
-              "uid": "umswkp5yfvfz2hc",
-              "id": "n7",
-              "_lines": [
-                "Grupo de anúncios 2"
-              ],
-              "_apoio": [
-                "R$ 375,00/mês · 75,0%"
-              ],
-              "_w": 149.5,
-              "_h": 36,
-              "_dragStartX": 539.0909118652344,
-              "_dragStartY": -19.090911865234375,
-              "_dragged": false,
-              "budget": 375
+              "budget": 125,
+              "ads": {
+                "url": "teste.com.br",
+                "path1": "",
+                "path2": "",
+                "headlines": [
+                  "teste"
+                ],
+                "descriptions": [
+                  "teste"
+                ],
+                "headPins": [
+                  0
+                ],
+                "descPins": [
+                  0
+                ]
+              }
             }
           ],
           "uid": "umswkp5yfyvkp9o",
@@ -159,91 +135,14 @@
             "Teste 1"
           ],
           "_apoio": [
-            "R$ 500,00/mês · 50,0%"
+            "R$ 1.000,00/mês · 100,0%"
           ],
           "_w": 195,
           "_h": 51.375,
-          "_dragStartX": 260,
-          "_dragStartY": -80,
+          "_dragStartX": 259.0909118652344,
+          "_dragStartY": -79.09091186523438,
           "_dragged": false,
-          "budget": 500
-        },
-        {
-          "name": "Campanha 2",
-          "color": "#328596",
-          "suggestion": false,
-          "x": 259.0909118652344,
-          "y": 110,
-          "collapsed": false,
-          "children": [
-            {
-              "name": "Grupo de anúncios 1",
-              "suggestion": false,
-              "x": 539.0909118652344,
-              "y": 110,
-              "collapsed": false,
-              "children": [
-                {
-                  "name": "palavra-chave 1",
-                  "suggestion": false,
-                  "x": 819.0909118652344,
-                  "y": 95,
-                  "collapsed": false,
-                  "uid": "umswkp5yf2t4iln",
-                  "id": "n12",
-                  "_lines": [
-                    "palavra-chave 1"
-                  ],
-                  "_apoio": [],
-                  "_w": 109.7,
-                  "_h": 27
-                },
-                {
-                  "name": "palavra-chave 2",
-                  "suggestion": false,
-                  "x": 819.0909118652344,
-                  "y": 125,
-                  "collapsed": false,
-                  "uid": "umswkp5yfe1ea52",
-                  "id": "n13",
-                  "_lines": [
-                    "palavra-chave 2"
-                  ],
-                  "_apoio": [],
-                  "_w": 109.7,
-                  "_h": 27
-                }
-              ],
-              "uid": "umswkp5yfnh4wji",
-              "id": "n11",
-              "_lines": [
-                "Grupo de anúncios 1"
-              ],
-              "_apoio": [
-                "R$ 500,00/mês · 100,0%"
-              ],
-              "_w": 149.5,
-              "_h": 36,
-              "_dragStartX": 539.0909118652344,
-              "_dragStartY": 110,
-              "_dragged": false,
-              "budget": 500
-            }
-          ],
-          "uid": "umswkp5yfh5c43b",
-          "id": "n10",
-          "_lines": [
-            "Campanha 2"
-          ],
-          "_apoio": [
-            "R$ 500,00/mês · 50,0%"
-          ],
-          "_w": 195,
-          "_h": 51.375,
-          "_dragStartX": 260,
-          "_dragStartY": 110,
-          "_dragged": false,
-          "budget": 500
+          "budget": 1000
         }
       ],
       "uid": "umswkp5yfd8uj8o",
@@ -262,7 +161,16 @@
       "_dragStartX": 0,
       "_dragStartY": 0,
       "_dragged": false,
-      "budget": 1000
+      "budget": 1000,
+      "sharedAds": {
+        "url": "",
+        "path1": "",
+        "path2": "",
+        "headlines": [],
+        "descriptions": [],
+        "headPins": [],
+        "descPins": []
+      }
     },
     "meta": {
       "name": "Meta Ads",
