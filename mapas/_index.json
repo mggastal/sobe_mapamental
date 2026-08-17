@@ -30,6 +30,21 @@
           "verba": 1000
         }
       }
+    },
+    "teste---acesso-2": {
+      "nome": "teste - acesso 2",
+      "salvoPor": "Sobe",
+      "salvoEm": "2026-08-17T01:55:51.415Z",
+      "resumo": {
+        "google": {
+          "campanhas": 2,
+          "verba": 0
+        },
+        "meta": {
+          "campanhas": 2,
+          "verba": 0
+        }
+      }
     }
   }
 }
