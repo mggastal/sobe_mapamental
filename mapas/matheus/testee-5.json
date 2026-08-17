@@ -2,7 +2,7 @@
   "meta": {
     "nome": "testee 5",
     "salvoPor": "Matheus",
-    "salvoEm": "2026-08-17T03:06:43.971Z",
+    "salvoEm": "2026-08-17T03:09:34.510Z",
     "resumo": {
       "google": {
         "campanhas": 2,
@@ -90,7 +90,7 @@
                 "Grupo de anúncios 1"
               ],
               "_apoio": [
-                "R$ 375,00/mês · 50,0%"
+                "R$ 562,50/mês · 50,0%"
               ],
               "_w": 149.5,
               "_h": 36,
@@ -114,7 +114,7 @@
               "_dragStartX": 499.75,
               "_dragStartY": -129.625,
               "_dragged": false,
-              "budget": 375
+              "budget": 562.5
             },
             {
               "name": "Grupo de anúncios 2",
@@ -160,14 +160,14 @@
                 "Grupo de anúncios 2"
               ],
               "_apoio": [
-                "R$ 375,00/mês · 50,0%"
+                "R$ 562,50/mês · 50,0%"
               ],
               "_w": 149.5,
               "_h": 36,
               "_dragStartX": 499.75,
               "_dragStartY": -18.125,
               "_dragged": false,
-              "budget": 375
+              "budget": 562.5
             }
           ],
           "uid": "umswl0zhet08nkx",
@@ -176,14 +176,14 @@
             "Campanha 1"
           ],
           "_apoio": [
-            "R$ 750,00/mês · 50,0%"
+            "R$ 1.125,00/mês · 75,0%"
           ],
           "_w": 195,
           "_h": 51.375,
           "_dragStartX": 255.5,
           "_dragStartY": -73.875,
           "_dragged": false,
-          "budget": 750
+          "budget": 1125
         },
         {
           "name": "Campanha 2",
@@ -237,14 +237,14 @@
                 "Grupo de anúncios 1"
               ],
               "_apoio": [
-                "R$ 750,00/mês · 100,0%"
+                "R$ 375,00/mês · 100,0%"
               ],
               "_w": 149.5,
               "_h": 36,
               "_dragStartX": 499.75,
               "_dragStartY": 73.875,
               "_dragged": false,
-              "budget": 750
+              "budget": 375
             }
           ],
           "uid": "umswl0zhepy3cqf",
@@ -253,14 +253,14 @@
             "Campanha 2"
           ],
           "_apoio": [
-            "R$ 750,00/mês · 50,0%"
+            "R$ 375,00/mês · 25,0%"
           ],
           "_w": 195,
           "_h": 51.375,
           "_dragStartX": 255.5,
           "_dragStartY": 73.875,
           "_dragged": false,
-          "budget": 750
+          "budget": 375
         }
       ],
       "uid": "umswl0zhe37y384",
