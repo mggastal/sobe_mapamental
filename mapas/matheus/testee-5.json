@@ -2,7 +2,7 @@
   "meta": {
     "nome": "testee 5",
     "salvoPor": "Matheus",
-    "salvoEm": "2026-08-17T03:09:34.510Z",
+    "salvoEm": "2026-08-17T15:04:12.075Z",
     "resumo": {
       "google": {
         "campanhas": 2,
@@ -40,7 +40,7 @@
               "collapsed": false,
               "children": [
                 {
-                  "name": "palavra-chave 1",
+                  "name": "teste",
                   "suggestion": false,
                   "x": 701.35,
                   "y": -168.625,
@@ -48,11 +48,14 @@
                   "uid": "umswl0zhe1elqxc",
                   "id": "n4",
                   "_lines": [
-                    "palavra-chave 1"
+                    "teste"
                   ],
                   "_apoio": [],
-                  "_w": 109.7,
-                  "_h": 27
+                  "_w": 90,
+                  "_h": 27,
+                  "_dragStartX": 701.35,
+                  "_dragStartY": -168.625,
+                  "_dragged": false
                 },
                 {
                   "name": "palavra-chave 2",
