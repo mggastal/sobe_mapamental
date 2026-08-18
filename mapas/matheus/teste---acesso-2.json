@@ -2,7 +2,7 @@
   "meta": {
     "nome": "teste - acesso 2",
     "salvoPor": "Matheus",
-    "salvoEm": "2026-08-18T12:49:59.621Z",
+    "salvoEm": "2026-08-18T13:02:44.901Z",
     "resumo": {
       "google": {
         "campanhas": 2,
@@ -165,9 +165,9 @@
               ],
               "_w": 149.5,
               "_h": 36,
-              "_dragStartX": 499.75,
-              "_dragStartY": -18.125,
-              "_dragged": false,
+              "_dragStartX": 505.56451416015625,
+              "_dragStartY": -22.776630401611328,
+              "_dragged": true,
               "budget": 375
             }
           ],
