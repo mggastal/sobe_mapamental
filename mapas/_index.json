@@ -3,7 +3,7 @@
     "teste": {
       "nome": "Teste",
       "salvoPor": "Matheus",
-      "salvoEm": "2026-08-18T13:10:19.628Z",
+      "salvoEm": "2026-08-18T19:51:08.699Z",
       "resumo": {
         "google": {
           "campanhas": 2,
@@ -11,6 +11,10 @@
         },
         "meta": {
           "campanhas": 2,
+          "verba": 1000
+        },
+        "linkedin": {
+          "campanhas": 1,
           "verba": 1000
         }
       },
