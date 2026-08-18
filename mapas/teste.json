@@ -2,7 +2,7 @@
   "meta": {
     "nome": "Teste",
     "salvoPor": "Matheus",
-    "salvoEm": "2026-08-18T21:12:17.650Z",
+    "salvoEm": "2026-08-18T21:18:36.686Z",
     "resumo": {
       "google": {
         "campanhas": 2,
@@ -599,7 +599,7 @@
               "collapsed": false,
               "suggestion": false,
               "uid": "umsz5r1xo9q4si7",
-              "id": "n34",
+              "id": "n30",
               "_lines": [
                 "Região"
               ],
@@ -620,7 +620,7 @@
               "collapsed": false,
               "suggestion": false,
               "uid": "umsz5r1xojeks1c",
-              "id": "n35",
+              "id": "n31",
               "_lines": [
                 "Engajou com o perfil"
               ],
@@ -636,7 +636,7 @@
             }
           ],
           "uid": "umsz5r1xo5svuqk",
-          "id": "n33",
+          "id": "n29",
           "_lines": [
             "Alcance"
           ],
