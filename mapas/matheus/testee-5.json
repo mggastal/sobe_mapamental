@@ -2,7 +2,7 @@
   "meta": {
     "nome": "testee 5",
     "salvoPor": "Matheus",
-    "salvoEm": "2026-08-18T13:55:27.753Z",
+    "salvoEm": "2026-08-18T14:02:23.263Z",
     "resumo": {
       "google": {
         "campanhas": 2,
@@ -29,21 +29,21 @@
           "color": "#F17747",
           "suggestion": false,
           "x": 255.5,
-          "y": -73.875,
+          "y": -88.5,
           "collapsed": false,
           "children": [
             {
               "name": "Grupo de anúncios 1",
               "suggestion": false,
               "x": 499.75,
-              "y": -129.625,
+              "y": -173.5,
               "collapsed": false,
               "children": [
                 {
                   "name": "teste",
                   "suggestion": false,
                   "x": 691.5,
-                  "y": -168.625,
+                  "y": -271,
                   "collapsed": false,
                   "uid": "umswl0zhe1elqxc",
                   "id": "n4",
@@ -53,15 +53,15 @@
                   "_apoio": [],
                   "_w": 90,
                   "_h": 27,
-                  "_dragStartX": 449.0998779296875,
-                  "_dragStartY": -283.4485397338867,
+                  "_dragStartX": 691.5,
+                  "_dragStartY": -271,
                   "_dragged": true
                 },
                 {
                   "name": "palavra-chave 2",
                   "suggestion": false,
                   "x": 701.35,
-                  "y": -129.625,
+                  "y": -232,
                   "collapsed": false,
                   "uid": "umswl0zhexsvexw",
                   "id": "n5",
@@ -71,15 +71,15 @@
                   "_apoio": [],
                   "_w": 109.7,
                   "_h": 27,
-                  "_dragStartX": 490.68950805664065,
-                  "_dragStartY": -307.7371139526367,
+                  "_dragStartX": 701.35,
+                  "_dragStartY": -232,
                   "_dragged": true
                 },
                 {
                   "name": "palavra-chave 3",
                   "suggestion": false,
                   "x": 701.35,
-                  "y": -90.625,
+                  "y": -193,
                   "collapsed": false,
                   "uid": "umswl0zhetq325v",
                   "id": "n6",
@@ -88,7 +88,67 @@
                   ],
                   "_apoio": [],
                   "_w": 109.7,
-                  "_h": 27
+                  "_h": 27,
+                  "_dragStartX": 701.35,
+                  "_dragStartY": -193,
+                  "_dragged": true
+                },
+                {
+                  "name": "PALAVRA A",
+                  "suggestion": false,
+                  "x": 691.5,
+                  "y": -154,
+                  "children": [],
+                  "id": "n23",
+                  "collapsed": false,
+                  "_lines": [
+                    "PALAVRA A"
+                  ],
+                  "_apoio": [],
+                  "_w": 90,
+                  "_h": 27,
+                  "_dragStartX": 691.5,
+                  "_dragStartY": -154,
+                  "_dragged": true,
+                  "uid": "umsyqf5lk7ockfu"
+                },
+                {
+                  "name": "PALAVRA B",
+                  "suggestion": false,
+                  "x": 691.5,
+                  "y": -115,
+                  "children": [],
+                  "id": "n24",
+                  "collapsed": false,
+                  "_lines": [
+                    "PALAVRA B"
+                  ],
+                  "_apoio": [],
+                  "_w": 90,
+                  "_h": 27,
+                  "_dragStartX": 691.5,
+                  "_dragStartY": -115,
+                  "_dragged": true,
+                  "uid": "umsyqf5lkul0a6b"
+                },
+                {
+                  "name": "PALAVRA C",
+                  "suggestion": false,
+                  "x": 691.5,
+                  "y": -76,
+                  "children": [],
+                  "id": "n25",
+                  "collapsed": false,
+                  "_lines": [
+                    "PALAVRA C"
+                  ],
+                  "_apoio": [],
+                  "_w": 90,
+                  "_h": 27,
+                  "_dragStartX": 691.5,
+                  "_dragStartY": -76,
+                  "_dragged": true,
+                  "uid": "umsyqf5lkrh6txl"
                 }
               ],
               "uid": "umswl0zhe4hjwfx",
@@ -125,22 +185,23 @@
                 ]
               },
               "_dragStartX": 499.75,
-              "_dragStartY": -129.625,
-              "_dragged": true,
-              "budget": 562.5
+              "_dragStartY": -173.5,
+              "_dragged": false,
+              "budget": 562.5,
+              "fs": 10
             },
             {
               "name": "Grupo de anúncios 2",
               "suggestion": false,
               "x": 499.75,
-              "y": -18.125,
+              "y": -3.5,
               "collapsed": false,
               "children": [
                 {
                   "name": "palavra-chave 1",
                   "suggestion": false,
                   "x": 701.35,
-                  "y": -37.625,
+                  "y": -23,
                   "collapsed": false,
                   "uid": "umswl0zhewweqqc",
                   "id": "n8",
@@ -155,7 +216,7 @@
                   "name": "palavra-chave 2",
                   "suggestion": false,
                   "x": 701.35,
-                  "y": 1.375,
+                  "y": 16,
                   "collapsed": false,
                   "uid": "umswl0zhefgvwon",
                   "id": "n9",
@@ -220,21 +281,21 @@
           "color": "#328596",
           "suggestion": false,
           "x": 255.5,
-          "y": 73.875,
+          "y": 88.5,
           "collapsed": false,
           "children": [
             {
               "name": "Grupo de anúncios 1",
               "suggestion": false,
               "x": 499.75,
-              "y": 73.875,
+              "y": 88.5,
               "collapsed": false,
               "children": [
                 {
                   "name": "palavra-chave 1",
                   "suggestion": false,
                   "x": 701.35,
-                  "y": 54.375,
+                  "y": 69,
                   "collapsed": false,
                   "uid": "umswl0zheef1qit",
                   "id": "n12",
@@ -249,7 +310,7 @@
                   "name": "palavra-chave 2",
                   "suggestion": false,
                   "x": 701.35,
-                  "y": 93.375,
+                  "y": 108,
                   "collapsed": false,
                   "uid": "umswl0zhe2y2he0",
                   "id": "n13",
