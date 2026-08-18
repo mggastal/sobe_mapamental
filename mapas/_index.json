@@ -3,7 +3,7 @@
     "matheus/teste-2": {
       "nome": "Teste 2",
       "salvoPor": "Matheus",
-      "salvoEm": "2026-08-18T13:11:15.630Z",
+      "salvoEm": "2026-08-18T14:17:11.141Z",
       "resumo": {
         "google": {
           "campanhas": 1,
@@ -12,6 +12,10 @@
         "meta": {
           "campanhas": 2,
           "verba": 1000
+        },
+        "linkedin": {
+          "campanhas": 0,
+          "verba": 0
         }
       },
       "share": "5hapydq67zvkxy"
