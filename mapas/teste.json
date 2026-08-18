@@ -2,7 +2,7 @@
   "meta": {
     "nome": "Teste",
     "salvoPor": "Matheus",
-    "salvoEm": "2026-08-18T21:40:54.195Z",
+    "salvoEm": "2026-08-18T21:41:21.341Z",
     "resumo": {
       "google": {
         "campanhas": 2,
@@ -20,9 +20,9 @@
         "inativa": false
       },
       "tiktok": {
-        "campanhas": 1,
-        "verba": 500,
-        "inativa": false
+        "campanhas": 0,
+        "verba": 0,
+        "inativa": true
       }
     },
     "share": "vj6zn9r6t67cnx"
@@ -687,7 +687,8 @@
       "_dragStartX": -0.909088134765625,
       "_dragStartY": 0,
       "_dragged": false,
-      "budget": 500
+      "budget": 500,
+      "inativa": true
     },
     "cliente": "teste - acesso 2"
   }
