@@ -27,6 +27,33 @@
         }
       },
       "share": "vj6zn9r6t67cnx"
+    },
+    "microkids/microkids---setembro-a-dezembro": {
+      "nome": "[Microkids] - Setembro a Dezembro",
+      "salvoPor": "Matheus",
+      "salvoEm": "2026-08-18T21:55:58.453Z",
+      "resumo": {
+        "google": {
+          "campanhas": 2,
+          "verba": 0,
+          "inativa": false
+        },
+        "meta": {
+          "campanhas": 2,
+          "verba": 0,
+          "inativa": false
+        },
+        "linkedin": {
+          "campanhas": 0,
+          "verba": 0,
+          "inativa": true
+        },
+        "tiktok": {
+          "campanhas": 0,
+          "verba": 0,
+          "inativa": true
+        }
+      }
     }
   },
   "pastas": {
