@@ -2,7 +2,7 @@
   "meta": {
     "nome": "Teste",
     "salvoPor": "Matheus",
-    "salvoEm": "2026-08-18T21:12:09.923Z",
+    "salvoEm": "2026-08-18T21:12:17.650Z",
     "resumo": {
       "google": {
         "campanhas": 2,
@@ -195,7 +195,7 @@
           "color": "#C9962C",
           "suggestion": false,
           "x": 255.5,
-          "y": 74.78409576416016,
+          "y": 73.875,
           "collapsed": false,
           "children": [
             {
@@ -307,14 +307,14 @@
         {
           "name": "Conversão",
           "color": "#1B2F6A",
-          "x": 254.59091186523438,
+          "x": 255.5,
           "y": -93,
           "collapsed": false,
           "suggestion": false,
           "children": [
             {
               "name": "Remarketing — site 30d",
-              "x": 508.5909118652344,
+              "x": 509.5,
               "y": -186,
               "collapsed": false,
               "suggestion": false,
@@ -329,7 +329,7 @@
             },
             {
               "name": "Lookalike 1% — compradores",
-              "x": 521.5909118652344,
+              "x": 522.5,
               "y": -124,
               "collapsed": false,
               "suggestion": false,
@@ -344,7 +344,7 @@
             },
             {
               "name": "Interesses",
-              "x": 469.5909118652344,
+              "x": 470.5,
               "y": -62,
               "collapsed": false,
               "suggestion": false,
@@ -359,7 +359,7 @@
             },
             {
               "name": "Advantage+ (aberto)",
-              "x": 498.8409118652344,
+              "x": 499.75,
               "y": 0,
               "collapsed": false,
               "suggestion": false,
@@ -472,15 +472,15 @@
         {
           "name": "Geração de leads",
           "color": "#0A66C2",
-          "x": 260.9090881347656,
-          "y": -120,
+          "x": 255.5,
+          "y": 0,
           "collapsed": false,
           "suggestion": false,
           "children": [
             {
               "name": "Cargo + setor",
-              "x": 540.9090881347656,
-              "y": -190,
+              "x": 480.25,
+              "y": -78,
               "collapsed": false,
               "suggestion": false,
               "uid": "umsz2v02xo86clv",
@@ -500,8 +500,8 @@
             },
             {
               "name": "Empresas-alvo (ABM)",
-              "x": 540.9090881347656,
-              "y": -130,
+              "x": 499.75,
+              "y": 0,
               "collapsed": false,
               "suggestion": false,
               "uid": "umsz2v02xt397ye",
@@ -521,8 +521,8 @@
             },
             {
               "name": "Lookalike de clientes",
-              "x": 540.9090881347656,
-              "y": -70,
+              "x": 506.25,
+              "y": 78,
               "collapsed": false,
               "suggestion": false,
               "uid": "umsz2v02xh8h20q",
@@ -587,15 +587,15 @@
         {
           "name": "Alcance",
           "color": "#328596",
-          "x": 281.8181610107422,
-          "y": -20.909095644950867,
+          "x": 255.5,
+          "y": 0,
           "collapsed": false,
           "suggestion": false,
           "children": [
             {
               "name": "Região",
-              "x": 561.8181610107422,
-              "y": -50.90909564495087,
+              "x": 470,
+              "y": -39,
               "collapsed": false,
               "suggestion": false,
               "uid": "umsz5r1xo9q4si7",
@@ -615,8 +615,8 @@
             },
             {
               "name": "Engajou com o perfil",
-              "x": 561.8181610107422,
-              "y": 9.090904355049133,
+              "x": 503,
+              "y": 39,
               "collapsed": false,
               "suggestion": false,
               "uid": "umsz5r1xojeks1c",
