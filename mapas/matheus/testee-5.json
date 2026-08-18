@@ -2,7 +2,7 @@
   "meta": {
     "nome": "testee 5",
     "salvoPor": "Matheus",
-    "salvoEm": "2026-08-17T15:05:24.080Z",
+    "salvoEm": "2026-08-18T13:55:27.753Z",
     "resumo": {
       "google": {
         "campanhas": 2,
@@ -26,7 +26,7 @@
       "children": [
         {
           "name": "Campanha 1",
-          "color": "#1B2F6A",
+          "color": "#F17747",
           "suggestion": false,
           "x": 255.5,
           "y": -73.875,
@@ -42,7 +42,7 @@
                 {
                   "name": "teste",
                   "suggestion": false,
-                  "x": 701.35,
+                  "x": 691.5,
                   "y": -168.625,
                   "collapsed": false,
                   "uid": "umswl0zhe1elqxc",
@@ -53,9 +53,9 @@
                   "_apoio": [],
                   "_w": 90,
                   "_h": 27,
-                  "_dragStartX": 701.35,
-                  "_dragStartY": -168.625,
-                  "_dragged": false
+                  "_dragStartX": 449.0998779296875,
+                  "_dragStartY": -283.4485397338867,
+                  "_dragged": true
                 },
                 {
                   "name": "palavra-chave 2",
@@ -70,7 +70,10 @@
                   ],
                   "_apoio": [],
                   "_w": 109.7,
-                  "_h": 27
+                  "_h": 27,
+                  "_dragStartX": 490.68950805664065,
+                  "_dragStartY": -307.7371139526367,
+                  "_dragged": true
                 },
                 {
                   "name": "palavra-chave 3",
@@ -103,21 +106,27 @@
                 "path1": "",
                 "path2": "",
                 "headlines": [
-                  ""
+                  "teste",
+                  "teste3",
+                  "teste 2 "
                 ],
                 "descriptions": [
-                  ""
+                  "asd asdas d asd as",
+                  "asd asd "
                 ],
                 "headPins": [
+                  0,
+                  0,
                   0
                 ],
                 "descPins": [
+                  0,
                   0
                 ]
               },
               "_dragStartX": 499.75,
               "_dragStartY": -129.625,
-              "_dragged": false,
+              "_dragged": true,
               "budget": 562.5
             },
             {
@@ -170,8 +179,25 @@
               "_h": 36,
               "_dragStartX": 499.75,
               "_dragStartY": -18.125,
-              "_dragged": false,
-              "budget": 562.5
+              "_dragged": true,
+              "budget": 562.5,
+              "ads": {
+                "url": "",
+                "path1": "",
+                "path2": "",
+                "headlines": [
+                  ""
+                ],
+                "descriptions": [
+                  ""
+                ],
+                "headPins": [
+                  0
+                ],
+                "descPins": [
+                  0
+                ]
+              }
             }
           ],
           "uid": "umswl0zhet08nkx",
@@ -287,12 +313,17 @@
         "url": "",
         "path1": "",
         "path2": "",
-        "headlines": [],
+        "headlines": [
+          "Teste 5"
+        ],
         "descriptions": [],
-        "headPins": [],
+        "headPins": [
+          0
+        ],
         "descPins": []
       },
-      "budget": 1500
+      "budget": 1500,
+      "linkStyle": "curve"
     },
     "meta": {
       "name": "Meta Ads",
@@ -381,7 +412,7 @@
           ],
           "_w": 195,
           "_h": 51.375,
-          "_dragStartX": 255.5,
+          "_dragStartX": 254.59091186523438,
           "_dragStartY": -93,
           "_dragged": false,
           "budget": 500
