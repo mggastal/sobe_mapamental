@@ -2,7 +2,7 @@
   "meta": {
     "nome": "Teste",
     "salvoPor": "Matheus",
-    "salvoEm": "2026-08-18T21:26:28.604Z",
+    "salvoEm": "2026-08-18T21:32:46.569Z",
     "resumo": {
       "google": {
         "campanhas": 2,
@@ -281,7 +281,7 @@
         "Campanhas"
       ],
       "_w": 172,
-      "_h": 89.625,
+      "_h": 95.625,
       "tracos": [],
       "notas": [],
       "_dragStartX": 0,
@@ -297,7 +297,17 @@
         "descPins": []
       },
       "budget": 1500,
-      "color": "#C9962C"
+      "color": "#C9962C",
+      "negativas": [
+        "grátis",
+        "gratuito",
+        "24 horas",
+        "24",
+        "teste",
+        "curso",
+        "gratis",
+        "24 hrs"
+      ]
     },
     "meta": {
       "name": "Meta Ads",
@@ -456,7 +466,7 @@
         "Campanhas e públicos"
       ],
       "_w": 172,
-      "_h": 89.625,
+      "_h": 95.625,
       "tracos": [],
       "notas": [],
       "_dragStartX": 0,
@@ -571,7 +581,7 @@
         "Campanhas e públicos"
       ],
       "_w": 172,
-      "_h": 89.625,
+      "_h": 95.625,
       "tracos": [],
       "notas": [],
       "_dragStartX": 0,
@@ -666,7 +676,7 @@
         "Campanhas e públicos"
       ],
       "_w": 172,
-      "_h": 89.625,
+      "_h": 95.625,
       "tracos": [],
       "notas": [],
       "_dragStartX": 0,
