@@ -2,7 +2,7 @@
   "meta": {
     "nome": "Teste",
     "salvoPor": "Matheus",
-    "salvoEm": "2026-08-18T21:50:13.746Z",
+    "salvoEm": "2026-08-18T21:51:22.919Z",
     "resumo": {
       "google": {
         "campanhas": 2,
@@ -15,14 +15,14 @@
         "inativa": false
       },
       "linkedin": {
-        "campanhas": 0,
-        "verba": 0,
-        "inativa": true
+        "campanhas": 1,
+        "verba": 1000,
+        "inativa": false
       },
       "tiktok": {
-        "campanhas": 0,
-        "verba": 0,
-        "inativa": true
+        "campanhas": 1,
+        "verba": 500,
+        "inativa": false
       }
     },
     "share": "vj6zn9r6t67cnx"
@@ -286,7 +286,7 @@
         "Campanhas"
       ],
       "_w": 172,
-      "_h": 63.625,
+      "_h": 95.625,
       "tracos": [],
       "notas": [],
       "_dragStartX": 0,
@@ -593,8 +593,7 @@
       "_dragStartY": 0,
       "_dragged": false,
       "budget": 1000,
-      "color": "#1B2F6A",
-      "inativa": true
+      "color": "#1B2F6A"
     },
     "tiktok": {
       "name": "TikTok Ads",
@@ -688,8 +687,7 @@
       "_dragStartX": -0.909088134765625,
       "_dragStartY": 0,
       "_dragged": false,
-      "budget": 500,
-      "inativa": true
+      "budget": 500
     },
     "cliente": "teste - acesso 2"
   }
