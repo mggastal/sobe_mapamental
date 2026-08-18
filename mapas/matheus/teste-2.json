@@ -2,7 +2,7 @@
   "meta": {
     "nome": "Teste 2",
     "salvoPor": "Matheus",
-    "salvoEm": "2026-08-17T01:50:46.900Z",
+    "salvoEm": "2026-08-18T13:11:15.630Z",
     "resumo": {
       "google": {
         "campanhas": 1,
@@ -103,14 +103,14 @@
                 "Grupo de anúncios 1"
               ],
               "_apoio": [
-                "R$ 125,00/mês · 12,5%"
+                "R$ 1.000,00/mês · 100,0%"
               ],
               "_w": 149.5,
               "_h": 36,
               "_dragStartX": 539.0909118652344,
               "_dragStartY": -140,
               "_dragged": false,
-              "budget": 125,
+              "budget": 1000,
               "ads": {
                 "url": "teste.com.br",
                 "path1": "",
@@ -196,7 +196,7 @@
               "collapsed": false,
               "suggestion": false,
               "uid": "umswkp5yfptz1da",
-              "id": "n16",
+              "id": "n9",
               "_lines": [
                 "Remarketing — site 30d"
               ],
@@ -217,7 +217,7 @@
               "collapsed": false,
               "suggestion": false,
               "uid": "umswkp5yf18z7hr",
-              "id": "n17",
+              "id": "n10",
               "_lines": [
                 "Lookalike 1% — compradores"
               ],
@@ -238,7 +238,7 @@
               "collapsed": false,
               "suggestion": false,
               "uid": "umswkp5yf4fq747",
-              "id": "n18",
+              "id": "n11",
               "_lines": [
                 "Interesses"
               ],
@@ -259,7 +259,7 @@
               "collapsed": false,
               "suggestion": false,
               "uid": "umswkp5yfhzxus6",
-              "id": "n19",
+              "id": "n12",
               "_lines": [
                 "Advantage+ (aberto)"
               ],
@@ -275,7 +275,7 @@
             }
           ],
           "uid": "umswkp5yffyrvgg",
-          "id": "n15",
+          "id": "n8",
           "_lines": [
             "Conversão"
           ],
@@ -304,7 +304,7 @@
               "collapsed": false,
               "suggestion": false,
               "uid": "umswkp5yf5l95nm",
-              "id": "n21",
+              "id": "n14",
               "_lines": [
                 "Ampla — região"
               ],
@@ -325,7 +325,7 @@
               "collapsed": false,
               "suggestion": false,
               "uid": "umswkp5yfeg9vcw",
-              "id": "n22",
+              "id": "n15",
               "_lines": [
                 "Interesses amplos"
               ],
@@ -341,7 +341,7 @@
             }
           ],
           "uid": "umswkp5yf2zcb5v",
-          "id": "n20",
+          "id": "n13",
           "_lines": [
             "Reconhecimento"
           ],
@@ -357,7 +357,7 @@
         }
       ],
       "uid": "umswkp5yfqkfs5v",
-      "id": "n14",
+      "id": "n7",
       "_lines": [
         "Meta Ads"
       ],
