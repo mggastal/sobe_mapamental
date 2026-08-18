@@ -2,7 +2,7 @@
   "meta": {
     "nome": "Teste 2",
     "salvoPor": "Matheus",
-    "salvoEm": "2026-08-18T13:11:15.630Z",
+    "salvoEm": "2026-08-18T14:17:11.141Z",
     "resumo": {
       "google": {
         "campanhas": 1,
@@ -11,6 +11,10 @@
       "meta": {
         "campanhas": 2,
         "verba": 1000
+      },
+      "linkedin": {
+        "campanhas": 0,
+        "verba": 0
       }
     },
     "share": "5hapydq67zvkxy"
@@ -25,7 +29,7 @@
       "collapsed": false,
       "children": [
         {
-          "name": "Teste 1",
+          "name": "Teste 12",
           "color": "#1B2F6A",
           "suggestion": false,
           "x": 259.0909118652344,
@@ -133,7 +137,7 @@
           "uid": "umswkp5yfyvkp9o",
           "id": "n2",
           "_lines": [
-            "Teste 1"
+            "Teste 12"
           ],
           "_apoio": [
             "R$ 1.000,00/mês · 100,0%"
@@ -141,7 +145,7 @@
           "_w": 195,
           "_h": 51.375,
           "_dragStartX": 259.0909118652344,
-          "_dragStartY": -79.09091186523438,
+          "_dragStartY": -80,
           "_dragged": false,
           "budget": 1000
         }
