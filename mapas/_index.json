@@ -3,7 +3,7 @@
     "teste": {
       "nome": "Teste",
       "salvoPor": "Matheus",
-      "salvoEm": "2026-08-18T21:50:13.746Z",
+      "salvoEm": "2026-08-18T21:51:22.919Z",
       "resumo": {
         "google": {
           "campanhas": 2,
@@ -16,14 +16,14 @@
           "inativa": false
         },
         "linkedin": {
-          "campanhas": 0,
-          "verba": 0,
-          "inativa": true
+          "campanhas": 1,
+          "verba": 1000,
+          "inativa": false
         },
         "tiktok": {
-          "campanhas": 0,
-          "verba": 0,
-          "inativa": true
+          "campanhas": 1,
+          "verba": 500,
+          "inativa": false
         }
       },
       "share": "vj6zn9r6t67cnx"
