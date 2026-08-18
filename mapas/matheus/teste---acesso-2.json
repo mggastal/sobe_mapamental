@@ -2,7 +2,7 @@
   "meta": {
     "nome": "teste - acesso 2",
     "salvoPor": "Matheus",
-    "salvoEm": "2026-08-17T02:53:53.403Z",
+    "salvoEm": "2026-08-18T12:49:59.621Z",
     "resumo": {
       "google": {
         "campanhas": 2,
@@ -33,7 +33,7 @@
           "collapsed": false,
           "children": [
             {
-              "name": "Grupo de anúncios 1",
+              "name": "Grupo de anúncios 2",
               "suggestion": false,
               "x": 499.75,
               "y": -129.625,
@@ -88,7 +88,7 @@
               "uid": "umswl0zhe4hjwfx",
               "id": "n3",
               "_lines": [
-                "Grupo de anúncios 1"
+                "Grupo de anúncios 2"
               ],
               "_apoio": [
                 "R$ 375,00/mês · 50,0%"
