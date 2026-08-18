@@ -2,7 +2,7 @@
   "meta": {
     "nome": "Teste",
     "salvoPor": "Matheus",
-    "salvoEm": "2026-08-18T21:11:57.598Z",
+    "salvoEm": "2026-08-18T21:12:04.801Z",
     "resumo": {
       "google": {
         "campanhas": 2,
@@ -603,9 +603,15 @@
               "_lines": [
                 "Região"
               ],
-              "_apoio": [],
+              "_apoio": [
+                "R$ 250,00/mês · 50,0%"
+              ],
               "_w": 90,
-              "_h": 36
+              "_h": 36,
+              "_dragStartX": 558.1817932128906,
+              "_dragStartY": -63.63636779785156,
+              "_dragged": false,
+              "budget": 250
             },
             {
               "name": "Engajou com o perfil",
@@ -618,9 +624,15 @@
               "_lines": [
                 "Engajou com o perfil"
               ],
-              "_apoio": [],
+              "_apoio": [
+                "R$ 250,00/mês · 50,0%"
+              ],
               "_w": 156,
-              "_h": 36
+              "_h": 36,
+              "_dragStartX": 558.1817932128906,
+              "_dragStartY": -3.6363677978515625,
+              "_dragged": false,
+              "budget": 250
             }
           ],
           "uid": "umsz5r1xo5svuqk",
