@@ -1,20 +1,3 @@
 {
-  "projetos": {
-    "matheus/teste---acesso-2": {
-      "nome": "teste - acesso 2",
-      "salvoPor": "Matheus",
-      "salvoEm": "2026-08-18T13:10:19.628Z",
-      "resumo": {
-        "google": {
-          "campanhas": 2,
-          "verba": 1500
-        },
-        "meta": {
-          "campanhas": 2,
-          "verba": 1000
-        }
-      },
-      "share": "vj6zn9r6t67cnx"
-    }
-  }
+  "projetos": {}
 }
