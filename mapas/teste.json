@@ -2,7 +2,7 @@
   "meta": {
     "nome": "Teste",
     "salvoPor": "Matheus",
-    "salvoEm": "2026-08-18T21:12:04.801Z",
+    "salvoEm": "2026-08-18T21:12:09.923Z",
     "resumo": {
       "google": {
         "campanhas": 2,
@@ -587,15 +587,15 @@
         {
           "name": "Alcance",
           "color": "#328596",
-          "x": 278.1817932128906,
-          "y": -33.63636779785156,
+          "x": 281.8181610107422,
+          "y": -20.909095644950867,
           "collapsed": false,
           "suggestion": false,
           "children": [
             {
               "name": "Região",
-              "x": 558.1817932128906,
-              "y": -63.63636779785156,
+              "x": 561.8181610107422,
+              "y": -50.90909564495087,
               "collapsed": false,
               "suggestion": false,
               "uid": "umsz5r1xo9q4si7",
@@ -615,8 +615,8 @@
             },
             {
               "name": "Engajou com o perfil",
-              "x": 558.1817932128906,
-              "y": -3.6363677978515625,
+              "x": 561.8181610107422,
+              "y": 9.090904355049133,
               "collapsed": false,
               "suggestion": false,
               "uid": "umsz5r1xojeks1c",
@@ -645,8 +645,8 @@
           ],
           "_w": 195,
           "_h": 51.375,
-          "_dragStartX": 260,
-          "_dragStartY": 140,
+          "_dragStartX": 278.1817932128906,
+          "_dragStartY": -33.63636779785156,
           "_dragged": true,
           "budget": 500
         }
