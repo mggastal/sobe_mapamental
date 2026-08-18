@@ -2,7 +2,7 @@
   "meta": {
     "nome": "Teste",
     "salvoPor": "Matheus",
-    "salvoEm": "2026-08-18T21:18:36.686Z",
+    "salvoEm": "2026-08-18T21:22:14.066Z",
     "resumo": {
       "google": {
         "campanhas": 2,
@@ -278,7 +278,7 @@
         "Campanhas"
       ],
       "_w": 172,
-      "_h": 63.625,
+      "_h": 89.625,
       "tracos": [],
       "notas": [],
       "_dragStartX": 0,
@@ -294,7 +294,7 @@
         "descPins": []
       },
       "budget": 1500,
-      "color": "#2E9E6B"
+      "color": "#C9962C"
     },
     "meta": {
       "name": "Meta Ads",
@@ -453,19 +453,20 @@
         "Campanhas e públicos"
       ],
       "_w": 172,
-      "_h": 63.625,
+      "_h": 89.625,
       "tracos": [],
       "notas": [],
       "_dragStartX": 0,
       "_dragStartY": 0,
       "_dragged": false,
-      "budget": 1000
+      "budget": 1000,
+      "color": "#3B82C4"
     },
     "linkedin": {
       "name": "LinkedIn Ads",
       "note": "Campanhas e públicos",
       "x": 0,
-      "y": 0,
+      "y": -0.9090909957885742,
       "collapsed": false,
       "suggestion": false,
       "children": [
@@ -473,14 +474,14 @@
           "name": "Geração de leads",
           "color": "#0A66C2",
           "x": 255.5,
-          "y": 0,
+          "y": -0.9090909957885742,
           "collapsed": false,
           "suggestion": false,
           "children": [
             {
               "name": "Cargo + setor",
               "x": 480.25,
-              "y": -78,
+              "y": -78.90909099578857,
               "collapsed": false,
               "suggestion": false,
               "uid": "umsz2v02xo86clv",
@@ -501,7 +502,7 @@
             {
               "name": "Empresas-alvo (ABM)",
               "x": 499.75,
-              "y": 0,
+              "y": -0.9090909957885742,
               "collapsed": false,
               "suggestion": false,
               "uid": "umsz2v02xt397ye",
@@ -522,7 +523,7 @@
             {
               "name": "Lookalike de clientes",
               "x": 506.25,
-              "y": 78,
+              "y": 77.09090900421143,
               "collapsed": false,
               "suggestion": false,
               "uid": "umsz2v02xh8h20q",
@@ -567,13 +568,14 @@
         "Campanhas e públicos"
       ],
       "_w": 172,
-      "_h": 63.625,
+      "_h": 89.625,
       "tracos": [],
       "notas": [],
       "_dragStartX": 0,
       "_dragStartY": 0,
       "_dragged": false,
-      "budget": 1000
+      "budget": 1000,
+      "color": "#1B2F6A"
     },
     "tiktok": {
       "name": "TikTok Ads",
@@ -661,7 +663,7 @@
         "Campanhas e públicos"
       ],
       "_w": 172,
-      "_h": 63.625,
+      "_h": 89.625,
       "tracos": [],
       "notas": [],
       "_dragStartX": 0,
