@@ -2,7 +2,7 @@
   "meta": {
     "nome": "Teste",
     "salvoPor": "Matheus",
-    "salvoEm": "2026-08-18T21:32:46.569Z",
+    "salvoEm": "2026-08-18T21:35:56.493Z",
     "resumo": {
       "google": {
         "campanhas": 2,
@@ -594,7 +594,7 @@
       "name": "TikTok Ads",
       "note": "Campanhas e públicos",
       "color": "#111111",
-      "x": 0,
+      "x": -0.909088134765625,
       "y": 0,
       "collapsed": false,
       "suggestion": false,
@@ -602,15 +602,15 @@
         {
           "name": "Alcance",
           "color": "#328596",
-          "x": 255.5,
-          "y": 0,
+          "x": 282.7727355957031,
+          "y": 3.6363643407821655,
           "collapsed": false,
           "suggestion": false,
           "children": [
             {
               "name": "Região",
-              "x": 470,
-              "y": -39,
+              "x": 497.2727355957031,
+              "y": -35.363635659217834,
               "collapsed": false,
               "suggestion": false,
               "uid": "umsz5r1xo9q4si7",
@@ -623,15 +623,15 @@
               ],
               "_w": 90,
               "_h": 36,
-              "_dragStartX": 558.1817932128906,
-              "_dragStartY": -63.63636779785156,
+              "_dragStartX": 470,
+              "_dragStartY": -39,
               "_dragged": false,
               "budget": 250
             },
             {
               "name": "Engajou com o perfil",
-              "x": 503,
-              "y": 39,
+              "x": 530.2727355957031,
+              "y": 42.636364340782166,
               "collapsed": false,
               "suggestion": false,
               "uid": "umsz5r1xojeks1c",
@@ -660,8 +660,8 @@
           ],
           "_w": 195,
           "_h": 51.375,
-          "_dragStartX": 278.1817932128906,
-          "_dragStartY": -33.63636779785156,
+          "_dragStartX": 278.22727966308594,
+          "_dragStartY": -17.27272665500641,
           "_dragged": true,
           "budget": 500
         }
@@ -679,7 +679,7 @@
       "_h": 95.625,
       "tracos": [],
       "notas": [],
-      "_dragStartX": 0,
+      "_dragStartX": -0.909088134765625,
       "_dragStartY": 0,
       "_dragged": false,
       "budget": 500
