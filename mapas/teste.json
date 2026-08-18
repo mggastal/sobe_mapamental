@@ -2,19 +2,22 @@
   "meta": {
     "nome": "Teste",
     "salvoPor": "Matheus",
-    "salvoEm": "2026-08-18T21:22:14.066Z",
+    "salvoEm": "2026-08-18T21:26:28.604Z",
     "resumo": {
       "google": {
         "campanhas": 2,
-        "verba": 1500
+        "verba": 1500,
+        "inativa": false
       },
       "meta": {
         "campanhas": 2,
-        "verba": 1000
+        "verba": 1000,
+        "inativa": false
       },
       "linkedin": {
         "campanhas": 1,
-        "verba": 1000
+        "verba": 1000,
+        "inativa": false
       }
     },
     "share": "vj6zn9r6t67cnx"
