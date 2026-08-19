@@ -2,7 +2,7 @@
   "meta": {
     "nome": "[Microkids] - Setembro a Dezembro",
     "salvoPor": "Matheus",
-    "salvoEm": "2026-08-19T03:13:35.047Z",
+    "salvoEm": "2026-08-19T03:17:34.137Z",
     "resumo": {
       "google": {
         "campanhas": 3,
@@ -38,17 +38,17 @@
       "children": [
         {
           "name": "Campanha de Display",
-          "color": "#1B2F6A",
+          "color": "#2E9E6B",
           "suggestion": false,
           "x": 259.40618896484375,
-          "y": -153.5,
+          "y": -152.59091186523438,
           "collapsed": false,
           "children": [
             {
               "name": "Visitantes do site",
               "suggestion": false,
               "x": 504.3123779296875,
-              "y": -153.5,
+              "y": -152.59091186523438,
               "collapsed": false,
               "children": [],
               "uid": "umsz7c723wgk6o1",
@@ -87,14 +87,14 @@
           "_dragStartY": -153.5,
           "_dragged": false,
           "_rawX": 259.40618896484375,
-          "_rawY": -153.5,
+          "_rawY": -152.59091186523438,
           "_candidatos": null,
           "budget": 600,
           "tipo": "display"
         },
         {
           "name": "Search",
-          "color": "#328596",
+          "color": "#C9962C",
           "suggestion": false,
           "x": 259.40618896484375,
           "y": 0,
@@ -259,10 +259,10 @@
           "_w": 195,
           "_h": 51.375,
           "_dragStartX": 259.40618896484375,
-          "_dragStartY": -1.5,
-          "_dragged": true,
+          "_dragStartY": 0,
+          "_dragged": false,
           "_rawX": 259.40618896484375,
-          "_rawY": 3.045454263687134,
+          "_rawY": 0,
           "_candidatos": null,
           "budget": 1000
         },
@@ -338,10 +338,10 @@
           "_w": 202.8123779296875,
           "_h": 51.375,
           "_dragStartX": 259.40618896484375,
-          "_dragStartY": 144.5,
+          "_dragStartY": 153.5,
           "_dragged": false,
           "_rawX": 259.40618896484375,
-          "_rawY": 144.5,
+          "_rawY": 153.5,
           "_candidatos": null,
           "_w0": 195,
           "_resized": true,
@@ -350,7 +350,8 @@
           "budget": 1400,
           "uid": "umszhck8eojk7qz",
           "tipo": "video",
-          "note": ""
+          "note": "",
+          "color": "#D14026"
         }
       ],
       "uid": "umsz7c723tzfx54",
@@ -941,7 +942,7 @@
     "relatorio": {
       "rotulos": true,
       "gradiente": true,
-      "coloridos": true
+      "coloridos": false
     }
   }
 }
