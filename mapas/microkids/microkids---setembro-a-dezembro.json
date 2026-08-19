@@ -2,7 +2,7 @@
   "meta": {
     "nome": "[Microkids] - Setembro a Dezembro",
     "salvoPor": "Matheus",
-    "salvoEm": "2026-08-19T03:18:32.368Z",
+    "salvoEm": "2026-08-19T03:20:33.461Z",
     "resumo": {
       "google": {
         "campanhas": 3,
@@ -397,20 +397,20 @@
           "name": "Webnario",
           "color": "#3B82C4",
           "x": 256.4090909957886,
-          "y": -116.375,
+          "y": -194,
           "collapsed": false,
           "suggestion": false,
           "children": [
             {
-              "name": "Preencher",
+              "name": "Look a like",
               "x": 516.5741758346558,
-              "y": -116.375,
+              "y": -256,
               "collapsed": false,
               "suggestion": false,
               "uid": "umsz7c723vjq3nu",
               "id": "n15",
               "_lines": [
-                "Preencher"
+                "Look a like"
               ],
               "_apoio": [],
               "_w": 181.33016967773438,
@@ -424,6 +424,38 @@
               "_rawX": 516.5741758346558,
               "_rawY": -116.375,
               "_candidatos": null
+            },
+            {
+              "name": "remarketing",
+              "suggestion": false,
+              "x": 474.6590909957886,
+              "y": -194,
+              "children": [],
+              "id": "n38",
+              "collapsed": false,
+              "_lines": [
+                "remarketing"
+              ],
+              "_apoio": [],
+              "_w": 97.5,
+              "_h": 36,
+              "uid": "umszixlwhsw6xz2"
+            },
+            {
+              "name": "interesses",
+              "suggestion": false,
+              "x": 471.4090909957886,
+              "y": -132,
+              "children": [],
+              "id": "n39",
+              "collapsed": false,
+              "_lines": [
+                "interesses"
+              ],
+              "_apoio": [],
+              "_w": 91,
+              "_h": 36,
+              "uid": "umszixlwhf5q8vx"
             }
           ],
           "uid": "umsz7c72300loug",
@@ -453,29 +485,36 @@
           "suggestion": false,
           "children": [
             {
-              "name": "Preencher",
-              "x": 516.5741758346558,
-              "y": -39,
-              "collapsed": false,
+              "name": "interesses",
               "suggestion": false,
-              "uid": "umsz7c7236kc1f6",
-              "id": "n17",
+              "x": 471.4090909957886,
+              "y": -70,
+              "children": [],
+              "id": "n40",
+              "collapsed": false,
               "_lines": [
-                "Preencher"
+                "interesses"
               ],
               "_apoio": [],
-              "_w": 181.33016967773438,
+              "_w": 91,
               "_h": 36,
-              "_dragStartX": 470.9090909957886,
-              "_dragStartY": 0,
-              "_dragged": true,
-              "_rawX": 476.36365032196045,
-              "_rawY": -2.727272719144821,
-              "_candidatos": null,
-              "_w0": 90,
-              "_resized": true,
-              "_resto": 0,
-              "width": 181.33016967773438
+              "uid": "umszixlwh0kmefd"
+            },
+            {
+              "name": "cargos",
+              "suggestion": false,
+              "x": 470.9090909957886,
+              "y": -8,
+              "children": [],
+              "id": "n41",
+              "collapsed": false,
+              "_lines": [
+                "cargos"
+              ],
+              "_apoio": [],
+              "_w": 90,
+              "_h": 36,
+              "uid": "umszixlwh8g18oz"
             }
           ],
           "uid": "umsz7c723vpl48r",
@@ -489,10 +528,10 @@
           "_w": 195,
           "_h": 51.375,
           "_dragStartX": 256.4090909957886,
-          "_dragStartY": 0,
+          "_dragStartY": -39,
           "_dragged": false,
           "_rawX": 256.4090909957886,
-          "_rawY": 0,
+          "_rawY": -39,
           "_candidatos": null,
           "budget": 1000
         },
@@ -500,13 +539,13 @@
           "name": "Eventos",
           "suggestion": false,
           "x": 256.4090909957886,
-          "y": 38.375,
+          "y": 54,
           "children": [
             {
               "name": "Geolocalizada",
               "suggestion": false,
               "x": 516.5741758346558,
-              "y": 38.375,
+              "y": 54,
               "children": [],
               "id": "n19",
               "collapsed": false,
@@ -556,33 +595,55 @@
           "name": "Circuitos",
           "suggestion": false,
           "x": 256.4090909957886,
-          "y": 116.375,
+          "y": 194,
           "children": [
             {
-              "name": "Preencher",
+              "name": "interesses",
               "suggestion": false,
-              "x": 516.5741758346558,
-              "y": 116.375,
+              "x": 471.4090909957886,
+              "y": 132,
               "children": [],
-              "id": "n21",
+              "id": "n42",
               "collapsed": false,
               "_lines": [
-                "Preencher"
+                "interesses"
               ],
               "_apoio": [],
-              "_w": 181.33016967773438,
+              "_w": 91,
               "_h": 36,
-              "_dragStartX": 516.5741758346558,
-              "_dragStartY": 116.375,
-              "_dragged": false,
-              "_rawX": 516.5741758346558,
-              "_rawY": 116.375,
-              "_candidatos": null,
-              "_w0": 90,
-              "_resized": true,
-              "_resto": 0,
-              "width": 181.33016967773438,
-              "uid": "umszhidivdvaj3t"
+              "uid": "umszixlwhrtlcd4"
+            },
+            {
+              "name": "look a like",
+              "suggestion": false,
+              "x": 474.6590909957886,
+              "y": 194,
+              "children": [],
+              "id": "n43",
+              "collapsed": false,
+              "_lines": [
+                "look a like"
+              ],
+              "_apoio": [],
+              "_w": 97.5,
+              "_h": 36,
+              "uid": "umszixlwh07ymcd"
+            },
+            {
+              "name": "remarketing",
+              "suggestion": false,
+              "x": 474.6590909957886,
+              "y": 256,
+              "children": [],
+              "id": "n44",
+              "collapsed": false,
+              "_lines": [
+                "remarketing"
+              ],
+              "_apoio": [],
+              "_w": 97.5,
+              "_h": 36,
+              "uid": "umszixlwhqurtuu"
             }
           ],
           "id": "n20",
@@ -596,10 +657,10 @@
           "_w": 195,
           "_h": 51.375,
           "_dragStartX": 256.4090909957886,
-          "_dragStartY": 161.09091186523438,
+          "_dragStartY": 116.375,
           "_dragged": false,
           "_rawX": 256.4090909957886,
-          "_rawY": 161.09091186523438,
+          "_rawY": 116.375,
           "_candidatos": null,
           "color": "#3B82C4",
           "note": "",
@@ -943,7 +1004,7 @@
       "rotulos": true,
       "gradiente": true,
       "coloridos": true,
-      "blocos": false
+      "blocos": true
     }
   }
 }
