@@ -2,7 +2,7 @@
   "meta": {
     "nome": "[Microkids] - Setembro a Dezembro",
     "salvoPor": "Matheus",
-    "salvoEm": "2026-08-19T03:23:06.504Z",
+    "salvoEm": "2026-08-19T03:23:11.934Z",
     "resumo": {
       "google": {
         "campanhas": 3,
@@ -20,9 +20,9 @@
         "inativa": false
       },
       "tiktok": {
-        "campanhas": 2,
-        "verba": 500,
-        "inativa": false
+        "campanhas": 0,
+        "verba": 0,
+        "inativa": true
       }
     },
     "share": "dnkpntm6vkji6w"
@@ -1094,7 +1094,8 @@
       "_rawX": 0,
       "_rawY": 0,
       "_candidatos": null,
-      "budget": 500
+      "budget": 500,
+      "inativa": true
     },
     "cliente": "[Microkids] - Setembro a Dezembro",
     "estilo": {
