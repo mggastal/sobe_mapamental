@@ -2,7 +2,7 @@
   "meta": {
     "nome": "[Microkids] - Setembro a Dezembro",
     "salvoPor": "Matheus",
-    "salvoEm": "2026-08-19T03:22:46.631Z",
+    "salvoEm": "2026-08-19T03:23:06.504Z",
     "resumo": {
       "google": {
         "campanhas": 3,
@@ -767,14 +767,14 @@
           "name": "Distribuição de conteúdo",
           "color": "#3B82C4",
           "x": 258.4722480773926,
-          "y": -49.35300302505493,
+          "y": -57.50925302505493,
           "collapsed": false,
           "suggestion": false,
           "children": [
             {
               "name": "Cargos",
               "x": 526.9110946655273,
-              "y": -80.35300302505493,
+              "y": -96.50925302505493,
               "collapsed": false,
               "suggestion": false,
               "uid": "umsz7c723lp59hc",
@@ -801,7 +801,7 @@
             {
               "name": "Look a like lista de leads",
               "x": 525.4722480773926,
-              "y": -18.35300302505493,
+              "y": -18.50925302505493,
               "collapsed": false,
               "suggestion": false,
               "uid": "umsz7c723bzj2x7",
@@ -848,10 +848,36 @@
           "name": "LinkedIn Page Premium",
           "color": "#3B82C4",
           "x": 258.4722480773926,
-          "y": 51.33449697494507,
+          "y": 59.49074697494507,
           "collapsed": false,
           "suggestion": false,
-          "children": [],
+          "children": [
+            {
+              "name": "Premium",
+              "suggestion": false,
+              "x": 472.9722480773926,
+              "y": 59.49074697494507,
+              "children": [],
+              "id": "n45",
+              "collapsed": false,
+              "_lines": [
+                "Premium"
+              ],
+              "_apoio": [
+                "R$ 500,00/mês · 100,0%"
+              ],
+              "_w": 90,
+              "_h": 36,
+              "_dragStartX": 508.4722480773926,
+              "_dragStartY": 51.33449697494507,
+              "_dragged": false,
+              "_rawX": 508.4722480773926,
+              "_rawY": 51.33449697494507,
+              "_candidatos": null,
+              "budget": 500,
+              "uid": "umszj0vy80m95kq"
+            }
+          ],
           "uid": "umsz7c723ucanhe",
           "id": "n26",
           "_lines": [
