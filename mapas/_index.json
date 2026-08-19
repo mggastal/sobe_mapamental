@@ -32,7 +32,7 @@
     "adopt/adopt-setembro-a-dezembro": {
       "nome": "[AdOpt] Setembro a Dezembro",
       "salvoPor": "Matheus",
-      "salvoEm": "2026-08-19T03:59:13.818Z",
+      "salvoEm": "2026-08-19T03:59:35.794Z",
       "resumo": {
         "google": {
           "campanhas": 2,
@@ -45,9 +45,9 @@
           "inativa": false
         },
         "linkedin": {
-          "campanhas": 0,
+          "campanhas": 2,
           "verba": 0,
-          "inativa": true
+          "inativa": false
         },
         "tiktok": {
           "campanhas": 0,
