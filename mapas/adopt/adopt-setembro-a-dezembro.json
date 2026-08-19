@@ -2,7 +2,7 @@
   "meta": {
     "nome": "[AdOpt] Setembro a Dezembro",
     "salvoPor": "Matheus",
-    "salvoEm": "2026-08-19T03:59:13.818Z",
+    "salvoEm": "2026-08-19T03:59:35.794Z",
     "resumo": {
       "google": {
         "campanhas": 2,
@@ -15,9 +15,9 @@
         "inativa": false
       },
       "linkedin": {
-        "campanhas": 0,
+        "campanhas": 2,
         "verba": 0,
-        "inativa": true
+        "inativa": false
       },
       "tiktok": {
         "campanhas": 0,
@@ -335,7 +335,6 @@
     "linkedin": {
       "name": "LinkedIn Ads",
       "note": "Campanhas e públicos",
-      "inativa": true,
       "x": 0,
       "y": 0,
       "collapsed": false,
@@ -356,7 +355,13 @@
               "collapsed": false,
               "suggestion": false,
               "uid": "umszk7sqiazimni",
-              "id": "n25"
+              "id": "n25",
+              "_lines": [
+                "Cargo + setor"
+              ],
+              "_apoio": [],
+              "_w": 110.5,
+              "_h": 36
             },
             {
               "name": "Empresas-alvo (ABM)",
@@ -365,7 +370,13 @@
               "collapsed": false,
               "suggestion": false,
               "uid": "umszk7sqir0j68s",
-              "id": "n26"
+              "id": "n26",
+              "_lines": [
+                "Empresas-alvo (ABM)"
+              ],
+              "_apoio": [],
+              "_w": 149.5,
+              "_h": 36
             },
             {
               "name": "Lookalike de clientes",
@@ -374,11 +385,23 @@
               "collapsed": false,
               "suggestion": false,
               "uid": "umszk7sqirvxptf",
-              "id": "n27"
+              "id": "n27",
+              "_lines": [
+                "Lookalike de clientes"
+              ],
+              "_apoio": [],
+              "_w": 162.5,
+              "_h": 36
             }
           ],
           "uid": "umszk7sqidq4ib0",
-          "id": "n24"
+          "id": "n24",
+          "_lines": [
+            "Geração de leads"
+          ],
+          "_apoio": [],
+          "_w": 195,
+          "_h": 40
         },
         {
           "name": "Reconhecimento",
@@ -395,7 +418,13 @@
               "collapsed": false,
               "suggestion": false,
               "uid": "umszk7sqixw6dj0",
-              "id": "n29"
+              "id": "n29",
+              "_lines": [
+                "Interesses profissionais"
+              ],
+              "_apoio": [],
+              "_w": 182,
+              "_h": 36
             },
             {
               "name": "Seguidores da página",
@@ -404,15 +433,37 @@
               "collapsed": false,
               "suggestion": false,
               "uid": "umszk7sqiogj1xs",
-              "id": "n30"
+              "id": "n30",
+              "_lines": [
+                "Seguidores da página"
+              ],
+              "_apoio": [],
+              "_w": 156,
+              "_h": 36
             }
           ],
           "uid": "umszk7sqijkl40f",
-          "id": "n28"
+          "id": "n28",
+          "_lines": [
+            "Reconhecimento"
+          ],
+          "_apoio": [],
+          "_w": 195,
+          "_h": 40
         }
       ],
       "uid": "umszk7sqiiufb6p",
-      "id": "n23"
+      "id": "n23",
+      "_lines": [
+        "LinkedIn Ads"
+      ],
+      "_apoio": [
+        "Campanhas e públicos"
+      ],
+      "_w": 172,
+      "_h": 84.625,
+      "tracos": [],
+      "notas": []
     },
     "tiktok": {
       "name": "TikTok Ads",
