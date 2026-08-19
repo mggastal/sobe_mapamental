@@ -2,7 +2,7 @@
   "meta": {
     "nome": "[Microkids] - Setembro a Dezembro",
     "salvoPor": "Matheus",
-    "salvoEm": "2026-08-19T02:11:08.910Z",
+    "salvoEm": "2026-08-19T02:21:30.989Z",
     "resumo": {
       "google": {
         "campanhas": 2,
@@ -16,7 +16,7 @@
       },
       "linkedin": {
         "campanhas": 2,
-        "verba": 1000,
+        "verba": 1400,
         "inativa": false
       },
       "tiktok": {
@@ -403,121 +403,100 @@
     "linkedin": {
       "name": "LinkedIn Ads",
       "note": "Campanhas e públicos",
-      "x": 0,
+      "x": 0.990753173828125,
       "y": 0,
       "collapsed": false,
       "suggestion": false,
       "children": [
         {
-          "name": "Geração de leads",
-          "color": "#0A66C2",
-          "x": 260,
-          "y": -120,
+          "name": "Distribuição de conteúdo",
+          "color": "#3B82C4",
+          "x": 281.64935302734375,
+          "y": -126.35347747802734,
           "collapsed": false,
           "suggestion": false,
           "children": [
             {
-              "name": "Cargo + setor",
-              "x": 540,
-              "y": -190,
+              "name": "Cargos",
+              "x": 578.4229164123535,
+              "y": -199.8650894165039,
               "collapsed": false,
               "suggestion": false,
               "uid": "umsz7c723lp59hc",
               "id": "n25",
               "_lines": [
-                "Cargo + setor"
+                "Cargos"
               ],
               "_apoio": [],
-              "_w": 110.5,
-              "_h": 36
+              "_w": 197.87769317626953,
+              "_h": 36,
+              "_dragStartX": 556.7735633850098,
+              "_dragStartY": -192.9298553466797,
+              "_dragged": false,
+              "_w0": 181.24044036865234,
+              "_resized": true,
+              "width": 197.87769317626953
             },
             {
-              "name": "Empresas-alvo (ABM)",
-              "x": 540,
-              "y": -130,
-              "collapsed": false,
-              "suggestion": false,
-              "uid": "umsz7c7237lqie7",
-              "id": "n26",
-              "_lines": [
-                "Empresas-alvo (ABM)"
-              ],
-              "_apoio": [],
-              "_w": 149.5,
-              "_h": 36
-            },
-            {
-              "name": "Lookalike de clientes",
-              "x": 540,
-              "y": -70,
+              "name": "Look a like lista de leads",
+              "x": 580.0822143554688,
+              "y": -81.06720733642578,
               "collapsed": false,
               "suggestion": false,
               "uid": "umsz7c723bzj2x7",
               "id": "n27",
               "_lines": [
-                "Lookalike de clientes"
+                "Look a like lista de leads"
               ],
               "_apoio": [],
-              "_w": 162.5,
-              "_h": 36
+              "_w": 195,
+              "_h": 36,
+              "_dragStartX": 559.7796630859375,
+              "_dragStartY": -69.41824340820312,
+              "_dragged": true,
+              "note": ""
             }
           ],
           "uid": "umsz7c723tpezww",
           "id": "n24",
           "_lines": [
-            "Geração de leads"
+            "Distribuição de conteúdo"
           ],
-          "_apoio": [],
+          "_apoio": [
+            "R$ 1.000,00/mês · 71,4%",
+            "Foco para crescimento da página"
+          ],
           "_w": 195,
-          "_h": 40
+          "_h": 62.375,
+          "_dragStartX": 276.69561767578125,
+          "_dragStartY": -130.31646728515625,
+          "_dragged": true,
+          "note": "Foco para crescimento da página",
+          "budget": 1000
         },
         {
-          "name": "Reconhecimento",
-          "color": "#328596",
-          "x": 260,
-          "y": 130,
+          "name": "LinkedIn Page Premium",
+          "color": "#3B82C4",
+          "x": 282.15013122558594,
+          "y": 132.97223663330078,
           "collapsed": false,
           "suggestion": false,
-          "children": [
-            {
-              "name": "Interesses profissionais",
-              "x": 540,
-              "y": 100,
-              "collapsed": false,
-              "suggestion": false,
-              "uid": "umsz7c7235nbqf1",
-              "id": "n29",
-              "_lines": [
-                "Interesses profissionais"
-              ],
-              "_apoio": [],
-              "_w": 182,
-              "_h": 36
-            },
-            {
-              "name": "Seguidores da página",
-              "x": 540,
-              "y": 160,
-              "collapsed": false,
-              "suggestion": false,
-              "uid": "umsz7c723qm43si",
-              "id": "n30",
-              "_lines": [
-                "Seguidores da página"
-              ],
-              "_apoio": [],
-              "_w": 156,
-              "_h": 36
-            }
-          ],
+          "children": [],
           "uid": "umsz7c723ucanhe",
           "id": "n28",
           "_lines": [
-            "Reconhecimento"
+            "LinkedIn Page Premium"
           ],
-          "_apoio": [],
+          "_apoio": [
+            "R$ 400,00/mês · 28,6%"
+          ],
           "_w": 195,
-          "_h": 40
+          "_h": 51.375,
+          "_dragStartX": 265.3074493408203,
+          "_dragStartY": 126.0370101928711,
+          "_dragged": true,
+          "note": "",
+          "budget": 400
         }
       ],
       "uid": "umsz7c723g7kp3p",
@@ -526,17 +505,31 @@
         "LinkedIn Ads"
       ],
       "_apoio": [
-        "R$ 1.000,00/mês",
+        "R$ 1.400,00/mês",
         "Campanhas e públicos"
       ],
       "_w": 172,
       "_h": 95.625,
       "tracos": [],
-      "notas": [],
-      "_dragStartX": 0,
+      "notas": [
+        {
+          "id": "nota-mszgpc71nhy",
+          "x": -95.89306640625,
+          "y": 191.35042572021484,
+          "w": 697.6778564453125,
+          "text": "O LinkedIn Page Premium é uma assinatura que ajuda você a destacar sua página e a converter mais usuários do LinkedIn em clientes para sua empresa. A LinkedIn Page Premium dá acesso a determinadas funcionalidades que só estão disponíveis para assinantes premium. Todos os administradores da página que têm uma assinatura da LinkedIn Page Premium podem usar os recursos Premium.",
+          "_h": 102.375,
+          "_moveu": true,
+          "bold": true,
+          "invisivel": true,
+          "fs": 12.5,
+          "uid": "nota-mszgpc71nhy"
+        }
+      ],
+      "_dragStartX": 0.990753173828125,
       "_dragStartY": 0,
       "_dragged": false,
-      "budget": 1000
+      "budget": 1400
     },
     "tiktok": {
       "name": "TikTok Ads",
