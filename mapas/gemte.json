@@ -2,7 +2,7 @@
   "meta": {
     "nome": "gemte",
     "salvoPor": "Matheus",
-    "salvoEm": "2026-08-19T13:39:38.027Z",
+    "salvoEm": "2026-08-19T13:40:00.753Z",
     "resumo": {
       "google": {
         "campanhas": 4,
@@ -267,7 +267,13 @@
             "R$ 2.000,00/mês · 25,3%"
           ],
           "_w": 195,
-          "_h": 51.375
+          "_h": 51.375,
+          "_dragStartX": 255.5,
+          "_dragStartY": -806.75,
+          "_dragged": false,
+          "_rawX": 255.5,
+          "_rawY": -806.75,
+          "_candidatos": null
         },
         {
           "name": "Seguro de Vida",
@@ -1305,7 +1311,7 @@
       },
       "tracos": [],
       "notas": [],
-      "color": "#178A6F",
+      "color": "#34A853",
       "uid": "uvbr6jd3jbrg9",
       "id": "n1",
       "_lines": [
@@ -1315,7 +1321,13 @@
         "Google Ads"
       ],
       "_w": 172,
-      "_h": 84.625
+      "_h": 84.625,
+      "_dragStartX": 0,
+      "_dragStartY": 0,
+      "_dragged": false,
+      "_rawX": 0,
+      "_rawY": 0,
+      "_candidatos": null
     },
     "meta": {
       "name": "Meta Ads",
