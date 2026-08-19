@@ -2,7 +2,7 @@
   "meta": {
     "nome": "[Microkids] - Setembro a Dezembro",
     "salvoPor": "Matheus",
-    "salvoEm": "2026-08-19T03:22:36.832Z",
+    "salvoEm": "2026-08-19T03:22:46.631Z",
     "resumo": {
       "google": {
         "campanhas": 3,
@@ -782,15 +782,21 @@
               "_lines": [
                 "Cargos"
               ],
-              "_apoio": [],
+              "_apoio": [
+                "R$ 500,00/mês · 50,0%"
+              ],
               "_w": 197.87769317626953,
               "_h": 36,
-              "_dragStartX": 556.7735633850098,
-              "_dragStartY": -192.9298553466797,
+              "_dragStartX": 526.9110946655273,
+              "_dragStartY": -80.35300302505493,
               "_dragged": false,
               "_w0": 181.24044036865234,
               "_resized": true,
-              "width": 197.87769317626953
+              "width": 197.87769317626953,
+              "_rawX": 526.9110946655273,
+              "_rawY": -80.35300302505493,
+              "_candidatos": null,
+              "budget": 500
             },
             {
               "name": "Look a like lista de leads",
@@ -803,13 +809,19 @@
               "_lines": [
                 "Look a like lista de leads"
               ],
-              "_apoio": [],
+              "_apoio": [
+                "R$ 500,00/mês · 50,0%"
+              ],
               "_w": 195,
               "_h": 36,
-              "_dragStartX": 559.7796630859375,
-              "_dragStartY": -69.41824340820312,
-              "_dragged": true,
-              "note": ""
+              "_dragStartX": 525.4722480773926,
+              "_dragStartY": -18.35300302505493,
+              "_dragged": false,
+              "note": "",
+              "_rawX": 525.4722480773926,
+              "_rawY": -18.35300302505493,
+              "_candidatos": null,
+              "budget": 500
             }
           ],
           "uid": "umsz7c723tpezww",
