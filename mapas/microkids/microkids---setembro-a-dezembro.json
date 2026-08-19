@@ -2,7 +2,7 @@
   "meta": {
     "nome": "[Microkids] - Setembro a Dezembro",
     "salvoPor": "Matheus",
-    "salvoEm": "2026-08-19T02:36:11.838Z",
+    "salvoEm": "2026-08-19T02:40:43.104Z",
     "resumo": {
       "google": {
         "campanhas": 3,
@@ -10,7 +10,7 @@
         "inativa": false
       },
       "meta": {
-        "campanhas": 3,
+        "campanhas": 4,
         "verba": 6000,
         "inativa": false
       },
@@ -111,7 +111,7 @@
                   "x": 765.2223779296875,
                   "y": -61,
                   "children": [],
-                  "id": "n36",
+                  "id": "n6",
                   "collapsed": false,
                   "_lines": [
                     "microkids"
@@ -138,7 +138,7 @@
                   "x": 765.2223779296875,
                   "y": -22,
                   "children": [],
-                  "id": "n37",
+                  "id": "n7",
                   "collapsed": false,
                   "_lines": [
                     "microkids"
@@ -165,7 +165,7 @@
                   "x": 765.2223779296875,
                   "y": 17,
                   "children": [],
-                  "id": "n38",
+                  "id": "n8",
                   "collapsed": false,
                   "_lines": [
                     "microkids"
@@ -192,7 +192,7 @@
                   "x": 765.2223779296875,
                   "y": 56,
                   "children": [],
-                  "id": "n40",
+                  "id": "n9",
                   "collapsed": false,
                   "_lines": [
                     "microkids educação financeira"
@@ -211,7 +211,7 @@
                 }
               ],
               "uid": "umsz7c7230y26vf",
-              "id": "n11",
+              "id": "n5",
               "_lines": [
                 "Institucional"
               ],
@@ -230,7 +230,7 @@
             }
           ],
           "uid": "umsz7c723y6zj6m",
-          "id": "n10",
+          "id": "n4",
           "_lines": [
             "Search"
           ],
@@ -259,7 +259,7 @@
               "x": 488.0623779296875,
               "y": 113.5,
               "children": [],
-              "id": "n43",
+              "id": "n11",
               "collapsed": false,
               "_lines": [
                 "Webnário"
@@ -288,7 +288,7 @@
               "x": 488.0623779296875,
               "y": 175.5,
               "children": [],
-              "id": "n44",
+              "id": "n12",
               "collapsed": false,
               "_lines": [
                 "Institucional"
@@ -308,7 +308,7 @@
               "uid": "umszhck8e06kgrd"
             }
           ],
-          "id": "n42",
+          "id": "n10",
           "collapsed": false,
           "_lines": [
             "Youtube"
@@ -366,18 +366,18 @@
           "name": "Webnario",
           "color": "#3B82C4",
           "x": 256.4090909957886,
-          "y": -77.375,
+          "y": -116.375,
           "collapsed": false,
           "suggestion": false,
           "children": [
             {
               "name": "Preencher",
               "x": 516.5741758346558,
-              "y": -77.375,
+              "y": -116.375,
               "collapsed": false,
               "suggestion": false,
               "uid": "umsz7c723vjq3nu",
-              "id": "n16",
+              "id": "n15",
               "_lines": [
                 "Preencher"
               ],
@@ -396,7 +396,7 @@
             }
           ],
           "uid": "umsz7c72300loug",
-          "id": "n15",
+          "id": "n14",
           "_lines": [
             "Webnario"
           ],
@@ -406,45 +406,49 @@
           "_w": 195,
           "_h": 51.375,
           "_dragStartX": 256.4090909957886,
-          "_dragStartY": -77.375,
+          "_dragStartY": -116.375,
           "_dragged": false,
           "budget": 2500,
           "_rawX": 256.4090909957886,
-          "_rawY": -77.375,
+          "_rawY": -116.375,
           "_candidatos": null
         },
         {
           "name": "Institucional",
           "color": "#3B82C4",
           "x": 256.4090909957886,
-          "y": 0,
+          "y": -39,
           "collapsed": false,
           "suggestion": false,
           "children": [
             {
               "name": "Preencher",
-              "x": 470.9090909957886,
-              "y": 0,
+              "x": 516.5741758346558,
+              "y": -39,
               "collapsed": false,
               "suggestion": false,
               "uid": "umsz7c7236kc1f6",
-              "id": "n22",
+              "id": "n17",
               "_lines": [
                 "Preencher"
               ],
               "_apoio": [],
-              "_w": 90,
+              "_w": 181.33016967773438,
               "_h": 36,
-              "_dragStartX": 547.0741758346558,
-              "_dragStartY": 212.96022033691406,
+              "_dragStartX": 470.9090909957886,
+              "_dragStartY": 0,
               "_dragged": true,
-              "_rawX": 508.892352104187,
-              "_rawY": 188.41476440429688,
-              "_candidatos": null
+              "_rawX": 476.36365032196045,
+              "_rawY": -2.727272719144821,
+              "_candidatos": null,
+              "_w0": 90,
+              "_resized": true,
+              "_resto": 0,
+              "width": 181.33016967773438
             }
           ],
           "uid": "umsz7c723vpl48r",
-          "id": "n20",
+          "id": "n16",
           "_lines": [
             "Institucional"
           ],
@@ -465,15 +469,15 @@
           "name": "Eventos",
           "suggestion": false,
           "x": 256.4090909957886,
-          "y": 77.375,
+          "y": 38.375,
           "children": [
             {
               "name": "Geolocalizada",
               "suggestion": false,
-              "x": 481.1590909957886,
-              "y": 77.375,
+              "x": 516.5741758346558,
+              "y": 38.375,
               "children": [],
-              "id": "n46",
+              "id": "n19",
               "collapsed": false,
               "_lines": [
                 "Geolocalizada"
@@ -481,19 +485,23 @@
               "_apoio": [
                 "R$ 1.000,00/mês · 100,0%"
               ],
-              "_w": 110.5,
+              "_w": 181.33016967773438,
               "_h": 36,
-              "_dragStartX": 511.6590909957886,
-              "_dragStartY": 50.23295593261719,
-              "_dragged": true,
-              "_rawX": 516.2045621871948,
-              "_rawY": 44.77840805053711,
+              "_dragStartX": 481.1590909957886,
+              "_dragStartY": 38.375,
+              "_dragged": false,
+              "_rawX": 482.9772672653198,
+              "_rawY": 39.28409194946289,
               "_candidatos": null,
               "budget": 1000,
-              "uid": "umszhck8e27pj9m"
+              "uid": "umszhck8e27pj9m",
+              "_w0": 110.5,
+              "_resized": true,
+              "_resto": 0,
+              "width": 181.33016967773438
             }
           ],
-          "id": "n45",
+          "id": "n18",
           "collapsed": false,
           "_lines": [
             "Eventos"
@@ -512,20 +520,73 @@
           "budget": 1000,
           "color": "#3B82C4",
           "uid": "umszhck8ea68erv"
+        },
+        {
+          "name": "Circuitos",
+          "suggestion": false,
+          "x": 256.4090909957886,
+          "y": 116.375,
+          "children": [
+            {
+              "name": "Preencher",
+              "suggestion": false,
+              "x": 516.5741758346558,
+              "y": 116.375,
+              "children": [],
+              "id": "n35",
+              "collapsed": false,
+              "_lines": [
+                "Preencher"
+              ],
+              "_apoio": [],
+              "_w": 181.33016967773438,
+              "_h": 36,
+              "_dragStartX": 516.5741758346558,
+              "_dragStartY": 116.375,
+              "_dragged": false,
+              "_rawX": 516.5741758346558,
+              "_rawY": 116.375,
+              "_candidatos": null,
+              "_w0": 90,
+              "_resized": true,
+              "_resto": 0,
+              "width": 181.33016967773438,
+              "uid": "umszhidivdvaj3t"
+            }
+          ],
+          "id": "n33",
+          "collapsed": false,
+          "_lines": [
+            "Circuitos"
+          ],
+          "_apoio": [
+            "R$ 1.500,00/mês · 25,0%"
+          ],
+          "_w": 195,
+          "_h": 51.375,
+          "_dragStartX": 256.4090909957886,
+          "_dragStartY": 161.09091186523438,
+          "_dragged": false,
+          "_rawX": 256.4090909957886,
+          "_rawY": 161.09091186523438,
+          "_candidatos": null,
+          "color": "#3B82C4",
+          "note": "",
+          "budget": 1500,
+          "uid": "umszhidiv2dleqx"
         }
       ],
       "uid": "umsz7c723f7bzt7",
-      "id": "n14",
+      "id": "n13",
       "_lines": [
         "Meta Ads"
       ],
       "_apoio": [
         "R$ 6.000,00/mês",
-        "⚠ faltam R$ 1.500,00 a distribuir",
         "Campanhas e públicos"
       ],
       "_w": 172,
-      "_h": 106.625,
+      "_h": 95.625,
       "tracos": [],
       "notas": [],
       "_dragStartX": 0.9090909957885742,
@@ -559,7 +620,7 @@
               "collapsed": false,
               "suggestion": false,
               "uid": "umsz7c723lp59hc",
-              "id": "n25",
+              "id": "n22",
               "_lines": [
                 "Cargos"
               ],
@@ -580,7 +641,7 @@
               "collapsed": false,
               "suggestion": false,
               "uid": "umsz7c723bzj2x7",
-              "id": "n26",
+              "id": "n23",
               "_lines": [
                 "Look a like lista de leads"
               ],
@@ -594,7 +655,7 @@
             }
           ],
           "uid": "umsz7c723tpezww",
-          "id": "n24",
+          "id": "n21",
           "_lines": [
             "Distribuição de conteúdo"
           ],
@@ -619,7 +680,7 @@
           "suggestion": false,
           "children": [],
           "uid": "umsz7c723ucanhe",
-          "id": "n27",
+          "id": "n24",
           "_lines": [
             "LinkedIn Page Premium"
           ],
@@ -636,7 +697,7 @@
         }
       ],
       "uid": "umsz7c723g7kp3p",
-      "id": "n23",
+      "id": "n20",
       "_lines": [
         "LinkedIn Ads"
       ],
@@ -695,7 +756,7 @@
               "collapsed": false,
               "suggestion": false,
               "uid": "umsz7c7238adto2",
-              "id": "n30",
+              "id": "n27",
               "_lines": [
                 "Ampla (sem segmentação)"
               ],
@@ -710,7 +771,7 @@
               "collapsed": false,
               "suggestion": false,
               "uid": "umsz7c723ydij99",
-              "id": "n31",
+              "id": "n28",
               "_lines": [
                 "Interesses e comportamentos"
               ],
@@ -725,7 +786,7 @@
               "collapsed": false,
               "suggestion": false,
               "uid": "umsz7c723onx0qc",
-              "id": "n32",
+              "id": "n29",
               "_lines": [
                 "Lookalike de compradores"
               ],
@@ -735,7 +796,7 @@
             }
           ],
           "uid": "umsz7c7234v982y",
-          "id": "n29",
+          "id": "n26",
           "_lines": [
             "Conversão"
           ],
@@ -758,7 +819,7 @@
               "collapsed": false,
               "suggestion": false,
               "uid": "umsz7c723baowx6",
-              "id": "n34",
+              "id": "n31",
               "_lines": [
                 "Região"
               ],
@@ -773,7 +834,7 @@
               "collapsed": false,
               "suggestion": false,
               "uid": "umsz7c7239odfm4",
-              "id": "n35",
+              "id": "n32",
               "_lines": [
                 "Engajou com o perfil"
               ],
@@ -783,7 +844,7 @@
             }
           ],
           "uid": "umsz7c7238f9wem",
-          "id": "n33",
+          "id": "n30",
           "_lines": [
             "Alcance"
           ],
@@ -793,7 +854,7 @@
         }
       ],
       "uid": "umsz7c723c9dx50",
-      "id": "n28",
+      "id": "n25",
       "_lines": [
         "TikTok Ads"
       ],
