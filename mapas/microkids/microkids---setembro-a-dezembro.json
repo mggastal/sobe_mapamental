@@ -2,7 +2,7 @@
   "meta": {
     "nome": "[Microkids] - Setembro a Dezembro",
     "salvoPor": "Matheus",
-    "salvoEm": "2026-08-19T03:20:33.461Z",
+    "salvoEm": "2026-08-19T03:22:36.832Z",
     "resumo": {
       "google": {
         "campanhas": 3,
@@ -20,9 +20,9 @@
         "inativa": false
       },
       "tiktok": {
-        "campanhas": 0,
-        "verba": 0,
-        "inativa": true
+        "campanhas": 2,
+        "verba": 500,
+        "inativa": false
       }
     },
     "share": "dnkpntm6vkji6w"
@@ -395,7 +395,7 @@
       "children": [
         {
           "name": "Webnario",
-          "color": "#3B82C4",
+          "color": "#F17747",
           "x": 256.4090909957886,
           "y": -194,
           "collapsed": false,
@@ -412,18 +412,21 @@
               "_lines": [
                 "Look a like"
               ],
-              "_apoio": [],
+              "_apoio": [
+                "R$ 1.000,00/mês · 40,0%"
+              ],
               "_w": 181.33016967773438,
               "_h": 36,
               "_dragStartX": 516.5741758346558,
-              "_dragStartY": -116.375,
+              "_dragStartY": -256,
               "_dragged": false,
               "_w0": 169,
               "_resized": true,
               "width": 181.33016967773438,
               "_rawX": 516.5741758346558,
-              "_rawY": -116.375,
-              "_candidatos": null
+              "_rawY": -256,
+              "_candidatos": null,
+              "budget": 1000
             },
             {
               "name": "remarketing",
@@ -436,10 +439,19 @@
               "_lines": [
                 "remarketing"
               ],
-              "_apoio": [],
+              "_apoio": [
+                "R$ 500,00/mês · 20,0%"
+              ],
               "_w": 97.5,
               "_h": 36,
-              "uid": "umszixlwhsw6xz2"
+              "uid": "umszixlwhsw6xz2",
+              "_dragStartX": 474.6590909957886,
+              "_dragStartY": -194,
+              "_dragged": false,
+              "_rawX": 474.6590909957886,
+              "_rawY": -194,
+              "_candidatos": null,
+              "budget": 500
             },
             {
               "name": "interesses",
@@ -452,10 +464,19 @@
               "_lines": [
                 "interesses"
               ],
-              "_apoio": [],
+              "_apoio": [
+                "R$ 1.000,00/mês · 40,0%"
+              ],
               "_w": 91,
               "_h": 36,
-              "uid": "umszixlwhf5q8vx"
+              "uid": "umszixlwhf5q8vx",
+              "_dragStartX": 471.4090909957886,
+              "_dragStartY": -132,
+              "_dragged": false,
+              "_rawX": 471.4090909957886,
+              "_rawY": -132,
+              "_candidatos": null,
+              "budget": 1000
             }
           ],
           "uid": "umsz7c72300loug",
@@ -469,16 +490,16 @@
           "_w": 195,
           "_h": 51.375,
           "_dragStartX": 256.4090909957886,
-          "_dragStartY": -116.375,
+          "_dragStartY": -194,
           "_dragged": false,
           "budget": 2500,
           "_rawX": 256.4090909957886,
-          "_rawY": -116.375,
+          "_rawY": -194,
           "_candidatos": null
         },
         {
           "name": "Institucional",
-          "color": "#3B82C4",
+          "color": "#1B2F6A",
           "x": 256.4090909957886,
           "y": -39,
           "collapsed": false,
@@ -495,10 +516,19 @@
               "_lines": [
                 "interesses"
               ],
-              "_apoio": [],
+              "_apoio": [
+                "R$ 500,00/mês · 50,0%"
+              ],
               "_w": 91,
               "_h": 36,
-              "uid": "umszixlwh0kmefd"
+              "uid": "umszixlwh0kmefd",
+              "_dragStartX": 471.4090909957886,
+              "_dragStartY": -70,
+              "_dragged": false,
+              "_rawX": 471.4090909957886,
+              "_rawY": -70,
+              "_candidatos": null,
+              "budget": 500
             },
             {
               "name": "cargos",
@@ -511,10 +541,19 @@
               "_lines": [
                 "cargos"
               ],
-              "_apoio": [],
+              "_apoio": [
+                "R$ 500,00/mês · 50,0%"
+              ],
               "_w": 90,
               "_h": 36,
-              "uid": "umszixlwh8g18oz"
+              "uid": "umszixlwh8g18oz",
+              "_dragStartX": 470.9090909957886,
+              "_dragStartY": -8,
+              "_dragged": false,
+              "_rawX": 470.9090909957886,
+              "_rawY": -8,
+              "_candidatos": null,
+              "budget": 500
             }
           ],
           "uid": "umsz7c723vpl48r",
@@ -557,11 +596,11 @@
               ],
               "_w": 181.33016967773438,
               "_h": 36,
-              "_dragStartX": 481.1590909957886,
-              "_dragStartY": 38.375,
+              "_dragStartX": 516.5741758346558,
+              "_dragStartY": 54,
               "_dragged": false,
-              "_rawX": 482.9772672653198,
-              "_rawY": 39.28409194946289,
+              "_rawX": 516.5741758346558,
+              "_rawY": 54,
               "_candidatos": null,
               "budget": 1000,
               "uid": "umszhck8e27pj9m",
@@ -582,13 +621,13 @@
           "_w": 195,
           "_h": 51.375,
           "_dragStartX": 256.4090909957886,
-          "_dragStartY": 77.375,
+          "_dragStartY": 54,
           "_dragged": false,
           "_rawX": 256.4090909957886,
-          "_rawY": 77.375,
+          "_rawY": 54,
           "_candidatos": null,
           "budget": 1000,
-          "color": "#3B82C4",
+          "color": "#D14026",
           "uid": "umszhck8ea68erv"
         },
         {
@@ -608,10 +647,19 @@
               "_lines": [
                 "interesses"
               ],
-              "_apoio": [],
+              "_apoio": [
+                "R$ 510,00/mês · 34,0%"
+              ],
               "_w": 91,
               "_h": 36,
-              "uid": "umszixlwhrtlcd4"
+              "uid": "umszixlwhrtlcd4",
+              "_dragStartX": 471.4090909957886,
+              "_dragStartY": 132,
+              "_dragged": false,
+              "_rawX": 471.4090909957886,
+              "_rawY": 132,
+              "_candidatos": null,
+              "budget": 510
             },
             {
               "name": "look a like",
@@ -624,10 +672,19 @@
               "_lines": [
                 "look a like"
               ],
-              "_apoio": [],
+              "_apoio": [
+                "R$ 495,00/mês · 33,0%"
+              ],
               "_w": 97.5,
               "_h": 36,
-              "uid": "umszixlwh07ymcd"
+              "uid": "umszixlwh07ymcd",
+              "_dragStartX": 474.6590909957886,
+              "_dragStartY": 194,
+              "_dragged": false,
+              "_rawX": 474.6590909957886,
+              "_rawY": 194,
+              "_candidatos": null,
+              "budget": 495
             },
             {
               "name": "remarketing",
@@ -640,10 +697,19 @@
               "_lines": [
                 "remarketing"
               ],
-              "_apoio": [],
+              "_apoio": [
+                "R$ 495,00/mês · 33,0%"
+              ],
               "_w": 97.5,
               "_h": 36,
-              "uid": "umszixlwhqurtuu"
+              "uid": "umszixlwhqurtuu",
+              "_dragStartX": 474.6590909957886,
+              "_dragStartY": 256,
+              "_dragged": false,
+              "_rawX": 474.6590909957886,
+              "_rawY": 256,
+              "_candidatos": null,
+              "budget": 495
             }
           ],
           "id": "n20",
@@ -657,12 +723,12 @@
           "_w": 195,
           "_h": 51.375,
           "_dragStartX": 256.4090909957886,
-          "_dragStartY": 116.375,
+          "_dragStartY": 194,
           "_dragged": false,
           "_rawX": 256.4090909957886,
-          "_rawY": 116.375,
+          "_rawY": 194,
           "_candidatos": null,
-          "color": "#3B82C4",
+          "color": "#328596",
           "note": "",
           "budget": 1500,
           "uid": "umszhidiv2dleqx"
@@ -990,8 +1056,7 @@
       "_rawX": 0,
       "_rawY": 0,
       "_candidatos": null,
-      "budget": 500,
-      "inativa": true
+      "budget": 500
     },
     "cliente": "[Microkids] - Setembro a Dezembro",
     "estilo": {
