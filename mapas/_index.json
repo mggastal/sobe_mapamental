@@ -31,7 +31,7 @@
     "microkids/microkids---setembro-a-dezembro": {
       "nome": "[Microkids] - Setembro a Dezembro",
       "salvoPor": "Matheus",
-      "salvoEm": "2026-08-19T03:23:06.504Z",
+      "salvoEm": "2026-08-19T03:23:11.934Z",
       "resumo": {
         "google": {
           "campanhas": 3,
@@ -49,9 +49,9 @@
           "inativa": false
         },
         "tiktok": {
-          "campanhas": 2,
-          "verba": 500,
-          "inativa": false
+          "campanhas": 0,
+          "verba": 0,
+          "inativa": true
         }
       },
       "share": "dnkpntm6vkji6w"
