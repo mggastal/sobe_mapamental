@@ -2,7 +2,7 @@
   "meta": {
     "nome": "[Microkids] - Setembro a Dezembro",
     "salvoPor": "Matheus",
-    "salvoEm": "2026-08-19T03:23:11.934Z",
+    "salvoEm": "2026-08-19T03:23:45.975Z",
     "resumo": {
       "google": {
         "campanhas": 3,
@@ -84,7 +84,7 @@
           "_w": 195,
           "_h": 51.375,
           "_dragStartX": 259.40618896484375,
-          "_dragStartY": -153.5,
+          "_dragStartY": -152.59091186523438,
           "_dragged": false,
           "_rawX": 259.40618896484375,
           "_rawY": -152.59091186523438,
@@ -434,7 +434,7 @@
               "x": 474.6590909957886,
               "y": -194,
               "children": [],
-              "id": "n38",
+              "id": "n16",
               "collapsed": false,
               "_lines": [
                 "remarketing"
@@ -459,7 +459,7 @@
               "x": 471.4090909957886,
               "y": -132,
               "children": [],
-              "id": "n39",
+              "id": "n17",
               "collapsed": false,
               "_lines": [
                 "interesses"
@@ -511,7 +511,7 @@
               "x": 471.4090909957886,
               "y": -70,
               "children": [],
-              "id": "n40",
+              "id": "n19",
               "collapsed": false,
               "_lines": [
                 "interesses"
@@ -536,7 +536,7 @@
               "x": 470.9090909957886,
               "y": -8,
               "children": [],
-              "id": "n41",
+              "id": "n20",
               "collapsed": false,
               "_lines": [
                 "cargos"
@@ -557,7 +557,7 @@
             }
           ],
           "uid": "umsz7c723vpl48r",
-          "id": "n16",
+          "id": "n18",
           "_lines": [
             "Institucional"
           ],
@@ -586,7 +586,7 @@
               "x": 516.5741758346558,
               "y": 54,
               "children": [],
-              "id": "n19",
+              "id": "n22",
               "collapsed": false,
               "_lines": [
                 "Geolocalizada"
@@ -610,7 +610,7 @@
               "width": 181.33016967773438
             }
           ],
-          "id": "n18",
+          "id": "n21",
           "collapsed": false,
           "_lines": [
             "Eventos"
@@ -642,7 +642,7 @@
               "x": 471.4090909957886,
               "y": 132,
               "children": [],
-              "id": "n42",
+              "id": "n24",
               "collapsed": false,
               "_lines": [
                 "interesses"
@@ -667,7 +667,7 @@
               "x": 474.6590909957886,
               "y": 194,
               "children": [],
-              "id": "n43",
+              "id": "n25",
               "collapsed": false,
               "_lines": [
                 "look a like"
@@ -692,7 +692,7 @@
               "x": 474.6590909957886,
               "y": 256,
               "children": [],
-              "id": "n44",
+              "id": "n26",
               "collapsed": false,
               "_lines": [
                 "remarketing"
@@ -712,7 +712,7 @@
               "budget": 495
             }
           ],
-          "id": "n20",
+          "id": "n23",
           "collapsed": false,
           "_lines": [
             "Circuitos"
@@ -778,7 +778,7 @@
               "collapsed": false,
               "suggestion": false,
               "uid": "umsz7c723lp59hc",
-              "id": "n24",
+              "id": "n29",
               "_lines": [
                 "Cargos"
               ],
@@ -805,7 +805,7 @@
               "collapsed": false,
               "suggestion": false,
               "uid": "umsz7c723bzj2x7",
-              "id": "n25",
+              "id": "n30",
               "_lines": [
                 "Look a like lista de leads"
               ],
@@ -825,7 +825,7 @@
             }
           ],
           "uid": "umsz7c723tpezww",
-          "id": "n23",
+          "id": "n28",
           "_lines": [
             "Distribuição de conteúdo"
           ],
@@ -858,7 +858,7 @@
               "x": 472.9722480773926,
               "y": 59.49074697494507,
               "children": [],
-              "id": "n45",
+              "id": "n32",
               "collapsed": false,
               "_lines": [
                 "Premium"
@@ -879,7 +879,7 @@
             }
           ],
           "uid": "umsz7c723ucanhe",
-          "id": "n26",
+          "id": "n31",
           "_lines": [
             "LinkedIn Page Premium"
           ],
@@ -899,7 +899,7 @@
         }
       ],
       "uid": "umsz7c723g7kp3p",
-      "id": "n22",
+      "id": "n27",
       "_lines": [
         "LinkedIn Ads"
       ],
@@ -960,7 +960,7 @@
               "collapsed": false,
               "suggestion": false,
               "uid": "umsz7c7238adto2",
-              "id": "n29",
+              "id": "n35",
               "_lines": [
                 "Ampla (sem segmentação)"
               ],
@@ -975,7 +975,7 @@
               "collapsed": false,
               "suggestion": false,
               "uid": "umsz7c723ydij99",
-              "id": "n30",
+              "id": "n36",
               "_lines": [
                 "Interesses e comportamentos"
               ],
@@ -990,7 +990,7 @@
               "collapsed": false,
               "suggestion": false,
               "uid": "umsz7c723onx0qc",
-              "id": "n31",
+              "id": "n37",
               "_lines": [
                 "Lookalike de compradores"
               ],
@@ -1000,7 +1000,7 @@
             }
           ],
           "uid": "umsz7c7234v982y",
-          "id": "n28",
+          "id": "n34",
           "_lines": [
             "Conversão"
           ],
@@ -1032,7 +1032,7 @@
               "collapsed": false,
               "suggestion": false,
               "uid": "umsz7c723baowx6",
-              "id": "n33",
+              "id": "n39",
               "_lines": [
                 "Região"
               ],
@@ -1047,7 +1047,7 @@
               "collapsed": false,
               "suggestion": false,
               "uid": "umsz7c7239odfm4",
-              "id": "n34",
+              "id": "n40",
               "_lines": [
                 "Engajou com o perfil"
               ],
@@ -1057,7 +1057,7 @@
             }
           ],
           "uid": "umsz7c7238f9wem",
-          "id": "n32",
+          "id": "n38",
           "_lines": [
             "Alcance"
           ],
@@ -1076,7 +1076,7 @@
         }
       ],
       "uid": "umsz7c723c9dx50",
-      "id": "n27",
+      "id": "n33",
       "_lines": [
         "TikTok Ads"
       ],
