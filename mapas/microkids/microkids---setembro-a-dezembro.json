@@ -2,7 +2,7 @@
   "meta": {
     "nome": "[Microkids] - Setembro a Dezembro",
     "salvoPor": "Matheus",
-    "salvoEm": "2026-08-19T02:51:00.742Z",
+    "salvoEm": "2026-08-19T02:55:15.379Z",
     "resumo": {
       "google": {
         "campanhas": 3,
@@ -78,11 +78,10 @@
             "Campanha de Display"
           ],
           "_apoio": [
-            "R$ 600,00/mês · 20,0%",
-            "▸ DISPLAY"
+            "R$ 600,00/mês · 20,0%"
           ],
           "_w": 195,
-          "_h": 62.375,
+          "_h": 51.375,
           "_dragStartX": 259.40618896484375,
           "_dragStartY": -144.5,
           "_dragged": false,
@@ -316,11 +315,10 @@
             "Youtube"
           ],
           "_apoio": [
-            "R$ 1.400,00/mês · 46,7%",
-            "▸ YOUTUBE"
+            "R$ 1.400,00/mês · 46,7%"
           ],
           "_w": 202.8123779296875,
-          "_h": 62.375,
+          "_h": 51.375,
           "_dragStartX": 259.40618896484375,
           "_dragStartY": 144.5,
           "_dragged": false,
@@ -717,7 +715,7 @@
         "Campanhas e públicos"
       ],
       "_w": 172,
-      "_h": 95.625,
+      "_h": 63.625,
       "tracos": [],
       "notas": [
         {
@@ -906,6 +904,12 @@
       "budget": 500,
       "inativa": true
     },
-    "cliente": "[Microkids] - Setembro a Dezembro"
+    "cliente": "[Microkids] - Setembro a Dezembro",
+    "estilo": {
+      "cantos": "suave",
+      "sombra": true,
+      "gradiente": true,
+      "borda": false
+    }
   }
 }
