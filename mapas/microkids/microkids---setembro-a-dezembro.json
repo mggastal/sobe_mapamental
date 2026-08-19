@@ -2,7 +2,7 @@
   "meta": {
     "nome": "[Microkids] - Setembro a Dezembro",
     "salvoPor": "Matheus",
-    "salvoEm": "2026-08-19T02:40:43.104Z",
+    "salvoEm": "2026-08-19T02:46:06.656Z",
     "resumo": {
       "google": {
         "campanhas": 3,
@@ -735,7 +735,6 @@
       "name": "TikTok Ads",
       "note": "Campanhas e públicos",
       "color": "#111111",
-      "inativa": true,
       "x": 0,
       "y": 0,
       "collapsed": false,
@@ -800,9 +799,18 @@
           "_lines": [
             "Conversão"
           ],
-          "_apoio": [],
+          "_apoio": [
+            "R$ 400,00/mês · 80,0%"
+          ],
           "_w": 195,
-          "_h": 40
+          "_h": 51.375,
+          "_dragStartX": 260,
+          "_dragStartY": -130,
+          "_dragged": false,
+          "_rawX": 260,
+          "_rawY": -130,
+          "_candidatos": null,
+          "budget": 400
         },
         {
           "name": "Alcance",
@@ -814,7 +822,7 @@
           "children": [
             {
               "name": "Região",
-              "x": 540,
+              "x": 540.9090881347656,
               "y": 110,
               "collapsed": false,
               "suggestion": false,
@@ -829,7 +837,7 @@
             },
             {
               "name": "Engajou com o perfil",
-              "x": 540,
+              "x": 540.9090881347656,
               "y": 170,
               "collapsed": false,
               "suggestion": false,
@@ -848,9 +856,18 @@
           "_lines": [
             "Alcance"
           ],
-          "_apoio": [],
+          "_apoio": [
+            "R$ 100,00/mês · 20,0%"
+          ],
           "_w": 195,
-          "_h": 40
+          "_h": 51.375,
+          "_dragStartX": 260,
+          "_dragStartY": 140,
+          "_dragged": false,
+          "_rawX": 260.9090881347656,
+          "_rawY": 140,
+          "_candidatos": null,
+          "budget": 100
         }
       ],
       "uid": "umsz7c723c9dx50",
@@ -859,12 +876,21 @@
         "TikTok Ads"
       ],
       "_apoio": [
+        "R$ 500,00/mês",
         "Campanhas e públicos"
       ],
       "_w": 172,
-      "_h": 84.625,
+      "_h": 95.625,
       "tracos": [],
-      "notas": []
+      "notas": [],
+      "_dragStartX": 0,
+      "_dragStartY": 0,
+      "_dragged": false,
+      "_rawX": 0,
+      "_rawY": 0,
+      "_candidatos": null,
+      "budget": 500,
+      "inativa": true
     },
     "cliente": "[Microkids] - Setembro a Dezembro"
   }
