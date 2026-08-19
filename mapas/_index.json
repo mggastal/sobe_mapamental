@@ -1,33 +1,5 @@
 {
   "projetos": {
-    "teste": {
-      "nome": "Teste",
-      "salvoPor": "Matheus",
-      "salvoEm": "2026-08-18T21:51:22.919Z",
-      "resumo": {
-        "google": {
-          "campanhas": 2,
-          "verba": 1500,
-          "inativa": false
-        },
-        "meta": {
-          "campanhas": 2,
-          "verba": 1000,
-          "inativa": false
-        },
-        "linkedin": {
-          "campanhas": 1,
-          "verba": 1000,
-          "inativa": false
-        },
-        "tiktok": {
-          "campanhas": 1,
-          "verba": 500,
-          "inativa": false
-        }
-      },
-      "share": "vj6zn9r6t67cnx"
-    },
     "microkids/microkids---setembro-a-dezembro": {
       "nome": "[Microkids] - Setembro a Dezembro",
       "salvoPor": "Matheus",
