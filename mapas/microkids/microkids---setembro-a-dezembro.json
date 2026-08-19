@@ -2,7 +2,7 @@
   "meta": {
     "nome": "[Microkids] - Setembro a Dezembro",
     "salvoPor": "Matheus",
-    "salvoEm": "2026-08-19T03:32:16.431Z",
+    "salvoEm": "2026-08-19T03:33:38.025Z",
     "resumo": {
       "google": {
         "campanhas": 3,
@@ -38,7 +38,7 @@
       "children": [
         {
           "name": "Campanha de Display",
-          "color": "#2E9E6B",
+          "color": "#4285F4",
           "suggestion": false,
           "x": 259.40618896484375,
           "y": -152.59091186523438,
@@ -94,7 +94,7 @@
         },
         {
           "name": "Search",
-          "color": "#C9962C",
+          "color": "#F0A400",
           "suggestion": false,
           "x": 259.40618896484375,
           "y": 0,
@@ -351,7 +351,7 @@
           "uid": "umszhck8eojk7qz",
           "tipo": "video",
           "note": "",
-          "color": "#D14026"
+          "color": "#EA4335"
         }
       ],
       "uid": "umsz7c723tzfx54",
@@ -371,7 +371,7 @@
       "_dragStartY": 0,
       "_dragged": false,
       "budget": 3000,
-      "color": "#2E9E6B",
+      "color": "#34A853",
       "_rawX": 0,
       "_rawY": 0,
       "_candidatos": null,
