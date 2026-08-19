@@ -2,7 +2,7 @@
   "meta": {
     "nome": "[Microkids] - Setembro a Dezembro",
     "salvoPor": "Matheus",
-    "salvoEm": "2026-08-19T03:40:02.808Z",
+    "salvoEm": "2026-08-19T03:41:23.498Z",
     "resumo": {
       "google": {
         "campanhas": 3,
@@ -1107,10 +1107,18 @@
       "borda": false
     },
     "relatorio": {
-      "rotulos": true,
-      "gradiente": true,
-      "coloridos": true,
-      "blocos": true
+      "geral": {
+        "rotulos": true,
+        "gradiente": true,
+        "coloridos": "borda",
+        "blocos": "borda"
+      },
+      "verba": {
+        "rotulos": true,
+        "gradiente": true,
+        "coloridos": "borda",
+        "blocos": "borda"
+      }
     }
   }
 }
