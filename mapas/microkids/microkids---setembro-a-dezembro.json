@@ -2,7 +2,7 @@
   "meta": {
     "nome": "[Microkids] - Setembro a Dezembro",
     "salvoPor": "Matheus",
-    "salvoEm": "2026-08-18T21:56:28.544Z",
+    "salvoEm": "2026-08-19T02:11:08.910Z",
     "resumo": {
       "google": {
         "campanhas": 2,
@@ -244,7 +244,8 @@
       "_dragStartX": 0,
       "_dragStartY": 0,
       "_dragged": false,
-      "budget": 4000
+      "budget": 4000,
+      "color": "#2E9E6B"
     },
     "meta": {
       "name": "Meta Ads",
