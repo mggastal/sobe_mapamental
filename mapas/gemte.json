@@ -2,7 +2,7 @@
   "meta": {
     "nome": "gemte",
     "salvoPor": "Matheus",
-    "salvoEm": "2026-08-19T13:40:00.753Z",
+    "salvoEm": "2026-08-19T13:40:10.236Z",
     "resumo": {
       "google": {
         "campanhas": 4,
@@ -1353,18 +1353,49 @@
               "suggestion": false,
               "budget": 500,
               "uid": "uis00le1c4qbf",
-              "id": "n64"
+              "id": "n64",
+              "_lines": [
+                "Interesses amplos"
+              ],
+              "_apoio": [
+                "R$ 500,00/mês · 100,0%"
+              ],
+              "_w": 136.5,
+              "_h": 36
             }
           ],
           "budget": 500,
           "uid": "ujpxpkg6afen7",
-          "id": "n63"
+          "id": "n63",
+          "_lines": [
+            "Distribuição de conteúdo"
+          ],
+          "_apoio": [
+            "R$ 500,00/mês · 100,0%"
+          ],
+          "_w": 195,
+          "_h": 51.375
         }
       ],
       "tracos": [],
       "notas": [],
       "uid": "u7p07rsmm4dax",
-      "id": "n62"
+      "id": "n62",
+      "_lines": [
+        "Meta Ads"
+      ],
+      "_apoio": [
+        "Campanhas e públicos"
+      ],
+      "_w": 172,
+      "_h": 84.625,
+      "_dragStartX": 0,
+      "_dragStartY": 0,
+      "_dragged": false,
+      "_rawX": 0,
+      "_rawY": 0,
+      "_candidatos": null,
+      "color": "#0866FF"
     },
     "linkedin": {
       "name": "LinkedIn Ads",
