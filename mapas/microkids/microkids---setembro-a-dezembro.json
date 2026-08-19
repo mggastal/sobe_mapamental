@@ -2,7 +2,7 @@
   "meta": {
     "nome": "[Microkids] - Setembro a Dezembro",
     "salvoPor": "Matheus",
-    "salvoEm": "2026-08-19T03:33:47.464Z",
+    "salvoEm": "2026-08-19T03:33:58.104Z",
     "resumo": {
       "google": {
         "campanhas": 3,
@@ -766,7 +766,7 @@
       "children": [
         {
           "name": "Distribuição de conteúdo",
-          "color": "#3B82C4",
+          "color": "#0A66C2",
           "x": 258.4722480773926,
           "y": -57.50925302505493,
           "collapsed": false,
@@ -837,12 +837,12 @@
           "_w": 195,
           "_h": 62.375,
           "_dragStartX": 258.4722480773926,
-          "_dragStartY": -49.35300302505493,
+          "_dragStartY": -57.50925302505493,
           "_dragged": false,
           "note": "Foco para crescimento da página",
           "budget": 1000,
           "_rawX": 258.4722480773926,
-          "_rawY": -49.35300302505493,
+          "_rawY": -57.50925302505493,
           "_candidatos": null
         },
         {
@@ -935,7 +935,8 @@
       "budget": 1500,
       "_rawX": 2.972248077392578,
       "_rawY": 0.9907469749450684,
-      "_candidatos": null
+      "_candidatos": null,
+      "color": "#0A66C2"
     },
     "tiktok": {
       "name": "TikTok Ads",
