@@ -2,21 +2,21 @@
   "meta": {
     "nome": "[Microkids] - Setembro a Dezembro",
     "salvoPor": "Matheus",
-    "salvoEm": "2026-08-19T02:21:30.989Z",
+    "salvoEm": "2026-08-19T02:23:18.529Z",
     "resumo": {
       "google": {
         "campanhas": 2,
-        "verba": 4000,
+        "verba": 3000,
         "inativa": false
       },
       "meta": {
         "campanhas": 2,
-        "verba": 4000,
+        "verba": 6000,
         "inativa": false
       },
       "linkedin": {
         "campanhas": 2,
-        "verba": 1400,
+        "verba": 1500,
         "inativa": false
       },
       "tiktok": {
@@ -234,7 +234,7 @@
         "Google Ads"
       ],
       "_apoio": [
-        "R$ 4.000,00/mês",
+        "R$ 3.000,00/mês",
         "Campanhas"
       ],
       "_w": 172,
@@ -244,7 +244,7 @@
       "_dragStartX": 0,
       "_dragStartY": 0,
       "_dragged": false,
-      "budget": 4000,
+      "budget": 3000,
       "color": "#2E9E6B"
     },
     "meta": {
@@ -256,7 +256,7 @@
       "suggestion": false,
       "children": [
         {
-          "name": "Conversão",
+          "name": "Webnar",
           "color": "#1B2F6A",
           "x": 260.9090909957886,
           "y": -140,
@@ -265,7 +265,7 @@
           "children": [
             {
               "name": "Remarketing — site 30d",
-              "x": 540.9090909957886,
+              "x": 547.0741758346558,
               "y": -230,
               "collapsed": false,
               "suggestion": false,
@@ -275,8 +275,14 @@
                 "Remarketing — site 30d"
               ],
               "_apoio": [],
-              "_w": 169,
-              "_h": 36
+              "_w": 181.33016967773438,
+              "_h": 36,
+              "_dragStartX": 540.9090909957886,
+              "_dragStartY": -230,
+              "_dragged": false,
+              "_w0": 169,
+              "_resized": true,
+              "width": 181.33016967773438
             },
             {
               "name": "Lookalike 1% — compradores",
@@ -327,11 +333,17 @@
           "uid": "umsz7c72300loug",
           "id": "n15",
           "_lines": [
-            "Conversão"
+            "Webnar"
           ],
-          "_apoio": [],
+          "_apoio": [
+            "R$ 2.000,00/mês · 33,3%"
+          ],
           "_w": 195,
-          "_h": 40
+          "_h": 51.375,
+          "_dragStartX": 260.9090909957886,
+          "_dragStartY": -140,
+          "_dragged": false,
+          "budget": 2000
         },
         {
           "name": "Reconhecimento",
@@ -388,38 +400,39 @@
         "Meta Ads"
       ],
       "_apoio": [
-        "R$ 4.000,00/mês",
+        "R$ 6.000,00/mês",
+        "⚠ faltam R$ 4.000,00 a distribuir",
         "Campanhas e públicos"
       ],
       "_w": 172,
-      "_h": 95.625,
+      "_h": 106.625,
       "tracos": [],
       "notas": [],
-      "_dragStartX": 0,
+      "_dragStartX": 0.9090909957885742,
       "_dragStartY": 0,
       "_dragged": false,
-      "budget": 4000
+      "budget": 6000
     },
     "linkedin": {
       "name": "LinkedIn Ads",
       "note": "Campanhas e públicos",
-      "x": 0.990753173828125,
-      "y": 0,
+      "x": 2.972248077392578,
+      "y": 0.9907469749450684,
       "collapsed": false,
       "suggestion": false,
       "children": [
         {
           "name": "Distribuição de conteúdo",
           "color": "#3B82C4",
-          "x": 281.64935302734375,
-          "y": -126.35347747802734,
+          "x": 258.4722480773926,
+          "y": -49.35300302505493,
           "collapsed": false,
           "suggestion": false,
           "children": [
             {
               "name": "Cargos",
-              "x": 578.4229164123535,
-              "y": -199.8650894165039,
+              "x": 526.9110946655273,
+              "y": -80.35300302505493,
               "collapsed": false,
               "suggestion": false,
               "uid": "umsz7c723lp59hc",
@@ -439,8 +452,8 @@
             },
             {
               "name": "Look a like lista de leads",
-              "x": 580.0822143554688,
-              "y": -81.06720733642578,
+              "x": 525.4722480773926,
+              "y": -18.35300302505493,
               "collapsed": false,
               "suggestion": false,
               "uid": "umsz7c723bzj2x7",
@@ -463,7 +476,7 @@
             "Distribuição de conteúdo"
           ],
           "_apoio": [
-            "R$ 1.000,00/mês · 71,4%",
+            "R$ 1.000,00/mês · 66,7%",
             "Foco para crescimento da página"
           ],
           "_w": 195,
@@ -477,8 +490,8 @@
         {
           "name": "LinkedIn Page Premium",
           "color": "#3B82C4",
-          "x": 282.15013122558594,
-          "y": 132.97223663330078,
+          "x": 258.4722480773926,
+          "y": 51.33449697494507,
           "collapsed": false,
           "suggestion": false,
           "children": [],
@@ -488,15 +501,15 @@
             "LinkedIn Page Premium"
           ],
           "_apoio": [
-            "R$ 400,00/mês · 28,6%"
+            "R$ 500,00/mês · 33,3%"
           ],
           "_w": 195,
           "_h": 51.375,
-          "_dragStartX": 265.3074493408203,
-          "_dragStartY": 126.0370101928711,
-          "_dragged": true,
+          "_dragStartX": 282.15013122558594,
+          "_dragStartY": 132.97223663330078,
+          "_dragged": false,
           "note": "",
-          "budget": 400
+          "budget": 500
         }
       ],
       "uid": "umsz7c723g7kp3p",
@@ -505,7 +518,7 @@
         "LinkedIn Ads"
       ],
       "_apoio": [
-        "R$ 1.400,00/mês",
+        "R$ 1.500,00/mês",
         "Campanhas e públicos"
       ],
       "_w": 172,
@@ -515,21 +528,24 @@
         {
           "id": "nota-mszgpc71nhy",
           "x": -95.89306640625,
-          "y": 191.35042572021484,
+          "y": 98.62315368652344,
           "w": 697.6778564453125,
           "text": "O LinkedIn Page Premium é uma assinatura que ajuda você a destacar sua página e a converter mais usuários do LinkedIn em clientes para sua empresa. A LinkedIn Page Premium dá acesso a determinadas funcionalidades que só estão disponíveis para assinantes premium. Todos os administradores da página que têm uma assinatura da LinkedIn Page Premium podem usar os recursos Premium.",
-          "_h": 102.375,
-          "_moveu": true,
+          "_h": 77.4,
+          "_moveu": false,
           "bold": true,
           "invisivel": true,
-          "fs": 12.5,
-          "uid": "nota-mszgpc71nhy"
+          "fs": 11,
+          "uid": "nota-mszgpc71nhy",
+          "bg": "#FFF9E8",
+          "br": "#E4C97E",
+          "italic": true
         }
       ],
-      "_dragStartX": 0.990753173828125,
-      "_dragStartY": 0,
+      "_dragStartX": 2.972248077392578,
+      "_dragStartY": 0.9907469749450684,
       "_dragged": false,
-      "budget": 1400
+      "budget": 1500
     },
     "tiktok": {
       "name": "TikTok Ads",
