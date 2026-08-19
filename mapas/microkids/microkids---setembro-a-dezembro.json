@@ -2,7 +2,7 @@
   "meta": {
     "nome": "[Microkids] - Setembro a Dezembro",
     "salvoPor": "Matheus",
-    "salvoEm": "2026-08-19T02:46:06.656Z",
+    "salvoEm": "2026-08-19T02:46:34.245Z",
     "resumo": {
       "google": {
         "campanhas": 3,
@@ -729,7 +729,10 @@
       "_dragStartX": 2.972248077392578,
       "_dragStartY": 0.9907469749450684,
       "_dragged": false,
-      "budget": 1500
+      "budget": 1500,
+      "_rawX": 2.972248077392578,
+      "_rawY": 0.9907469749450684,
+      "_candidatos": null
     },
     "tiktok": {
       "name": "TikTok Ads",
@@ -814,16 +817,16 @@
         },
         {
           "name": "Alcance",
-          "color": "#328596",
+          "color": "#000000",
           "x": 260,
-          "y": 140,
+          "y": 140.90908813476562,
           "collapsed": false,
           "suggestion": false,
           "children": [
             {
               "name": "Região",
-              "x": 540.9090881347656,
-              "y": 110,
+              "x": 541.8181762695312,
+              "y": 110.90908813476562,
               "collapsed": false,
               "suggestion": false,
               "uid": "umsz7c723baowx6",
@@ -837,8 +840,8 @@
             },
             {
               "name": "Engajou com o perfil",
-              "x": 540.9090881347656,
-              "y": 170,
+              "x": 541.8181762695312,
+              "y": 170.90908813476562,
               "collapsed": false,
               "suggestion": false,
               "uid": "umsz7c7239odfm4",
@@ -865,7 +868,7 @@
           "_dragStartY": 140,
           "_dragged": false,
           "_rawX": 260.9090881347656,
-          "_rawY": 140,
+          "_rawY": 140.90908813476562,
           "_candidatos": null,
           "budget": 100
         }
