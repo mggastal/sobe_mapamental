@@ -1,0 +1,522 @@
+{
+  "meta": {
+    "nome": "Doctor G",
+    "salvoPor": "Tais Jeronimo",
+    "salvoEm": "2026-08-25T21:50:06.291Z",
+    "resumo": {
+      "google": {
+        "campanhas": 2,
+        "verba": 0,
+        "inativa": false
+      },
+      "meta": {
+        "campanhas": 2,
+        "verba": 0,
+        "inativa": false
+      },
+      "linkedin": {
+        "campanhas": 0,
+        "verba": 0,
+        "inativa": true
+      },
+      "tiktok": {
+        "campanhas": 0,
+        "verba": 0,
+        "inativa": true
+      }
+    },
+    "logo": ""
+  },
+  "data": {
+    "google": {
+      "name": "Google Ads",
+      "note": "Campanhas",
+      "suggestion": false,
+      "x": 0,
+      "y": 0,
+      "collapsed": false,
+      "children": [
+        {
+          "name": "Campanha 1",
+          "color": "#1B2F6A",
+          "suggestion": false,
+          "x": 260,
+          "y": -80,
+          "collapsed": false,
+          "children": [
+            {
+              "name": "Grupo de anúncios 1",
+              "suggestion": false,
+              "x": 540,
+              "y": -140,
+              "collapsed": false,
+              "children": [
+                {
+                  "name": "palavra-chave 1",
+                  "suggestion": false,
+                  "x": 820,
+                  "y": -170,
+                  "collapsed": false,
+                  "uid": "umt977lzz3qodl2",
+                  "id": "n4",
+                  "_lines": [
+                    "palavra-chave 1"
+                  ],
+                  "_apoio": [],
+                  "_w": 109.7,
+                  "_h": 27
+                },
+                {
+                  "name": "palavra-chave 2",
+                  "suggestion": false,
+                  "x": 820,
+                  "y": -140,
+                  "collapsed": false,
+                  "uid": "umt977lzzjvg8w5",
+                  "id": "n5",
+                  "_lines": [
+                    "palavra-chave 2"
+                  ],
+                  "_apoio": [],
+                  "_w": 109.7,
+                  "_h": 27
+                },
+                {
+                  "name": "palavra-chave 3",
+                  "suggestion": false,
+                  "x": 820,
+                  "y": -110,
+                  "collapsed": false,
+                  "uid": "umt977lzzk4xive",
+                  "id": "n6",
+                  "_lines": [
+                    "palavra-chave 3"
+                  ],
+                  "_apoio": [],
+                  "_w": 109.7,
+                  "_h": 27
+                }
+              ],
+              "uid": "umt977lzzx0uhsq",
+              "id": "n3",
+              "_lines": [
+                "Grupo de anúncios 1"
+              ],
+              "_apoio": [],
+              "_w": 149.5,
+              "_h": 36
+            },
+            {
+              "name": "Grupo de anúncios 2",
+              "suggestion": false,
+              "x": 540,
+              "y": -20,
+              "collapsed": false,
+              "children": [
+                {
+                  "name": "palavra-chave 1",
+                  "suggestion": false,
+                  "x": 820,
+                  "y": -35,
+                  "collapsed": false,
+                  "uid": "umt977lzza9s5i3",
+                  "id": "n8",
+                  "_lines": [
+                    "palavra-chave 1"
+                  ],
+                  "_apoio": [],
+                  "_w": 109.7,
+                  "_h": 27
+                },
+                {
+                  "name": "palavra-chave 2",
+                  "suggestion": false,
+                  "x": 820,
+                  "y": -5,
+                  "collapsed": false,
+                  "uid": "umt977lzzc1krlz",
+                  "id": "n9",
+                  "_lines": [
+                    "palavra-chave 2"
+                  ],
+                  "_apoio": [],
+                  "_w": 109.7,
+                  "_h": 27
+                }
+              ],
+              "uid": "umt977lzz6kpb13",
+              "id": "n7",
+              "_lines": [
+                "Grupo de anúncios 2"
+              ],
+              "_apoio": [],
+              "_w": 149.5,
+              "_h": 36
+            }
+          ],
+          "uid": "umt977lzzfjcawm",
+          "id": "n2",
+          "_lines": [
+            "Campanha 1"
+          ],
+          "_apoio": [],
+          "_w": 195,
+          "_h": 40
+        },
+        {
+          "name": "Campanha 2",
+          "color": "#328596",
+          "suggestion": false,
+          "x": 260,
+          "y": 110,
+          "collapsed": false,
+          "children": [
+            {
+              "name": "Grupo de anúncios 1",
+              "suggestion": false,
+              "x": 540,
+              "y": 110,
+              "collapsed": false,
+              "children": [
+                {
+                  "name": "palavra-chave 1",
+                  "suggestion": false,
+                  "x": 820,
+                  "y": 95,
+                  "collapsed": false,
+                  "uid": "umt977lzz5nve10",
+                  "id": "n12",
+                  "_lines": [
+                    "palavra-chave 1"
+                  ],
+                  "_apoio": [],
+                  "_w": 109.7,
+                  "_h": 27
+                },
+                {
+                  "name": "palavra-chave 2",
+                  "suggestion": false,
+                  "x": 820,
+                  "y": 125,
+                  "collapsed": false,
+                  "uid": "umt977lzz86fkie",
+                  "id": "n13",
+                  "_lines": [
+                    "palavra-chave 2"
+                  ],
+                  "_apoio": [],
+                  "_w": 109.7,
+                  "_h": 27
+                }
+              ],
+              "uid": "umt977lzzpi6dln",
+              "id": "n11",
+              "_lines": [
+                "Grupo de anúncios 1"
+              ],
+              "_apoio": [],
+              "_w": 149.5,
+              "_h": 36
+            }
+          ],
+          "uid": "umt977lzzi9cbku",
+          "id": "n10",
+          "_lines": [
+            "Campanha 2"
+          ],
+          "_apoio": [],
+          "_w": 195,
+          "_h": 40
+        }
+      ],
+      "uid": "umt977lzzn9qprl",
+      "id": "n1",
+      "_lines": [
+        "Google Ads"
+      ],
+      "_apoio": [
+        "Campanhas"
+      ],
+      "_w": 172,
+      "_h": 84.625,
+      "tracos": [],
+      "notas": []
+    },
+    "meta": {
+      "name": "Meta Ads",
+      "note": "Campanhas e públicos",
+      "x": 0,
+      "y": 0,
+      "collapsed": false,
+      "suggestion": false,
+      "children": [
+        {
+          "name": "Conversão",
+          "color": "#1B2F6A",
+          "x": 260,
+          "y": -140,
+          "collapsed": false,
+          "suggestion": false,
+          "children": [
+            {
+              "name": "Remarketing — site 30d",
+              "x": 540,
+              "y": -230,
+              "collapsed": false,
+              "suggestion": false,
+              "uid": "umt977lzzvffrgn",
+              "id": "n16"
+            },
+            {
+              "name": "Lookalike 1% — compradores",
+              "x": 540,
+              "y": -170,
+              "collapsed": false,
+              "suggestion": false,
+              "uid": "umt977lzzbro3zn",
+              "id": "n17"
+            },
+            {
+              "name": "Interesses",
+              "x": 540,
+              "y": -110,
+              "collapsed": false,
+              "suggestion": false,
+              "uid": "umt977lzzbkv3wz",
+              "id": "n18"
+            },
+            {
+              "name": "Advantage+ (aberto)",
+              "x": 540,
+              "y": -50,
+              "collapsed": false,
+              "suggestion": false,
+              "uid": "umt977lzzicqgx1",
+              "id": "n19"
+            }
+          ],
+          "uid": "umt977lzz1p0dyu",
+          "id": "n15"
+        },
+        {
+          "name": "Reconhecimento",
+          "color": "#328596",
+          "x": 260,
+          "y": 150,
+          "collapsed": false,
+          "suggestion": false,
+          "children": [
+            {
+              "name": "Ampla — região",
+              "x": 540,
+              "y": 110,
+              "collapsed": false,
+              "suggestion": false,
+              "uid": "umt977lzzpummmm",
+              "id": "n21"
+            },
+            {
+              "name": "Interesses amplos",
+              "x": 540,
+              "y": 175,
+              "collapsed": false,
+              "suggestion": false,
+              "uid": "umt977lzz39f190",
+              "id": "n22"
+            }
+          ],
+          "uid": "umt977lzzplmp95",
+          "id": "n20"
+        }
+      ],
+      "uid": "umt977lzzukbcbj",
+      "id": "n14"
+    },
+    "linkedin": {
+      "name": "LinkedIn Ads",
+      "note": "Campanhas e públicos",
+      "inativa": true,
+      "x": 0,
+      "y": 0,
+      "collapsed": false,
+      "suggestion": false,
+      "children": [
+        {
+          "name": "Geração de leads",
+          "color": "#0A66C2",
+          "x": 260,
+          "y": -120,
+          "collapsed": false,
+          "suggestion": false,
+          "children": [
+            {
+              "name": "Cargo + setor",
+              "x": 540,
+              "y": -190,
+              "collapsed": false,
+              "suggestion": false,
+              "uid": "umt977lzz4a5ys1",
+              "id": "n25"
+            },
+            {
+              "name": "Empresas-alvo (ABM)",
+              "x": 540,
+              "y": -130,
+              "collapsed": false,
+              "suggestion": false,
+              "uid": "umt977lzzcv86kg",
+              "id": "n26"
+            },
+            {
+              "name": "Lookalike de clientes",
+              "x": 540,
+              "y": -70,
+              "collapsed": false,
+              "suggestion": false,
+              "uid": "umt977lzzzhghn3",
+              "id": "n27"
+            }
+          ],
+          "uid": "umt977lzz0d8c6d",
+          "id": "n24"
+        },
+        {
+          "name": "Reconhecimento",
+          "color": "#328596",
+          "x": 260,
+          "y": 130,
+          "collapsed": false,
+          "suggestion": false,
+          "children": [
+            {
+              "name": "Interesses profissionais",
+              "x": 540,
+              "y": 100,
+              "collapsed": false,
+              "suggestion": false,
+              "uid": "umt977lzz1h1t7t",
+              "id": "n29"
+            },
+            {
+              "name": "Seguidores da página",
+              "x": 540,
+              "y": 160,
+              "collapsed": false,
+              "suggestion": false,
+              "uid": "umt977lzz4w5plj",
+              "id": "n30"
+            }
+          ],
+          "uid": "umt977lzznxegqv",
+          "id": "n28"
+        }
+      ],
+      "uid": "umt977lzz8ebk8d",
+      "id": "n23"
+    },
+    "tiktok": {
+      "name": "TikTok Ads",
+      "note": "Campanhas e públicos",
+      "color": "#111111",
+      "inativa": true,
+      "x": 0,
+      "y": 0,
+      "collapsed": false,
+      "suggestion": false,
+      "children": [
+        {
+          "name": "Conversão",
+          "color": "#111111",
+          "x": 260,
+          "y": -130,
+          "collapsed": false,
+          "suggestion": false,
+          "children": [
+            {
+              "name": "Ampla (sem segmentação)",
+              "x": 540,
+              "y": -200,
+              "collapsed": false,
+              "suggestion": false,
+              "uid": "umt977lzzw1w9bw",
+              "id": "n33"
+            },
+            {
+              "name": "Interesses e comportamentos",
+              "x": 540,
+              "y": -140,
+              "collapsed": false,
+              "suggestion": false,
+              "uid": "umt977lzz5z065b",
+              "id": "n34"
+            },
+            {
+              "name": "Lookalike de compradores",
+              "x": 540,
+              "y": -80,
+              "collapsed": false,
+              "suggestion": false,
+              "uid": "umt977lzzre18iu",
+              "id": "n35"
+            }
+          ],
+          "uid": "umt977lzzkfsoxk",
+          "id": "n32"
+        },
+        {
+          "name": "Alcance",
+          "color": "#328596",
+          "x": 260,
+          "y": 140,
+          "collapsed": false,
+          "suggestion": false,
+          "children": [
+            {
+              "name": "Região",
+              "x": 540,
+              "y": 110,
+              "collapsed": false,
+              "suggestion": false,
+              "uid": "umt977lzznhhpgj",
+              "id": "n37"
+            },
+            {
+              "name": "Engajou com o perfil",
+              "x": 540,
+              "y": 170,
+              "collapsed": false,
+              "suggestion": false,
+              "uid": "umt977lzzl05tfw",
+              "id": "n38"
+            }
+          ],
+          "uid": "umt977lzzifyk0g",
+          "id": "n36"
+        }
+      ],
+      "uid": "umt977lzzb89pev",
+      "id": "n31"
+    },
+    "cliente": "Doctor G",
+    "estilo": {
+      "cantos": "suave",
+      "sombra": false,
+      "gradiente": false,
+      "borda": false
+    },
+    "relatorio": {
+      "geral": {
+        "rotulos": true,
+        "gradiente": false,
+        "coloridos": "",
+        "blocos": ""
+      },
+      "verba": {
+        "rotulos": true,
+        "gradiente": false,
+        "coloridos": "",
+        "blocos": ""
+      }
+    }
+  }
+}
