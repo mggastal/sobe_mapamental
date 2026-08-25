@@ -2,11 +2,11 @@
   "meta": {
     "nome": "Doctor G",
     "salvoPor": "Tais Jeronimo",
-    "salvoEm": "2026-08-25T21:50:06.291Z",
+    "salvoEm": "2026-08-25T22:30:04.193Z",
     "resumo": {
       "google": {
-        "campanhas": 2,
-        "verba": 0,
+        "campanhas": 3,
+        "verba": 300,
         "inativa": false
       },
       "meta": {
@@ -32,201 +32,488 @@
       "name": "Google Ads",
       "note": "Campanhas",
       "suggestion": false,
-      "x": 0,
-      "y": 0,
+      "x": -6.363637924194336,
+      "y": -167.27272248268127,
       "collapsed": false,
       "children": [
         {
-          "name": "Campanha 1",
+          "name": "Branding",
           "color": "#1B2F6A",
           "suggestion": false,
-          "x": 260,
-          "y": -80,
+          "x": 249.13636207580566,
+          "y": -473.2727224826813,
           "collapsed": false,
           "children": [
             {
-              "name": "Grupo de anúncios 1",
+              "name": "Marca",
               "suggestion": false,
-              "x": 540,
-              "y": -140,
+              "x": 463.63636207580566,
+              "y": -473.2727224826813,
               "collapsed": false,
               "children": [
                 {
-                  "name": "palavra-chave 1",
+                  "name": "Doctor G",
                   "suggestion": false,
-                  "x": 820,
-                  "y": -170,
+                  "x": 732.971513748169,
+                  "y": -609.7727224826813,
                   "collapsed": false,
                   "uid": "umt977lzz3qodl2",
                   "id": "n4",
                   "_lines": [
-                    "palavra-chave 1"
+                    "Doctor G"
                   ],
                   "_apoio": [],
-                  "_w": 109.7,
-                  "_h": 27
+                  "_w": 146.67030334472656,
+                  "_h": 27,
+                  "_dragStartX": 698.6227146148682,
+                  "_dragStartY": -319.85228180885315,
+                  "_dragged": false,
+                  "_rawX": 698.6227146148682,
+                  "_rawY": -319.85228180885315,
+                  "_candidatos": null,
+                  "match": "exata",
+                  "_w0": 152.44054412841797,
+                  "_resized": true,
+                  "_resto": 0,
+                  "width": 146.67030334472656
                 },
                 {
-                  "name": "palavra-chave 2",
+                  "name": "Doctor G",
                   "suggestion": false,
-                  "x": 820,
-                  "y": -140,
+                  "x": 728.1363620758057,
+                  "y": -570.7727224826813,
                   "collapsed": false,
                   "uid": "umt977lzzjvg8w5",
                   "id": "n5",
                   "_lines": [
-                    "palavra-chave 2"
+                    "Doctor G"
                   ],
                   "_apoio": [],
-                  "_w": 109.7,
-                  "_h": 27
+                  "_w": 137,
+                  "_h": 27,
+                  "_dragStartX": 650.1363620758057,
+                  "_dragStartY": -413.2727224826813,
+                  "_dragged": false,
+                  "_rawX": 650.1363620758057,
+                  "_rawY": -413.2727224826813,
+                  "_candidatos": null,
+                  "match": "frase",
+                  "children": []
                 },
                 {
-                  "name": "palavra-chave 3",
+                  "name": "Vitala Doctor G",
                   "suggestion": false,
-                  "x": 820,
-                  "y": -110,
+                  "x": 737.9863620758057,
+                  "y": -531.7727224826813,
                   "collapsed": false,
                   "uid": "umt977lzzk4xive",
                   "id": "n6",
                   "_lines": [
-                    "palavra-chave 3"
+                    "Vitala Doctor G"
                   ],
                   "_apoio": [],
-                  "_w": 109.7,
-                  "_h": 27
+                  "_w": 156.7,
+                  "_h": 27,
+                  "_dragStartX": 650.1363620758057,
+                  "_dragStartY": -531.7727224826813,
+                  "_dragged": true,
+                  "_rawX": 650.1363620758057,
+                  "_rawY": -531.7727224826813,
+                  "_candidatos": null,
+                  "match": "exata",
+                  "children": [],
+                  "_w0": 137,
+                  "_resized": false,
+                  "_resto": 0
+                },
+                {
+                  "name": "Vitala Doctor G",
+                  "suggestion": false,
+                  "x": 737.9863620758057,
+                  "y": -492.7727224826813,
+                  "children": [],
+                  "id": "n45",
+                  "collapsed": false,
+                  "_lines": [
+                    "Vitala Doctor G"
+                  ],
+                  "_apoio": [],
+                  "_w": 156.7,
+                  "_h": 27,
+                  "_dragStartX": 650.1363620758057,
+                  "_dragStartY": -492.7727224826813,
+                  "_dragged": false,
+                  "_rawX": 650.1363620758057,
+                  "_rawY": -492.7727224826813,
+                  "_candidatos": null,
+                  "match": "frase",
+                  "uid": "umt98myb3j1wjy3"
+                },
+                {
+                  "name": "doctor g veterinário",
+                  "suggestion": false,
+                  "x": 751.9363620758056,
+                  "y": -453.7727224826813,
+                  "children": [],
+                  "id": "n56",
+                  "collapsed": false,
+                  "_lines": [
+                    "doctor g veterinário"
+                  ],
+                  "_apoio": [],
+                  "_w": 184.6,
+                  "_h": 27,
+                  "_dragStartX": 673.9363620758056,
+                  "_dragStartY": -366.0227224826813,
+                  "_dragged": false,
+                  "_rawX": 673.9363620758056,
+                  "_rawY": -366.0227224826813,
+                  "_candidatos": null,
+                  "match": "exata",
+                  "uid": "umt98myb34kd4p1"
+                },
+                {
+                  "name": "doctor g veterinário",
+                  "suggestion": false,
+                  "x": 751.9363620758056,
+                  "y": -414.7727224826813,
+                  "children": [],
+                  "id": "n58",
+                  "collapsed": false,
+                  "_lines": [
+                    "doctor g veterinário"
+                  ],
+                  "_apoio": [],
+                  "_w": 184.6,
+                  "_h": 27,
+                  "match": "frase",
+                  "_dragStartX": 615.7141025543212,
+                  "_dragStartY": -454.8574392795563,
+                  "_dragged": false,
+                  "_rawX": 615.7141025543212,
+                  "_rawY": -454.8574392795563,
+                  "_candidatos": null,
+                  "uid": "umt98myb303ysj1"
+                },
+                {
+                  "name": "doctor g telefone/endereço",
+                  "suggestion": false,
+                  "x": 768.6763620758056,
+                  "y": -375.7727224826813,
+                  "children": [],
+                  "id": "n60",
+                  "collapsed": false,
+                  "_lines": [
+                    "doctor g telefone/endereço"
+                  ],
+                  "_apoio": [],
+                  "_w": 218.08,
+                  "_h": 27,
+                  "match": "exata",
+                  "uid": "umt98myb3gejeh1"
+                },
+                {
+                  "name": "doctor g telefone/endereç",
+                  "suggestion": false,
+                  "x": 765.8863620758057,
+                  "y": -336.7727224826813,
+                  "children": [],
+                  "id": "n61",
+                  "collapsed": false,
+                  "_lines": [
+                    "doctor g telefone/endereç"
+                  ],
+                  "_apoio": [],
+                  "_w": 212.5,
+                  "_h": 27,
+                  "match": "frase",
+                  "uid": "umt98myb367o20e"
                 }
               ],
               "uid": "umt977lzzx0uhsq",
               "id": "n3",
               "_lines": [
-                "Grupo de anúncios 1"
+                "Marca"
               ],
               "_apoio": [],
-              "_w": 149.5,
-              "_h": 36
-            },
-            {
-              "name": "Grupo de anúncios 2",
-              "suggestion": false,
-              "x": 540,
-              "y": -20,
-              "collapsed": false,
-              "children": [
-                {
-                  "name": "palavra-chave 1",
-                  "suggestion": false,
-                  "x": 820,
-                  "y": -35,
-                  "collapsed": false,
-                  "uid": "umt977lzza9s5i3",
-                  "id": "n8",
-                  "_lines": [
-                    "palavra-chave 1"
-                  ],
-                  "_apoio": [],
-                  "_w": 109.7,
-                  "_h": 27
-                },
-                {
-                  "name": "palavra-chave 2",
-                  "suggestion": false,
-                  "x": 820,
-                  "y": -5,
-                  "collapsed": false,
-                  "uid": "umt977lzzc1krlz",
-                  "id": "n9",
-                  "_lines": [
-                    "palavra-chave 2"
-                  ],
-                  "_apoio": [],
-                  "_w": 109.7,
-                  "_h": 27
-                }
-              ],
-              "uid": "umt977lzz6kpb13",
-              "id": "n7",
-              "_lines": [
-                "Grupo de anúncios 2"
-              ],
-              "_apoio": [],
-              "_w": 149.5,
-              "_h": 36
+              "_w": 90,
+              "_h": 36,
+              "_dragStartX": 463.63636207580566,
+              "_dragStartY": -444.0227224826813,
+              "_dragged": true,
+              "_rawX": 405.4141025543213,
+              "_rawY": -566.8574392795563,
+              "_candidatos": null
             }
           ],
           "uid": "umt977lzzfjcawm",
           "id": "n2",
           "_lines": [
-            "Campanha 1"
+            "Branding"
           ],
-          "_apoio": [],
+          "_apoio": [
+            "R$ 60,00/mês · 20,0%"
+          ],
           "_w": 195,
-          "_h": 40
+          "_h": 51.375,
+          "_dragStartX": 253.63636207580566,
+          "_dragStartY": -240.77272248268127,
+          "_dragged": false,
+          "_rawX": 253.63636207580566,
+          "_rawY": -240.77272248268127,
+          "_candidatos": null,
+          "budget": 60
         },
         {
-          "name": "Campanha 2",
+          "name": "Serviços",
           "color": "#328596",
           "suggestion": false,
-          "x": 260,
-          "y": 110,
+          "x": 249.13636207580566,
+          "y": -74.27272248268127,
           "collapsed": false,
           "children": [
             {
-              "name": "Grupo de anúncios 1",
+              "name": "Consulta",
               "suggestion": false,
-              "x": 540,
-              "y": 110,
+              "x": 463.63636207580566,
+              "y": -225.27272248268127,
               "collapsed": false,
               "children": [
                 {
-                  "name": "palavra-chave 1",
+                  "name": "consulta veterinária perto de mim ",
                   "suggestion": false,
-                  "x": 820,
-                  "y": 95,
+                  "x": 788.2063620758056,
+                  "y": -283.7727224826813,
                   "collapsed": false,
                   "uid": "umt977lzz5nve10",
                   "id": "n12",
                   "_lines": [
-                    "palavra-chave 1"
+                    "consulta veterinária perto de mim"
                   ],
                   "_apoio": [],
-                  "_w": 109.7,
-                  "_h": 27
+                  "_w": 257.14,
+                  "_h": 27,
+                  "_dragStartX": 710.2063620758056,
+                  "_dragStartY": -283.7727224826813,
+                  "_dragged": false,
+                  "_rawX": 710.2063620758056,
+                  "_rawY": -283.7727224826813,
+                  "_candidatos": null,
+                  "match": "exata"
                 },
                 {
-                  "name": "palavra-chave 2",
+                  "name": "consulta veterinária perto de mim ",
                   "suggestion": false,
-                  "x": 820,
-                  "y": 125,
+                  "x": 788.2063620758056,
+                  "y": -244.77272248268127,
                   "collapsed": false,
                   "uid": "umt977lzz86fkie",
                   "id": "n13",
                   "_lines": [
-                    "palavra-chave 2"
+                    "consulta veterinária perto de mim"
                   ],
                   "_apoio": [],
-                  "_w": 109.7,
-                  "_h": 27
+                  "_w": 257.14,
+                  "_h": 27,
+                  "_dragStartX": 636.4863620758057,
+                  "_dragStartY": -246.27272248268127,
+                  "_dragged": true,
+                  "_rawX": 698.8196750640869,
+                  "_rawY": -250.6060507297516,
+                  "_candidatos": null,
+                  "match": "frase"
+                },
+                {
+                  "name": "clínica veterinária [cidade] ",
+                  "suggestion": false,
+                  "x": 774.2563620758057,
+                  "y": -205.77272248268127,
+                  "children": [],
+                  "id": "n50",
+                  "collapsed": false,
+                  "_lines": [
+                    "clínica veterinária [cidade]"
+                  ],
+                  "_apoio": [],
+                  "_w": 229.24,
+                  "_h": 27,
+                  "match": "exata",
+                  "_dragStartX": 698.8196750640869,
+                  "_dragStartY": -216.77272248268127,
+                  "_dragged": false,
+                  "_rawX": 698.8196750640869,
+                  "_rawY": -216.77272248268127,
+                  "_candidatos": null,
+                  "uid": "umt98myb38sxqr7"
+                },
+                {
+                  "name": "clínica veterinária [cidade]",
+                  "suggestion": false,
+                  "x": 774.2563620758057,
+                  "y": -166.77272248268127,
+                  "children": [],
+                  "id": "n54",
+                  "collapsed": false,
+                  "_lines": [
+                    "clínica veterinária [cidade]"
+                  ],
+                  "_apoio": [],
+                  "_w": 229.24,
+                  "_h": 27,
+                  "match": "frase",
+                  "uid": "umt98myb3y2427w"
                 }
               ],
               "uid": "umt977lzzpi6dln",
               "id": "n11",
               "_lines": [
-                "Grupo de anúncios 1"
+                "Consulta"
               ],
               "_apoio": [],
-              "_w": 149.5,
-              "_h": 36
+              "_w": 90,
+              "_h": 36,
+              "_dragStartX": 497.5314426422119,
+              "_dragStartY": -171.27601838111877,
+              "_dragged": false,
+              "_rawX": 497.5314426422119,
+              "_rawY": -171.7941610813141,
+              "_candidatos": null
+            },
+            {
+              "name": "Vacina",
+              "suggestion": false,
+              "x": 463.63636207580566,
+              "y": -109.27272248268127,
+              "children": [],
+              "id": "n46",
+              "collapsed": false,
+              "_lines": [
+                "Vacina"
+              ],
+              "_apoio": [],
+              "_w": 90,
+              "_h": 36,
+              "uid": "umt98myb3zehx7o"
+            },
+            {
+              "name": "Exame",
+              "suggestion": false,
+              "x": 463.63636207580566,
+              "y": -47.272722482681274,
+              "children": [],
+              "id": "n47",
+              "collapsed": false,
+              "_lines": [
+                "Exame"
+              ],
+              "_apoio": [],
+              "_w": 90,
+              "_h": 36,
+              "uid": "umt98myb3lqx0iz"
+            },
+            {
+              "name": "Emergência",
+              "suggestion": false,
+              "x": 464.13636207580566,
+              "y": 14.727277517318726,
+              "children": [],
+              "id": "n48",
+              "collapsed": false,
+              "_lines": [
+                "Emergência"
+              ],
+              "_apoio": [],
+              "_w": 91,
+              "_h": 36,
+              "uid": "umt98myb31ljkso"
+            },
+            {
+              "name": "Atendimento Domiciliar",
+              "suggestion": false,
+              "x": 503.13636207580566,
+              "y": 76.72727751731873,
+              "children": [],
+              "id": "n49",
+              "collapsed": false,
+              "_lines": [
+                "Atendimento Domiciliar"
+              ],
+              "_apoio": [],
+              "_w": 169,
+              "_h": 36,
+              "_dragStartX": 463.63636207580566,
+              "_dragStartY": 76.72727751731873,
+              "_dragged": false,
+              "_rawX": 463.63636207580566,
+              "_rawY": 78.05086302757263,
+              "_candidatos": null,
+              "uid": "umt98myb3wd48ku"
             }
           ],
           "uid": "umt977lzzi9cbku",
           "id": "n10",
           "_lines": [
-            "Campanha 2"
+            "Serviços"
           ],
-          "_apoio": [],
+          "_apoio": [
+            "R$ 195,00/mês · 65,0%"
+          ],
           "_w": 195,
-          "_h": 40
+          "_h": 51.375,
+          "_dragStartX": 249.13636207580566,
+          "_dragStartY": -131.89772248268127,
+          "_dragged": true,
+          "_rawX": 253.2814426422119,
+          "_rawY": -171.27601838111877,
+          "_candidatos": null,
+          "budget": 195
+        },
+        {
+          "name": "Vitala",
+          "suggestion": false,
+          "x": 249.13636207580566,
+          "y": 138.72727751731873,
+          "children": [
+            {
+              "name": "Novo item",
+              "suggestion": false,
+              "x": 463.63636207580566,
+              "y": 138.72727751731873,
+              "children": [],
+              "id": "n41",
+              "collapsed": false,
+              "_lines": [
+                "Novo item"
+              ],
+              "_apoio": [],
+              "_w": 90,
+              "_h": 36,
+              "uid": "umt98myb3jrl799"
+            }
+          ],
+          "id": "n39",
+          "collapsed": false,
+          "_lines": [
+            "Vitala"
+          ],
+          "_apoio": [
+            "R$ 45,00/mês · 15,0%"
+          ],
+          "_w": 195,
+          "_h": 51.375,
+          "_dragStartX": 253.63636207580566,
+          "_dragStartY": -69.54546189308167,
+          "_dragged": false,
+          "_rawX": 253.63636207580566,
+          "_rawY": -69.54546189308167,
+          "_candidatos": null,
+          "_w0": 195,
+          "_resized": false,
+          "_resto": 0,
+          "tipo": "pmax",
+          "budget": 45,
+          "color": "#F17747",
+          "uid": "umt98myb3vzgj4q"
         }
       ],
       "uid": "umt977lzzn9qprl",
@@ -235,12 +522,20 @@
         "Google Ads"
       ],
       "_apoio": [
+        "R$ 300,00/mês",
         "Campanhas"
       ],
       "_w": 172,
-      "_h": 84.625,
+      "_h": 95.625,
       "tracos": [],
-      "notas": []
+      "notas": [],
+      "_dragStartX": -6.363637924194336,
+      "_dragStartY": -167.27272248268127,
+      "_dragged": false,
+      "_rawX": -6.363637924194336,
+      "_rawY": -167.27272248268127,
+      "_candidatos": null,
+      "budget": 300
     },
     "meta": {
       "name": "Meta Ads",
@@ -265,7 +560,13 @@
               "collapsed": false,
               "suggestion": false,
               "uid": "umt977lzzvffrgn",
-              "id": "n16"
+              "id": "n16",
+              "_lines": [
+                "Remarketing — site 30d"
+              ],
+              "_apoio": [],
+              "_w": 169,
+              "_h": 36
             },
             {
               "name": "Lookalike 1% — compradores",
@@ -274,7 +575,13 @@
               "collapsed": false,
               "suggestion": false,
               "uid": "umt977lzzbro3zn",
-              "id": "n17"
+              "id": "n17",
+              "_lines": [
+                "Lookalike 1% — compradores"
+              ],
+              "_apoio": [],
+              "_w": 195,
+              "_h": 36
             },
             {
               "name": "Interesses",
@@ -283,7 +590,13 @@
               "collapsed": false,
               "suggestion": false,
               "uid": "umt977lzzbkv3wz",
-              "id": "n18"
+              "id": "n18",
+              "_lines": [
+                "Interesses"
+              ],
+              "_apoio": [],
+              "_w": 91,
+              "_h": 36
             },
             {
               "name": "Advantage+ (aberto)",
@@ -292,11 +605,23 @@
               "collapsed": false,
               "suggestion": false,
               "uid": "umt977lzzicqgx1",
-              "id": "n19"
+              "id": "n19",
+              "_lines": [
+                "Advantage+ (aberto)"
+              ],
+              "_apoio": [],
+              "_w": 149.5,
+              "_h": 36
             }
           ],
           "uid": "umt977lzz1p0dyu",
-          "id": "n15"
+          "id": "n15",
+          "_lines": [
+            "Conversão"
+          ],
+          "_apoio": [],
+          "_w": 195,
+          "_h": 40
         },
         {
           "name": "Reconhecimento",
@@ -313,7 +638,13 @@
               "collapsed": false,
               "suggestion": false,
               "uid": "umt977lzzpummmm",
-              "id": "n21"
+              "id": "n21",
+              "_lines": [
+                "Ampla — região"
+              ],
+              "_apoio": [],
+              "_w": 117,
+              "_h": 36
             },
             {
               "name": "Interesses amplos",
@@ -322,15 +653,37 @@
               "collapsed": false,
               "suggestion": false,
               "uid": "umt977lzz39f190",
-              "id": "n22"
+              "id": "n22",
+              "_lines": [
+                "Interesses amplos"
+              ],
+              "_apoio": [],
+              "_w": 136.5,
+              "_h": 36
             }
           ],
           "uid": "umt977lzzplmp95",
-          "id": "n20"
+          "id": "n20",
+          "_lines": [
+            "Reconhecimento"
+          ],
+          "_apoio": [],
+          "_w": 195,
+          "_h": 40
         }
       ],
       "uid": "umt977lzzukbcbj",
-      "id": "n14"
+      "id": "n14",
+      "_lines": [
+        "Meta Ads"
+      ],
+      "_apoio": [
+        "Campanhas e públicos"
+      ],
+      "_w": 172,
+      "_h": 84.625,
+      "tracos": [],
+      "notas": []
     },
     "linkedin": {
       "name": "LinkedIn Ads",
