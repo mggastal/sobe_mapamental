@@ -1,0 +1,1281 @@
+{
+  "meta": {
+    "nome": "Doctor G",
+    "salvoPor": "Tais Jeronimo",
+    "salvoEm": "2026-08-26T17:16:47.344Z",
+    "resumo": {
+      "google": {
+        "campanhas": 3,
+        "verba": 300,
+        "inativa": false
+      },
+      "meta": {
+        "campanhas": 2,
+        "verba": 300,
+        "inativa": false
+      },
+      "linkedin": {
+        "campanhas": 0,
+        "verba": 0,
+        "inativa": true
+      },
+      "tiktok": {
+        "campanhas": 0,
+        "verba": 0,
+        "inativa": true
+      }
+    },
+    "logo": "data:image/png;base64,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",
+    "share": "cbyct3esafzsrv"
+  },
+  "data": {
+    "google": {
+      "name": "Google Ads",
+      "note": "Campanhas",
+      "suggestion": false,
+      "x": -6.363637924194336,
+      "y": -167.27272248268127,
+      "collapsed": false,
+      "children": [
+        {
+          "name": "Pesquisa-Brand",
+          "color": "#1B2F6A",
+          "suggestion": false,
+          "x": 249.13636207580566,
+          "y": -244.64772248268127,
+          "collapsed": true,
+          "children": [
+            {
+              "name": "Brand",
+              "suggestion": false,
+              "x": 249.13636207580566,
+              "y": -244.64772248268127,
+              "collapsed": false,
+              "children": [
+                {
+                  "name": "Doctor G",
+                  "suggestion": false,
+                  "x": 249.13636207580566,
+                  "y": -244.64772248268127,
+                  "collapsed": false,
+                  "uid": "umt977lzz3qodl2",
+                  "id": "n4",
+                  "_lines": [
+                    "Doctor G"
+                  ],
+                  "_apoio": [],
+                  "_w": 146.67030334472656,
+                  "_h": 27,
+                  "_dragStartX": 698.6227146148682,
+                  "_dragStartY": -319.85228180885315,
+                  "_dragged": false,
+                  "_rawX": 698.6227146148682,
+                  "_rawY": -319.85228180885315,
+                  "_candidatos": null,
+                  "match": "exata",
+                  "_w0": 152.44054412841797,
+                  "_resized": true,
+                  "_resto": 0,
+                  "width": 146.67030334472656
+                },
+                {
+                  "name": "Doctor G",
+                  "suggestion": false,
+                  "x": 249.13636207580566,
+                  "y": -244.64772248268127,
+                  "collapsed": false,
+                  "uid": "umt977lzzjvg8w5",
+                  "id": "n5",
+                  "_lines": [
+                    "Doctor G"
+                  ],
+                  "_apoio": [],
+                  "_w": 137,
+                  "_h": 27,
+                  "_dragStartX": 650.1363620758057,
+                  "_dragStartY": -413.2727224826813,
+                  "_dragged": false,
+                  "_rawX": 650.1363620758057,
+                  "_rawY": -413.2727224826813,
+                  "_candidatos": null,
+                  "match": "frase",
+                  "children": []
+                },
+                {
+                  "name": "Vitala Doctor G",
+                  "suggestion": false,
+                  "x": 249.13636207580566,
+                  "y": -244.64772248268127,
+                  "collapsed": false,
+                  "uid": "umt977lzzk4xive",
+                  "id": "n6",
+                  "_lines": [
+                    "Vitala Doctor G"
+                  ],
+                  "_apoio": [],
+                  "_w": 156.7,
+                  "_h": 27,
+                  "_dragStartX": 650.1363620758057,
+                  "_dragStartY": -531.7727224826813,
+                  "_dragged": true,
+                  "_rawX": 650.1363620758057,
+                  "_rawY": -531.7727224826813,
+                  "_candidatos": null,
+                  "match": "exata",
+                  "children": [],
+                  "_w0": 137,
+                  "_resized": false,
+                  "_resto": 0
+                },
+                {
+                  "name": "Vitala Doctor G",
+                  "suggestion": false,
+                  "x": 249.13636207580566,
+                  "y": -244.64772248268127,
+                  "children": [],
+                  "id": "n7",
+                  "collapsed": false,
+                  "_lines": [
+                    "Vitala Doctor G"
+                  ],
+                  "_apoio": [],
+                  "_w": 156.7,
+                  "_h": 27,
+                  "_dragStartX": 650.1363620758057,
+                  "_dragStartY": -492.7727224826813,
+                  "_dragged": false,
+                  "_rawX": 650.1363620758057,
+                  "_rawY": -492.7727224826813,
+                  "_candidatos": null,
+                  "match": "frase",
+                  "uid": "umt98myb3j1wjy3"
+                },
+                {
+                  "name": "doctor g vet",
+                  "suggestion": false,
+                  "x": 249.13636207580566,
+                  "y": -244.64772248268127,
+                  "children": [],
+                  "id": "n8",
+                  "collapsed": false,
+                  "_lines": [
+                    "doctor g vet"
+                  ],
+                  "_apoio": [],
+                  "_w": 139.96,
+                  "_h": 27,
+                  "_dragStartX": 673.9363620758056,
+                  "_dragStartY": -366.0227224826813,
+                  "_dragged": false,
+                  "_rawX": 673.9363620758056,
+                  "_rawY": -366.0227224826813,
+                  "_candidatos": null,
+                  "match": "exata",
+                  "uid": "umt98myb34kd4p1"
+                },
+                {
+                  "name": "doctor g vet",
+                  "suggestion": false,
+                  "x": 249.13636207580566,
+                  "y": -244.64772248268127,
+                  "children": [],
+                  "id": "n9",
+                  "collapsed": false,
+                  "_lines": [
+                    "doctor g vet"
+                  ],
+                  "_apoio": [],
+                  "_w": 139.96,
+                  "_h": 27,
+                  "match": "frase",
+                  "_dragStartX": 615.7141025543212,
+                  "_dragStartY": -454.8574392795563,
+                  "_dragged": false,
+                  "_rawX": 615.7141025543212,
+                  "_rawY": -454.8574392795563,
+                  "_candidatos": null,
+                  "uid": "umt98myb303ysj1"
+                },
+                {
+                  "name": "doctor g phone",
+                  "suggestion": false,
+                  "x": 249.13636207580566,
+                  "y": -244.64772248268127,
+                  "children": [],
+                  "id": "n10",
+                  "collapsed": false,
+                  "_lines": [
+                    "doctor g phone"
+                  ],
+                  "_apoio": [],
+                  "_w": 151.12,
+                  "_h": 27,
+                  "match": "exata",
+                  "uid": "umt98myb3gejeh1"
+                },
+                {
+                  "name": "doctor g phone",
+                  "suggestion": false,
+                  "x": 249.13636207580566,
+                  "y": -244.64772248268127,
+                  "children": [],
+                  "id": "n11",
+                  "collapsed": false,
+                  "_lines": [
+                    "doctor g phone"
+                  ],
+                  "_apoio": [],
+                  "_w": 151.12,
+                  "_h": 27,
+                  "match": "frase",
+                  "uid": "umt98myb367o20e"
+                }
+              ],
+              "uid": "umt977lzzx0uhsq",
+              "id": "n3",
+              "_lines": [
+                "Brand"
+              ],
+              "_apoio": [],
+              "_w": 90,
+              "_h": 36,
+              "_dragStartX": 463.63636207580566,
+              "_dragStartY": -444.0227224826813,
+              "_dragged": true,
+              "_rawX": 405.4141025543213,
+              "_rawY": -566.8574392795563,
+              "_candidatos": null
+            }
+          ],
+          "uid": "umt977lzzfjcawm",
+          "id": "n2",
+          "_lines": [
+            "Pesquisa-Brand"
+          ],
+          "_apoio": [
+            "$ 60.00/mês · 20,0%"
+          ],
+          "_w": 195,
+          "_h": 51.375,
+          "_dragStartX": 253.63636207580566,
+          "_dragStartY": -240.77272248268127,
+          "_dragged": false,
+          "_rawX": 253.63636207580566,
+          "_rawY": -240.77272248268127,
+          "_candidatos": null,
+          "budget": 60
+        },
+        {
+          "name": "Services",
+          "color": "#328596",
+          "suggestion": false,
+          "x": 249.13636207580566,
+          "y": -167.27272248268127,
+          "collapsed": true,
+          "children": [
+            {
+              "name": "Consultations",
+              "suggestion": false,
+              "x": 249.13636207580566,
+              "y": -167.27272248268127,
+              "collapsed": false,
+              "children": [
+                {
+                  "name": "vet near me ",
+                  "suggestion": false,
+                  "x": 249.13636207580566,
+                  "y": -167.27272248268127,
+                  "collapsed": false,
+                  "uid": "umt977lzz5nve10",
+                  "id": "n14",
+                  "_lines": [
+                    "vet near me"
+                  ],
+                  "_apoio": [],
+                  "_w": 137,
+                  "_h": 27,
+                  "_dragStartX": 710.2063620758056,
+                  "_dragStartY": -283.7727224826813,
+                  "_dragged": false,
+                  "_rawX": 710.2063620758056,
+                  "_rawY": -283.7727224826813,
+                  "_candidatos": null,
+                  "match": "exata"
+                },
+                {
+                  "name": "vet near me",
+                  "suggestion": false,
+                  "x": 249.13636207580566,
+                  "y": -167.27272248268127,
+                  "collapsed": false,
+                  "uid": "umt977lzz86fkie",
+                  "id": "n15",
+                  "_lines": [
+                    "vet near me"
+                  ],
+                  "_apoio": [],
+                  "_w": 137,
+                  "_h": 27,
+                  "_dragStartX": 636.4863620758057,
+                  "_dragStartY": -246.27272248268127,
+                  "_dragged": true,
+                  "_rawX": 698.8196750640869,
+                  "_rawY": -250.6060507297516,
+                  "_candidatos": null,
+                  "match": "frase"
+                },
+                {
+                  "name": "book a vet appointment",
+                  "suggestion": false,
+                  "x": 249.13636207580566,
+                  "y": -167.27272248268127,
+                  "children": [],
+                  "id": "n16",
+                  "collapsed": false,
+                  "_lines": [
+                    "book a vet appointment"
+                  ],
+                  "_apoio": [],
+                  "_w": 195.76,
+                  "_h": 27,
+                  "match": "exata",
+                  "_dragStartX": 698.8196750640869,
+                  "_dragStartY": -216.77272248268127,
+                  "_dragged": false,
+                  "_rawX": 698.8196750640869,
+                  "_rawY": -216.77272248268127,
+                  "_candidatos": null,
+                  "uid": "umt98myb38sxqr7"
+                },
+                {
+                  "name": "book a vet appointment",
+                  "suggestion": false,
+                  "x": 249.13636207580566,
+                  "y": -167.27272248268127,
+                  "children": [],
+                  "id": "n17",
+                  "collapsed": false,
+                  "_lines": [
+                    "book a vet appointment"
+                  ],
+                  "_apoio": [],
+                  "_w": 195.76,
+                  "_h": 27,
+                  "match": "frase",
+                  "uid": "umt98myb3y2427w"
+                }
+              ],
+              "uid": "umt977lzzpi6dln",
+              "id": "n13",
+              "_lines": [
+                "Consultations"
+              ],
+              "_apoio": [],
+              "_w": 110.5,
+              "_h": 36,
+              "_dragStartX": 497.5314426422119,
+              "_dragStartY": -171.27601838111877,
+              "_dragged": false,
+              "_rawX": 497.5314426422119,
+              "_rawY": -171.7941610813141,
+              "_candidatos": null
+            },
+            {
+              "name": "Vaccinations",
+              "suggestion": false,
+              "x": 249.13636207580566,
+              "y": -167.27272248268127,
+              "children": [
+                {
+                  "name": "dog vaccination cost",
+                  "suggestion": false,
+                  "x": 249.13636207580566,
+                  "y": -167.27272248268127,
+                  "children": [],
+                  "id": "n19",
+                  "collapsed": false,
+                  "_lines": [
+                    "dog vaccination cost"
+                  ],
+                  "_apoio": [],
+                  "_w": 184.6,
+                  "_h": 27,
+                  "match": "frase",
+                  "uid": "umta481pdcoktu3"
+                },
+                {
+                  "name": "cat vaccination near me",
+                  "suggestion": false,
+                  "x": 249.13636207580566,
+                  "y": -167.27272248268127,
+                  "children": [],
+                  "id": "n20",
+                  "collapsed": false,
+                  "_lines": [
+                    "cat vaccination near me"
+                  ],
+                  "_apoio": [],
+                  "_w": 201.34,
+                  "_h": 27,
+                  "match": "frase",
+                  "uid": "umta481pdiopez7"
+                },
+                {
+                  "name": " C3 vaccination for dogs",
+                  "suggestion": false,
+                  "x": 249.13636207580566,
+                  "y": -167.27272248268127,
+                  "children": [],
+                  "id": "n21",
+                  "collapsed": false,
+                  "_lines": [
+                    "C3 vaccination for dogs"
+                  ],
+                  "_apoio": [],
+                  "_w": 201.34,
+                  "_h": 27,
+                  "match": "frase",
+                  "uid": "umta481pdkkdsp6"
+                },
+                {
+                  "name": "F3 vaccination for cats",
+                  "suggestion": false,
+                  "x": 249.13636207580566,
+                  "y": -167.27272248268127,
+                  "children": [],
+                  "id": "n22",
+                  "collapsed": false,
+                  "_lines": [
+                    "F3 vaccination for cats"
+                  ],
+                  "_apoio": [],
+                  "_w": 201.34,
+                  "_h": 27,
+                  "match": "frase",
+                  "uid": "umta481pdp7rvg5"
+                }
+              ],
+              "id": "n18",
+              "collapsed": false,
+              "_lines": [
+                "Vaccinations"
+              ],
+              "_apoio": [],
+              "_w": 104,
+              "_h": 36,
+              "uid": "umt98myb3zehx7o"
+            },
+            {
+              "name": "Diagnostics",
+              "suggestion": false,
+              "x": 249.13636207580566,
+              "y": -167.27272248268127,
+              "children": [
+                {
+                  "name": "blood test for dogs",
+                  "suggestion": false,
+                  "x": 249.13636207580566,
+                  "y": -167.27272248268127,
+                  "children": [],
+                  "id": "n24",
+                  "collapsed": false,
+                  "_lines": [
+                    "blood test for dogs"
+                  ],
+                  "_apoio": [],
+                  "_w": 179.01999999999998,
+                  "_h": 27,
+                  "match": "frase",
+                  "uid": "umta481pdz67b0l"
+                },
+                {
+                  "name": "veterinary ultrasound",
+                  "suggestion": false,
+                  "x": 249.13636207580566,
+                  "y": -167.27272248268127,
+                  "children": [],
+                  "id": "n25",
+                  "collapsed": false,
+                  "_lines": [
+                    "veterinary ultrasound"
+                  ],
+                  "_apoio": [],
+                  "_w": 190.18,
+                  "_h": 27,
+                  "match": "frase",
+                  "uid": "umta481pd8i77o8"
+                },
+                {
+                  "name": "dog x-ray cost",
+                  "suggestion": false,
+                  "x": 249.13636207580566,
+                  "y": -167.27272248268127,
+                  "children": [],
+                  "id": "n26",
+                  "collapsed": false,
+                  "_lines": [
+                    "dog x-ray cost"
+                  ],
+                  "_apoio": [],
+                  "_w": 151.12,
+                  "_h": 27,
+                  "match": "frase",
+                  "uid": "umta481pdcj3lb5"
+                }
+              ],
+              "id": "n23",
+              "collapsed": false,
+              "_lines": [
+                "Diagnostics"
+              ],
+              "_apoio": [],
+              "_w": 97.5,
+              "_h": 36,
+              "uid": "umt98myb3lqx0iz"
+            },
+            {
+              "name": "Emergency",
+              "suggestion": false,
+              "x": 249.13636207580566,
+              "y": -167.27272248268127,
+              "children": [
+                {
+                  "name": "emergency vet near me",
+                  "suggestion": false,
+                  "x": 249.13636207580566,
+                  "y": -167.27272248268127,
+                  "children": [],
+                  "id": "n28",
+                  "collapsed": false,
+                  "_lines": [
+                    "emergency vet near me"
+                  ],
+                  "_apoio": [],
+                  "_w": 190.18,
+                  "_h": 27,
+                  "match": "frase",
+                  "uid": "umta481pdtjn2wb"
+                }
+              ],
+              "id": "n27",
+              "collapsed": false,
+              "_lines": [
+                "Emergency"
+              ],
+              "_apoio": [],
+              "_w": 90,
+              "_h": 36,
+              "uid": "umt98myb31ljkso"
+            },
+            {
+              "name": "Mobile / house-call vet",
+              "suggestion": false,
+              "x": 249.13636207580566,
+              "y": -167.27272248268127,
+              "children": [
+                {
+                  "name": "mobile vet near me",
+                  "suggestion": false,
+                  "x": 249.13636207580566,
+                  "y": -167.27272248268127,
+                  "children": [],
+                  "id": "n30",
+                  "collapsed": false,
+                  "_lines": [
+                    "mobile vet near me"
+                  ],
+                  "_apoio": [],
+                  "_w": 173.44,
+                  "_h": 27,
+                  "match": "frase",
+                  "uid": "umta481pds80j6u"
+                },
+                {
+                  "name": "vet that comes to your house",
+                  "suggestion": false,
+                  "x": 249.13636207580566,
+                  "y": -167.27272248268127,
+                  "children": [],
+                  "id": "n31",
+                  "collapsed": false,
+                  "_lines": [
+                    "vet that comes to your house"
+                  ],
+                  "_apoio": [],
+                  "_w": 229.24,
+                  "_h": 27,
+                  "match": "frase",
+                  "uid": "umta481pdwlwjxd"
+                },
+                {
+                  "name": "house call vet",
+                  "suggestion": false,
+                  "x": 249.13636207580566,
+                  "y": -167.27272248268127,
+                  "children": [],
+                  "id": "n32",
+                  "collapsed": false,
+                  "_lines": [
+                    "house call vet"
+                  ],
+                  "_apoio": [],
+                  "_w": 104.12,
+                  "_h": 27,
+                  "uid": "umta481pe65z2vb"
+                },
+                {
+                  "name": "home pet vaccination",
+                  "suggestion": false,
+                  "x": 249.13636207580566,
+                  "y": -167.27272248268127,
+                  "children": [],
+                  "id": "n33",
+                  "collapsed": false,
+                  "_lines": [
+                    "home pet vaccination"
+                  ],
+                  "_apoio": [],
+                  "_w": 137.6,
+                  "_h": 27,
+                  "uid": "umta481pet7wdsl"
+                }
+              ],
+              "id": "n29",
+              "collapsed": false,
+              "_lines": [
+                "Mobile / house-call vet"
+              ],
+              "_apoio": [],
+              "_w": 175.5,
+              "_h": 36,
+              "_dragStartX": 463.63636207580566,
+              "_dragStartY": 76.72727751731873,
+              "_dragged": false,
+              "_rawX": 463.63636207580566,
+              "_rawY": 78.05086302757263,
+              "_candidatos": null,
+              "uid": "umt98myb3wd48ku"
+            }
+          ],
+          "uid": "umt977lzzi9cbku",
+          "id": "n12",
+          "_lines": [
+            "Services"
+          ],
+          "_apoio": [
+            "$ 195.00/mês · 65,0%"
+          ],
+          "_w": 195,
+          "_h": 51.375,
+          "_dragStartX": 249.13636207580566,
+          "_dragStartY": -131.89772248268127,
+          "_dragged": true,
+          "_rawX": 253.2814426422119,
+          "_rawY": -171.27601838111877,
+          "_candidatos": null,
+          "budget": 195
+        },
+        {
+          "name": "Vitala",
+          "suggestion": false,
+          "x": 249.13636207580566,
+          "y": -89.89772248268127,
+          "children": [
+            {
+              "name": "Brand",
+              "suggestion": false,
+              "x": 249.13636207580566,
+              "y": -89.89772248268127,
+              "children": [
+                {
+                  "name": "Vitala Doctor G",
+                  "suggestion": false,
+                  "x": 249.13636207580566,
+                  "y": -89.89772248268127,
+                  "children": [],
+                  "id": "n36",
+                  "collapsed": false,
+                  "_lines": [
+                    "Vitala Doctor G"
+                  ],
+                  "_apoio": [],
+                  "_w": 156.7,
+                  "_h": 27,
+                  "_dragStartX": 693.6363620758057,
+                  "_dragStartY": 275.49244475364685,
+                  "_dragged": false,
+                  "_rawX": 693.6363620758057,
+                  "_rawY": 275.49244475364685,
+                  "_candidatos": null,
+                  "match": "frase",
+                  "uid": "umta481peg8ijbj"
+                },
+                {
+                  "name": "Vitala Pet Program",
+                  "suggestion": false,
+                  "x": 249.13636207580566,
+                  "y": -89.89772248268127,
+                  "children": [],
+                  "id": "n37",
+                  "collapsed": false,
+                  "_lines": [
+                    "Vitala Pet Program"
+                  ],
+                  "_apoio": [],
+                  "_w": 173.44,
+                  "_h": 27,
+                  "_dragStartX": 693.6363620758057,
+                  "_dragStartY": 309.49244475364685,
+                  "_dragged": false,
+                  "_rawX": 693.6363620758057,
+                  "_rawY": 309.49244475364685,
+                  "_candidatos": null,
+                  "match": "frase",
+                  "uid": "umta481pe03f8zi"
+                }
+              ],
+              "id": "n35",
+              "collapsed": false,
+              "_lines": [
+                "Brand"
+              ],
+              "_apoio": [],
+              "_w": 90,
+              "_h": 36,
+              "uid": "umt98myb3jrl799"
+            },
+            {
+              "name": "Vitala",
+              "suggestion": false,
+              "x": 249.13636207580566,
+              "y": -89.89772248268127,
+              "children": [
+                {
+                  "name": "pet wellness plan",
+                  "suggestion": false,
+                  "x": 249.13636207580566,
+                  "y": -89.89772248268127,
+                  "children": [],
+                  "id": "n39",
+                  "collapsed": false,
+                  "_lines": [
+                    "pet wellness plan"
+                  ],
+                  "_apoio": [],
+                  "_w": 167.86,
+                  "_h": 27,
+                  "_dragStartX": 700.6363620758057,
+                  "_dragStartY": 340.99244475364685,
+                  "_dragged": false,
+                  "_rawX": 700.6363620758057,
+                  "_rawY": 340.99244475364685,
+                  "_candidatos": null,
+                  "match": "frase",
+                  "uid": "umta481peoqhx90"
+                },
+                {
+                  "name": "preventive pet health plan",
+                  "suggestion": false,
+                  "x": 249.13636207580566,
+                  "y": -89.89772248268127,
+                  "children": [],
+                  "id": "n40",
+                  "collapsed": false,
+                  "_lines": [
+                    "preventive pet health plan"
+                  ],
+                  "_apoio": [],
+                  "_w": 218.08,
+                  "_h": 27,
+                  "_dragStartX": 700.6363620758057,
+                  "_dragStartY": 374.99244475364685,
+                  "_dragged": false,
+                  "_rawX": 700.6363620758057,
+                  "_rawY": 374.99244475364685,
+                  "_candidatos": null,
+                  "match": "frase",
+                  "uid": "umta481pesp51ef"
+                },
+                {
+                  "name": " pet wellness membership",
+                  "suggestion": false,
+                  "x": 249.13636207580566,
+                  "y": -89.89772248268127,
+                  "children": [],
+                  "id": "n41",
+                  "collapsed": false,
+                  "_lines": [
+                    "pet wellness membership"
+                  ],
+                  "_apoio": [],
+                  "_w": 201.34,
+                  "_h": 27,
+                  "_dragStartX": 700.6363620758057,
+                  "_dragStartY": 408.99244475364685,
+                  "_dragged": false,
+                  "_rawX": 700.6363620758057,
+                  "_rawY": 408.99244475364685,
+                  "_candidatos": null,
+                  "match": "frase",
+                  "uid": "umta481peteytnu"
+                },
+                {
+                  "name": "monthly pet health plan",
+                  "suggestion": false,
+                  "x": 249.13636207580566,
+                  "y": -89.89772248268127,
+                  "children": [],
+                  "id": "n42",
+                  "collapsed": false,
+                  "_lines": [
+                    "monthly pet health plan"
+                  ],
+                  "_apoio": [],
+                  "_w": 201.34,
+                  "_h": 27,
+                  "match": "frase",
+                  "uid": "umta481pef650ll"
+                }
+              ],
+              "id": "n38",
+              "collapsed": false,
+              "_lines": [
+                "Vitala"
+              ],
+              "_apoio": [],
+              "_w": 90,
+              "_h": 36,
+              "_dragStartX": 463.63636207580566,
+              "_dragStartY": 310.7272775173187,
+              "_dragged": true,
+              "_rawX": 469.8104648590088,
+              "_rawY": 340.3628671169281,
+              "_candidatos": null,
+              "uid": "umta481pe9n6ic0"
+            }
+          ],
+          "id": "n34",
+          "collapsed": true,
+          "_lines": [
+            "Vitala"
+          ],
+          "_apoio": [
+            "$ 45.00/mês · 15,0%"
+          ],
+          "_w": 195,
+          "_h": 51.375,
+          "_dragStartX": 253.63636207580566,
+          "_dragStartY": -69.54546189308167,
+          "_dragged": false,
+          "_rawX": 253.63636207580566,
+          "_rawY": -69.54546189308167,
+          "_candidatos": null,
+          "_w0": 195,
+          "_resized": false,
+          "_resto": 0,
+          "tipo": "pmax",
+          "budget": 45,
+          "color": "#F17747",
+          "uid": "umt98myb3vzgj4q"
+        }
+      ],
+      "uid": "umt977lzzn9qprl",
+      "id": "n1",
+      "_lines": [
+        "Google Ads"
+      ],
+      "_apoio": [
+        "$ 300.00/mês",
+        "Campanhas"
+      ],
+      "_w": 172,
+      "_h": 95.625,
+      "tracos": [],
+      "notas": [],
+      "_dragStartX": -6.363637924194336,
+      "_dragStartY": -167.27272248268127,
+      "_dragged": false,
+      "_rawX": -6.363637924194336,
+      "_rawY": -167.27272248268127,
+      "_candidatos": null,
+      "budget": 300
+    },
+    "meta": {
+      "name": "Meta Ads",
+      "note": "Campanhas e públicos",
+      "x": 0,
+      "y": 0,
+      "collapsed": false,
+      "suggestion": false,
+      "children": [
+        {
+          "name": "Conversão - Vitala",
+          "color": "#1B2F6A",
+          "x": 299.0909118652344,
+          "y": -73.5,
+          "collapsed": false,
+          "suggestion": false,
+          "children": [
+            {
+              "name": "Remarketing — site 30d",
+              "x": 582.727294921875,
+              "y": -169.09091567993164,
+              "collapsed": false,
+              "suggestion": false,
+              "uid": "umt977lzzvffrgn",
+              "id": "n45",
+              "_lines": [
+                "Remarketing — site 30d"
+              ],
+              "_apoio": [],
+              "_w": 169,
+              "_h": 36
+            },
+            {
+              "name": "Lookalike 1% — compradores",
+              "x": 576.227294921875,
+              "y": -98.90909576416016,
+              "collapsed": false,
+              "suggestion": false,
+              "uid": "umt977lzzbro3zn",
+              "id": "n46",
+              "_lines": [
+                "Lookalike 1% — compradores"
+              ],
+              "_apoio": [],
+              "_w": 195,
+              "_h": 36,
+              "_dragStartX": 582.727294921875,
+              "_dragStartY": -136.36364364624023,
+              "_dragged": true,
+              "_rawX": 574.5454711914062,
+              "_rawY": -150.90908432006836,
+              "_candidatos": null
+            },
+            {
+              "name": "Geolocalização & Aberto",
+              "x": 585.977294921875,
+              "y": -29.534095764160156,
+              "collapsed": false,
+              "suggestion": false,
+              "uid": "umt977lzzicqgx1",
+              "id": "n47",
+              "_lines": [
+                "Geolocalização & Aberto"
+              ],
+              "_apoio": [],
+              "_w": 175.5,
+              "_h": 36,
+              "_dragStartX": 582.727294921875,
+              "_dragStartY": -44.54546356201172,
+              "_dragged": true,
+              "_rawX": 585.4545288085938,
+              "_rawY": -79.09091567993164,
+              "_candidatos": null
+            }
+          ],
+          "uid": "umt977lzz1p0dyu",
+          "id": "n44",
+          "_lines": [
+            "Conversão - Vitala"
+          ],
+          "_apoio": [
+            "R$ 180,00/mês · 60,0%"
+          ],
+          "_w": 195,
+          "_h": 51.375,
+          "_dragStartX": 299.0909118652344,
+          "_dragStartY": -128.67614364624023,
+          "_dragged": true,
+          "_rawX": 299.0909118652344,
+          "_rawY": -73.22159576416016,
+          "_candidatos": null,
+          "budget": 180
+        },
+        {
+          "name": "Distribuição",
+          "color": "#328596",
+          "x": 299.0909118652344,
+          "y": 34.778411865234375,
+          "collapsed": false,
+          "suggestion": false,
+          "children": [
+            {
+              "name": "Ampla — região",
+              "x": 585.3182067871094,
+              "y": 34.778411865234375,
+              "collapsed": false,
+              "suggestion": false,
+              "uid": "umt977lzzpummmm",
+              "id": "n49",
+              "_lines": [
+                "Ampla — região"
+              ],
+              "_apoio": [],
+              "_w": 117,
+              "_h": 36,
+              "_dragStartX": 567.2727355957031,
+              "_dragStartY": 0,
+              "_dragged": true,
+              "_rawX": 573.6363830566406,
+              "_rawY": 26.363635540008545,
+              "_candidatos": null
+            },
+            {
+              "name": "Lookalike 1% Engajados",
+              "suggestion": false,
+              "x": 591.8182067871094,
+              "y": 91.50568389892578,
+              "children": [],
+              "id": "n50",
+              "collapsed": false,
+              "_lines": [
+                "Lookalike 1% Engajados"
+              ],
+              "_apoio": [],
+              "_w": 169,
+              "_h": 36,
+              "_dragStartX": 576.227294921875,
+              "_dragStartY": 59.6875,
+              "_dragged": true,
+              "_rawX": 580.7727661132812,
+              "_rawY": 82.4147720336914,
+              "_candidatos": null,
+              "uid": "umta4lmccky7sp1"
+            }
+          ],
+          "uid": "umt977lzzplmp95",
+          "id": "n48",
+          "_lines": [
+            "Distribuição"
+          ],
+          "_apoio": [
+            "R$ 120,00/mês · 40,0%"
+          ],
+          "_w": 195,
+          "_h": 51.375,
+          "_dragStartX": 287.2727355957031,
+          "_dragStartY": 25.6875,
+          "_dragged": true,
+          "_rawX": 296.3636474609375,
+          "_rawY": 34.778411865234375,
+          "_candidatos": null,
+          "budget": 120
+        }
+      ],
+      "uid": "umt977lzzukbcbj",
+      "id": "n43",
+      "_lines": [
+        "Meta Ads"
+      ],
+      "_apoio": [
+        "R$ 300,00/mês",
+        "Campanhas e públicos"
+      ],
+      "_w": 172,
+      "_h": 95.625,
+      "tracos": [],
+      "notas": [],
+      "_dragStartX": 0,
+      "_dragStartY": 0,
+      "_dragged": false,
+      "_rawX": 0,
+      "_rawY": 0,
+      "_candidatos": null,
+      "budget": 300
+    },
+    "linkedin": {
+      "name": "LinkedIn Ads",
+      "note": "Campanhas e públicos",
+      "inativa": true,
+      "x": 0,
+      "y": 0,
+      "collapsed": false,
+      "suggestion": false,
+      "children": [
+        {
+          "name": "Geração de leads",
+          "color": "#0A66C2",
+          "x": 260,
+          "y": -120,
+          "collapsed": false,
+          "suggestion": false,
+          "children": [
+            {
+              "name": "Cargo + setor",
+              "x": 540,
+              "y": -190,
+              "collapsed": false,
+              "suggestion": false,
+              "uid": "umt977lzz4a5ys1",
+              "id": "n53"
+            },
+            {
+              "name": "Empresas-alvo (ABM)",
+              "x": 540,
+              "y": -130,
+              "collapsed": false,
+              "suggestion": false,
+              "uid": "umt977lzzcv86kg",
+              "id": "n54"
+            },
+            {
+              "name": "Lookalike de clientes",
+              "x": 540,
+              "y": -70,
+              "collapsed": false,
+              "suggestion": false,
+              "uid": "umt977lzzzhghn3",
+              "id": "n55"
+            }
+          ],
+          "uid": "umt977lzz0d8c6d",
+          "id": "n52"
+        },
+        {
+          "name": "Reconhecimento",
+          "color": "#328596",
+          "x": 260,
+          "y": 130,
+          "collapsed": false,
+          "suggestion": false,
+          "children": [
+            {
+              "name": "Interesses profissionais",
+              "x": 540,
+              "y": 100,
+              "collapsed": false,
+              "suggestion": false,
+              "uid": "umt977lzz1h1t7t",
+              "id": "n57"
+            },
+            {
+              "name": "Seguidores da página",
+              "x": 540,
+              "y": 160,
+              "collapsed": false,
+              "suggestion": false,
+              "uid": "umt977lzz4w5plj",
+              "id": "n58"
+            }
+          ],
+          "uid": "umt977lzznxegqv",
+          "id": "n56"
+        }
+      ],
+      "uid": "umt977lzz8ebk8d",
+      "id": "n51",
+      "notas": [],
+      "tracos": []
+    },
+    "tiktok": {
+      "name": "TikTok Ads",
+      "note": "Campanhas e públicos",
+      "color": "#111111",
+      "inativa": true,
+      "x": 0,
+      "y": 0,
+      "collapsed": false,
+      "suggestion": false,
+      "children": [
+        {
+          "name": "Conversão",
+          "color": "#111111",
+          "x": 260,
+          "y": -130,
+          "collapsed": false,
+          "suggestion": false,
+          "children": [
+            {
+              "name": "Ampla (sem segmentação)",
+              "x": 540,
+              "y": -200,
+              "collapsed": false,
+              "suggestion": false,
+              "uid": "umt977lzzw1w9bw",
+              "id": "n61"
+            },
+            {
+              "name": "Interesses e comportamentos",
+              "x": 540,
+              "y": -140,
+              "collapsed": false,
+              "suggestion": false,
+              "uid": "umt977lzz5z065b",
+              "id": "n62"
+            },
+            {
+              "name": "Lookalike de compradores",
+              "x": 540,
+              "y": -80,
+              "collapsed": false,
+              "suggestion": false,
+              "uid": "umt977lzzre18iu",
+              "id": "n63"
+            }
+          ],
+          "uid": "umt977lzzkfsoxk",
+          "id": "n60"
+        },
+        {
+          "name": "Alcance",
+          "color": "#328596",
+          "x": 260,
+          "y": 140,
+          "collapsed": false,
+          "suggestion": false,
+          "children": [
+            {
+              "name": "Região",
+              "x": 540,
+              "y": 110,
+              "collapsed": false,
+              "suggestion": false,
+              "uid": "umt977lzznhhpgj",
+              "id": "n65"
+            },
+            {
+              "name": "Engajou com o perfil",
+              "x": 540,
+              "y": 170,
+              "collapsed": false,
+              "suggestion": false,
+              "uid": "umt977lzzl05tfw",
+              "id": "n66"
+            }
+          ],
+          "uid": "umt977lzzifyk0g",
+          "id": "n64"
+        }
+      ],
+      "uid": "umt977lzzb89pev",
+      "id": "n59",
+      "notas": [],
+      "tracos": []
+    },
+    "cliente": "Doctor G ",
+    "estilo": {
+      "cantos": "suave",
+      "sombra": false,
+      "gradiente": false,
+      "borda": false
+    },
+    "relatorio": {
+      "geral": {
+        "rotulos": false,
+        "gradiente": false,
+        "coloridos": "borda",
+        "blocos": "borda"
+      },
+      "verba": {
+        "rotulos": true,
+        "gradiente": false,
+        "coloridos": "",
+        "blocos": ""
+      }
+    },
+    "logoCliente": "data:image/png;base64,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",
+    "logoMini": "data:image/png;base64,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",
+    "moeda": "USD"
+  }
+}
