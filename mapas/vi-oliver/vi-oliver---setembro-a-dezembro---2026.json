@@ -2,10 +2,10 @@
   "meta": {
     "nome": "[Vi Oliver] - Setembro a Dezembro - 2026",
     "salvoPor": "Tais Jeronimo",
-    "salvoEm": "2026-08-26T19:10:21.561Z",
+    "salvoEm": "2026-08-26T19:18:36.720Z",
     "resumo": {
       "google": {
-        "campanhas": 2,
+        "campanhas": 3,
         "verba": 0,
         "inativa": false
       },
@@ -37,87 +37,111 @@
       "collapsed": false,
       "children": [
         {
-          "name": "Campanha 1",
+          "name": "Lead - Pesquisa - Master - Presencial",
           "color": "#1B2F6A",
           "suggestion": false,
           "x": 260,
-          "y": -80,
+          "y": -80.90908813476562,
           "collapsed": false,
           "children": [
             {
-              "name": "Grupo de anúncios 1",
+              "name": "Ingles",
               "suggestion": false,
               "x": 540,
-              "y": -140,
+              "y": -140.90908813476562,
               "collapsed": false,
               "children": [
                 {
-                  "name": "palavra-chave 1",
+                  "name": "hair specialist sydney\n",
                   "suggestion": false,
                   "x": 820,
-                  "y": -170,
+                  "y": -170.90908813476562,
                   "collapsed": false,
                   "uid": "umtagy1hwc30s3j",
                   "id": "n4",
                   "_lines": [
-                    "palavra-chave 1"
+                    "hair specialist sydney"
                   ],
                   "_apoio": [],
-                  "_w": 109.7,
-                  "_h": 27
+                  "_w": 148.76,
+                  "_h": 27,
+                  "_dragStartX": 820,
+                  "_dragStartY": -170.90908813476562,
+                  "_dragged": false,
+                  "_rawX": 820,
+                  "_rawY": -170.90908813476562,
+                  "_candidatos": null
                 },
                 {
-                  "name": "palavra-chave 2",
+                  "name": "trichologist sydney\n",
                   "suggestion": false,
                   "x": 820,
-                  "y": -140,
+                  "y": -140.90908813476562,
                   "collapsed": false,
                   "uid": "umtagy1hwgnec5x",
                   "id": "n5",
                   "_lines": [
-                    "palavra-chave 2"
+                    "trichologist sydney"
                   ],
                   "_apoio": [],
-                  "_w": 109.7,
-                  "_h": 27
+                  "_w": 132.01999999999998,
+                  "_h": 27,
+                  "_dragStartX": 820,
+                  "_dragStartY": -140.90908813476562,
+                  "_dragged": false,
+                  "_rawX": 820,
+                  "_rawY": -140.90908813476562,
+                  "_candidatos": null
                 },
                 {
-                  "name": "palavra-chave 3",
+                  "name": "hair loss specialist sydney\n",
                   "suggestion": false,
                   "x": 820,
-                  "y": -110,
+                  "y": -110.90908813476562,
                   "collapsed": false,
                   "uid": "umtagy1hw403soy",
                   "id": "n6",
                   "_lines": [
-                    "palavra-chave 3"
+                    "hair loss specialist sydney"
                   ],
                   "_apoio": [],
-                  "_w": 109.7,
-                  "_h": 27
+                  "_w": 176.66,
+                  "_h": 27,
+                  "_dragStartX": 820,
+                  "_dragStartY": -110.90908813476562,
+                  "_dragged": false,
+                  "_rawX": 820,
+                  "_rawY": -110.90908813476562,
+                  "_candidatos": null
                 }
               ],
               "uid": "umtagy1hw60vlk7",
               "id": "n3",
               "_lines": [
-                "Grupo de anúncios 1"
+                "Ingles"
               ],
               "_apoio": [],
-              "_w": 149.5,
-              "_h": 36
+              "_w": 90,
+              "_h": 36,
+              "_dragStartX": 540,
+              "_dragStartY": -140.90908813476562,
+              "_dragged": false,
+              "_rawX": 540,
+              "_rawY": -140.90908813476562,
+              "_candidatos": null
             },
             {
-              "name": "Grupo de anúncios 2",
+              "name": "Português",
               "suggestion": false,
               "x": 540,
-              "y": -20,
+              "y": -56.534088134765625,
               "collapsed": false,
               "children": [
                 {
                   "name": "palavra-chave 1",
                   "suggestion": false,
-                  "x": 820,
-                  "y": -35,
+                  "x": 823.6363525390625,
+                  "y": -72.2727255821228,
                   "collapsed": false,
                   "uid": "umtagy1hwa0w5gw",
                   "id": "n8",
@@ -131,8 +155,8 @@
                 {
                   "name": "palavra-chave 2",
                   "suggestion": false,
-                  "x": 820,
-                  "y": -5,
+                  "x": 823.6363525390625,
+                  "y": -42.2727255821228,
                   "collapsed": false,
                   "uid": "umtagy1hwh2xlff",
                   "id": "n9",
@@ -147,21 +171,34 @@
               "uid": "umtagy1hwxju3mq",
               "id": "n7",
               "_lines": [
-                "Grupo de anúncios 2"
+                "Português"
               ],
               "_apoio": [],
-              "_w": 149.5,
-              "_h": 36
+              "_w": 90,
+              "_h": 36,
+              "_dragStartX": 540,
+              "_dragStartY": -79.40908813476562,
+              "_dragged": true,
+              "_rawX": 546.3636474609375,
+              "_rawY": -56.68181610107422,
+              "_candidatos": null
             }
           ],
           "uid": "umtagy1hwf8le45",
           "id": "n2",
           "_lines": [
-            "Campanha 1"
+            "Lead - Pesquisa - Master",
+            "- Presencial"
           ],
           "_apoio": [],
           "_w": 195,
-          "_h": 40
+          "_h": 48.75,
+          "_dragStartX": 260,
+          "_dragStartY": -80.90908813476562,
+          "_dragged": false,
+          "_rawX": 260,
+          "_rawY": -80.90908813476562,
+          "_candidatos": null
         },
         {
           "name": "Campanha 2",
@@ -227,6 +264,29 @@
           "_apoio": [],
           "_w": 195,
           "_h": 40
+        },
+        {
+          "name": "Lead - Pesquisa - Master - Online",
+          "suggestion": false,
+          "x": 267.2727355957031,
+          "y": 0.590911865234375,
+          "children": [],
+          "id": "n39",
+          "collapsed": false,
+          "_lines": [
+            "Lead - Pesquisa - Master",
+            "- Online"
+          ],
+          "_apoio": [],
+          "_w": 195,
+          "_h": 48.75,
+          "_dragStartX": 267.2727355957031,
+          "_dragStartY": 0.590911865234375,
+          "_dragged": false,
+          "_rawX": 267.2727355957031,
+          "_rawY": 0.590911865234375,
+          "_candidatos": null,
+          "uid": "umtah8ncux4r2yq"
         }
       ],
       "uid": "umtagy1hwzx72mz",
@@ -240,7 +300,13 @@
       "_w": 172,
       "_h": 84.625,
       "tracos": [],
-      "notas": []
+      "notas": [],
+      "_dragStartX": 0,
+      "_dragStartY": 0,
+      "_dragged": false,
+      "_rawX": 0,
+      "_rawY": 0,
+      "_candidatos": null
     },
     "meta": {
       "name": "Meta Ads",
