@@ -1,0 +1,498 @@
+{
+  "meta": {
+    "nome": "[Dra Fernada Cavalcante] - Setembro a Dezembro - 2026",
+    "salvoPor": "Tais Jeronimo",
+    "salvoEm": "2026-08-26T17:55:14.243Z",
+    "resumo": {
+      "google": {
+        "campanhas": 2,
+        "verba": 0,
+        "inativa": false
+      },
+      "meta": {
+        "campanhas": 2,
+        "verba": 0,
+        "inativa": false
+      },
+      "linkedin": {
+        "campanhas": 0,
+        "verba": 0,
+        "inativa": true
+      },
+      "tiktok": {
+        "campanhas": 0,
+        "verba": 0,
+        "inativa": true
+      }
+    },
+    "logo": ""
+  },
+  "data": {
+    "google": {
+      "name": "Google Ads",
+      "note": "Campanhas",
+      "suggestion": false,
+      "x": 0,
+      "y": 0,
+      "collapsed": false,
+      "children": [
+        {
+          "name": "Campanha 1",
+          "color": "#1B2F6A",
+          "suggestion": false,
+          "x": 260,
+          "y": -80,
+          "collapsed": false,
+          "children": [
+            {
+              "name": "Grupo de anúncios 1",
+              "suggestion": false,
+              "x": 540,
+              "y": -140,
+              "collapsed": false,
+              "children": [
+                {
+                  "name": "palavra-chave 1",
+                  "suggestion": false,
+                  "x": 820,
+                  "y": -170,
+                  "collapsed": false,
+                  "uid": "umtae9f44cd5gg7",
+                  "id": "n4"
+                },
+                {
+                  "name": "palavra-chave 2",
+                  "suggestion": false,
+                  "x": 820,
+                  "y": -140,
+                  "collapsed": false,
+                  "uid": "umtae9f44nmq8op",
+                  "id": "n5"
+                },
+                {
+                  "name": "palavra-chave 3",
+                  "suggestion": false,
+                  "x": 820,
+                  "y": -110,
+                  "collapsed": false,
+                  "uid": "umtae9f44klob7o",
+                  "id": "n6"
+                }
+              ],
+              "uid": "umtae9f448mauaw",
+              "id": "n3"
+            },
+            {
+              "name": "Grupo de anúncios 2",
+              "suggestion": false,
+              "x": 540,
+              "y": -20,
+              "collapsed": false,
+              "children": [
+                {
+                  "name": "palavra-chave 1",
+                  "suggestion": false,
+                  "x": 820,
+                  "y": -35,
+                  "collapsed": false,
+                  "uid": "umtae9f44usb2ph",
+                  "id": "n8"
+                },
+                {
+                  "name": "palavra-chave 2",
+                  "suggestion": false,
+                  "x": 820,
+                  "y": -5,
+                  "collapsed": false,
+                  "uid": "umtae9f44jfcm49",
+                  "id": "n9"
+                }
+              ],
+              "uid": "umtae9f443jjd1x",
+              "id": "n7"
+            }
+          ],
+          "uid": "umtae9f44mnfngu",
+          "id": "n2"
+        },
+        {
+          "name": "Campanha 2",
+          "color": "#328596",
+          "suggestion": false,
+          "x": 260,
+          "y": 110,
+          "collapsed": false,
+          "children": [
+            {
+              "name": "Grupo de anúncios 1",
+              "suggestion": false,
+              "x": 540,
+              "y": 110,
+              "collapsed": false,
+              "children": [
+                {
+                  "name": "palavra-chave 1",
+                  "suggestion": false,
+                  "x": 820,
+                  "y": 95,
+                  "collapsed": false,
+                  "uid": "umtae9f44iltt30",
+                  "id": "n12"
+                },
+                {
+                  "name": "palavra-chave 2",
+                  "suggestion": false,
+                  "x": 820,
+                  "y": 125,
+                  "collapsed": false,
+                  "uid": "umtae9f44672ekw",
+                  "id": "n13"
+                }
+              ],
+              "uid": "umtae9f448rjq8b",
+              "id": "n11"
+            }
+          ],
+          "uid": "umtae9f44cj1hph",
+          "id": "n10"
+        }
+      ],
+      "uid": "umtae9f448tycvh",
+      "id": "n1"
+    },
+    "meta": {
+      "name": "Meta Ads",
+      "note": "Campanhas e públicos",
+      "x": 0,
+      "y": 0,
+      "collapsed": false,
+      "suggestion": false,
+      "children": [
+        {
+          "name": "Conversão",
+          "color": "#1B2F6A",
+          "x": 260,
+          "y": -140,
+          "collapsed": false,
+          "suggestion": false,
+          "children": [
+            {
+              "name": "Remarketing — site 30d",
+              "x": 540,
+              "y": -230,
+              "collapsed": false,
+              "suggestion": false,
+              "uid": "umtae9f441vyhmm",
+              "id": "n16",
+              "_lines": [
+                "Remarketing — site 30d"
+              ],
+              "_apoio": [],
+              "_w": 169,
+              "_h": 36
+            },
+            {
+              "name": "Lookalike 1% — compradores",
+              "x": 540,
+              "y": -170,
+              "collapsed": false,
+              "suggestion": false,
+              "uid": "umtae9f44fpy4rh",
+              "id": "n17",
+              "_lines": [
+                "Lookalike 1% — compradores"
+              ],
+              "_apoio": [],
+              "_w": 195,
+              "_h": 36
+            },
+            {
+              "name": "Interesses",
+              "x": 540,
+              "y": -110,
+              "collapsed": false,
+              "suggestion": false,
+              "uid": "umtae9f44tnzhuc",
+              "id": "n18",
+              "_lines": [
+                "Interesses"
+              ],
+              "_apoio": [],
+              "_w": 91,
+              "_h": 36
+            },
+            {
+              "name": "Advantage+ (aberto)",
+              "x": 540,
+              "y": -50,
+              "collapsed": false,
+              "suggestion": false,
+              "uid": "umtae9f44wypu4k",
+              "id": "n19",
+              "_lines": [
+                "Advantage+ (aberto)"
+              ],
+              "_apoio": [],
+              "_w": 149.5,
+              "_h": 36
+            }
+          ],
+          "uid": "umtae9f44vy5bgw",
+          "id": "n15",
+          "_lines": [
+            "Conversão"
+          ],
+          "_apoio": [],
+          "_w": 195,
+          "_h": 40
+        },
+        {
+          "name": "Reconhecimento",
+          "color": "#328596",
+          "x": 260,
+          "y": 150,
+          "collapsed": false,
+          "suggestion": false,
+          "children": [
+            {
+              "name": "Ampla — região",
+              "x": 540,
+              "y": 110,
+              "collapsed": false,
+              "suggestion": false,
+              "uid": "umtae9f44pbgapi",
+              "id": "n21",
+              "_lines": [
+                "Ampla — região"
+              ],
+              "_apoio": [],
+              "_w": 117,
+              "_h": 36
+            },
+            {
+              "name": "Interesses amplos",
+              "x": 540,
+              "y": 175,
+              "collapsed": false,
+              "suggestion": false,
+              "uid": "umtae9f44g26tnu",
+              "id": "n22",
+              "_lines": [
+                "Interesses amplos"
+              ],
+              "_apoio": [],
+              "_w": 136.5,
+              "_h": 36
+            }
+          ],
+          "uid": "umtae9f44b16ogx",
+          "id": "n20",
+          "_lines": [
+            "Reconhecimento"
+          ],
+          "_apoio": [],
+          "_w": 195,
+          "_h": 40
+        }
+      ],
+      "uid": "umtae9f44lw9y33",
+      "id": "n14",
+      "_lines": [
+        "Meta Ads"
+      ],
+      "_apoio": [
+        "Campanhas e públicos"
+      ],
+      "_w": 172,
+      "_h": 84.625,
+      "tracos": [],
+      "notas": []
+    },
+    "linkedin": {
+      "name": "LinkedIn Ads",
+      "note": "Campanhas e públicos",
+      "inativa": true,
+      "x": 0,
+      "y": 0,
+      "collapsed": false,
+      "suggestion": false,
+      "children": [
+        {
+          "name": "Geração de leads",
+          "color": "#0A66C2",
+          "x": 260,
+          "y": -120,
+          "collapsed": false,
+          "suggestion": false,
+          "children": [
+            {
+              "name": "Cargo + setor",
+              "x": 540,
+              "y": -190,
+              "collapsed": false,
+              "suggestion": false,
+              "uid": "umtae9f44tcgmbe",
+              "id": "n25"
+            },
+            {
+              "name": "Empresas-alvo (ABM)",
+              "x": 540,
+              "y": -130,
+              "collapsed": false,
+              "suggestion": false,
+              "uid": "umtae9f44wx2euu",
+              "id": "n26"
+            },
+            {
+              "name": "Lookalike de clientes",
+              "x": 540,
+              "y": -70,
+              "collapsed": false,
+              "suggestion": false,
+              "uid": "umtae9f44hx53oc",
+              "id": "n27"
+            }
+          ],
+          "uid": "umtae9f447rz6u1",
+          "id": "n24"
+        },
+        {
+          "name": "Reconhecimento",
+          "color": "#328596",
+          "x": 260,
+          "y": 130,
+          "collapsed": false,
+          "suggestion": false,
+          "children": [
+            {
+              "name": "Interesses profissionais",
+              "x": 540,
+              "y": 100,
+              "collapsed": false,
+              "suggestion": false,
+              "uid": "umtae9f44f8hkfb",
+              "id": "n29"
+            },
+            {
+              "name": "Seguidores da página",
+              "x": 540,
+              "y": 160,
+              "collapsed": false,
+              "suggestion": false,
+              "uid": "umtae9f44ioymem",
+              "id": "n30"
+            }
+          ],
+          "uid": "umtae9f44hwm3fl",
+          "id": "n28"
+        }
+      ],
+      "uid": "umtae9f44opblmo",
+      "id": "n23"
+    },
+    "tiktok": {
+      "name": "TikTok Ads",
+      "note": "Campanhas e públicos",
+      "color": "#111111",
+      "inativa": true,
+      "x": 0,
+      "y": 0,
+      "collapsed": false,
+      "suggestion": false,
+      "children": [
+        {
+          "name": "Conversão",
+          "color": "#111111",
+          "x": 260,
+          "y": -130,
+          "collapsed": false,
+          "suggestion": false,
+          "children": [
+            {
+              "name": "Ampla (sem segmentação)",
+              "x": 540,
+              "y": -200,
+              "collapsed": false,
+              "suggestion": false,
+              "uid": "umtae9f44oyrck3",
+              "id": "n33"
+            },
+            {
+              "name": "Interesses e comportamentos",
+              "x": 540,
+              "y": -140,
+              "collapsed": false,
+              "suggestion": false,
+              "uid": "umtae9f442jlhyl",
+              "id": "n34"
+            },
+            {
+              "name": "Lookalike de compradores",
+              "x": 540,
+              "y": -80,
+              "collapsed": false,
+              "suggestion": false,
+              "uid": "umtae9f44fh39oc",
+              "id": "n35"
+            }
+          ],
+          "uid": "umtae9f44z2chu6",
+          "id": "n32"
+        },
+        {
+          "name": "Alcance",
+          "color": "#328596",
+          "x": 260,
+          "y": 140,
+          "collapsed": false,
+          "suggestion": false,
+          "children": [
+            {
+              "name": "Região",
+              "x": 540,
+              "y": 110,
+              "collapsed": false,
+              "suggestion": false,
+              "uid": "umtae9f44gvl9rv",
+              "id": "n37"
+            },
+            {
+              "name": "Engajou com o perfil",
+              "x": 540,
+              "y": 170,
+              "collapsed": false,
+              "suggestion": false,
+              "uid": "umtae9f44evg7x8",
+              "id": "n38"
+            }
+          ],
+          "uid": "umtae9f444zh67y",
+          "id": "n36"
+        }
+      ],
+      "uid": "umtae9f44ctps1k",
+      "id": "n31"
+    },
+    "cliente": "[Dra Fernada Cavalcante] - Setembro a Dezembro - 2026",
+    "estilo": {
+      "cantos": "suave",
+      "sombra": false,
+      "gradiente": false,
+      "borda": false
+    },
+    "relatorio": {
+      "geral": {
+        "rotulos": true,
+        "gradiente": false,
+        "coloridos": "",
+        "blocos": ""
+      },
+      "verba": {
+        "rotulos": true,
+        "gradiente": false,
+        "coloridos": "",
+        "blocos": ""
+      }
+    }
+  }
+}
