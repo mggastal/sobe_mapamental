@@ -2,7 +2,7 @@
   "meta": {
     "nome": "[Dra Fernada Cavalcante] - Setembro a Dezembro - 2026",
     "salvoPor": "Tais Jeronimo",
-    "salvoEm": "2026-08-26T18:32:57.636Z",
+    "salvoEm": "2026-08-26T18:37:18.841Z",
     "resumo": {
       "google": {
         "campanhas": 5,
@@ -41,14 +41,14 @@
           "color": "#1B2F6A",
           "suggestion": false,
           "x": 282.05705070495605,
-          "y": 0,
+          "y": -55.203204572200775,
           "collapsed": false,
           "children": [
             {
               "name": "Setembro",
               "suggestion": false,
-              "x": 562.057050704956,
-              "y": -60.3125,
+              "x": 604.4047374725342,
+              "y": -254.65803092718124,
               "collapsed": false,
               "children": [],
               "uid": "umtae9f448mauaw",
@@ -56,21 +56,24 @@
               "_lines": [
                 "Setembro"
               ],
-              "_apoio": [],
+              "_apoio": [
+                "R$ 700,00/mês · 25,0%"
+              ],
               "_w": 90,
               "_h": 36,
-              "_dragStartX": 561.3008422851562,
-              "_dragStartY": -60.3125,
+              "_dragStartX": 598.3550853729248,
+              "_dragStartY": -199.45482635498047,
               "_dragged": false,
-              "_rawX": 561.3008422851562,
-              "_rawY": -60.3125,
-              "_candidatos": null
+              "_rawX": 598.3550853729248,
+              "_rawY": -199.45482635498047,
+              "_candidatos": null,
+              "budget": 700
             },
             {
               "name": "Outubro",
               "suggestion": false,
-              "x": 562.057050704956,
-              "y": -18,
+              "x": 604.4047374725342,
+              "y": -194.0135673880577,
               "collapsed": false,
               "children": [],
               "uid": "umtae9f443jjd1x",
@@ -78,59 +81,68 @@
               "_lines": [
                 "Outubro"
               ],
-              "_apoio": [],
+              "_apoio": [
+                "R$ 840,00/mês · 30,0%"
+              ],
               "_w": 90,
               "_h": 36,
-              "_dragStartX": 553.2704772949219,
-              "_dragStartY": 18,
-              "_dragged": true,
-              "_rawX": 559.3056945800781,
-              "_rawY": -11.821150779724121,
-              "_candidatos": null
+              "_dragStartX": 598.3550853729248,
+              "_dragStartY": -138.81036281585693,
+              "_dragged": false,
+              "_rawX": 598.3550853729248,
+              "_rawY": -138.81036281585693,
+              "_candidatos": null,
+              "budget": 840
             },
             {
               "name": "Novembro",
               "suggestion": false,
-              "x": 562.057050704956,
-              "y": 24.3125,
+              "x": 604.4047374725342,
+              "y": -128.5777925848961,
               "children": [],
               "id": "n39",
               "collapsed": false,
               "_lines": [
                 "Novembro"
               ],
-              "_apoio": [],
+              "_apoio": [
+                "R$ 840,00/mês · 30,0%"
+              ],
               "_w": 90,
               "_h": 36,
-              "_dragStartX": 553.2704772949219,
-              "_dragStartY": 52,
+              "_dragStartX": 598.3550853729248,
+              "_dragStartY": -65.8125,
               "_dragged": true,
-              "_rawX": 561.7908020019531,
-              "_rawY": 26.439014434814453,
+              "_rawX": 593.8178539276123,
+              "_rawY": -73.37458801269531,
               "_candidatos": null,
-              "uid": "umtaflxu0go35q5"
+              "uid": "umtaflxu0go35q5",
+              "budget": 840
             },
             {
               "name": "Dezembro",
               "suggestion": false,
-              "x": 562.057050704956,
-              "y": 72.50947570800781,
+              "x": 604.4047374725342,
+              "y": -62.890704572200775,
               "children": [],
               "id": "n40",
               "collapsed": false,
               "_lines": [
                 "Dezembro"
               ],
-              "_apoio": [],
+              "_apoio": [
+                "R$ 420,00/mês · 15,0%"
+              ],
               "_w": 90,
               "_h": 36,
-              "_dragStartX": 553.2704772949219,
-              "_dragStartY": 86,
+              "_dragStartX": 598.3550853729248,
+              "_dragStartY": -7.6875,
               "_dragged": true,
-              "_rawX": 558.5956726074219,
-              "_rawY": 72.50947570800781,
+              "_rawX": 602.8923168182373,
+              "_rawY": -6.175083160400391,
               "_candidatos": null,
-              "uid": "umtaflxu0bhjhqe"
+              "uid": "umtaflxu0bhjhqe",
+              "budget": 420
             }
           ],
           "uid": "umtae9f44mnfngu",
@@ -138,103 +150,118 @@
           "_lines": [
             "Genéricas"
           ],
-          "_apoio": [],
+          "_apoio": [
+            "R$ 2.800,00/mês · 20,0%"
+          ],
           "_w": 195,
-          "_h": 40,
+          "_h": 51.375,
           "_dragStartX": 282.05705070495605,
           "_dragStartY": 0,
-          "_dragged": false,
-          "_rawX": 282.05705070495605,
-          "_rawY": 0,
-          "_candidatos": null
+          "_dragged": true,
+          "_rawX": 288.10670280456543,
+          "_rawY": -55.203204572200775,
+          "_candidatos": null,
+          "budget": 2800
         },
         {
           "name": "Plicoma",
           "suggestion": false,
           "x": 282.05705070495605,
-          "y": 62.3125,
+          "y": 12.052165985107422,
           "children": [],
           "id": "n41",
           "collapsed": false,
           "_lines": [
             "Plicoma"
           ],
-          "_apoio": [],
+          "_apoio": [
+            "R$ 2.800,00/mês · 20,0%"
+          ],
           "_w": 195,
-          "_h": 40,
-          "_dragStartX": 281.30084228515625,
-          "_dragStartY": 62.3125,
-          "_dragged": false,
-          "_rawX": 281.30084228515625,
-          "_rawY": 63.06871032714844,
+          "_h": 51.375,
+          "_dragStartX": 282.05705070495605,
+          "_dragStartY": 51.375,
+          "_dragged": true,
+          "_rawX": 281.3008556365967,
+          "_rawY": 12.052165985107422,
           "_candidatos": null,
-          "uid": "umtaflxu021kwdx"
+          "uid": "umtaflxu021kwdx",
+          "budget": 2800
         },
         {
           "name": "Cirurgia",
           "suggestion": false,
           "x": 282.05705070495605,
-          "y": 110.50947570800781,
+          "y": 80.65518188476562,
           "children": [],
           "id": "n42",
           "collapsed": false,
           "_lines": [
             "Cirurgia"
           ],
-          "_apoio": [],
+          "_apoio": [
+            "R$ 4.200,00/mês · 30,0%"
+          ],
           "_w": 195,
-          "_h": 40,
-          "_dragStartX": 230.7562084197998,
-          "_dragStartY": 68,
+          "_h": 51.375,
+          "_dragStartX": 282.05705070495605,
+          "_dragStartY": 116.19697570800781,
           "_dragged": true,
-          "_rawX": 281.42216300964355,
-          "_rawY": 114.88491821289062,
+          "_rawX": 285.0818920135498,
+          "_rawY": 80.65518188476562,
           "_candidatos": null,
-          "uid": "umtaflxu0h826l7"
+          "uid": "umtaflxu0h826l7",
+          "budget": 4200
         },
         {
           "name": "Hemorróida",
           "suggestion": false,
           "x": 282.05705070495605,
-          "y": 167.0339126586914,
+          "y": 147.15435791015625,
           "children": [],
           "id": "n43",
           "collapsed": false,
           "_lines": [
             "Hemorróida"
           ],
-          "_apoio": [],
+          "_apoio": [
+            "R$ 2.100,00/mês · 15,0%"
+          ],
           "_w": 195,
-          "_h": 40,
+          "_h": 51.375,
           "_dragStartX": 282.05705070495605,
-          "_dragStartY": 167.0339126586914,
-          "_dragged": false,
-          "_rawX": 282.05705070495605,
-          "_rawY": 167.0339126586914,
+          "_dragStartY": 176.646484375,
+          "_dragged": true,
+          "_rawX": 286.59428215026855,
+          "_rawY": 147.15435791015625,
           "_candidatos": null,
-          "uid": "umtaflxu0uyxpv6"
+          "uid": "umtaflxu0uyxpv6",
+          "budget": 2100
         },
         {
           "name": "Online",
           "suggestion": false,
           "x": 282.05705070495605,
-          "y": 223.72015380859375,
+          "y": 216.91427612304688,
           "children": [],
           "id": "n44",
           "collapsed": false,
           "_lines": [
             "Online"
           ],
-          "_apoio": [],
+          "_apoio": [
+            "R$ 2.100,00/mês · 15,0%"
+          ],
           "_w": 195,
-          "_h": 40,
-          "_dragStartX": 230.7562084197998,
-          "_dragStartY": 136,
+          "_h": 51.375,
+          "_dragStartX": 282.05705070495605,
+          "_dragStartY": 235.0632781982422,
           "_dragged": true,
-          "_rawX": 280.6659526824951,
-          "_rawY": 223.72015380859375,
+          "_rawX": 281.3008556365967,
+          "_rawY": 216.91427612304688,
           "_candidatos": null,
-          "uid": "umtaflxu05pa168"
+          "uid": "umtaflxu05pa168",
+          "budget": 2100
         }
       ],
       "uid": "umtae9f448tycvh",
