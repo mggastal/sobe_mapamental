@@ -114,6 +114,35 @@
       },
       "logo": "",
       "share": "bccx9gip8ad2hw"
+    },
+    "doctor-g/doctor-g---setembro-a-dezembro---2026": {
+      "nome": "[Doctor G] - Setembro a Dezembro - 2026",
+      "salvoPor": "Tais Jeronimo",
+      "salvoEm": "2026-08-26T17:16:47.344Z",
+      "resumo": {
+        "google": {
+          "campanhas": 3,
+          "verba": 300,
+          "inativa": false
+        },
+        "meta": {
+          "campanhas": 2,
+          "verba": 300,
+          "inativa": false
+        },
+        "linkedin": {
+          "campanhas": 0,
+          "verba": 0,
+          "inativa": true
+        },
+        "tiktok": {
+          "campanhas": 0,
+          "verba": 0,
+          "inativa": true
+        }
+      },
+      "logo": "data:image/png;base64,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",
+      "share": "cbyct3esafzsrv"
     }
   },
   "pastas": {
