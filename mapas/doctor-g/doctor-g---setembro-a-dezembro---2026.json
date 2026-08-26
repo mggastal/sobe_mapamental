@@ -2,16 +2,16 @@
   "meta": {
     "nome": "[Doctor G] - Setembro a Dezembro - 2026",
     "salvoPor": "Tais Jeronimo",
-    "salvoEm": "2026-08-26T17:51:37.600Z",
+    "salvoEm": "2026-08-26T19:11:25.153Z",
     "resumo": {
       "google": {
         "campanhas": 3,
-        "verba": 300,
+        "verba": 400,
         "inativa": false
       },
       "meta": {
         "campanhas": 2,
-        "verba": 300,
+        "verba": 400,
         "inativa": false
       },
       "linkedin": {
@@ -42,21 +42,21 @@
           "color": "#1B2F6A",
           "suggestion": false,
           "x": 249.13636207580566,
-          "y": -244.64772248268127,
+          "y": -552.9602224826813,
           "collapsed": true,
           "children": [
             {
               "name": "Brand",
               "suggestion": false,
               "x": 249.13636207580566,
-              "y": -244.64772248268127,
+              "y": -552.9602224826813,
               "collapsed": false,
               "children": [
                 {
                   "name": "Doctor G",
                   "suggestion": false,
                   "x": 249.13636207580566,
-                  "y": -244.64772248268127,
+                  "y": -552.9602224826813,
                   "collapsed": false,
                   "uid": "umt977lzz3qodl2",
                   "id": "n4",
@@ -82,7 +82,7 @@
                   "name": "Doctor G",
                   "suggestion": false,
                   "x": 249.13636207580566,
-                  "y": -244.64772248268127,
+                  "y": -552.9602224826813,
                   "collapsed": false,
                   "uid": "umt977lzzjvg8w5",
                   "id": "n5",
@@ -105,7 +105,7 @@
                   "name": "Vitala Doctor G",
                   "suggestion": false,
                   "x": 249.13636207580566,
-                  "y": -244.64772248268127,
+                  "y": -552.9602224826813,
                   "collapsed": false,
                   "uid": "umt977lzzk4xive",
                   "id": "n6",
@@ -131,7 +131,7 @@
                   "name": "Vitala Doctor G",
                   "suggestion": false,
                   "x": 249.13636207580566,
-                  "y": -244.64772248268127,
+                  "y": -552.9602224826813,
                   "children": [],
                   "id": "n7",
                   "collapsed": false,
@@ -154,7 +154,7 @@
                   "name": "doctor g vet",
                   "suggestion": false,
                   "x": 249.13636207580566,
-                  "y": -244.64772248268127,
+                  "y": -552.9602224826813,
                   "children": [],
                   "id": "n8",
                   "collapsed": false,
@@ -177,7 +177,7 @@
                   "name": "doctor g vet",
                   "suggestion": false,
                   "x": 249.13636207580566,
-                  "y": -244.64772248268127,
+                  "y": -552.9602224826813,
                   "children": [],
                   "id": "n9",
                   "collapsed": false,
@@ -200,7 +200,7 @@
                   "name": "doctor g phone",
                   "suggestion": false,
                   "x": 249.13636207580566,
-                  "y": -244.64772248268127,
+                  "y": -552.9602224826813,
                   "children": [],
                   "id": "n10",
                   "collapsed": false,
@@ -217,7 +217,7 @@
                   "name": "doctor g phone",
                   "suggestion": false,
                   "x": 249.13636207580566,
-                  "y": -244.64772248268127,
+                  "y": -552.9602224826813,
                   "children": [],
                   "id": "n11",
                   "collapsed": false,
@@ -253,7 +253,7 @@
             "Pesquisa-Brand"
           ],
           "_apoio": [
-            "$ 60.00/mês · 20,0%"
+            "$ 60.00/mês · 15,0%"
           ],
           "_w": 195,
           "_h": 51.375,
@@ -276,15 +276,15 @@
             {
               "name": "Consultations",
               "suggestion": false,
-              "x": 249.13636207580566,
-              "y": -167.27272248268127,
+              "x": 473.88636207580566,
+              "y": -429.2727224826813,
               "collapsed": false,
               "children": [
                 {
                   "name": "vet near me ",
                   "suggestion": false,
-                  "x": 249.13636207580566,
-                  "y": -167.27272248268127,
+                  "x": 734.6363620758057,
+                  "y": -487.7727224826813,
                   "collapsed": false,
                   "uid": "umt977lzz5nve10",
                   "id": "n14",
@@ -305,8 +305,8 @@
                 {
                   "name": "vet near me",
                   "suggestion": false,
-                  "x": 249.13636207580566,
-                  "y": -167.27272248268127,
+                  "x": 734.6363620758057,
+                  "y": -448.7727224826813,
                   "collapsed": false,
                   "uid": "umt977lzz86fkie",
                   "id": "n15",
@@ -327,8 +327,8 @@
                 {
                   "name": "book a vet appointment",
                   "suggestion": false,
-                  "x": 249.13636207580566,
-                  "y": -167.27272248268127,
+                  "x": 764.0163620758057,
+                  "y": -409.7727224826813,
                   "children": [],
                   "id": "n16",
                   "collapsed": false,
@@ -350,8 +350,8 @@
                 {
                   "name": "book a vet appointment",
                   "suggestion": false,
-                  "x": 249.13636207580566,
-                  "y": -167.27272248268127,
+                  "x": 764.0163620758057,
+                  "y": -370.7727224826813,
                   "children": [],
                   "id": "n17",
                   "collapsed": false,
@@ -383,14 +383,14 @@
             {
               "name": "Vaccinations",
               "suggestion": false,
-              "x": 249.13636207580566,
-              "y": -167.27272248268127,
+              "x": 470.63636207580566,
+              "y": -259.2727224826813,
               "children": [
                 {
                   "name": "dog vaccination cost",
                   "suggestion": false,
-                  "x": 249.13636207580566,
-                  "y": -167.27272248268127,
+                  "x": 758.4363620758056,
+                  "y": -317.7727224826813,
                   "children": [],
                   "id": "n19",
                   "collapsed": false,
@@ -406,8 +406,8 @@
                 {
                   "name": "cat vaccination near me",
                   "suggestion": false,
-                  "x": 249.13636207580566,
-                  "y": -167.27272248268127,
+                  "x": 766.8063620758056,
+                  "y": -278.7727224826813,
                   "children": [],
                   "id": "n20",
                   "collapsed": false,
@@ -423,8 +423,8 @@
                 {
                   "name": " C3 vaccination for dogs",
                   "suggestion": false,
-                  "x": 249.13636207580566,
-                  "y": -167.27272248268127,
+                  "x": 766.8063620758056,
+                  "y": -239.77272248268127,
                   "children": [],
                   "id": "n21",
                   "collapsed": false,
@@ -440,8 +440,8 @@
                 {
                   "name": "F3 vaccination for cats",
                   "suggestion": false,
-                  "x": 249.13636207580566,
-                  "y": -167.27272248268127,
+                  "x": 766.8063620758056,
+                  "y": -200.77272248268127,
                   "children": [],
                   "id": "n22",
                   "collapsed": false,
@@ -468,14 +468,14 @@
             {
               "name": "Diagnostics",
               "suggestion": false,
-              "x": 249.13636207580566,
-              "y": -167.27272248268127,
+              "x": 467.38636207580566,
+              "y": -108.77272248268127,
               "children": [
                 {
                   "name": "blood test for dogs",
                   "suggestion": false,
-                  "x": 249.13636207580566,
-                  "y": -167.27272248268127,
+                  "x": 755.6463620758057,
+                  "y": -147.77272248268127,
                   "children": [],
                   "id": "n24",
                   "collapsed": false,
@@ -491,8 +491,8 @@
                 {
                   "name": "veterinary ultrasound",
                   "suggestion": false,
-                  "x": 249.13636207580566,
-                  "y": -167.27272248268127,
+                  "x": 761.2263620758057,
+                  "y": -108.77272248268127,
                   "children": [],
                   "id": "n25",
                   "collapsed": false,
@@ -508,8 +508,8 @@
                 {
                   "name": "dog x-ray cost",
                   "suggestion": false,
-                  "x": 249.13636207580566,
-                  "y": -167.27272248268127,
+                  "x": 741.6963620758056,
+                  "y": -69.77272248268127,
                   "children": [],
                   "id": "n26",
                   "collapsed": false,
@@ -536,14 +536,14 @@
             {
               "name": "Emergency",
               "suggestion": false,
-              "x": 249.13636207580566,
-              "y": -167.27272248268127,
+              "x": 463.63636207580566,
+              "y": -16.772722482681274,
               "children": [
                 {
                   "name": "emergency vet near me",
                   "suggestion": false,
-                  "x": 249.13636207580566,
-                  "y": -167.27272248268127,
+                  "x": 761.2263620758057,
+                  "y": -16.772722482681274,
                   "children": [],
                   "id": "n28",
                   "collapsed": false,
@@ -570,14 +570,14 @@
             {
               "name": "Mobile / house-call vet",
               "suggestion": false,
-              "x": 249.13636207580566,
-              "y": -167.27272248268127,
+              "x": 506.38636207580566,
+              "y": 94.72727751731873,
               "children": [
                 {
                   "name": "mobile vet near me",
                   "suggestion": false,
-                  "x": 249.13636207580566,
-                  "y": -167.27272248268127,
+                  "x": 752.8563620758057,
+                  "y": 36.227277517318726,
                   "children": [],
                   "id": "n30",
                   "collapsed": false,
@@ -593,8 +593,8 @@
                 {
                   "name": "vet that comes to your house",
                   "suggestion": false,
-                  "x": 249.13636207580566,
-                  "y": -167.27272248268127,
+                  "x": 780.7563620758057,
+                  "y": 75.22727751731873,
                   "children": [],
                   "id": "n31",
                   "collapsed": false,
@@ -610,8 +610,8 @@
                 {
                   "name": "house call vet",
                   "suggestion": false,
-                  "x": 249.13636207580566,
-                  "y": -167.27272248268127,
+                  "x": 718.1963620758056,
+                  "y": 114.22727751731873,
                   "children": [],
                   "id": "n32",
                   "collapsed": false,
@@ -626,8 +626,8 @@
                 {
                   "name": "home pet vaccination",
                   "suggestion": false,
-                  "x": 249.13636207580566,
-                  "y": -167.27272248268127,
+                  "x": 734.9363620758056,
+                  "y": 153.22727751731873,
                   "children": [],
                   "id": "n33",
                   "collapsed": false,
@@ -663,7 +663,7 @@
             "Services"
           ],
           "_apoio": [
-            "$ 195.00/mês · 65,0%"
+            "$ 195.00/mês · 48,8%"
           ],
           "_w": 195,
           "_h": 51.375,
@@ -679,19 +679,19 @@
           "name": "Vitala",
           "suggestion": false,
           "x": 249.13636207580566,
-          "y": -89.89772248268127,
+          "y": 218.41477751731873,
           "children": [
             {
               "name": "Brand",
               "suggestion": false,
               "x": 249.13636207580566,
-              "y": -89.89772248268127,
+              "y": 218.41477751731873,
               "children": [
                 {
                   "name": "Vitala Doctor G",
                   "suggestion": false,
                   "x": 249.13636207580566,
-                  "y": -89.89772248268127,
+                  "y": 218.41477751731873,
                   "children": [],
                   "id": "n36",
                   "collapsed": false,
@@ -714,7 +714,7 @@
                   "name": "Vitala Pet Program",
                   "suggestion": false,
                   "x": 249.13636207580566,
-                  "y": -89.89772248268127,
+                  "y": 218.41477751731873,
                   "children": [],
                   "id": "n37",
                   "collapsed": false,
@@ -748,13 +748,13 @@
               "name": "Vitala",
               "suggestion": false,
               "x": 249.13636207580566,
-              "y": -89.89772248268127,
+              "y": 218.41477751731873,
               "children": [
                 {
                   "name": "pet wellness plan",
                   "suggestion": false,
                   "x": 249.13636207580566,
-                  "y": -89.89772248268127,
+                  "y": 218.41477751731873,
                   "children": [],
                   "id": "n39",
                   "collapsed": false,
@@ -777,7 +777,7 @@
                   "name": "preventive pet health plan",
                   "suggestion": false,
                   "x": 249.13636207580566,
-                  "y": -89.89772248268127,
+                  "y": 218.41477751731873,
                   "children": [],
                   "id": "n40",
                   "collapsed": false,
@@ -800,7 +800,7 @@
                   "name": " pet wellness membership",
                   "suggestion": false,
                   "x": 249.13636207580566,
-                  "y": -89.89772248268127,
+                  "y": 218.41477751731873,
                   "children": [],
                   "id": "n41",
                   "collapsed": false,
@@ -823,7 +823,7 @@
                   "name": "monthly pet health plan",
                   "suggestion": false,
                   "x": 249.13636207580566,
-                  "y": -89.89772248268127,
+                  "y": 218.41477751731873,
                   "children": [],
                   "id": "n42",
                   "collapsed": false,
@@ -860,7 +860,7 @@
             "Vitala"
           ],
           "_apoio": [
-            "$ 45.00/mês · 15,0%"
+            "$ 45.00/mês · 11,3%"
           ],
           "_w": 195,
           "_h": 51.375,
@@ -885,11 +885,12 @@
         "Google Ads"
       ],
       "_apoio": [
-        "$ 300.00/mês",
+        "$ 400.00/mês",
+        "⚠ faltam $ 100.00 a distribuir",
         "Campanhas"
       ],
       "_w": 172,
-      "_h": 95.625,
+      "_h": 106.625,
       "tracos": [],
       "notas": [],
       "_dragStartX": -6.363637924194336,
@@ -898,7 +899,7 @@
       "_rawX": -6.363637924194336,
       "_rawY": -167.27272248268127,
       "_candidatos": null,
-      "budget": 300
+      "budget": 400
     },
     "meta": {
       "name": "Meta Ads",
@@ -912,7 +913,7 @@
           "name": "Conversão - Vitala",
           "color": "#1B2F6A",
           "x": 299.0909118652344,
-          "y": -73.5,
+          "y": -79,
           "collapsed": false,
           "suggestion": false,
           "children": [
@@ -980,17 +981,17 @@
             "Conversão - Vitala"
           ],
           "_apoio": [
-            "$ 180.00/mês · 60,0%"
+            "$ 240.00/mês · 60,0%"
           ],
           "_w": 195,
           "_h": 51.375,
           "_dragStartX": 299.0909118652344,
-          "_dragStartY": -128.67614364624023,
-          "_dragged": true,
+          "_dragStartY": -73.5,
+          "_dragged": false,
           "_rawX": 299.0909118652344,
-          "_rawY": -73.22159576416016,
+          "_rawY": -73.5,
           "_candidatos": null,
-          "budget": 180
+          "budget": 240
         },
         {
           "name": "Distribuição",
@@ -1050,17 +1051,17 @@
             "Distribuição"
           ],
           "_apoio": [
-            "$ 120.00/mês · 40,0%"
+            "$ 160.00/mês · 40,0%"
           ],
           "_w": 195,
           "_h": 51.375,
-          "_dragStartX": 287.2727355957031,
-          "_dragStartY": 25.6875,
-          "_dragged": true,
-          "_rawX": 296.3636474609375,
+          "_dragStartX": 299.0909118652344,
+          "_dragStartY": 34.778411865234375,
+          "_dragged": false,
+          "_rawX": 299.0909118652344,
           "_rawY": 34.778411865234375,
           "_candidatos": null,
-          "budget": 120
+          "budget": 160
         }
       ],
       "uid": "umt977lzzukbcbj",
@@ -1069,7 +1070,7 @@
         "Meta Ads"
       ],
       "_apoio": [
-        "$ 300.00/mês",
+        "$ 400.00/mês",
         "Campanhas e públicos"
       ],
       "_w": 172,
@@ -1082,7 +1083,7 @@
       "_rawX": 0,
       "_rawY": 0,
       "_candidatos": null,
-      "budget": 300
+      "budget": 400
     },
     "linkedin": {
       "name": "LinkedIn Ads",
