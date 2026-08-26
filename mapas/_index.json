@@ -89,7 +89,7 @@
     "doctor-g": {
       "nome": "Doctor G",
       "salvoPor": "Tais Jeronimo",
-      "salvoEm": "2026-08-26T13:14:14.456Z",
+      "salvoEm": "2026-08-26T13:24:47.428Z",
       "resumo": {
         "google": {
           "campanhas": 3,
@@ -98,7 +98,7 @@
         },
         "meta": {
           "campanhas": 2,
-          "verba": 0,
+          "verba": 300,
           "inativa": false
         },
         "linkedin": {
