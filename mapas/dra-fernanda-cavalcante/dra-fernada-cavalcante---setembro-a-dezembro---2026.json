@@ -2,7 +2,7 @@
   "meta": {
     "nome": "[Dra Fernada Cavalcante] - Setembro a Dezembro - 2026",
     "salvoPor": "Tais Jeronimo",
-    "salvoEm": "2026-08-26T18:57:43.076Z",
+    "salvoEm": "2026-08-26T19:01:02.987Z",
     "resumo": {
       "google": {
         "campanhas": 5,
@@ -10,8 +10,8 @@
         "inativa": false
       },
       "meta": {
-        "campanhas": 2,
-        "verba": 0,
+        "campanhas": 1,
+        "verba": 510,
         "inativa": false
       },
       "linkedin": {
@@ -41,14 +41,14 @@
           "color": "#1B2F6A",
           "suggestion": false,
           "x": 282.05705070495605,
-          "y": -55.203204572200775,
-          "collapsed": true,
+          "y": -154.26649802923203,
+          "collapsed": false,
           "children": [
             {
               "name": "Setembro",
               "suggestion": false,
-              "x": 604.4047374725342,
-              "y": -254.65803092718124,
+              "x": 599.8674755096436,
+              "y": -353.7213243842125,
               "collapsed": false,
               "children": [],
               "uid": "umtae9f448mauaw",
@@ -72,8 +72,8 @@
             {
               "name": "Outubro",
               "suggestion": false,
-              "x": 604.4047374725342,
-              "y": -194.0135673880577,
+              "x": 599.8674755096436,
+              "y": -293.07686084508896,
               "collapsed": false,
               "children": [],
               "uid": "umtae9f443jjd1x",
@@ -97,8 +97,8 @@
             {
               "name": "Novembro",
               "suggestion": false,
-              "x": 604.4047374725342,
-              "y": -128.5777925848961,
+              "x": 599.8674755096436,
+              "y": -227.64108604192734,
               "children": [],
               "id": "n39",
               "collapsed": false,
@@ -122,8 +122,8 @@
             {
               "name": "Dezembro",
               "suggestion": false,
-              "x": 604.4047374725342,
-              "y": -62.890704572200775,
+              "x": 599.8674755096436,
+              "y": -161.95399802923203,
               "children": [],
               "id": "n40",
               "collapsed": false,
@@ -156,10 +156,10 @@
           "_w": 195,
           "_h": 51.375,
           "_dragStartX": 282.05705070495605,
-          "_dragStartY": 0,
+          "_dragStartY": -55.203204572200775,
           "_dragged": true,
-          "_rawX": 288.10670280456543,
-          "_rawY": -55.203204572200775,
+          "_rawX": 277.51978874206543,
+          "_rawY": -154.26649802923203,
           "_candidatos": null,
           "budget": 2800
         },
@@ -692,136 +692,85 @@
     "meta": {
       "name": "Meta Ads",
       "note": "Campanhas e públicos",
-      "x": 0,
-      "y": 0,
+      "x": 0.9090909957885742,
+      "y": 2.7272725105285645,
       "collapsed": false,
       "suggestion": false,
       "children": [
         {
-          "name": "Conversão",
-          "color": "#1B2F6A",
-          "x": 260,
-          "y": -140,
-          "collapsed": false,
-          "suggestion": false,
-          "children": [
-            {
-              "name": "Remarketing — site 30d",
-              "x": 540,
-              "y": -230,
-              "collapsed": false,
-              "suggestion": false,
-              "uid": "umtae9f441vyhmm",
-              "id": "n16",
-              "_lines": [
-                "Remarketing — site 30d"
-              ],
-              "_apoio": [],
-              "_w": 169,
-              "_h": 36
-            },
-            {
-              "name": "Lookalike 1% — compradores",
-              "x": 540,
-              "y": -170,
-              "collapsed": false,
-              "suggestion": false,
-              "uid": "umtae9f44fpy4rh",
-              "id": "n17",
-              "_lines": [
-                "Lookalike 1% — compradores"
-              ],
-              "_apoio": [],
-              "_w": 195,
-              "_h": 36
-            },
-            {
-              "name": "Interesses",
-              "x": 540,
-              "y": -110,
-              "collapsed": false,
-              "suggestion": false,
-              "uid": "umtae9f44tnzhuc",
-              "id": "n18",
-              "_lines": [
-                "Interesses"
-              ],
-              "_apoio": [],
-              "_w": 91,
-              "_h": 36
-            },
-            {
-              "name": "Advantage+ (aberto)",
-              "x": 540,
-              "y": -50,
-              "collapsed": false,
-              "suggestion": false,
-              "uid": "umtae9f44wypu4k",
-              "id": "n19",
-              "_lines": [
-                "Advantage+ (aberto)"
-              ],
-              "_apoio": [],
-              "_w": 149.5,
-              "_h": 36
-            }
-          ],
-          "uid": "umtae9f44vy5bgw",
-          "id": "n15",
-          "_lines": [
-            "Conversão"
-          ],
-          "_apoio": [],
-          "_w": 195,
-          "_h": 40
-        },
-        {
-          "name": "Reconhecimento",
+          "name": "Distribuição",
           "color": "#328596",
-          "x": 260,
-          "y": 150,
+          "x": 266.36365032196045,
+          "y": 2.7272725105285645,
           "collapsed": false,
           "suggestion": false,
           "children": [
             {
-              "name": "Ampla — região",
-              "x": 540,
-              "y": 110,
+              "name": "Visitantes do Site 7/14/30D ",
+              "x": 546.3636503219604,
+              "y": -40.960227489471436,
               "collapsed": false,
               "suggestion": false,
               "uid": "umtae9f44pbgapi",
               "id": "n21",
               "_lines": [
-                "Ampla — região"
+                "Visitantes do Site 7/14/30D"
               ],
-              "_apoio": [],
-              "_w": 117,
-              "_h": 36
+              "_apoio": [
+                "R$ 306,00/mês · 60,0%"
+              ],
+              "_w": 201.5,
+              "_h": 36,
+              "_dragStartX": 546.3636503219604,
+              "_dragStartY": -35.272727489471436,
+              "_dragged": false,
+              "_rawX": 546.3636503219604,
+              "_rawY": -35.272727489471436,
+              "_candidatos": null,
+              "budget": 306
             },
             {
-              "name": "Interesses amplos",
-              "x": 540,
-              "y": 175,
+              "name": "Semelhante a Seguidores",
+              "x": 546.3636503219604,
+              "y": 25.90909707546234,
               "collapsed": false,
               "suggestion": false,
               "uid": "umtae9f44g26tnu",
               "id": "n22",
               "_lines": [
-                "Interesses amplos"
+                "Semelhante a Seguidores"
               ],
-              "_apoio": [],
-              "_w": 136.5,
-              "_h": 36
+              "_apoio": [
+                "R$ 204,00/mês · 40,0%"
+              ],
+              "_w": 175.5,
+              "_h": 36,
+              "_dragStartX": 546.3636503219604,
+              "_dragStartY": 25.90909707546234,
+              "_dragged": false,
+              "_rawX": 546.3636503219604,
+              "_rawY": 25.90909707546234,
+              "_candidatos": null,
+              "budget": 204
             }
           ],
           "uid": "umtae9f44b16ogx",
           "id": "n20",
           "_lines": [
-            "Reconhecimento"
+            "Distribuição"
           ],
-          "_apoio": [],
+          "_apoio": [
+            "R$ 510,00/mês · 100,0%"
+          ],
           "_w": 195,
-          "_h": 40
+          "_h": 51.375,
+          "_dragStartX": 266.36365032196045,
+          "_dragStartY": 2.7272725105285645,
+          "_dragged": false,
+          "_rawX": 266.36365032196045,
+          "_rawY": 2.7272725105285645,
+          "_candidatos": null,
+          "budget": 510
         }
       ],
       "uid": "umtae9f44lw9y33",
@@ -830,12 +779,20 @@
         "Meta Ads"
       ],
       "_apoio": [
+        "R$ 510,00/mês",
         "Campanhas e públicos"
       ],
       "_w": 172,
-      "_h": 84.625,
+      "_h": 95.625,
       "tracos": [],
-      "notas": []
+      "notas": [],
+      "_dragStartX": 0.9090909957885742,
+      "_dragStartY": 2.7272725105285645,
+      "_dragged": false,
+      "_rawX": 0.9090909957885742,
+      "_rawY": 2.7272725105285645,
+      "_candidatos": null,
+      "budget": 510
     },
     "linkedin": {
       "name": "LinkedIn Ads",
