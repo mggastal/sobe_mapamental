@@ -2,11 +2,11 @@
   "meta": {
     "nome": "[Dra Fernada Cavalcante] - Setembro a Dezembro - 2026",
     "salvoPor": "Tais Jeronimo",
-    "salvoEm": "2026-08-26T17:55:14.243Z",
+    "salvoEm": "2026-08-26T18:32:57.636Z",
     "resumo": {
       "google": {
-        "campanhas": 2,
-        "verba": 0,
+        "campanhas": 5,
+        "verba": 14000,
         "inativa": false
       },
       "meta": {
@@ -32,133 +32,231 @@
       "name": "Google Ads",
       "note": "Campanhas",
       "suggestion": false,
-      "x": 0,
+      "x": 0.7562084197998047,
       "y": 0,
       "collapsed": false,
       "children": [
         {
-          "name": "Campanha 1",
+          "name": "Genéricas",
           "color": "#1B2F6A",
           "suggestion": false,
-          "x": 260,
-          "y": -80,
+          "x": 282.05705070495605,
+          "y": 0,
           "collapsed": false,
           "children": [
             {
-              "name": "Grupo de anúncios 1",
+              "name": "Setembro",
               "suggestion": false,
-              "x": 540,
-              "y": -140,
+              "x": 562.057050704956,
+              "y": -60.3125,
               "collapsed": false,
-              "children": [
-                {
-                  "name": "palavra-chave 1",
-                  "suggestion": false,
-                  "x": 820,
-                  "y": -170,
-                  "collapsed": false,
-                  "uid": "umtae9f44cd5gg7",
-                  "id": "n4"
-                },
-                {
-                  "name": "palavra-chave 2",
-                  "suggestion": false,
-                  "x": 820,
-                  "y": -140,
-                  "collapsed": false,
-                  "uid": "umtae9f44nmq8op",
-                  "id": "n5"
-                },
-                {
-                  "name": "palavra-chave 3",
-                  "suggestion": false,
-                  "x": 820,
-                  "y": -110,
-                  "collapsed": false,
-                  "uid": "umtae9f44klob7o",
-                  "id": "n6"
-                }
-              ],
+              "children": [],
               "uid": "umtae9f448mauaw",
-              "id": "n3"
+              "id": "n3",
+              "_lines": [
+                "Setembro"
+              ],
+              "_apoio": [],
+              "_w": 90,
+              "_h": 36,
+              "_dragStartX": 561.3008422851562,
+              "_dragStartY": -60.3125,
+              "_dragged": false,
+              "_rawX": 561.3008422851562,
+              "_rawY": -60.3125,
+              "_candidatos": null
             },
             {
-              "name": "Grupo de anúncios 2",
+              "name": "Outubro",
               "suggestion": false,
-              "x": 540,
-              "y": -20,
+              "x": 562.057050704956,
+              "y": -18,
               "collapsed": false,
-              "children": [
-                {
-                  "name": "palavra-chave 1",
-                  "suggestion": false,
-                  "x": 820,
-                  "y": -35,
-                  "collapsed": false,
-                  "uid": "umtae9f44usb2ph",
-                  "id": "n8"
-                },
-                {
-                  "name": "palavra-chave 2",
-                  "suggestion": false,
-                  "x": 820,
-                  "y": -5,
-                  "collapsed": false,
-                  "uid": "umtae9f44jfcm49",
-                  "id": "n9"
-                }
-              ],
+              "children": [],
               "uid": "umtae9f443jjd1x",
-              "id": "n7"
+              "id": "n7",
+              "_lines": [
+                "Outubro"
+              ],
+              "_apoio": [],
+              "_w": 90,
+              "_h": 36,
+              "_dragStartX": 553.2704772949219,
+              "_dragStartY": 18,
+              "_dragged": true,
+              "_rawX": 559.3056945800781,
+              "_rawY": -11.821150779724121,
+              "_candidatos": null
+            },
+            {
+              "name": "Novembro",
+              "suggestion": false,
+              "x": 562.057050704956,
+              "y": 24.3125,
+              "children": [],
+              "id": "n39",
+              "collapsed": false,
+              "_lines": [
+                "Novembro"
+              ],
+              "_apoio": [],
+              "_w": 90,
+              "_h": 36,
+              "_dragStartX": 553.2704772949219,
+              "_dragStartY": 52,
+              "_dragged": true,
+              "_rawX": 561.7908020019531,
+              "_rawY": 26.439014434814453,
+              "_candidatos": null,
+              "uid": "umtaflxu0go35q5"
+            },
+            {
+              "name": "Dezembro",
+              "suggestion": false,
+              "x": 562.057050704956,
+              "y": 72.50947570800781,
+              "children": [],
+              "id": "n40",
+              "collapsed": false,
+              "_lines": [
+                "Dezembro"
+              ],
+              "_apoio": [],
+              "_w": 90,
+              "_h": 36,
+              "_dragStartX": 553.2704772949219,
+              "_dragStartY": 86,
+              "_dragged": true,
+              "_rawX": 558.5956726074219,
+              "_rawY": 72.50947570800781,
+              "_candidatos": null,
+              "uid": "umtaflxu0bhjhqe"
             }
           ],
           "uid": "umtae9f44mnfngu",
-          "id": "n2"
+          "id": "n2",
+          "_lines": [
+            "Genéricas"
+          ],
+          "_apoio": [],
+          "_w": 195,
+          "_h": 40,
+          "_dragStartX": 282.05705070495605,
+          "_dragStartY": 0,
+          "_dragged": false,
+          "_rawX": 282.05705070495605,
+          "_rawY": 0,
+          "_candidatos": null
         },
         {
-          "name": "Campanha 2",
-          "color": "#328596",
+          "name": "Plicoma",
           "suggestion": false,
-          "x": 260,
-          "y": 110,
+          "x": 282.05705070495605,
+          "y": 62.3125,
+          "children": [],
+          "id": "n41",
           "collapsed": false,
-          "children": [
-            {
-              "name": "Grupo de anúncios 1",
-              "suggestion": false,
-              "x": 540,
-              "y": 110,
-              "collapsed": false,
-              "children": [
-                {
-                  "name": "palavra-chave 1",
-                  "suggestion": false,
-                  "x": 820,
-                  "y": 95,
-                  "collapsed": false,
-                  "uid": "umtae9f44iltt30",
-                  "id": "n12"
-                },
-                {
-                  "name": "palavra-chave 2",
-                  "suggestion": false,
-                  "x": 820,
-                  "y": 125,
-                  "collapsed": false,
-                  "uid": "umtae9f44672ekw",
-                  "id": "n13"
-                }
-              ],
-              "uid": "umtae9f448rjq8b",
-              "id": "n11"
-            }
+          "_lines": [
+            "Plicoma"
           ],
-          "uid": "umtae9f44cj1hph",
-          "id": "n10"
+          "_apoio": [],
+          "_w": 195,
+          "_h": 40,
+          "_dragStartX": 281.30084228515625,
+          "_dragStartY": 62.3125,
+          "_dragged": false,
+          "_rawX": 281.30084228515625,
+          "_rawY": 63.06871032714844,
+          "_candidatos": null,
+          "uid": "umtaflxu021kwdx"
+        },
+        {
+          "name": "Cirurgia",
+          "suggestion": false,
+          "x": 282.05705070495605,
+          "y": 110.50947570800781,
+          "children": [],
+          "id": "n42",
+          "collapsed": false,
+          "_lines": [
+            "Cirurgia"
+          ],
+          "_apoio": [],
+          "_w": 195,
+          "_h": 40,
+          "_dragStartX": 230.7562084197998,
+          "_dragStartY": 68,
+          "_dragged": true,
+          "_rawX": 281.42216300964355,
+          "_rawY": 114.88491821289062,
+          "_candidatos": null,
+          "uid": "umtaflxu0h826l7"
+        },
+        {
+          "name": "Hemorróida",
+          "suggestion": false,
+          "x": 282.05705070495605,
+          "y": 167.0339126586914,
+          "children": [],
+          "id": "n43",
+          "collapsed": false,
+          "_lines": [
+            "Hemorróida"
+          ],
+          "_apoio": [],
+          "_w": 195,
+          "_h": 40,
+          "_dragStartX": 282.05705070495605,
+          "_dragStartY": 167.0339126586914,
+          "_dragged": false,
+          "_rawX": 282.05705070495605,
+          "_rawY": 167.0339126586914,
+          "_candidatos": null,
+          "uid": "umtaflxu0uyxpv6"
+        },
+        {
+          "name": "Online",
+          "suggestion": false,
+          "x": 282.05705070495605,
+          "y": 223.72015380859375,
+          "children": [],
+          "id": "n44",
+          "collapsed": false,
+          "_lines": [
+            "Online"
+          ],
+          "_apoio": [],
+          "_w": 195,
+          "_h": 40,
+          "_dragStartX": 230.7562084197998,
+          "_dragStartY": 136,
+          "_dragged": true,
+          "_rawX": 280.6659526824951,
+          "_rawY": 223.72015380859375,
+          "_candidatos": null,
+          "uid": "umtaflxu05pa168"
         }
       ],
       "uid": "umtae9f448tycvh",
-      "id": "n1"
+      "id": "n1",
+      "_lines": [
+        "Google Ads"
+      ],
+      "_apoio": [
+        "R$ 14.000,00/mês",
+        "Campanhas"
+      ],
+      "_w": 172,
+      "_h": 95.625,
+      "tracos": [],
+      "notas": [],
+      "_dragStartX": 0.7562084197998047,
+      "_dragStartY": 0,
+      "_dragged": false,
+      "_rawX": 0.7562084197998047,
+      "_rawY": 0,
+      "_candidatos": null,
+      "budget": 14000
     },
     "meta": {
       "name": "Meta Ads",
