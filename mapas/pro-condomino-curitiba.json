@@ -2,11 +2,11 @@
   "meta": {
     "nome": "Pró Condômino Curitiba",
     "salvoPor": "Tais Jeronimo",
-    "salvoEm": "2026-08-26T14:15:19.758Z",
+    "salvoEm": "2026-08-26T14:39:40.323Z",
     "resumo": {
       "google": {
-        "campanhas": 2,
-        "verba": 0,
+        "campanhas": 5,
+        "verba": 1800,
         "inativa": false
       },
       "meta": {
@@ -37,196 +37,684 @@
       "collapsed": false,
       "children": [
         {
-          "name": "Campanha 1",
+          "name": "Pesquisa - Leads - Geral",
           "color": "#1B2F6A",
           "suggestion": false,
-          "x": 260,
-          "y": -80,
-          "collapsed": false,
+          "x": 279.9546890258789,
+          "y": -185.71875,
+          "collapsed": true,
           "children": [
             {
-              "name": "Grupo de anúncios 1",
+              "name": "Condomínio",
               "suggestion": false,
-              "x": 540,
-              "y": -140,
-              "collapsed": false,
+              "x": 279.9546890258789,
+              "y": -185.71875,
+              "collapsed": true,
               "children": [
                 {
-                  "name": "palavra-chave 1",
+                  "name": "\ngarantidoras de condominio",
                   "suggestion": false,
-                  "x": 820,
-                  "y": -170,
+                  "x": 279.9546890258789,
+                  "y": -185.71875,
                   "collapsed": false,
                   "uid": "umta6embsll66pn",
                   "id": "n4",
                   "_lines": [
-                    "palavra-chave 1"
+                    "garantidoras de condominio"
                   ],
                   "_apoio": [],
-                  "_w": 109.7,
-                  "_h": 27
+                  "_w": 218.08,
+                  "_h": 27,
+                  "_dragStartX": 820,
+                  "_dragStartY": -170.90908813476562,
+                  "_dragged": false,
+                  "_rawX": 820,
+                  "_rawY": -170.90908813476562,
+                  "_candidatos": null,
+                  "match": "frase"
                 },
                 {
-                  "name": "palavra-chave 2",
+                  "name": "solução para condomínio\n",
                   "suggestion": false,
-                  "x": 820,
-                  "y": -140,
+                  "x": 279.9546890258789,
+                  "y": -185.71875,
                   "collapsed": false,
                   "uid": "umta6embsftj8co",
                   "id": "n5",
                   "_lines": [
-                    "palavra-chave 2"
+                    "solução para condomínio"
                   ],
                   "_apoio": [],
-                  "_w": 109.7,
-                  "_h": 27
-                },
-                {
-                  "name": "palavra-chave 3",
-                  "suggestion": false,
-                  "x": 820,
-                  "y": -110,
-                  "collapsed": false,
-                  "uid": "umta6embsn4u3n2",
-                  "id": "n6",
-                  "_lines": [
-                    "palavra-chave 3"
-                  ],
-                  "_apoio": [],
-                  "_w": 109.7,
-                  "_h": 27
+                  "_w": 201.34,
+                  "_h": 27,
+                  "_dragStartX": 820,
+                  "_dragStartY": -140.90908813476562,
+                  "_dragged": false,
+                  "_rawX": 820,
+                  "_rawY": -140.90908813476562,
+                  "_candidatos": null,
+                  "match": "frase"
                 }
               ],
               "uid": "umta6embsu2yg5c",
               "id": "n3",
               "_lines": [
-                "Grupo de anúncios 1"
+                "Condomínio"
               ],
               "_apoio": [],
-              "_w": 149.5,
-              "_h": 36
+              "_w": 91,
+              "_h": 36,
+              "_dragStartX": 540,
+              "_dragStartY": -140,
+              "_dragged": false,
+              "_rawX": 540,
+              "_rawY": -140.90908813476562,
+              "_candidatos": null
             },
             {
-              "name": "Grupo de anúncios 2",
+              "name": "Serviços",
               "suggestion": false,
-              "x": 540,
-              "y": -20,
-              "collapsed": false,
+              "x": 279.9546890258789,
+              "y": -185.71875,
+              "collapsed": true,
               "children": [
                 {
-                  "name": "palavra-chave 1",
+                  "name": "gestão financeira condomínio",
                   "suggestion": false,
-                  "x": 820,
-                  "y": -35,
+                  "x": 279.9546890258789,
+                  "y": -185.71875,
                   "collapsed": false,
                   "uid": "umta6embs355kea",
                   "id": "n8",
                   "_lines": [
-                    "palavra-chave 1"
+                    "gestão financeira condomínio"
                   ],
                   "_apoio": [],
-                  "_w": 109.7,
-                  "_h": 27
+                  "_w": 229.24,
+                  "_h": 27,
+                  "_dragStartX": 820,
+                  "_dragStartY": -35,
+                  "_dragged": false,
+                  "_rawX": 820,
+                  "_rawY": -35,
+                  "_candidatos": null,
+                  "match": "frase"
                 },
                 {
-                  "name": "palavra-chave 2",
+                  "name": "\ngarantidora de receita condomínio",
                   "suggestion": false,
-                  "x": 820,
-                  "y": -5,
+                  "x": 279.9546890258789,
+                  "y": -185.71875,
                   "collapsed": false,
                   "uid": "umta6embscbubl1",
                   "id": "n9",
                   "_lines": [
-                    "palavra-chave 2"
+                    "garantidora de receita condomínio"
                   ],
                   "_apoio": [],
-                  "_w": 109.7,
-                  "_h": 27
+                  "_w": 257.14,
+                  "_h": 27,
+                  "_dragStartX": 820,
+                  "_dragStartY": -5,
+                  "_dragged": false,
+                  "_rawX": 820,
+                  "_rawY": -5,
+                  "_candidatos": null,
+                  "match": "frase"
+                },
+                {
+                  "name": "\ncobrança inadimplência condomínio",
+                  "suggestion": false,
+                  "x": 279.9546890258789,
+                  "y": -185.71875,
+                  "children": [],
+                  "id": "n39",
+                  "collapsed": false,
+                  "_lines": [
+                    "cobrança inadimplência condomínio"
+                  ],
+                  "_apoio": [],
+                  "_w": 257.14,
+                  "_h": 27,
+                  "match": "frase",
+                  "uid": "umta79x4ws26hy1"
                 }
               ],
               "uid": "umta6embsa74a5f",
               "id": "n7",
               "_lines": [
-                "Grupo de anúncios 2"
+                "Serviços"
               ],
               "_apoio": [],
-              "_w": 149.5,
-              "_h": 36
+              "_w": 90,
+              "_h": 36,
+              "_dragStartX": 540,
+              "_dragStartY": -20,
+              "_dragged": true,
+              "_rawX": 540.9091186523438,
+              "_rawY": -88.18181610107422,
+              "_candidatos": null
             }
           ],
           "uid": "umta6embs73e9az",
           "id": "n2",
           "_lines": [
-            "Campanha 1"
+            "Pesquisa - Leads - Geral"
           ],
-          "_apoio": [],
+          "_apoio": [
+            "R$ 630,00/mês · 35,0%"
+          ],
           "_w": 195,
-          "_h": 40
+          "_h": 51.375,
+          "_dragStartX": 260,
+          "_dragStartY": -80,
+          "_dragged": false,
+          "_rawX": 260,
+          "_rawY": -80,
+          "_candidatos": null,
+          "budget": 630
         },
         {
-          "name": "Campanha 2",
-          "color": "#328596",
+          "name": "Youtube - Inscritos",
+          "color": "#D14026",
           "suggestion": false,
-          "x": 260,
-          "y": 110,
-          "collapsed": false,
+          "x": 279.9546890258789,
+          "y": -108.34375,
+          "collapsed": true,
           "children": [
             {
-              "name": "Grupo de anúncios 1",
+              "name": "Síndicos - Curitiba",
               "suggestion": false,
-              "x": 540,
-              "y": 110,
+              "x": 279.9546890258789,
+              "y": -108.34375,
               "collapsed": false,
-              "children": [
-                {
-                  "name": "palavra-chave 1",
-                  "suggestion": false,
-                  "x": 820,
-                  "y": 95,
-                  "collapsed": false,
-                  "uid": "umta6embszh4svc",
-                  "id": "n12",
-                  "_lines": [
-                    "palavra-chave 1"
-                  ],
-                  "_apoio": [],
-                  "_w": 109.7,
-                  "_h": 27
-                },
-                {
-                  "name": "palavra-chave 2",
-                  "suggestion": false,
-                  "x": 820,
-                  "y": 125,
-                  "collapsed": false,
-                  "uid": "umta6embst6ebtq",
-                  "id": "n13",
-                  "_lines": [
-                    "palavra-chave 2"
-                  ],
-                  "_apoio": [],
-                  "_w": 109.7,
-                  "_h": 27
-                }
-              ],
+              "children": [],
               "uid": "umta6embs33gi8m",
               "id": "n11",
               "_lines": [
-                "Grupo de anúncios 1"
+                "Síndicos - Curitiba"
               ],
               "_apoio": [],
               "_w": 149.5,
-              "_h": 36
+              "_h": 36,
+              "_dragStartX": 540.9090881347656,
+              "_dragStartY": 110,
+              "_dragged": false,
+              "_rawX": 540.9090881347656,
+              "_rawY": 110,
+              "_candidatos": null
             }
           ],
           "uid": "umta6embstuvkht",
           "id": "n10",
           "_lines": [
-            "Campanha 2"
+            "Youtube - Inscritos"
           ],
-          "_apoio": [],
+          "_apoio": [
+            "R$ 270,00/mês · 15,0%"
+          ],
           "_w": 195,
-          "_h": 40
+          "_h": 51.375,
+          "_dragStartX": 260,
+          "_dragStartY": 110,
+          "_dragged": false,
+          "_rawX": 260,
+          "_rawY": 110,
+          "_candidatos": null,
+          "tipo": "video",
+          "budget": 270
+        },
+        {
+          "name": "Pesquisa - Leads - Concorrentes",
+          "suggestion": false,
+          "x": 279.9546890258789,
+          "y": -30.96875,
+          "children": [
+            {
+              "name": "Concorrentes",
+              "suggestion": false,
+              "x": 279.9546890258789,
+              "y": -30.96875,
+              "children": [
+                {
+                  "name": "\nGarante Curitiba",
+                  "suggestion": false,
+                  "x": 279.9546890258789,
+                  "y": -30.96875,
+                  "children": [],
+                  "id": "n44",
+                  "collapsed": false,
+                  "_lines": [
+                    "Garante Curitiba"
+                  ],
+                  "_apoio": [],
+                  "_w": 162.28,
+                  "_h": 27,
+                  "match": "exata",
+                  "uid": "umta79x4wubyr20"
+                },
+                {
+                  "name": "Rateio Garantidora",
+                  "suggestion": false,
+                  "x": 279.9546890258789,
+                  "y": -30.96875,
+                  "children": [],
+                  "id": "n45",
+                  "collapsed": false,
+                  "_lines": [
+                    "Rateio Garantidora"
+                  ],
+                  "_apoio": [],
+                  "_w": 173.44,
+                  "_h": 27,
+                  "match": "exata",
+                  "uid": "umta79x4w8if686"
+                },
+                {
+                  "name": "LLZ Garantidora\n",
+                  "suggestion": false,
+                  "x": 279.9546890258789,
+                  "y": -30.96875,
+                  "children": [],
+                  "id": "n46",
+                  "collapsed": false,
+                  "_lines": [
+                    "LLZ Garantidora"
+                  ],
+                  "_apoio": [],
+                  "_w": 156.7,
+                  "_h": 27,
+                  "match": "exata",
+                  "uid": "umta79x4ww6uoxu"
+                },
+                {
+                  "name": "DSM Garantidora",
+                  "suggestion": false,
+                  "x": 279.9546890258789,
+                  "y": -30.96875,
+                  "children": [],
+                  "id": "n47",
+                  "collapsed": false,
+                  "_lines": [
+                    "DSM Garantidora"
+                  ],
+                  "_apoio": [],
+                  "_w": 156.7,
+                  "_h": 27,
+                  "_dragStartX": 744.4546890258789,
+                  "_dragStartY": 82.81818389892578,
+                  "_dragged": false,
+                  "_rawX": 744.4546890258789,
+                  "_rawY": 82.81818389892578,
+                  "_candidatos": null,
+                  "match": "exata",
+                  "uid": "umta79x4w2g6k1z"
+                }
+              ],
+              "id": "n42",
+              "collapsed": true,
+              "_lines": [
+                "Concorrentes"
+              ],
+              "_apoio": [],
+              "_w": 104,
+              "_h": 36,
+              "_dragStartX": 514.4546890258789,
+              "_dragStartY": -19.18181610107422,
+              "_dragged": false,
+              "_rawX": 514.4546890258789,
+              "_rawY": -19.18181610107422,
+              "_candidatos": null,
+              "uid": "umta79x4wgue99t"
+            }
+          ],
+          "id": "n41",
+          "collapsed": true,
+          "_lines": [
+            "Pesquisa - Leads - Concorrentes"
+          ],
+          "_apoio": [
+            "R$ 360,00/mês · 20,0%"
+          ],
+          "_w": 243.9093780517578,
+          "_h": 51.375,
+          "_dragStartX": 284.4546890258789,
+          "_dragStartY": -19.18181610107422,
+          "_dragged": true,
+          "_rawX": 279.9092483520508,
+          "_rawY": -14.636361122131348,
+          "_candidatos": null,
+          "_w0": 195,
+          "_resized": true,
+          "_resto": 0,
+          "width": 243.9093780517578,
+          "budget": 360,
+          "uid": "umta79x4wvbhv0s"
+        },
+        {
+          "name": "Pesquisa - Impressões - Brand",
+          "suggestion": false,
+          "x": 279.9546890258789,
+          "y": 53.59375,
+          "children": [
+            {
+              "name": "Marca",
+              "suggestion": false,
+              "x": 279.9546890258789,
+              "y": 53.59375,
+              "children": [
+                {
+                  "name": "Pró condômino",
+                  "suggestion": false,
+                  "x": 279.9546890258789,
+                  "y": 53.59375,
+                  "children": [],
+                  "id": "n50",
+                  "collapsed": false,
+                  "_lines": [
+                    "Pró condômino"
+                  ],
+                  "_apoio": [],
+                  "_w": 145.54000000000002,
+                  "_h": 27,
+                  "match": "frase",
+                  "_dragStartX": 720,
+                  "_dragStartY": 42.000003814697266,
+                  "_dragged": true,
+                  "_rawX": 734.5454711914062,
+                  "_rawY": 5.6363667249679565,
+                  "_candidatos": null,
+                  "uid": "umta79x4ww4iptg"
+                },
+                {
+                  "name": "Pró condômino",
+                  "suggestion": false,
+                  "x": 279.9546890258789,
+                  "y": 53.59375,
+                  "children": [],
+                  "id": "n51",
+                  "collapsed": false,
+                  "_lines": [
+                    "Pró condômino"
+                  ],
+                  "_apoio": [],
+                  "_w": 145.54000000000002,
+                  "_h": 27,
+                  "_dragStartX": 734.5454711914062,
+                  "_dragStartY": 39.8125,
+                  "_dragged": false,
+                  "_rawX": 734.5454711914062,
+                  "_rawY": 39.8125,
+                  "_candidatos": null,
+                  "match": "exata",
+                  "uid": "umta79x4w4jqdfz"
+                },
+                {
+                  "name": "Pró garantidora",
+                  "suggestion": false,
+                  "x": 279.9546890258789,
+                  "y": 53.59375,
+                  "children": [],
+                  "id": "n52",
+                  "collapsed": false,
+                  "_lines": [
+                    "Pró garantidora"
+                  ],
+                  "_apoio": [],
+                  "_w": 156.7,
+                  "_h": 27,
+                  "match": "frase",
+                  "uid": "umta79x4w23uv8o"
+                },
+                {
+                  "name": "Pró garantidora",
+                  "suggestion": false,
+                  "x": 279.9546890258789,
+                  "y": 53.59375,
+                  "children": [],
+                  "id": "n53",
+                  "collapsed": false,
+                  "_lines": [
+                    "Pró garantidora"
+                  ],
+                  "_apoio": [],
+                  "_w": 156.7,
+                  "_h": 27,
+                  "match": "exata",
+                  "uid": "umta79x4wq9j40w"
+                },
+                {
+                  "name": "Pró condômino curitiba",
+                  "suggestion": false,
+                  "x": 279.9546890258789,
+                  "y": 53.59375,
+                  "children": [],
+                  "id": "n54",
+                  "collapsed": false,
+                  "_lines": [
+                    "Pró condômino curitiba"
+                  ],
+                  "_apoio": [],
+                  "_w": 195.76,
+                  "_h": 27,
+                  "match": "frase",
+                  "uid": "umta79x4w318t7n"
+                },
+                {
+                  "name": "Pró condômino curitiba",
+                  "suggestion": false,
+                  "x": 279.9546890258789,
+                  "y": 53.59375,
+                  "children": [],
+                  "id": "n55",
+                  "collapsed": false,
+                  "_lines": [
+                    "Pró condômino curitiba"
+                  ],
+                  "_apoio": [],
+                  "_w": 195.76,
+                  "_h": 27,
+                  "match": "exata",
+                  "uid": "umta79x4wdjyam6"
+                }
+              ],
+              "id": "n49",
+              "collapsed": true,
+              "_lines": [
+                "Marca"
+              ],
+              "_apoio": [],
+              "_w": 90,
+              "_h": 36,
+              "_dragStartX": 495,
+              "_dragStartY": 27.125003814697266,
+              "_dragged": true,
+              "_rawX": 456.81817626953125,
+              "_rawY": 39.85227966308594,
+              "_candidatos": null,
+              "uid": "umta79x4wajgj6a"
+            }
+          ],
+          "id": "n48",
+          "collapsed": true,
+          "_lines": [
+            "Pesquisa - Impressões -",
+            "Brand"
+          ],
+          "_apoio": [
+            "R$ 270,00/mês · 15,0%"
+          ],
+          "_w": 195,
+          "_h": 65.75,
+          "_dragStartX": 260,
+          "_dragStartY": 51.4375,
+          "_dragged": true,
+          "_rawX": 261.8182067871094,
+          "_rawY": 45.98295593261719,
+          "_candidatos": null,
+          "budget": 270,
+          "uid": "umta79x4wtfymsz"
+        },
+        {
+          "name": "Geração de Demanda - Display",
+          "suggestion": false,
+          "x": 279.9546890258789,
+          "y": 185.71875,
+          "children": [
+            {
+              "name": "Sindicos",
+              "suggestion": false,
+              "x": 518.9093780517578,
+              "y": 125.96875,
+              "children": [
+                {
+                  "name": "Anúncios em Display",
+                  "suggestion": false,
+                  "x": 754.9193780517578,
+                  "y": 125.96875,
+                  "children": [],
+                  "id": "n58",
+                  "collapsed": false,
+                  "_lines": [
+                    "Anúncios em Display"
+                  ],
+                  "_apoio": [],
+                  "_w": 132.01999999999998,
+                  "_h": 27,
+                  "_dragStartX": 754.9193780517578,
+                  "_dragStartY": 125.96875,
+                  "_dragged": false,
+                  "_rawX": 754.9193780517578,
+                  "_rawY": 125.96875,
+                  "_candidatos": null,
+                  "uid": "umta79x4waifvju"
+                }
+              ],
+              "id": "n57",
+              "collapsed": false,
+              "_lines": [
+                "Sindicos"
+              ],
+              "_apoio": [],
+              "_w": 90,
+              "_h": 36,
+              "_dragStartX": 490,
+              "_dragStartY": 175.09091186523438,
+              "_dragged": false,
+              "_rawX": 490,
+              "_rawY": 174.18182373046875,
+              "_candidatos": null,
+              "uid": "umta79x4w5ey9yk"
+            },
+            {
+              "name": "Remarketing Site",
+              "suggestion": false,
+              "x": 538.9093780517578,
+              "y": 183.46875,
+              "children": [
+                {
+                  "name": "Anúncios em Display",
+                  "suggestion": false,
+                  "x": 768.9093780517578,
+                  "y": 183.46875,
+                  "children": [],
+                  "id": "n61",
+                  "collapsed": false,
+                  "_lines": [
+                    "Anúncios em Display"
+                  ],
+                  "_apoio": [],
+                  "_w": 132.01999999999998,
+                  "_h": 27,
+                  "_dragStartX": 768.9093780517578,
+                  "_dragStartY": 183.46875,
+                  "_dragged": false,
+                  "_rawX": 768.9093780517578,
+                  "_rawY": 183.46875,
+                  "_candidatos": null,
+                  "uid": "umta79x4wtxnot5"
+                }
+              ],
+              "id": "n59",
+              "collapsed": false,
+              "_lines": [
+                "Remarketing Site"
+              ],
+              "_apoio": [],
+              "_w": 130,
+              "_h": 36,
+              "_dragStartX": 538.9093780517578,
+              "_dragStartY": 183.46875,
+              "_dragged": false,
+              "_rawX": 538.9093780517578,
+              "_rawY": 183.46875,
+              "_candidatos": null,
+              "uid": "umta79x4waju9gd"
+            },
+            {
+              "name": "Viu Vídeos Youtube",
+              "suggestion": false,
+              "x": 545.4093780517578,
+              "y": 245.46875,
+              "children": [
+                {
+                  "name": "Anúncios em Display",
+                  "suggestion": false,
+                  "x": 775.4093780517578,
+                  "y": 245.46875,
+                  "children": [],
+                  "id": "n63",
+                  "collapsed": false,
+                  "_lines": [
+                    "Anúncios em Display"
+                  ],
+                  "_apoio": [],
+                  "_w": 132.01999999999998,
+                  "_h": 27,
+                  "uid": "umta79x4wqbd32x"
+                }
+              ],
+              "id": "n60",
+              "collapsed": false,
+              "_lines": [
+                "Viu Vídeos Youtube"
+              ],
+              "_apoio": [],
+              "_w": 143,
+              "_h": 36,
+              "_dragStartX": 545.4093780517578,
+              "_dragStartY": 245.46875,
+              "_dragged": false,
+              "_rawX": 545.4093780517578,
+              "_rawY": 245.46875,
+              "_candidatos": null,
+              "uid": "umta79x4w3ff8x1"
+            }
+          ],
+          "id": "n56",
+          "collapsed": false,
+          "_lines": [
+            "Geração de Demanda -",
+            "Display"
+          ],
+          "_apoio": [
+            "R$ 270,00/mês · 15,0%"
+          ],
+          "_w": 195,
+          "_h": 65.75,
+          "_dragStartX": 260,
+          "_dragStartY": 175.09091186523438,
+          "_dragged": false,
+          "_rawX": 260,
+          "_rawY": 175.09091186523438,
+          "_candidatos": null,
+          "tipo": "demandgen",
+          "color": "#FBBC04",
+          "budget": 270,
+          "_w0": 195,
+          "_resized": false,
+          "_resto": 0,
+          "uid": "umta79x4woz4htv"
         }
       ],
       "uid": "umta6embs63f8na",
@@ -235,12 +723,20 @@
         "Google Ads"
       ],
       "_apoio": [
+        "R$ 1.800,00/mês",
         "Campanhas"
       ],
       "_w": 172,
-      "_h": 52.625,
+      "_h": 95.625,
       "tracos": [],
-      "notas": []
+      "notas": [],
+      "_dragStartX": 0,
+      "_dragStartY": 0,
+      "_dragged": false,
+      "_rawX": 0,
+      "_rawY": 0,
+      "_candidatos": null,
+      "budget": 1800
     },
     "meta": {
       "name": "Meta Ads",
