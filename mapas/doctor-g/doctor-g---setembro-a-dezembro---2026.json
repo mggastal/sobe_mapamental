@@ -2,7 +2,7 @@
   "meta": {
     "nome": "[Doctor G] - Setembro a Dezembro - 2026",
     "salvoPor": "Tais Jeronimo",
-    "salvoEm": "2026-08-26T17:16:47.344Z",
+    "salvoEm": "2026-08-26T17:51:37.600Z",
     "resumo": {
       "google": {
         "campanhas": 3,
@@ -271,7 +271,7 @@
           "suggestion": false,
           "x": 249.13636207580566,
           "y": -167.27272248268127,
-          "collapsed": true,
+          "collapsed": false,
           "children": [
             {
               "name": "Consultations",
@@ -980,7 +980,7 @@
             "Conversão - Vitala"
           ],
           "_apoio": [
-            "R$ 180,00/mês · 60,0%"
+            "$ 180.00/mês · 60,0%"
           ],
           "_w": 195,
           "_h": 51.375,
@@ -1050,7 +1050,7 @@
             "Distribuição"
           ],
           "_apoio": [
-            "R$ 120,00/mês · 40,0%"
+            "$ 120.00/mês · 40,0%"
           ],
           "_w": 195,
           "_h": 51.375,
@@ -1069,7 +1069,7 @@
         "Meta Ads"
       ],
       "_apoio": [
-        "R$ 300,00/mês",
+        "$ 300.00/mês",
         "Campanhas e públicos"
       ],
       "_w": 172,
