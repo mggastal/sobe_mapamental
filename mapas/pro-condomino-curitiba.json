@@ -2,7 +2,7 @@
   "meta": {
     "nome": "Pró Condômino Curitiba",
     "salvoPor": "Tais Jeronimo",
-    "salvoEm": "2026-08-26T17:11:54.160Z",
+    "salvoEm": "2026-08-26T17:12:27.280Z",
     "resumo": {
       "google": {
         "campanhas": 5,
@@ -1249,8 +1249,8 @@
       "geral": {
         "rotulos": true,
         "gradiente": false,
-        "coloridos": "",
-        "blocos": ""
+        "coloridos": "borda",
+        "blocos": "borda"
       },
       "verba": {
         "rotulos": true,
