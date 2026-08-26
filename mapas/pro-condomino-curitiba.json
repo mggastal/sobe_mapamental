@@ -2,7 +2,7 @@
   "meta": {
     "nome": "Pró Condômino Curitiba",
     "salvoPor": "Tais Jeronimo",
-    "salvoEm": "2026-08-26T17:08:11.570Z",
+    "salvoEm": "2026-08-26T17:11:54.160Z",
     "resumo": {
       "google": {
         "campanhas": 5,
@@ -10,7 +10,7 @@
         "inativa": false
       },
       "meta": {
-        "campanhas": 3,
+        "campanhas": 4,
         "verba": 1500,
         "inativa": false
       },
@@ -715,7 +715,7 @@
             }
           ],
           "id": "n56",
-          "collapsed": true,
+          "collapsed": false,
           "_lines": [
             "Geração de Demanda -",
             "Display"
@@ -765,52 +765,64 @@
       "name": "Meta Ads",
       "note": "Campanhas e públicos",
       "x": 0.909088134765625,
-      "y": 0,
+      "y": -0.4545459747314453,
       "collapsed": false,
       "suggestion": false,
       "children": [
         {
           "name": "Conversão - LP ",
           "color": "#1B2F6A",
-          "x": 270,
-          "y": -20,
+          "x": 256.4090881347656,
+          "y": -201.32954597473145,
           "collapsed": false,
           "suggestion": false,
           "children": [
             {
-              "name": "Remarketing — site 30d",
-              "x": 550,
-              "y": -110.90908861160278,
+              "name": "Remarketing & Engajados",
+              "x": 513.6590881347656,
+              "y": -263.32954597473145,
               "collapsed": false,
               "suggestion": false,
               "uid": "umta6embs2k7pea",
               "id": "n16",
               "_lines": [
-                "Remarketing — site 30d"
+                "Remarketing & Engajados"
               ],
               "_apoio": [],
-              "_w": 169,
-              "_h": 36
+              "_w": 175.5,
+              "_h": 36,
+              "_dragStartX": 567.2727355957031,
+              "_dragStartY": -182.2727246284485,
+              "_dragged": false,
+              "_rawX": 567.2727355957031,
+              "_rawY": -182.7272686958313,
+              "_candidatos": null
             },
             {
-              "name": "Lookalike 1% — compradores",
-              "x": 550,
-              "y": -50.90908861160278,
+              "name": "Lookalike 1% — compradores e listas",
+              "x": 552.6590881347656,
+              "y": -201.32954597473145,
               "collapsed": false,
               "suggestion": false,
               "uid": "umta6embs3jo6js",
               "id": "n17",
               "_lines": [
-                "Lookalike 1% — compradores"
+                "Lookalike 1% — compradores e listas"
               ],
               "_apoio": [],
-              "_w": 195,
-              "_h": 36
+              "_w": 253.5,
+              "_h": 36,
+              "_dragStartX": 567.2727355957031,
+              "_dragStartY": -122.27272462844849,
+              "_dragged": false,
+              "_rawX": 567.2727355957031,
+              "_rawY": -122.27272462844849,
+              "_candidatos": null
             },
             {
               "name": "Interesses",
-              "x": 550,
-              "y": 9.090911388397217,
+              "x": 471.4090881347656,
+              "y": -139.32954597473145,
               "collapsed": false,
               "suggestion": false,
               "uid": "umta6embsv0ppwg",
@@ -820,22 +832,13 @@
               ],
               "_apoio": [],
               "_w": 91,
-              "_h": 36
-            },
-            {
-              "name": "Advantage+ (aberto)",
-              "x": 550,
-              "y": 69.09091138839722,
-              "collapsed": false,
-              "suggestion": false,
-              "uid": "umta6embswijq1s",
-              "id": "n19",
-              "_lines": [
-                "Advantage+ (aberto)"
-              ],
-              "_apoio": [],
-              "_w": 149.5,
-              "_h": 36
+              "_h": 36,
+              "_dragStartX": 567.2727355957031,
+              "_dragStartY": -61.81817865371704,
+              "_dragged": false,
+              "_rawX": 567.2727355957031,
+              "_rawY": -61.81817865371704,
+              "_candidatos": null
             }
           ],
           "uid": "umta6embsonpskk",
@@ -844,66 +847,45 @@
             "Conversão - LP"
           ],
           "_apoio": [
-            "R$ 450,00/mês · 30,0%"
+            "R$ 525,00/mês · 35,0%"
           ],
           "_w": 195,
           "_h": 51.375,
-          "_dragStartX": 270,
-          "_dragStartY": -20,
+          "_dragStartX": 294.5454406738281,
+          "_dragStartY": -139.03210067749023,
           "_dragged": false,
-          "_rawX": 270,
-          "_rawY": -20,
+          "_rawX": 294.5454406738281,
+          "_rawY": -139.03210067749023,
           "_candidatos": null,
-          "budget": 450
+          "budget": 525
         },
         {
           "name": "Distribuição - Engajamento",
           "color": "#328596",
-          "x": 294.5454406738281,
-          "y": 177.99999952316284,
+          "x": 503.9090881347656,
+          "y": -5.212575912475586,
           "collapsed": false,
           "suggestion": false,
           "children": [
             {
-              "name": "Ampla — região",
-              "x": 547.6363677978516,
-              "y": 153.62499952316284,
-              "collapsed": false,
-              "suggestion": false,
-              "uid": "umta6embsos3cfx",
-              "id": "n21",
-              "_lines": [
-                "Ampla — região"
-              ],
-              "_apoio": [],
-              "_w": 117,
-              "_h": 36,
-              "_dragStartX": 573.6363677978516,
-              "_dragStartY": 134.54544830322266,
-              "_dragged": true,
-              "_rawX": 546.3636016845703,
-              "_rawY": 155.45453643798828,
-              "_candidatos": null
-            },
-            {
-              "name": "Interesses Específicos",
-              "x": 573.6363677978516,
-              "y": 199.54544830322266,
+              "name": "Interesses Específicos e Lal Clientes",
+              "x": 763.9090881347656,
+              "y": -5.212575912475586,
               "collapsed": false,
               "suggestion": false,
               "uid": "umta6embs13789r",
               "id": "n22",
               "_lines": [
-                "Interesses Específicos"
+                "Interesses Específicos e Lal Clientes"
               ],
               "_apoio": [],
-              "_w": 169,
+              "_w": 266.5,
               "_h": 36,
-              "_dragStartX": 573.6363677978516,
-              "_dragStartY": 199.54544830322266,
+              "_dragStartX": 763.9090881347656,
+              "_dragStartY": -5.212575912475586,
               "_dragged": false,
-              "_rawX": 573.6363677978516,
-              "_rawY": 199.54544830322266,
+              "_rawX": 763.9090881347656,
+              "_rawY": -6.220606803894043,
               "_candidatos": null
             }
           ],
@@ -914,24 +896,47 @@
             "Engajamento"
           ],
           "_apoio": [
-            "R$ 300,00/mês · 20,0%"
+            "R$ 225,00/mês · 15,0%"
           ],
           "_w": 195,
           "_h": 65.75,
-          "_dragStartX": 294.5454406738281,
-          "_dragStartY": 177.99999952316284,
-          "_dragged": false,
-          "_rawX": 294.5454406738281,
-          "_rawY": 177.99999952316284,
+          "_dragStartX": 256.4090881347656,
+          "_dragStartY": -46.329545974731445,
+          "_dragged": true,
+          "_rawX": 503.3766326904297,
+          "_rawY": -8.02437424659729,
           "_candidatos": null,
-          "budget": 300
+          "budget": 225
         },
         {
           "name": "Distribuição - Tráfego - Instagram",
           "suggestion": false,
-          "x": 294.5454406738281,
-          "y": 67.09091138839722,
-          "children": [],
+          "x": 256.4090881347656,
+          "y": 60.537424087524414,
+          "children": [
+            {
+              "name": "Interesses Específicos e Lal Clientes",
+              "suggestion": false,
+              "x": 559.1590881347656,
+              "y": 60.537424087524414,
+              "children": [],
+              "id": "n72",
+              "collapsed": false,
+              "_lines": [
+                "Interesses Específicos e Lal Clientes"
+              ],
+              "_apoio": [],
+              "_w": 266.5,
+              "_h": 36,
+              "_dragStartX": 486.4090881347656,
+              "_dragStartY": 60.537424087524414,
+              "_dragged": true,
+              "_rawX": 556.4672241210938,
+              "_rawY": 61.04144096374512,
+              "_candidatos": null,
+              "uid": "umtacpoo5uelqcu"
+            }
+          ],
           "id": "n66",
           "collapsed": false,
           "_lines": [
@@ -939,18 +944,112 @@
             "Instagram"
           ],
           "_apoio": [
-            "R$ 300,00/mês · 20,0%"
+            "R$ 225,00/mês · 15,0%"
           ],
           "_w": 195,
           "_h": 65.75,
-          "_dragStartX": 230.90908813476562,
-          "_dragStartY": 68,
-          "_dragged": true,
-          "_rawX": 299.0909118652344,
-          "_rawY": 67.09091186523438,
+          "_dragStartX": 256.4090881347656,
+          "_dragStartY": 60.537424087524414,
+          "_dragged": false,
+          "_rawX": 256.4090881347656,
+          "_rawY": 60.537424087524414,
           "_candidatos": null,
-          "budget": 300,
-          "uid": "umtackwybeh15df"
+          "budget": 225,
+          "uid": "umtackwybeh15df",
+          "color": "#328596",
+          "bold": false
+        },
+        {
+          "name": "Conversão - Lead Form",
+          "suggestion": false,
+          "x": 256.4090881347656,
+          "y": -131.64204597473145,
+          "children": [
+            {
+              "name": "Remarketing & Engajados",
+              "suggestion": false,
+              "x": 514.6671142578125,
+              "y": -190.19758796691895,
+              "children": [],
+              "id": "n68",
+              "collapsed": false,
+              "_lines": [
+                "Remarketing & Engajados"
+              ],
+              "_apoio": [],
+              "_w": 175.5,
+              "_h": 36,
+              "_dragStartX": 547.6363677978516,
+              "_dragStartY": -18.454545974731445,
+              "_dragged": true,
+              "_rawX": 566.2727203369141,
+              "_rawY": -19.81818199157715,
+              "_candidatos": null,
+              "uid": "umtacpoo5ipbqai"
+            },
+            {
+              "name": "Lookalike 1% — compradores e listas",
+              "suggestion": false,
+              "x": 553.6671142578125,
+              "y": -128.19758796691895,
+              "children": [],
+              "id": "n70",
+              "collapsed": false,
+              "_lines": [
+                "Lookalike 1% — compradores e listas"
+              ],
+              "_apoio": [],
+              "_w": 253.5,
+              "_h": 36,
+              "_dragStartX": 547.6363677978516,
+              "_dragStartY": 15.761365413665771,
+              "_dragged": true,
+              "_rawX": 603.9696807861328,
+              "_rawY": 17.094698429107666,
+              "_candidatos": null,
+              "uid": "umtacpoo5qbaae7"
+            },
+            {
+              "name": "Interesses",
+              "suggestion": false,
+              "x": 472.4171142578125,
+              "y": -66.19758796691895,
+              "children": [],
+              "id": "n71",
+              "collapsed": false,
+              "_lines": [
+                "Interesses"
+              ],
+              "_apoio": [],
+              "_w": 91,
+              "_h": 36,
+              "_dragStartX": 522.7658538818359,
+              "_dragStartY": 32.96512222290039,
+              "_dragged": false,
+              "_rawX": 521.7295989990234,
+              "_rawY": 31.928852081298828,
+              "_candidatos": null,
+              "uid": "umtacpoo5x25quu"
+            }
+          ],
+          "id": "n67",
+          "collapsed": false,
+          "_lines": [
+            "Conversão - Lead Form"
+          ],
+          "_apoio": [
+            "R$ 525,00/mês · 35,0%"
+          ],
+          "_w": 195,
+          "_h": 51.375,
+          "_dragStartX": 275.5616760253906,
+          "_dragStartY": -139.32954597473145,
+          "_dragged": true,
+          "_rawX": 257.4171142578125,
+          "_rawY": -129.2492389678955,
+          "_candidatos": null,
+          "budget": 525,
+          "uid": "umtacpoo5y5o8b2"
         }
       ],
       "uid": "umta6embsqcxfs6",
@@ -960,18 +1059,17 @@
       ],
       "_apoio": [
         "R$ 1.500,00/mês",
-        "⚠ faltam R$ 450,00 a distribuir",
         "Campanhas e públicos"
       ],
       "_w": 172,
-      "_h": 106.625,
+      "_h": 95.625,
       "tracos": [],
       "notas": [],
       "_dragStartX": 0.909088134765625,
       "_dragStartY": 0,
       "_dragged": false,
       "_rawX": 0.909088134765625,
-      "_rawY": 0,
+      "_rawY": -0.4545459747314453,
       "_candidatos": null,
       "budget": 1500
     },
