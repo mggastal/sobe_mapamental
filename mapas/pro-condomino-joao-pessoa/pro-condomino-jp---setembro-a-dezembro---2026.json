@@ -2,7 +2,7 @@
   "meta": {
     "nome": "[Pró Condômino JP] - Setembro a Dezembro - 2026",
     "salvoPor": "Tais Jeronimo",
-    "salvoEm": "2026-08-26T17:36:24.767Z",
+    "salvoEm": "2026-08-26T17:37:41.498Z",
     "resumo": {
       "google": {
         "campanhas": 5,
@@ -796,14 +796,14 @@
           "name": "Conversão - LP ",
           "color": "#1B2F6A",
           "x": 292.398494720459,
-          "y": -271.42530632019043,
+          "y": -262.56681632995605,
           "collapsed": false,
           "suggestion": false,
           "children": [
             {
               "name": "Remarketing & Engajados",
-              "x": 547.603084564209,
-              "y": -333.42530632019043,
+              "x": 546.6188011169434,
+              "y": -324.56681632995605,
               "collapsed": false,
               "suggestion": false,
               "uid": "umta6embs2k7pea",
@@ -823,8 +823,8 @@
             },
             {
               "name": "Lookalike 1% — compradores e listas",
-              "x": 586.603084564209,
-              "y": -271.42530632019043,
+              "x": 585.6188011169434,
+              "y": -262.56681632995605,
               "collapsed": false,
               "suggestion": false,
               "uid": "umta6embs3jo6js",
@@ -844,8 +844,8 @@
             },
             {
               "name": "Interesses",
-              "x": 505.353084564209,
-              "y": -209.42530632019043,
+              "x": 504.36880111694336,
+              "y": -200.56681632995605,
               "collapsed": false,
               "suggestion": false,
               "uid": "umta6embsv0ppwg",
@@ -874,16 +874,16 @@
           ],
           "_w": 195,
           "_h": 51.375,
-          "_dragStartX": 256.4090881347656,
-          "_dragStartY": -314.0568103790283,
+          "_dragStartX": 292.398494720459,
+          "_dragStartY": -271.42530632019043,
           "_dragged": true,
-          "_rawX": 304.5909118652344,
-          "_rawY": -305.87498664855957,
+          "_rawX": 291.41421127319336,
+          "_rawY": -262.56681632995605,
           "_candidatos": null,
           "budget": 525
         },
         {
-          "name": "Distribuição - Engajamento",
+          "name": "Distribuição - Engajamento - João Pessoa",
           "color": "#328596",
           "x": 292.398494720459,
           "y": 48.932634353637695,
@@ -916,32 +916,33 @@
           "id": "n39",
           "_lines": [
             "Distribuição -",
-            "Engajamento"
+            "Engajamento - João",
+            "Pessoa"
           ],
           "_apoio": [
             "R$ 225,00/mês · 15,0%"
           ],
           "_w": 195,
-          "_h": 65.75,
-          "_dragStartX": 300.272705078125,
-          "_dragStartY": 14.482954025268555,
-          "_dragged": true,
-          "_rawX": 302.9999694824219,
-          "_rawY": 20.846590042114258,
+          "_h": 80.125,
+          "_dragStartX": 292.398494720459,
+          "_dragStartY": 48.932634353637695,
+          "_dragged": false,
+          "_rawX": 292.398494720459,
+          "_rawY": 48.932634353637695,
           "_candidatos": null,
           "budget": 225
         },
         {
-          "name": "Distribuição - Tráfego - Instagram",
+          "name": "Distribuição - Tráfego - Instagram - Capitais",
           "suggestion": false,
           "x": 292.398494720459,
-          "y": 160.44164848327637,
+          "y": 149.6146068572998,
           "children": [
             {
               "name": "Interesses Específicos e Lal Clientes",
               "suggestion": false,
               "x": 598.5576133728027,
-              "y": 160.44164848327637,
+              "y": 149.6146068572998,
               "children": [],
               "id": "n42",
               "collapsed": false,
@@ -964,18 +965,18 @@
           "collapsed": false,
           "_lines": [
             "Distribuição - Tráfego -",
-            "Instagram"
+            "Instagram - Capitais"
           ],
           "_apoio": [
             "R$ 225,00/mês · 15,0%"
           ],
           "_w": 195,
           "_h": 65.75,
-          "_dragStartX": 289.1363830566406,
-          "_dragStartY": 141.44651222229004,
-          "_dragged": true,
-          "_rawX": 303.68182373046875,
-          "_rawY": 125.99196815490723,
+          "_dragStartX": 292.398494720459,
+          "_dragStartY": 149.6146068572998,
+          "_dragged": false,
+          "_rawX": 291.4142417907715,
+          "_rawY": 149.6146068572998,
           "_candidatos": null,
           "budget": 225,
           "uid": "umtackwybeh15df",
