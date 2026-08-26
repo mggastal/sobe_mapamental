@@ -2,7 +2,7 @@
   "meta": {
     "nome": "[Dra Fernada Cavalcante] - Setembro a Dezembro - 2026",
     "salvoPor": "Tais Jeronimo",
-    "salvoEm": "2026-08-26T18:48:09.230Z",
+    "salvoEm": "2026-08-26T18:57:43.076Z",
     "resumo": {
       "google": {
         "campanhas": 5,
@@ -42,7 +42,7 @@
           "suggestion": false,
           "x": 282.05705070495605,
           "y": -55.203204572200775,
-          "collapsed": false,
+          "collapsed": true,
           "children": [
             {
               "name": "Setembro",
@@ -172,8 +172,8 @@
             {
               "name": "Setembro",
               "suggestion": false,
-              "x": 736.7412242889404,
-              "y": -11.515704572200775,
+              "x": 559.4047374725342,
+              "y": -120.40970081090927,
               "children": [],
               "id": "n45",
               "collapsed": false,
@@ -185,11 +185,11 @@
               ],
               "_w": 90,
               "_h": 36,
-              "_dragStartX": 604.4047374725342,
-              "_dragStartY": -5.947834014892578,
+              "_dragStartX": 736.7412242889404,
+              "_dragStartY": -11.515704572200775,
               "_dragged": true,
-              "_rawX": 737.4973888397217,
-              "_rawY": -11.241292119026184,
+              "_rawX": 561.3009166717529,
+              "_rawY": -120.40970081090927,
               "_candidatos": null,
               "uid": "umtafzlu248pn09",
               "budget": 700
@@ -197,8 +197,8 @@
             {
               "name": "Outubro",
               "suggestion": false,
-              "x": 736.7412242889404,
-              "y": 47.8125,
+              "x": 579.4499034881592,
+              "y": -62.890704572200775,
               "children": [],
               "id": "n46",
               "collapsed": false,
@@ -210,11 +210,11 @@
               ],
               "_w": 90,
               "_h": 36,
-              "_dragStartX": 604.4047374725342,
-              "_dragStartY": 43.23966598510742,
+              "_dragStartX": 736.7412242889404,
+              "_dragStartY": 47.8125,
               "_dragged": true,
-              "_rawX": 736.7412242889404,
-              "_rawY": 46.26449966430664,
+              "_rawX": 579.4499034881592,
+              "_rawY": -62.59391403198242,
               "_candidatos": null,
               "uid": "umtafzlu293qcjp",
               "budget": 840
@@ -222,8 +222,8 @@
             {
               "name": "Novembro",
               "suggestion": false,
-              "x": 604.4047374725342,
-              "y": 88.34268188476562,
+              "x": 579.4499034881592,
+              "y": -5.947834014892578,
               "children": [],
               "id": "n47",
               "collapsed": false,
@@ -237,9 +237,9 @@
               "_h": 36,
               "_dragStartX": 604.4047374725342,
               "_dragStartY": 88.34268188476562,
-              "_dragged": false,
-              "_rawX": 604.4047374725342,
-              "_rawY": 88.34268188476562,
+              "_dragged": true,
+              "_rawX": 579.4498424530029,
+              "_rawY": -5.427146911621094,
               "_candidatos": null,
               "uid": "umtafzlu232z52q",
               "budget": 840
@@ -247,8 +247,8 @@
             {
               "name": "Dezembro",
               "suggestion": false,
-              "x": 604.4047374725342,
-              "y": 147.15435791015625,
+              "x": 720.8607921600342,
+              "y": -55.203204572200775,
               "children": [],
               "id": "n48",
               "collapsed": false,
@@ -262,16 +262,16 @@
               "_h": 36,
               "_dragStartX": 604.4047374725342,
               "_dragStartY": 147.15435791015625,
-              "_dragged": false,
-              "_rawX": 604.4047374725342,
-              "_rawY": 147.15435791015625,
+              "_dragged": true,
+              "_rawX": 720.8607921600342,
+              "_rawY": -56.26567840576172,
               "_candidatos": null,
               "uid": "umtafzlu27n9l8p",
               "budget": 420
             }
           ],
           "id": "n41",
-          "collapsed": false,
+          "collapsed": true,
           "_lines": [
             "Plicoma"
           ],
@@ -294,9 +294,110 @@
           "suggestion": false,
           "x": 282.05705070495605,
           "y": 80.65518188476562,
-          "children": [],
+          "children": [
+            {
+              "name": "Setembro",
+              "suggestion": false,
+              "x": 530.2060375213623,
+              "y": -55.203204572200775,
+              "children": [],
+              "id": "n49",
+              "collapsed": false,
+              "_lines": [
+                "Setembro"
+              ],
+              "_apoio": [
+                "R$ 1.050,00/mês · 25,0%"
+              ],
+              "_w": 90,
+              "_h": 36,
+              "_dragStartX": 587.6778392791748,
+              "_dragStartY": 62.655181884765625,
+              "_dragged": true,
+              "_rawX": 530.2060375213623,
+              "_rawY": -53.0446891784668,
+              "_candidatos": null,
+              "budget": 1050,
+              "uid": "umtaghrrr7owr6l"
+            },
+            {
+              "name": "Outubro",
+              "suggestion": false,
+              "x": 586.9217052459717,
+              "y": -5.947834014892578,
+              "children": [],
+              "id": "n50",
+              "collapsed": false,
+              "_lines": [
+                "Outubro"
+              ],
+              "_apoio": [
+                "R$ 1.260,00/mês · 30,0%"
+              ],
+              "_w": 90,
+              "_h": 36,
+              "_dragStartX": 512.057050704956,
+              "_dragStartY": 114.65518188476562,
+              "_dragged": true,
+              "_rawX": 586.9217052459717,
+              "_rawY": -7.094355583190918,
+              "_candidatos": null,
+              "budget": 1260,
+              "uid": "umtaghrrsgm0p18"
+            },
+            {
+              "name": "Novembro",
+              "suggestion": false,
+              "x": 695.8156566619873,
+              "y": 29.8125,
+              "children": [],
+              "id": "n51",
+              "collapsed": false,
+              "_lines": [
+                "Novembro"
+              ],
+              "_apoio": [
+                "R$ 1.260,00/mês · 30,0%"
+              ],
+              "_w": 90,
+              "_h": 36,
+              "_dragStartX": 512.057050704956,
+              "_dragStartY": 148.65518188476562,
+              "_dragged": true,
+              "_rawX": 695.8156566619873,
+              "_rawY": 25.393220901489258,
+              "_candidatos": null,
+              "budget": 1260,
+              "uid": "umtaghrrss7wohk"
+            },
+            {
+              "name": "Dezembro",
+              "suggestion": false,
+              "x": 575.2060375213623,
+              "y": 80.65518188476562,
+              "children": [],
+              "id": "n52",
+              "collapsed": false,
+              "_lines": [
+                "Dezembro"
+              ],
+              "_apoio": [
+                "R$ 630,00/mês · 15,0%"
+              ],
+              "_w": 90,
+              "_h": 36,
+              "_dragStartX": 512.057050704956,
+              "_dragStartY": 184.65518188476562,
+              "_dragged": true,
+              "_rawX": 574.8223094940186,
+              "_rawY": 83.3232650756836,
+              "_candidatos": null,
+              "budget": 630,
+              "uid": "umtaghrrs1306k5"
+            }
+          ],
           "id": "n42",
-          "collapsed": false,
+          "collapsed": true,
           "_lines": [
             "Cirurgia"
           ],
@@ -306,9 +407,9 @@
           "_w": 195,
           "_h": 51.375,
           "_dragStartX": 282.05705070495605,
-          "_dragStartY": 116.19697570800781,
-          "_dragged": true,
-          "_rawX": 285.0818920135498,
+          "_dragStartY": 80.65518188476562,
+          "_dragged": false,
+          "_rawX": 282.05705070495605,
           "_rawY": 80.65518188476562,
           "_candidatos": null,
           "uid": "umtaflxu0h826l7",
@@ -319,9 +420,110 @@
           "suggestion": false,
           "x": 282.05705070495605,
           "y": 147.15435791015625,
-          "children": [],
+          "children": [
+            {
+              "name": "Setembro",
+              "suggestion": false,
+              "x": 487.1021556854248,
+              "y": -62.890704572200775,
+              "children": [],
+              "id": "n53",
+              "collapsed": false,
+              "_lines": [
+                "Setembro"
+              ],
+              "_apoio": [
+                "R$ 525,00/mês · 25,0%"
+              ],
+              "_w": 90,
+              "_h": 36,
+              "_dragStartX": 520.3753490447998,
+              "_dragStartY": 12.052165985107422,
+              "_dragged": true,
+              "_rawX": 487.1021556854248,
+              "_rawY": -59.78762340545654,
+              "_candidatos": null,
+              "budget": 525,
+              "uid": "umtaghrrsjhvyf9"
+            },
+            {
+              "name": "Outubro",
+              "suggestion": false,
+              "x": 637.971357345581,
+              "y": -26.890704572200775,
+              "children": [],
+              "id": "n54",
+              "collapsed": false,
+              "_lines": [
+                "Outubro"
+              ],
+              "_apoio": [
+                "R$ 630,00/mês · 30,0%"
+              ],
+              "_w": 90,
+              "_h": 36,
+              "_dragStartX": 713.2084789276123,
+              "_dragStartY": 62.655181884765625,
+              "_dragged": true,
+              "_rawX": 633.8066234588623,
+              "_rawY": -26.577396392822266,
+              "_candidatos": null,
+              "budget": 630,
+              "uid": "umtaghrrsunr598"
+            },
+            {
+              "name": "Novembro",
+              "suggestion": false,
+              "x": 585.4092235565186,
+              "y": 62.655181884765625,
+              "children": [],
+              "id": "n55",
+              "collapsed": false,
+              "_lines": [
+                "Novembro"
+              ],
+              "_apoio": [
+                "R$ 630,00/mês · 30,0%"
+              ],
+              "_w": 90,
+              "_h": 36,
+              "_dragStartX": 592.971357345581,
+              "_dragStartY": 139.46685791015625,
+              "_dragged": true,
+              "_rawX": 585.4092235565186,
+              "_rawY": 63.089813232421875,
+              "_candidatos": null,
+              "budget": 630,
+              "uid": "umtaghrrs15nxkl"
+            },
+            {
+              "name": "Dezembro",
+              "suggestion": false,
+              "x": 786.560712814331,
+              "y": 103.46685791015625,
+              "children": [],
+              "id": "n56",
+              "collapsed": false,
+              "_lines": [
+                "Dezembro"
+              ],
+              "_apoio": [
+                "R$ 315,00/mês · 15,0%"
+              ],
+              "_w": 90,
+              "_h": 36,
+              "_dragStartX": 745.7254467010498,
+              "_dragStartY": 209.22677612304688,
+              "_dragged": true,
+              "_rawX": 786.560712814331,
+              "_rawY": 101.0889892578125,
+              "_candidatos": null,
+              "budget": 315,
+              "uid": "umtaghrrsv4e6q2"
+            }
+          ],
           "id": "n43",
-          "collapsed": false,
+          "collapsed": true,
           "_lines": [
             "Hemorróida"
           ],
@@ -331,9 +533,9 @@
           "_w": 195,
           "_h": 51.375,
           "_dragStartX": 282.05705070495605,
-          "_dragStartY": 176.646484375,
-          "_dragged": true,
-          "_rawX": 286.59428215026855,
+          "_dragStartY": 147.15435791015625,
+          "_dragged": false,
+          "_rawX": 282.05705070495605,
           "_rawY": 147.15435791015625,
           "_candidatos": null,
           "uid": "umtaflxu0uyxpv6",
@@ -344,9 +546,110 @@
           "suggestion": false,
           "x": 282.05705070495605,
           "y": 216.91427612304688,
-          "children": [],
+          "children": [
+            {
+              "name": "Setembro",
+              "suggestion": false,
+              "x": 512.057050704956,
+              "y": 173.22677612304688,
+              "children": [],
+              "id": "n57",
+              "collapsed": false,
+              "_lines": [
+                "Setembro"
+              ],
+              "_apoio": [
+                "R$ 525,00/mês · 25,0%"
+              ],
+              "_w": 90,
+              "_h": 36,
+              "_dragStartX": 512.057050704956,
+              "_dragStartY": 173.22677612304688,
+              "_dragged": false,
+              "_rawX": 512.057050704956,
+              "_rawY": 173.22677612304688,
+              "_candidatos": null,
+              "budget": 525,
+              "uid": "umtaghrrsu00hop"
+            },
+            {
+              "name": "Outubro",
+              "suggestion": false,
+              "x": 512.057050704956,
+              "y": 216.91427612304688,
+              "children": [],
+              "id": "n58",
+              "collapsed": false,
+              "_lines": [
+                "Outubro"
+              ],
+              "_apoio": [
+                "R$ 630,00/mês · 30,0%"
+              ],
+              "_w": 90,
+              "_h": 36,
+              "_dragStartX": 512.057050704956,
+              "_dragStartY": 216.91427612304688,
+              "_dragged": false,
+              "_rawX": 512.057050704956,
+              "_rawY": 216.91427612304688,
+              "_candidatos": null,
+              "budget": 630,
+              "uid": "umtaghrrs0qvmp6"
+            },
+            {
+              "name": "Novembro",
+              "suggestion": false,
+              "x": 512.057050704956,
+              "y": 260.6017761230469,
+              "children": [],
+              "id": "n59",
+              "collapsed": false,
+              "_lines": [
+                "Novembro"
+              ],
+              "_apoio": [
+                "R$ 630,00/mês · 30,0%"
+              ],
+              "_w": 90,
+              "_h": 36,
+              "_dragStartX": 512.057050704956,
+              "_dragStartY": 260.6017761230469,
+              "_dragged": false,
+              "_rawX": 512.057050704956,
+              "_rawY": 260.6017761230469,
+              "_candidatos": null,
+              "budget": 630,
+              "uid": "umtaghrrs38fxyo"
+            },
+            {
+              "name": "Dezembro",
+              "suggestion": false,
+              "x": 512.057050704956,
+              "y": 307.5711669921875,
+              "children": [],
+              "id": "n60",
+              "collapsed": false,
+              "_lines": [
+                "Dezembro"
+              ],
+              "_apoio": [
+                "R$ 315,00/mês · 15,0%"
+              ],
+              "_w": 90,
+              "_h": 36,
+              "_dragStartX": 512.057050704956,
+              "_dragStartY": 307.5711669921875,
+              "_dragged": false,
+              "_rawX": 512.057050704956,
+              "_rawY": 307.5711669921875,
+              "_candidatos": null,
+              "budget": 315,
+              "uid": "umtaghrrs4fhsci"
+            }
+          ],
           "id": "n44",
-          "collapsed": false,
+          "collapsed": true,
           "_lines": [
             "Online"
           ],
@@ -356,9 +659,9 @@
           "_w": 195,
           "_h": 51.375,
           "_dragStartX": 282.05705070495605,
-          "_dragStartY": 235.0632781982422,
-          "_dragged": true,
-          "_rawX": 281.3008556365967,
+          "_dragStartY": 216.91427612304688,
+          "_dragged": false,
+          "_rawX": 282.05705070495605,
           "_rawY": 216.91427612304688,
           "_candidatos": null,
           "uid": "umtaflxu05pa168",
