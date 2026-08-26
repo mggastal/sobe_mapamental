@@ -2,7 +2,7 @@
   "meta": {
     "nome": "[Pró Condômino JP] - Setembro a Dezembro - 2026",
     "salvoPor": "Tais Jeronimo",
-    "salvoEm": "2026-08-26T17:19:07.668Z",
+    "salvoEm": "2026-08-26T17:36:24.767Z",
     "resumo": {
       "google": {
         "campanhas": 5,
@@ -41,21 +41,21 @@
           "color": "#1B2F6A",
           "suggestion": false,
           "x": 279.9546890258789,
-          "y": -181.4346580505371,
-          "collapsed": true,
+          "y": -222.7159080505371,
+          "collapsed": false,
           "children": [
             {
               "name": "Condomínio",
               "suggestion": false,
-              "x": 279.9546890258789,
-              "y": -181.4346580505371,
-              "collapsed": true,
+              "x": 519.4093780517578,
+              "y": -278.4659080505371,
+              "collapsed": false,
               "children": [
                 {
                   "name": "\ngarantidoras de condominio",
                   "suggestion": false,
-                  "x": 279.9546890258789,
-                  "y": -181.4346580505371,
+                  "x": 797.9493780517578,
+                  "y": -297.9659080505371,
                   "collapsed": false,
                   "uid": "umta6embsll66pn",
                   "id": "n4",
@@ -76,8 +76,8 @@
                 {
                   "name": "solução para condomínio\n",
                   "suggestion": false,
-                  "x": 279.9546890258789,
-                  "y": -181.4346580505371,
+                  "x": 789.5793780517578,
+                  "y": -258.9659080505371,
                   "collapsed": false,
                   "uid": "umta6embsftj8co",
                   "id": "n5",
@@ -104,25 +104,25 @@
               "_apoio": [],
               "_w": 91,
               "_h": 36,
-              "_dragStartX": 540,
-              "_dragStartY": -140,
+              "_dragStartX": 519.4093780517578,
+              "_dragStartY": -224.0909080505371,
               "_dragged": false,
-              "_rawX": 540,
-              "_rawY": -140.90908813476562,
+              "_rawX": 519.4093780517578,
+              "_rawY": -224.0909080505371,
               "_candidatos": null
             },
             {
               "name": "Serviços",
               "suggestion": false,
-              "x": 279.9546890258789,
-              "y": -181.4346580505371,
-              "collapsed": true,
+              "x": 518.9093780517578,
+              "y": -166.9659080505371,
+              "collapsed": false,
               "children": [
                 {
                   "name": "gestão financeira condomínio",
                   "suggestion": false,
-                  "x": 279.9546890258789,
-                  "y": -181.4346580505371,
+                  "x": 803.5293780517578,
+                  "y": -205.9659080505371,
                   "collapsed": false,
                   "uid": "umta6embs355kea",
                   "id": "n7",
@@ -143,8 +143,8 @@
                 {
                   "name": "\ngarantidora de receita condomínio",
                   "suggestion": false,
-                  "x": 279.9546890258789,
-                  "y": -181.4346580505371,
+                  "x": 817.4793780517577,
+                  "y": -166.9659080505371,
                   "collapsed": false,
                   "uid": "umta6embscbubl1",
                   "id": "n8",
@@ -165,8 +165,8 @@
                 {
                   "name": "\ncobrança inadimplência condomínio",
                   "suggestion": false,
-                  "x": 279.9546890258789,
-                  "y": -181.4346580505371,
+                  "x": 817.4793780517577,
+                  "y": -127.96590805053711,
                   "children": [],
                   "id": "n9",
                   "collapsed": false,
@@ -188,11 +188,11 @@
               "_apoio": [],
               "_w": 90,
               "_h": 36,
-              "_dragStartX": 540,
-              "_dragStartY": -20,
+              "_dragStartX": 279.9546890258789,
+              "_dragStartY": -181.4346580505371,
               "_dragged": true,
-              "_rawX": 540.9091186523438,
-              "_rawY": -88.18181610107422,
+              "_rawX": 521.7728958129883,
+              "_rawY": -206.88920211791992,
               "_candidatos": null
             }
           ],
@@ -202,38 +202,38 @@
             "Pesquisa - Leads - Geral"
           ],
           "_apoio": [
-            "R$ 700,00/mês · 35,0%"
+            "R$ 800,00/mês · 40,0%"
           ],
           "_w": 195,
           "_h": 51.375,
           "_dragStartX": 279.9546890258789,
-          "_dragStartY": -181.4346580505371,
+          "_dragStartY": -222.7159080505371,
           "_dragged": false,
           "_rawX": 279.9546890258789,
-          "_rawY": -181.4346580505371,
+          "_rawY": -222.7159080505371,
           "_candidatos": null,
-          "budget": 700
+          "budget": 800
         },
         {
           "name": "Youtube - Inscritos",
           "color": "#D14026",
           "suggestion": false,
-          "x": 279.9546890258789,
-          "y": -104.05965805053711,
+          "x": 271.3848342895508,
+          "y": -72.59090805053711,
           "collapsed": true,
           "children": [
             {
               "name": "Síndicos - Curitiba",
               "suggestion": false,
-              "x": 279.9546890258789,
-              "y": -104.05965805053711,
+              "x": 271.3848342895508,
+              "y": -74.56192398071289,
               "collapsed": true,
               "children": [
                 {
                   "name": "Anúncios em Vídeo",
                   "suggestion": false,
-                  "x": 279.9546890258789,
-                  "y": -104.05965805053711,
+                  "x": 271.3848342895508,
+                  "y": -74.56192398071289,
                   "children": [],
                   "id": "n12",
                   "collapsed": false,
@@ -279,158 +279,31 @@
           "_w": 195,
           "_h": 51.375,
           "_dragStartX": 279.9546890258789,
-          "_dragStartY": -116.24715805053711,
-          "_dragged": false,
-          "_rawX": 279.9546890258789,
-          "_rawY": -116.24715805053711,
+          "_dragStartY": -62.77840805053711,
+          "_dragged": true,
+          "_rawX": 271.3848342895508,
+          "_rawY": -74.56192398071289,
           "_candidatos": null,
           "tipo": "video",
           "budget": 300
         },
         {
-          "name": "Pesquisa - Leads - Concorrentes",
-          "suggestion": false,
-          "x": 279.9546890258789,
-          "y": -26.68465805053711,
-          "children": [
-            {
-              "name": "Concorrentes",
-              "suggestion": false,
-              "x": 279.9546890258789,
-              "y": -26.68465805053711,
-              "children": [
-                {
-                  "name": "\nGarante Curitiba",
-                  "suggestion": false,
-                  "x": 279.9546890258789,
-                  "y": -26.68465805053711,
-                  "children": [],
-                  "id": "n15",
-                  "collapsed": false,
-                  "_lines": [
-                    "Garante Curitiba"
-                  ],
-                  "_apoio": [],
-                  "_w": 162.28,
-                  "_h": 27,
-                  "match": "exata",
-                  "uid": "umta79x4wubyr20"
-                },
-                {
-                  "name": "Rateio Garantidora",
-                  "suggestion": false,
-                  "x": 279.9546890258789,
-                  "y": -26.68465805053711,
-                  "children": [],
-                  "id": "n16",
-                  "collapsed": false,
-                  "_lines": [
-                    "Rateio Garantidora"
-                  ],
-                  "_apoio": [],
-                  "_w": 173.44,
-                  "_h": 27,
-                  "match": "exata",
-                  "uid": "umta79x4w8if686"
-                },
-                {
-                  "name": "LLZ Garantidora\n",
-                  "suggestion": false,
-                  "x": 279.9546890258789,
-                  "y": -26.68465805053711,
-                  "children": [],
-                  "id": "n17",
-                  "collapsed": false,
-                  "_lines": [
-                    "LLZ Garantidora"
-                  ],
-                  "_apoio": [],
-                  "_w": 156.7,
-                  "_h": 27,
-                  "match": "exata",
-                  "uid": "umta79x4ww6uoxu"
-                },
-                {
-                  "name": "DSM Garantidora",
-                  "suggestion": false,
-                  "x": 279.9546890258789,
-                  "y": -26.68465805053711,
-                  "children": [],
-                  "id": "n18",
-                  "collapsed": false,
-                  "_lines": [
-                    "DSM Garantidora"
-                  ],
-                  "_apoio": [],
-                  "_w": 156.7,
-                  "_h": 27,
-                  "_dragStartX": 744.4546890258789,
-                  "_dragStartY": 82.81818389892578,
-                  "_dragged": false,
-                  "_rawX": 744.4546890258789,
-                  "_rawY": 82.81818389892578,
-                  "_candidatos": null,
-                  "match": "exata",
-                  "uid": "umta79x4w2g6k1z"
-                }
-              ],
-              "id": "n14",
-              "collapsed": true,
-              "_lines": [
-                "Concorrentes"
-              ],
-              "_apoio": [],
-              "_w": 104,
-              "_h": 36,
-              "_dragStartX": 514.4546890258789,
-              "_dragStartY": -19.18181610107422,
-              "_dragged": false,
-              "_rawX": 514.4546890258789,
-              "_rawY": -19.18181610107422,
-              "_candidatos": null,
-              "uid": "umta79x4wgue99t"
-            }
-          ],
-          "id": "n13",
-          "collapsed": true,
-          "_lines": [
-            "Pesquisa - Leads - Concorrentes"
-          ],
-          "_apoio": [
-            "R$ 400,00/mês · 20,0%"
-          ],
-          "_w": 243.9093780517578,
-          "_h": 51.375,
-          "_dragStartX": 279.9546890258789,
-          "_dragStartY": -26.68465805053711,
-          "_dragged": true,
-          "_rawX": 300.86380767822266,
-          "_rawY": -52.139201164245605,
-          "_candidatos": null,
-          "_w0": 195,
-          "_resized": true,
-          "_resto": 0,
-          "width": 243.9093780517578,
-          "budget": 400,
-          "uid": "umta79x4wvbhv0s"
-        },
-        {
           "name": "Pesquisa - Impressões - Brand",
           "suggestion": false,
-          "x": 279.9546890258789,
-          "y": 57.87784194946289,
+          "x": 271.3848342895508,
+          "y": 33.78409194946289,
           "children": [
             {
               "name": "Marca",
               "suggestion": false,
-              "x": 279.9546890258789,
-              "y": 57.87784194946289,
+              "x": 267.0999526977539,
+              "y": 39.17026901245117,
               "children": [
                 {
                   "name": "Pró condômino",
                   "suggestion": false,
-                  "x": 279.9546890258789,
-                  "y": 57.87784194946289,
+                  "x": 267.0999526977539,
+                  "y": 39.17026901245117,
                   "children": [],
                   "id": "n21",
                   "collapsed": false,
@@ -452,8 +325,8 @@
                 {
                   "name": "Pró condômino",
                   "suggestion": false,
-                  "x": 279.9546890258789,
-                  "y": 57.87784194946289,
+                  "x": 267.0999526977539,
+                  "y": 39.17026901245117,
                   "children": [],
                   "id": "n22",
                   "collapsed": false,
@@ -475,8 +348,8 @@
                 {
                   "name": "Pró garantidora",
                   "suggestion": false,
-                  "x": 279.9546890258789,
-                  "y": 57.87784194946289,
+                  "x": 267.0999526977539,
+                  "y": 39.17026901245117,
                   "children": [],
                   "id": "n23",
                   "collapsed": false,
@@ -492,8 +365,8 @@
                 {
                   "name": "Pró garantidora",
                   "suggestion": false,
-                  "x": 279.9546890258789,
-                  "y": 57.87784194946289,
+                  "x": 267.0999526977539,
+                  "y": 39.17026901245117,
                   "children": [],
                   "id": "n24",
                   "collapsed": false,
@@ -509,8 +382,8 @@
                 {
                   "name": "Pró condômino curitiba",
                   "suggestion": false,
-                  "x": 279.9546890258789,
-                  "y": 57.87784194946289,
+                  "x": 267.0999526977539,
+                  "y": 39.17026901245117,
                   "children": [],
                   "id": "n25",
                   "collapsed": false,
@@ -526,8 +399,8 @@
                 {
                   "name": "Pró condômino curitiba",
                   "suggestion": false,
-                  "x": 279.9546890258789,
-                  "y": 57.87784194946289,
+                  "x": 267.0999526977539,
+                  "y": 39.17026901245117,
                   "children": [],
                   "id": "n26",
                   "collapsed": false,
@@ -570,31 +443,31 @@
           "_w": 195,
           "_h": 65.75,
           "_dragStartX": 279.9546890258789,
-          "_dragStartY": 57.87784194946289,
+          "_dragStartY": 99.15909194946289,
           "_dragged": true,
-          "_rawX": 275.4092483520508,
-          "_rawY": 24.24148178100586,
+          "_rawX": 267.0999526977539,
+          "_rawY": 39.17026901245117,
           "_candidatos": null,
           "budget": 300,
           "uid": "umta79x4wtfymsz"
         },
         {
-          "name": "Geração de Demanda - Display",
+          "name": "Geração de Demanda - Display - João Pessoa",
           "suggestion": false,
           "x": 279.9546890258789,
-          "y": 183.2528419494629,
+          "y": 152.7617530822754,
           "children": [
             {
               "name": "Sindicos",
               "suggestion": false,
-              "x": 518.9093780517578,
-              "y": 130.2528419494629,
+              "x": 511.41078186035156,
+              "y": 99.76175308227539,
               "children": [
                 {
                   "name": "Anúncios em Display",
                   "suggestion": false,
-                  "x": 754.9193780517578,
-                  "y": 130.2528419494629,
+                  "x": 747.4207818603516,
+                  "y": 99.76175308227539,
                   "children": [],
                   "id": "n29",
                   "collapsed": false,
@@ -604,11 +477,11 @@
                   "_apoio": [],
                   "_w": 132.01999999999998,
                   "_h": 27,
-                  "_dragStartX": 754.9193780517578,
-                  "_dragStartY": 125.96875,
+                  "_dragStartX": 747.4207818603516,
+                  "_dragStartY": 99.76175308227539,
                   "_dragged": false,
-                  "_rawX": 754.9193780517578,
-                  "_rawY": 125.96875,
+                  "_rawX": 747.4207818603516,
+                  "_rawY": 99.76175308227539,
                   "_candidatos": null,
                   "uid": "umta79x4waifvju"
                 }
@@ -632,14 +505,14 @@
             {
               "name": "Remarketing Site",
               "suggestion": false,
-              "x": 538.9093780517578,
-              "y": 183.2528419494629,
+              "x": 531.4107818603516,
+              "y": 152.7617530822754,
               "children": [
                 {
                   "name": "Anúncios em Display",
                   "suggestion": false,
-                  "x": 754.9193780517578,
-                  "y": 183.2528419494629,
+                  "x": 747.4207818603516,
+                  "y": 152.7617530822754,
                   "children": [],
                   "id": "n31",
                   "collapsed": false,
@@ -677,14 +550,14 @@
             {
               "name": "Viu Vídeos Youtube",
               "suggestion": false,
-              "x": 545.4093780517578,
-              "y": 236.2528419494629,
+              "x": 537.9107818603516,
+              "y": 205.7617530822754,
               "children": [
                 {
                   "name": "Anúncios em Display",
                   "suggestion": false,
-                  "x": 754.9193780517578,
-                  "y": 236.2528419494629,
+                  "x": 747.4207818603516,
+                  "y": 205.7617530822754,
                   "children": [],
                   "id": "n33",
                   "collapsed": false,
@@ -718,7 +591,7 @@
           "collapsed": false,
           "_lines": [
             "Geração de Demanda -",
-            "Display"
+            "Display - João Pessoa"
           ],
           "_apoio": [
             "R$ 300,00/mês · 15,0%"
@@ -726,10 +599,10 @@
           "_w": 195,
           "_h": 65.75,
           "_dragStartX": 279.9546890258789,
-          "_dragStartY": 105.07102584838867,
+          "_dragStartY": 152.7617530822754,
           "_dragged": false,
           "_rawX": 279.9546890258789,
-          "_rawY": 105.07102584838867,
+          "_rawY": 152.7617530822754,
           "_candidatos": null,
           "tipo": "demandgen",
           "color": "#FBBC04",
@@ -738,6 +611,155 @@
           "_resized": false,
           "_resto": 0,
           "uid": "umta79x4woz4htv"
+        },
+        {
+          "name": "Geração de Demanda - Display - Capitais",
+          "suggestion": false,
+          "x": 279.9546890258789,
+          "y": 302.6334571838379,
+          "children": [
+            {
+              "name": "Sindicos",
+              "suggestion": false,
+              "x": 509.9546890258789,
+              "y": 302.6334571838379,
+              "children": [
+                {
+                  "name": "Anúncios em Display",
+                  "suggestion": false,
+                  "x": 739.9546890258789,
+                  "y": 302.6334571838379,
+                  "children": [],
+                  "id": "n67",
+                  "collapsed": false,
+                  "_lines": [
+                    "Anúncios em Display"
+                  ],
+                  "_apoio": [],
+                  "_w": 132.01999999999998,
+                  "_h": 27,
+                  "uid": "umtadl7eqc0mvif"
+                }
+              ],
+              "id": "n64",
+              "collapsed": false,
+              "_lines": [
+                "Sindicos"
+              ],
+              "_apoio": [],
+              "_w": 90,
+              "_h": 36,
+              "_dragStartX": 509.9546890258789,
+              "_dragStartY": 302.6334571838379,
+              "_dragged": false,
+              "_rawX": 509.9546890258789,
+              "_rawY": 302.6334571838379,
+              "_candidatos": null,
+              "_w0": 90,
+              "_resized": false,
+              "_resto": 0,
+              "uid": "umtadl7eqempnwa"
+            },
+            {
+              "name": "Remarketing",
+              "suggestion": false,
+              "x": 509.9546890258789,
+              "y": 353.5084571838379,
+              "children": [
+                {
+                  "name": "Anúncios em Display",
+                  "suggestion": false,
+                  "x": 739.9546890258789,
+                  "y": 353.5084571838379,
+                  "children": [],
+                  "id": "n68",
+                  "collapsed": false,
+                  "_lines": [
+                    "Anúncios em Display"
+                  ],
+                  "_apoio": [],
+                  "_w": 132.01999999999998,
+                  "_h": 27,
+                  "uid": "umtadl7eqr5pocc"
+                }
+              ],
+              "id": "n65",
+              "collapsed": false,
+              "_lines": [
+                "Remarketing"
+              ],
+              "_apoio": [],
+              "_w": 97.5,
+              "_h": 36,
+              "_dragStartX": 509.9546890258789,
+              "_dragStartY": 353.5084571838379,
+              "_dragged": false,
+              "_rawX": 509.9546890258789,
+              "_rawY": 353.5084571838379,
+              "_candidatos": null,
+              "uid": "umtadl7eqdpspo5"
+            },
+            {
+              "name": "Viu Vídeos Youtube",
+              "suggestion": false,
+              "x": 519.4093780517578,
+              "y": 401.90219497680664,
+              "children": [
+                {
+                  "name": "Anúncios em Display",
+                  "suggestion": false,
+                  "x": 749.4093780517578,
+                  "y": 401.90219497680664,
+                  "children": [],
+                  "id": "n69",
+                  "collapsed": false,
+                  "_lines": [
+                    "Anúncios em Display"
+                  ],
+                  "_apoio": [],
+                  "_w": 132.01999999999998,
+                  "_h": 27,
+                  "uid": "umtadl7eqlvitut"
+                }
+              ],
+              "id": "n66",
+              "collapsed": false,
+              "_lines": [
+                "Viu Vídeos Youtube"
+              ],
+              "_apoio": [],
+              "_w": 143,
+              "_h": 36,
+              "_dragStartX": 519.4093780517578,
+              "_dragStartY": 401.90219497680664,
+              "_dragged": false,
+              "_rawX": 519.4093780517578,
+              "_rawY": 401.90219497680664,
+              "_candidatos": null,
+              "uid": "umtadl7eqtwc9ep"
+            }
+          ],
+          "id": "n63",
+          "collapsed": false,
+          "_lines": [
+            "Geração de Demanda -",
+            "Display - Capitais"
+          ],
+          "_apoio": [
+            "R$ 700,00/mês · 35,0%"
+          ],
+          "_w": 195,
+          "_h": 65.75,
+          "_dragStartX": 279.9546890258789,
+          "_dragStartY": 302.6334571838379,
+          "_dragged": false,
+          "_rawX": 279.9546890258789,
+          "_rawY": 302.6334571838379,
+          "_candidatos": null,
+          "color": "#FBBC04",
+          "tipo": "demandgen",
+          "budget": 700,
+          "uid": "umtadl7eqnnee7p"
         }
       ],
       "uid": "umta6embs63f8na",
@@ -747,14 +769,15 @@
       ],
       "_apoio": [
         "R$ 2.000,00/mês",
+        "⚠ excede R$ 400,00 (soma R$ 2.400,00)",
         "Campanhas"
       ],
       "_w": 172,
-      "_h": 63.625,
+      "_h": 106.625,
       "tracos": [],
       "notas": [],
       "_dragStartX": 0,
-      "_dragStartY": 0,
+      "_dragStartY": 0.9090919494628906,
       "_dragged": false,
       "_rawX": 0,
       "_rawY": 0.9090919494628906,
