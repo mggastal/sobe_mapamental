@@ -2,7 +2,7 @@
   "meta": {
     "nome": "[Dra Fernada Cavalcante] - Setembro a Dezembro - 2026",
     "salvoPor": "Tais Jeronimo",
-    "salvoEm": "2026-08-26T18:37:18.841Z",
+    "salvoEm": "2026-08-26T18:43:35.157Z",
     "resumo": {
       "google": {
         "campanhas": 5,
@@ -168,7 +168,96 @@
           "suggestion": false,
           "x": 282.05705070495605,
           "y": 12.052165985107422,
-          "children": [],
+          "children": [
+            {
+              "name": "Setembro",
+              "suggestion": false,
+              "x": 604.4047374725342,
+              "y": -5.947834014892578,
+              "children": [],
+              "id": "n45",
+              "collapsed": false,
+              "_lines": [
+                "Setembro"
+              ],
+              "_apoio": [],
+              "_w": 90,
+              "_h": 36,
+              "_dragStartX": 512.057050704956,
+              "_dragStartY": 12.052165985107422,
+              "_dragged": true,
+              "_rawX": 605.0706615447998,
+              "_rawY": -6.096832752227783,
+              "_candidatos": null,
+              "uid": "umtafzlu248pn09"
+            },
+            {
+              "name": "Outubro",
+              "suggestion": false,
+              "x": 604.4047374725342,
+              "y": 44.05216598510742,
+              "children": [],
+              "id": "n46",
+              "collapsed": false,
+              "_lines": [
+                "Outubro"
+              ],
+              "_apoio": [],
+              "_w": 90,
+              "_h": 36,
+              "_dragStartX": 512.057050704956,
+              "_dragStartY": 46.05216598510742,
+              "_dragged": true,
+              "_rawX": 607.339277267456,
+              "_rawY": 45.29595947265625,
+              "_candidatos": null,
+              "uid": "umtafzlu293qcjp"
+            },
+            {
+              "name": "Novembro",
+              "suggestion": false,
+              "x": 604.4047374725342,
+              "y": 88.34268188476562,
+              "children": [],
+              "id": "n47",
+              "collapsed": false,
+              "_lines": [
+                "Novembro"
+              ],
+              "_apoio": [],
+              "_w": 90,
+              "_h": 36,
+              "_dragStartX": 512.057050704956,
+              "_dragStartY": 80.05216598510742,
+              "_dragged": true,
+              "_rawX": 605.826826095581,
+              "_rawY": 84.58942031860352,
+              "_candidatos": null,
+              "uid": "umtafzlu232z52q"
+            },
+            {
+              "name": "Dezembro",
+              "suggestion": false,
+              "x": 604.4047374725342,
+              "y": 147.15435791015625,
+              "children": [],
+              "id": "n48",
+              "collapsed": false,
+              "_lines": [
+                "Dezembro"
+              ],
+              "_apoio": [],
+              "_w": 90,
+              "_h": 36,
+              "_dragStartX": 512.057050704956,
+              "_dragStartY": 114.05216598510742,
+              "_dragged": true,
+              "_rawX": 608.0955028533936,
+              "_rawY": 145.81291580200195,
+              "_candidatos": null,
+              "uid": "umtafzlu27n9l8p"
+            }
+          ],
           "id": "n41",
           "collapsed": false,
           "_lines": [
@@ -180,9 +269,9 @@
           "_w": 195,
           "_h": 51.375,
           "_dragStartX": 282.05705070495605,
-          "_dragStartY": 51.375,
-          "_dragged": true,
-          "_rawX": 281.3008556365967,
+          "_dragStartY": 12.052165985107422,
+          "_dragged": false,
+          "_rawX": 282.05705070495605,
           "_rawY": 12.052165985107422,
           "_candidatos": null,
           "uid": "umtaflxu021kwdx",
