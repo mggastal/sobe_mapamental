@@ -2,7 +2,7 @@
   "meta": {
     "nome": "Pró Condômino Curitiba",
     "salvoPor": "Tais Jeronimo",
-    "salvoEm": "2026-08-26T17:05:33.483Z",
+    "salvoEm": "2026-08-26T17:08:11.570Z",
     "resumo": {
       "google": {
         "campanhas": 5,
@@ -10,8 +10,8 @@
         "inativa": false
       },
       "meta": {
-        "campanhas": 2,
-        "verba": 0,
+        "campanhas": 3,
+        "verba": 1500,
         "inativa": false
       },
       "linkedin": {
@@ -764,92 +764,216 @@
     "meta": {
       "name": "Meta Ads",
       "note": "Campanhas e públicos",
-      "x": 0,
+      "x": 0.909088134765625,
       "y": 0,
       "collapsed": false,
       "suggestion": false,
       "children": [
         {
-          "name": "Conversão",
+          "name": "Conversão - LP ",
           "color": "#1B2F6A",
-          "x": 260,
-          "y": -140,
+          "x": 270,
+          "y": -20,
           "collapsed": false,
           "suggestion": false,
           "children": [
             {
               "name": "Remarketing — site 30d",
-              "x": 540,
-              "y": -230,
+              "x": 550,
+              "y": -110.90908861160278,
               "collapsed": false,
               "suggestion": false,
               "uid": "umta6embs2k7pea",
-              "id": "n16"
+              "id": "n16",
+              "_lines": [
+                "Remarketing — site 30d"
+              ],
+              "_apoio": [],
+              "_w": 169,
+              "_h": 36
             },
             {
               "name": "Lookalike 1% — compradores",
-              "x": 540,
-              "y": -170,
+              "x": 550,
+              "y": -50.90908861160278,
               "collapsed": false,
               "suggestion": false,
               "uid": "umta6embs3jo6js",
-              "id": "n17"
+              "id": "n17",
+              "_lines": [
+                "Lookalike 1% — compradores"
+              ],
+              "_apoio": [],
+              "_w": 195,
+              "_h": 36
             },
             {
               "name": "Interesses",
-              "x": 540,
-              "y": -110,
+              "x": 550,
+              "y": 9.090911388397217,
               "collapsed": false,
               "suggestion": false,
               "uid": "umta6embsv0ppwg",
-              "id": "n18"
+              "id": "n18",
+              "_lines": [
+                "Interesses"
+              ],
+              "_apoio": [],
+              "_w": 91,
+              "_h": 36
             },
             {
               "name": "Advantage+ (aberto)",
-              "x": 540,
-              "y": -50,
+              "x": 550,
+              "y": 69.09091138839722,
               "collapsed": false,
               "suggestion": false,
               "uid": "umta6embswijq1s",
-              "id": "n19"
+              "id": "n19",
+              "_lines": [
+                "Advantage+ (aberto)"
+              ],
+              "_apoio": [],
+              "_w": 149.5,
+              "_h": 36
             }
           ],
           "uid": "umta6embsonpskk",
-          "id": "n15"
+          "id": "n15",
+          "_lines": [
+            "Conversão - LP"
+          ],
+          "_apoio": [
+            "R$ 450,00/mês · 30,0%"
+          ],
+          "_w": 195,
+          "_h": 51.375,
+          "_dragStartX": 270,
+          "_dragStartY": -20,
+          "_dragged": false,
+          "_rawX": 270,
+          "_rawY": -20,
+          "_candidatos": null,
+          "budget": 450
         },
         {
-          "name": "Reconhecimento",
+          "name": "Distribuição - Engajamento",
           "color": "#328596",
-          "x": 260,
-          "y": 150,
+          "x": 294.5454406738281,
+          "y": 177.99999952316284,
           "collapsed": false,
           "suggestion": false,
           "children": [
             {
               "name": "Ampla — região",
-              "x": 540,
-              "y": 110,
+              "x": 547.6363677978516,
+              "y": 153.62499952316284,
               "collapsed": false,
               "suggestion": false,
               "uid": "umta6embsos3cfx",
-              "id": "n21"
+              "id": "n21",
+              "_lines": [
+                "Ampla — região"
+              ],
+              "_apoio": [],
+              "_w": 117,
+              "_h": 36,
+              "_dragStartX": 573.6363677978516,
+              "_dragStartY": 134.54544830322266,
+              "_dragged": true,
+              "_rawX": 546.3636016845703,
+              "_rawY": 155.45453643798828,
+              "_candidatos": null
             },
             {
-              "name": "Interesses amplos",
-              "x": 540,
-              "y": 175,
+              "name": "Interesses Específicos",
+              "x": 573.6363677978516,
+              "y": 199.54544830322266,
               "collapsed": false,
               "suggestion": false,
               "uid": "umta6embs13789r",
-              "id": "n22"
+              "id": "n22",
+              "_lines": [
+                "Interesses Específicos"
+              ],
+              "_apoio": [],
+              "_w": 169,
+              "_h": 36,
+              "_dragStartX": 573.6363677978516,
+              "_dragStartY": 199.54544830322266,
+              "_dragged": false,
+              "_rawX": 573.6363677978516,
+              "_rawY": 199.54544830322266,
+              "_candidatos": null
             }
           ],
           "uid": "umta6embsfhsmt8",
-          "id": "n20"
+          "id": "n20",
+          "_lines": [
+            "Distribuição -",
+            "Engajamento"
+          ],
+          "_apoio": [
+            "R$ 300,00/mês · 20,0%"
+          ],
+          "_w": 195,
+          "_h": 65.75,
+          "_dragStartX": 294.5454406738281,
+          "_dragStartY": 177.99999952316284,
+          "_dragged": false,
+          "_rawX": 294.5454406738281,
+          "_rawY": 177.99999952316284,
+          "_candidatos": null,
+          "budget": 300
+        },
+        {
+          "name": "Distribuição - Tráfego - Instagram",
+          "suggestion": false,
+          "x": 294.5454406738281,
+          "y": 67.09091138839722,
+          "children": [],
+          "id": "n66",
+          "collapsed": false,
+          "_lines": [
+            "Distribuição - Tráfego -",
+            "Instagram"
+          ],
+          "_apoio": [
+            "R$ 300,00/mês · 20,0%"
+          ],
+          "_w": 195,
+          "_h": 65.75,
+          "_dragStartX": 230.90908813476562,
+          "_dragStartY": 68,
+          "_dragged": true,
+          "_rawX": 299.0909118652344,
+          "_rawY": 67.09091186523438,
+          "_candidatos": null,
+          "budget": 300,
+          "uid": "umtackwybeh15df"
         }
       ],
       "uid": "umta6embsqcxfs6",
-      "id": "n14"
+      "id": "n14",
+      "_lines": [
+        "Meta Ads"
+      ],
+      "_apoio": [
+        "R$ 1.500,00/mês",
+        "⚠ faltam R$ 450,00 a distribuir",
+        "Campanhas e públicos"
+      ],
+      "_w": 172,
+      "_h": 106.625,
+      "tracos": [],
+      "notas": [],
+      "_dragStartX": 0.909088134765625,
+      "_dragStartY": 0,
+      "_dragged": false,
+      "_rawX": 0.909088134765625,
+      "_rawY": 0,
+      "_candidatos": null,
+      "budget": 1500
     },
     "linkedin": {
       "name": "LinkedIn Ads",
