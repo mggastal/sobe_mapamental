@@ -2,7 +2,7 @@
   "meta": {
     "nome": "[Vi Oliver] - Setembro a Dezembro - 2026",
     "salvoPor": "Tais Jeronimo",
-    "salvoEm": "2026-08-26T19:18:36.720Z",
+    "salvoEm": "2026-08-26T19:52:23.332Z",
     "resumo": {
       "google": {
         "campanhas": 3,
@@ -55,7 +55,7 @@
                   "name": "hair specialist sydney\n",
                   "suggestion": false,
                   "x": 820,
-                  "y": -170.90908813476562,
+                  "y": -172.40908813476562,
                   "collapsed": false,
                   "uid": "umtagy1hwc30s3j",
                   "id": "n4",
@@ -63,14 +63,15 @@
                     "hair specialist sydney"
                   ],
                   "_apoio": [],
-                  "_w": 148.76,
+                  "_w": 195.76,
                   "_h": 27,
                   "_dragStartX": 820,
                   "_dragStartY": -170.90908813476562,
                   "_dragged": false,
-                  "_rawX": 820,
+                  "_rawX": 819.0908813476562,
                   "_rawY": -170.90908813476562,
-                  "_candidatos": null
+                  "_candidatos": null,
+                  "match": "frase"
                 },
                 {
                   "name": "trichologist sydney\n",
@@ -84,14 +85,15 @@
                     "trichologist sydney"
                   ],
                   "_apoio": [],
-                  "_w": 132.01999999999998,
+                  "_w": 179.01999999999998,
                   "_h": 27,
                   "_dragStartX": 820,
                   "_dragStartY": -140.90908813476562,
                   "_dragged": false,
                   "_rawX": 820,
                   "_rawY": -140.90908813476562,
-                  "_candidatos": null
+                  "_candidatos": null,
+                  "match": "frase"
                 },
                 {
                   "name": "hair loss specialist sydney\n",
@@ -105,14 +107,16 @@
                     "hair loss specialist sydney"
                   ],
                   "_apoio": [],
-                  "_w": 176.66,
+                  "_w": 223.66,
                   "_h": 27,
                   "_dragStartX": 820,
                   "_dragStartY": -110.90908813476562,
                   "_dragged": false,
                   "_rawX": 820,
                   "_rawY": -110.90908813476562,
-                  "_candidatos": null
+                  "_candidatos": null,
+                  "match": "frase",
+                  "children": []
                 }
               ],
               "uid": "umtagy1hw60vlk7",
