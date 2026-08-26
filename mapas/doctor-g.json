@@ -2,7 +2,7 @@
   "meta": {
     "nome": "Doctor G",
     "salvoPor": "Tais Jeronimo",
-    "salvoEm": "2026-08-26T13:27:02.219Z",
+    "salvoEm": "2026-08-26T13:30:33.360Z",
     "resumo": {
       "google": {
         "campanhas": 3,
@@ -912,14 +912,14 @@
           "name": "Conversão - Vitala",
           "color": "#1B2F6A",
           "x": 299.0909118652344,
-          "y": -128.67614364624023,
+          "y": -73.5,
           "collapsed": false,
           "suggestion": false,
           "children": [
             {
               "name": "Remarketing — site 30d",
               "x": 582.727294921875,
-              "y": -224.54546356201172,
+              "y": -169.09091567993164,
               "collapsed": false,
               "suggestion": false,
               "uid": "umt977lzzvffrgn",
@@ -934,7 +934,7 @@
             {
               "name": "Lookalike 1% — compradores",
               "x": 576.227294921875,
-              "y": -154.36364364624023,
+              "y": -98.90909576416016,
               "collapsed": false,
               "suggestion": false,
               "uid": "umt977lzzbro3zn",
@@ -955,11 +955,11 @@
             {
               "name": "Geolocalização & Aberto",
               "x": 585.977294921875,
-              "y": -84.98864364624023,
+              "y": -29.534095764160156,
               "collapsed": false,
               "suggestion": false,
               "uid": "umt977lzzicqgx1",
-              "id": "n48",
+              "id": "n47",
               "_lines": [
                 "Geolocalização & Aberto"
               ],
@@ -986,28 +986,28 @@
           "_h": 51.375,
           "_dragStartX": 299.0909118652344,
           "_dragStartY": -128.67614364624023,
-          "_dragged": false,
+          "_dragged": true,
           "_rawX": 299.0909118652344,
-          "_rawY": -128.67614364624023,
+          "_rawY": -73.22159576416016,
           "_candidatos": null,
           "budget": 180
         },
         {
           "name": "Distribuição",
           "color": "#328596",
-          "x": 287.2727355957031,
-          "y": 25.6875,
+          "x": 299.0909118652344,
+          "y": 34.778411865234375,
           "collapsed": false,
           "suggestion": false,
           "children": [
             {
               "name": "Ampla — região",
-              "x": 576.227294921875,
-              "y": 25.6875,
+              "x": 585.3182067871094,
+              "y": 34.778411865234375,
               "collapsed": false,
               "suggestion": false,
               "uid": "umt977lzzpummmm",
-              "id": "n50",
+              "id": "n49",
               "_lines": [
                 "Ampla — região"
               ],
@@ -1024,10 +1024,10 @@
             {
               "name": "Lookalike 1% Engajados",
               "suggestion": false,
-              "x": 582.727294921875,
-              "y": 82.4147720336914,
+              "x": 591.8182067871094,
+              "y": 91.50568389892578,
               "children": [],
-              "id": "n68",
+              "id": "n50",
               "collapsed": false,
               "_lines": [
                 "Lookalike 1% Engajados"
@@ -1045,7 +1045,7 @@
             }
           ],
           "uid": "umt977lzzplmp95",
-          "id": "n49",
+          "id": "n48",
           "_lines": [
             "Distribuição"
           ],
@@ -1054,11 +1054,11 @@
           ],
           "_w": 195,
           "_h": 51.375,
-          "_dragStartX": 306.3636474609375,
-          "_dragStartY": 122.72727966308594,
+          "_dragStartX": 287.2727355957031,
+          "_dragStartY": 25.6875,
           "_dragged": true,
-          "_rawX": 287.2727355957031,
-          "_rawY": 30.000003814697266,
+          "_rawX": 296.3636474609375,
+          "_rawY": 34.778411865234375,
           "_candidatos": null,
           "budget": 120
         }
@@ -1108,7 +1108,7 @@
               "collapsed": false,
               "suggestion": false,
               "uid": "umt977lzz4a5ys1",
-              "id": "n54"
+              "id": "n53"
             },
             {
               "name": "Empresas-alvo (ABM)",
@@ -1117,7 +1117,7 @@
               "collapsed": false,
               "suggestion": false,
               "uid": "umt977lzzcv86kg",
-              "id": "n55"
+              "id": "n54"
             },
             {
               "name": "Lookalike de clientes",
@@ -1126,11 +1126,11 @@
               "collapsed": false,
               "suggestion": false,
               "uid": "umt977lzzzhghn3",
-              "id": "n56"
+              "id": "n55"
             }
           ],
           "uid": "umt977lzz0d8c6d",
-          "id": "n53"
+          "id": "n52"
         },
         {
           "name": "Reconhecimento",
@@ -1147,7 +1147,7 @@
               "collapsed": false,
               "suggestion": false,
               "uid": "umt977lzz1h1t7t",
-              "id": "n58"
+              "id": "n57"
             },
             {
               "name": "Seguidores da página",
@@ -1156,15 +1156,15 @@
               "collapsed": false,
               "suggestion": false,
               "uid": "umt977lzz4w5plj",
-              "id": "n59"
+              "id": "n58"
             }
           ],
           "uid": "umt977lzznxegqv",
-          "id": "n57"
+          "id": "n56"
         }
       ],
       "uid": "umt977lzz8ebk8d",
-      "id": "n52",
+      "id": "n51",
       "notas": [],
       "tracos": []
     },
@@ -1193,7 +1193,7 @@
               "collapsed": false,
               "suggestion": false,
               "uid": "umt977lzzw1w9bw",
-              "id": "n62"
+              "id": "n61"
             },
             {
               "name": "Interesses e comportamentos",
@@ -1202,7 +1202,7 @@
               "collapsed": false,
               "suggestion": false,
               "uid": "umt977lzz5z065b",
-              "id": "n63"
+              "id": "n62"
             },
             {
               "name": "Lookalike de compradores",
@@ -1211,11 +1211,11 @@
               "collapsed": false,
               "suggestion": false,
               "uid": "umt977lzzre18iu",
-              "id": "n64"
+              "id": "n63"
             }
           ],
           "uid": "umt977lzzkfsoxk",
-          "id": "n61"
+          "id": "n60"
         },
         {
           "name": "Alcance",
@@ -1232,7 +1232,7 @@
               "collapsed": false,
               "suggestion": false,
               "uid": "umt977lzznhhpgj",
-              "id": "n66"
+              "id": "n65"
             },
             {
               "name": "Engajou com o perfil",
@@ -1241,15 +1241,15 @@
               "collapsed": false,
               "suggestion": false,
               "uid": "umt977lzzl05tfw",
-              "id": "n67"
+              "id": "n66"
             }
           ],
           "uid": "umt977lzzifyk0g",
-          "id": "n65"
+          "id": "n64"
         }
       ],
       "uid": "umt977lzzb89pev",
-      "id": "n60",
+      "id": "n59",
       "notas": [],
       "tracos": []
     },
