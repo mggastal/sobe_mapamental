@@ -2,7 +2,7 @@
   "meta": {
     "nome": "[Dra Fernada Cavalcante] - Setembro a Dezembro - 2026",
     "salvoPor": "Tais Jeronimo",
-    "salvoEm": "2026-08-26T18:43:35.157Z",
+    "salvoEm": "2026-08-26T18:47:58.031Z",
     "resumo": {
       "google": {
         "campanhas": 5,
@@ -172,46 +172,52 @@
             {
               "name": "Setembro",
               "suggestion": false,
-              "x": 604.4047374725342,
-              "y": -5.947834014892578,
+              "x": 736.7412242889404,
+              "y": -11.515704572200775,
               "children": [],
               "id": "n45",
               "collapsed": false,
               "_lines": [
                 "Setembro"
               ],
-              "_apoio": [],
+              "_apoio": [
+                "R$ 700,00/mês · 25,0%"
+              ],
               "_w": 90,
               "_h": 36,
-              "_dragStartX": 512.057050704956,
-              "_dragStartY": 12.052165985107422,
+              "_dragStartX": 604.4047374725342,
+              "_dragStartY": -5.947834014892578,
               "_dragged": true,
-              "_rawX": 605.0706615447998,
-              "_rawY": -6.096832752227783,
+              "_rawX": 737.4973888397217,
+              "_rawY": -11.241292119026184,
               "_candidatos": null,
-              "uid": "umtafzlu248pn09"
+              "uid": "umtafzlu248pn09",
+              "budget": 700
             },
             {
               "name": "Outubro",
               "suggestion": false,
-              "x": 604.4047374725342,
-              "y": 44.05216598510742,
+              "x": 736.7412242889404,
+              "y": 47.8125,
               "children": [],
               "id": "n46",
               "collapsed": false,
               "_lines": [
                 "Outubro"
               ],
-              "_apoio": [],
+              "_apoio": [
+                "R$ 840,00/mês · 30,0%"
+              ],
               "_w": 90,
               "_h": 36,
-              "_dragStartX": 512.057050704956,
-              "_dragStartY": 46.05216598510742,
+              "_dragStartX": 604.4047374725342,
+              "_dragStartY": 43.23966598510742,
               "_dragged": true,
-              "_rawX": 607.339277267456,
-              "_rawY": 45.29595947265625,
+              "_rawX": 736.7412242889404,
+              "_rawY": 46.26449966430664,
               "_candidatos": null,
-              "uid": "umtafzlu293qcjp"
+              "uid": "umtafzlu293qcjp",
+              "budget": 840
             },
             {
               "name": "Novembro",
@@ -224,16 +230,19 @@
               "_lines": [
                 "Novembro"
               ],
-              "_apoio": [],
+              "_apoio": [
+                "R$ 840,00/mês · 30,0%"
+              ],
               "_w": 90,
               "_h": 36,
-              "_dragStartX": 512.057050704956,
-              "_dragStartY": 80.05216598510742,
-              "_dragged": true,
-              "_rawX": 605.826826095581,
-              "_rawY": 84.58942031860352,
+              "_dragStartX": 604.4047374725342,
+              "_dragStartY": 88.34268188476562,
+              "_dragged": false,
+              "_rawX": 604.4047374725342,
+              "_rawY": 88.34268188476562,
               "_candidatos": null,
-              "uid": "umtafzlu232z52q"
+              "uid": "umtafzlu232z52q",
+              "budget": 840
             },
             {
               "name": "Dezembro",
@@ -246,16 +255,19 @@
               "_lines": [
                 "Dezembro"
               ],
-              "_apoio": [],
+              "_apoio": [
+                "R$ 420,00/mês · 15,0%"
+              ],
               "_w": 90,
               "_h": 36,
-              "_dragStartX": 512.057050704956,
-              "_dragStartY": 114.05216598510742,
-              "_dragged": true,
-              "_rawX": 608.0955028533936,
-              "_rawY": 145.81291580200195,
+              "_dragStartX": 604.4047374725342,
+              "_dragStartY": 147.15435791015625,
+              "_dragged": false,
+              "_rawX": 604.4047374725342,
+              "_rawY": 147.15435791015625,
               "_candidatos": null,
-              "uid": "umtafzlu27n9l8p"
+              "uid": "umtafzlu27n9l8p",
+              "budget": 420
             }
           ],
           "id": "n41",
