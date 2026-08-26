@@ -2,7 +2,7 @@
   "meta": {
     "nome": "Pró Condômino Curitiba",
     "salvoPor": "Tais Jeronimo",
-    "salvoEm": "2026-08-26T17:12:58.873Z",
+    "salvoEm": "2026-08-26T17:14:08.648Z",
     "resumo": {
       "google": {
         "campanhas": 5,
@@ -126,7 +126,7 @@
                   "y": -181.4346580505371,
                   "collapsed": false,
                   "uid": "umta6embs355kea",
-                  "id": "n8",
+                  "id": "n7",
                   "_lines": [
                     "gestão financeira condomínio"
                   ],
@@ -148,7 +148,7 @@
                   "y": -181.4346580505371,
                   "collapsed": false,
                   "uid": "umta6embscbubl1",
-                  "id": "n9",
+                  "id": "n8",
                   "_lines": [
                     "garantidora de receita condomínio"
                   ],
@@ -169,7 +169,7 @@
                   "x": 279.9546890258789,
                   "y": -181.4346580505371,
                   "children": [],
-                  "id": "n39",
+                  "id": "n9",
                   "collapsed": false,
                   "_lines": [
                     "cobrança inadimplência condomínio"
@@ -182,7 +182,7 @@
                 }
               ],
               "uid": "umta6embsa74a5f",
-              "id": "n7",
+              "id": "n6",
               "_lines": [
                 "Serviços"
               ],
@@ -220,23 +220,23 @@
           "color": "#D14026",
           "suggestion": false,
           "x": 279.9546890258789,
-          "y": -116.24715805053711,
+          "y": -104.05965805053711,
           "collapsed": true,
           "children": [
             {
               "name": "Síndicos - Curitiba",
               "suggestion": false,
-              "x": 548.6593780517578,
-              "y": -116.24715805053711,
+              "x": 279.9546890258789,
+              "y": -104.05965805053711,
               "collapsed": true,
               "children": [
                 {
                   "name": "Anúncios em Vídeo",
                   "suggestion": false,
-                  "x": 755.8393780517578,
-                  "y": -116.24715805053711,
+                  "x": 279.9546890258789,
+                  "y": -104.05965805053711,
                   "children": [],
-                  "id": "n64",
+                  "id": "n12",
                   "collapsed": false,
                   "_lines": [
                     "Anúncios em Vídeo"
@@ -291,22 +291,22 @@
         {
           "name": "Pesquisa - Leads - Concorrentes",
           "suggestion": false,
-          "x": 304.4093780517578,
-          "y": -46.90340805053711,
+          "x": 279.9546890258789,
+          "y": -26.68465805053711,
           "children": [
             {
               "name": "Concorrentes",
               "suggestion": false,
-              "x": 300.86380767822266,
-              "y": -52.139201164245605,
+              "x": 279.9546890258789,
+              "y": -26.68465805053711,
               "children": [
                 {
                   "name": "\nGarante Curitiba",
                   "suggestion": false,
-                  "x": 300.86380767822266,
-                  "y": -52.139201164245605,
+                  "x": 279.9546890258789,
+                  "y": -26.68465805053711,
                   "children": [],
-                  "id": "n44",
+                  "id": "n15",
                   "collapsed": false,
                   "_lines": [
                     "Garante Curitiba"
@@ -320,10 +320,10 @@
                 {
                   "name": "Rateio Garantidora",
                   "suggestion": false,
-                  "x": 300.86380767822266,
-                  "y": -52.139201164245605,
+                  "x": 279.9546890258789,
+                  "y": -26.68465805053711,
                   "children": [],
-                  "id": "n45",
+                  "id": "n16",
                   "collapsed": false,
                   "_lines": [
                     "Rateio Garantidora"
@@ -337,10 +337,10 @@
                 {
                   "name": "LLZ Garantidora\n",
                   "suggestion": false,
-                  "x": 300.86380767822266,
-                  "y": -52.139201164245605,
+                  "x": 279.9546890258789,
+                  "y": -26.68465805053711,
                   "children": [],
-                  "id": "n46",
+                  "id": "n17",
                   "collapsed": false,
                   "_lines": [
                     "LLZ Garantidora"
@@ -354,10 +354,10 @@
                 {
                   "name": "DSM Garantidora",
                   "suggestion": false,
-                  "x": 300.86380767822266,
-                  "y": -52.139201164245605,
+                  "x": 279.9546890258789,
+                  "y": -26.68465805053711,
                   "children": [],
-                  "id": "n47",
+                  "id": "n18",
                   "collapsed": false,
                   "_lines": [
                     "DSM Garantidora"
@@ -375,7 +375,7 @@
                   "uid": "umta79x4w2g6k1z"
                 }
               ],
-              "id": "n42",
+              "id": "n14",
               "collapsed": true,
               "_lines": [
                 "Concorrentes"
@@ -392,7 +392,7 @@
               "uid": "umta79x4wgue99t"
             }
           ],
-          "id": "n41",
+          "id": "n13",
           "collapsed": true,
           "_lines": [
             "Pesquisa - Leads - Concorrentes"
@@ -419,21 +419,21 @@
           "name": "Pesquisa - Impressões - Brand",
           "suggestion": false,
           "x": 279.9546890258789,
-          "y": 24.24148178100586,
+          "y": 57.87784194946289,
           "children": [
             {
               "name": "Marca",
               "suggestion": false,
-              "x": 275.4092483520508,
-              "y": 24.24148178100586,
+              "x": 279.9546890258789,
+              "y": 57.87784194946289,
               "children": [
                 {
                   "name": "Pró condômino",
                   "suggestion": false,
-                  "x": 275.4092483520508,
-                  "y": 24.24148178100586,
+                  "x": 279.9546890258789,
+                  "y": 57.87784194946289,
                   "children": [],
-                  "id": "n50",
+                  "id": "n21",
                   "collapsed": false,
                   "_lines": [
                     "Pró condômino"
@@ -453,10 +453,10 @@
                 {
                   "name": "Pró condômino",
                   "suggestion": false,
-                  "x": 275.4092483520508,
-                  "y": 24.24148178100586,
+                  "x": 279.9546890258789,
+                  "y": 57.87784194946289,
                   "children": [],
-                  "id": "n51",
+                  "id": "n22",
                   "collapsed": false,
                   "_lines": [
                     "Pró condômino"
@@ -476,10 +476,10 @@
                 {
                   "name": "Pró garantidora",
                   "suggestion": false,
-                  "x": 275.4092483520508,
-                  "y": 24.24148178100586,
+                  "x": 279.9546890258789,
+                  "y": 57.87784194946289,
                   "children": [],
-                  "id": "n52",
+                  "id": "n23",
                   "collapsed": false,
                   "_lines": [
                     "Pró garantidora"
@@ -493,10 +493,10 @@
                 {
                   "name": "Pró garantidora",
                   "suggestion": false,
-                  "x": 275.4092483520508,
-                  "y": 24.24148178100586,
+                  "x": 279.9546890258789,
+                  "y": 57.87784194946289,
                   "children": [],
-                  "id": "n53",
+                  "id": "n24",
                   "collapsed": false,
                   "_lines": [
                     "Pró garantidora"
@@ -510,10 +510,10 @@
                 {
                   "name": "Pró condômino curitiba",
                   "suggestion": false,
-                  "x": 275.4092483520508,
-                  "y": 24.24148178100586,
+                  "x": 279.9546890258789,
+                  "y": 57.87784194946289,
                   "children": [],
-                  "id": "n54",
+                  "id": "n25",
                   "collapsed": false,
                   "_lines": [
                     "Pró condômino curitiba"
@@ -527,10 +527,10 @@
                 {
                   "name": "Pró condômino curitiba",
                   "suggestion": false,
-                  "x": 275.4092483520508,
-                  "y": 24.24148178100586,
+                  "x": 279.9546890258789,
+                  "y": 57.87784194946289,
                   "children": [],
-                  "id": "n55",
+                  "id": "n26",
                   "collapsed": false,
                   "_lines": [
                     "Pró condômino curitiba"
@@ -542,7 +542,7 @@
                   "uid": "umta79x4wdjyam6"
                 }
               ],
-              "id": "n49",
+              "id": "n20",
               "collapsed": true,
               "_lines": [
                 "Marca"
@@ -559,7 +559,7 @@
               "uid": "umta79x4wajgj6a"
             }
           ],
-          "id": "n48",
+          "id": "n19",
           "collapsed": true,
           "_lines": [
             "Pesquisa - Impressões -",
@@ -583,21 +583,21 @@
           "name": "Geração de Demanda - Display",
           "suggestion": false,
           "x": 279.9546890258789,
-          "y": 105.07102584838867,
+          "y": 183.2528419494629,
           "children": [
             {
               "name": "Sindicos",
               "suggestion": false,
-              "x": 513.4548187255859,
-              "y": 52.07102584838867,
+              "x": 518.9093780517578,
+              "y": 130.2528419494629,
               "children": [
                 {
                   "name": "Anúncios em Display",
                   "suggestion": false,
-                  "x": 755.9648187255859,
-                  "y": 52.07102584838867,
+                  "x": 754.9193780517578,
+                  "y": 130.2528419494629,
                   "children": [],
-                  "id": "n58",
+                  "id": "n29",
                   "collapsed": false,
                   "_lines": [
                     "Anúncios em Display"
@@ -614,7 +614,7 @@
                   "uid": "umta79x4waifvju"
                 }
               ],
-              "id": "n57",
+              "id": "n28",
               "collapsed": false,
               "_lines": [
                 "Sindicos"
@@ -633,16 +633,16 @@
             {
               "name": "Remarketing Site",
               "suggestion": false,
-              "x": 533.4548187255859,
-              "y": 105.07102584838867,
+              "x": 538.9093780517578,
+              "y": 183.2528419494629,
               "children": [
                 {
                   "name": "Anúncios em Display",
                   "suggestion": false,
-                  "x": 755.9648187255859,
-                  "y": 105.07102584838867,
+                  "x": 754.9193780517578,
+                  "y": 183.2528419494629,
                   "children": [],
-                  "id": "n61",
+                  "id": "n31",
                   "collapsed": false,
                   "_lines": [
                     "Anúncios em Display"
@@ -659,7 +659,7 @@
                   "uid": "umta79x4wtxnot5"
                 }
               ],
-              "id": "n59",
+              "id": "n30",
               "collapsed": false,
               "_lines": [
                 "Remarketing Site"
@@ -678,16 +678,16 @@
             {
               "name": "Viu Vídeos Youtube",
               "suggestion": false,
-              "x": 539.9548187255859,
-              "y": 158.07102584838867,
+              "x": 545.4093780517578,
+              "y": 236.2528419494629,
               "children": [
                 {
                   "name": "Anúncios em Display",
                   "suggestion": false,
-                  "x": 755.9648187255859,
-                  "y": 158.07102584838867,
+                  "x": 754.9193780517578,
+                  "y": 236.2528419494629,
                   "children": [],
-                  "id": "n63",
+                  "id": "n33",
                   "collapsed": false,
                   "_lines": [
                     "Anúncios em Display"
@@ -698,7 +698,7 @@
                   "uid": "umta79x4wqbd32x"
                 }
               ],
-              "id": "n60",
+              "id": "n32",
               "collapsed": false,
               "_lines": [
                 "Viu Vídeos Youtube"
@@ -715,7 +715,7 @@
               "uid": "umta79x4w3ff8x1"
             }
           ],
-          "id": "n56",
+          "id": "n27",
           "collapsed": false,
           "_lines": [
             "Geração de Demanda -",
@@ -751,7 +751,7 @@
         "Campanhas"
       ],
       "_w": 172,
-      "_h": 95.625,
+      "_h": 63.625,
       "tracos": [],
       "notas": [],
       "_dragStartX": 0,
@@ -765,27 +765,27 @@
     "meta": {
       "name": "Meta Ads",
       "note": "Campanhas e públicos",
-      "x": 0.909088134765625,
-      "y": -0.4545459747314453,
+      "x": -6.965122222900391,
+      "y": 33.995134353637695,
       "collapsed": false,
       "suggestion": false,
       "children": [
         {
           "name": "Conversão - LP ",
           "color": "#1B2F6A",
-          "x": 300.272705078125,
-          "y": -305.87498664855957,
+          "x": 292.398494720459,
+          "y": -271.42530632019043,
           "collapsed": false,
           "suggestion": false,
           "children": [
             {
               "name": "Remarketing & Engajados",
-              "x": 555.477294921875,
-              "y": -367.87498664855957,
+              "x": 547.603084564209,
+              "y": -333.42530632019043,
               "collapsed": false,
               "suggestion": false,
               "uid": "umta6embs2k7pea",
-              "id": "n16",
+              "id": "n36",
               "_lines": [
                 "Remarketing & Engajados"
               ],
@@ -801,12 +801,12 @@
             },
             {
               "name": "Lookalike 1% — compradores e listas",
-              "x": 594.477294921875,
-              "y": -305.87498664855957,
+              "x": 586.603084564209,
+              "y": -271.42530632019043,
               "collapsed": false,
               "suggestion": false,
               "uid": "umta6embs3jo6js",
-              "id": "n17",
+              "id": "n37",
               "_lines": [
                 "Lookalike 1% — compradores e listas"
               ],
@@ -822,12 +822,12 @@
             },
             {
               "name": "Interesses",
-              "x": 513.227294921875,
-              "y": -243.87498664855957,
+              "x": 505.353084564209,
+              "y": -209.42530632019043,
               "collapsed": false,
               "suggestion": false,
               "uid": "umta6embsv0ppwg",
-              "id": "n18",
+              "id": "n38",
               "_lines": [
                 "Interesses"
               ],
@@ -843,7 +843,7 @@
             }
           ],
           "uid": "umta6embsonpskk",
-          "id": "n15",
+          "id": "n35",
           "_lines": [
             "Conversão - LP"
           ],
@@ -863,19 +863,19 @@
         {
           "name": "Distribuição - Engajamento",
           "color": "#328596",
-          "x": 300.272705078125,
-          "y": 14.482954025268555,
+          "x": 292.398494720459,
+          "y": 48.932634353637695,
           "collapsed": false,
           "suggestion": false,
           "children": [
             {
               "name": "Interesses Específicos e Lal Clientes",
-              "x": 582.0908508300781,
-              "y": 14.482954025268555,
+              "x": 574.2166404724121,
+              "y": 48.932634353637695,
               "collapsed": false,
               "suggestion": false,
               "uid": "umta6embs13789r",
-              "id": "n22",
+              "id": "n40",
               "_lines": [
                 "Interesses Específicos e Lal Clientes"
               ],
@@ -891,7 +891,7 @@
             }
           ],
           "uid": "umta6embsfhsmt8",
-          "id": "n20",
+          "id": "n39",
           "_lines": [
             "Distribuição -",
             "Engajamento"
@@ -912,16 +912,16 @@
         {
           "name": "Distribuição - Tráfego - Instagram",
           "suggestion": false,
-          "x": 300.272705078125,
-          "y": 125.99196815490723,
+          "x": 292.398494720459,
+          "y": 160.44164848327637,
           "children": [
             {
               "name": "Interesses Específicos e Lal Clientes",
               "suggestion": false,
-              "x": 606.4318237304688,
-              "y": 125.99196815490723,
+              "x": 598.5576133728027,
+              "y": 160.44164848327637,
               "children": [],
-              "id": "n72",
+              "id": "n42",
               "collapsed": false,
               "_lines": [
                 "Interesses Específicos e Lal Clientes"
@@ -938,7 +938,7 @@
               "uid": "umtacpoo5uelqcu"
             }
           ],
-          "id": "n66",
+          "id": "n41",
           "collapsed": false,
           "_lines": [
             "Distribuição - Tráfego -",
@@ -963,16 +963,16 @@
         {
           "name": "Conversão - Lead Form",
           "suggestion": false,
-          "x": 300.272705078125,
-          "y": -116.18750190734863,
+          "x": 292.398494720459,
+          "y": -81.73782157897949,
           "children": [
             {
               "name": "Remarketing & Engajados",
               "suggestion": false,
-              "x": 555.5762329101562,
-              "y": -174.74304389953613,
+              "x": 547.7020225524902,
+              "y": -140.293363571167,
               "children": [],
-              "id": "n68",
+              "id": "n44",
               "collapsed": false,
               "_lines": [
                 "Remarketing & Engajados"
@@ -991,10 +991,10 @@
             {
               "name": "Lookalike 1% — compradores e listas",
               "suggestion": false,
-              "x": 594.5762329101562,
-              "y": -112.74304389953613,
+              "x": 586.7020225524902,
+              "y": -78.29336357116699,
               "children": [],
-              "id": "n70",
+              "id": "n45",
               "collapsed": false,
               "_lines": [
                 "Lookalike 1% — compradores e listas"
@@ -1013,10 +1013,10 @@
             {
               "name": "Interesses",
               "suggestion": false,
-              "x": 513.3262329101562,
-              "y": -50.74304389953613,
+              "x": 505.45202255249023,
+              "y": -16.293363571166992,
               "children": [],
-              "id": "n71",
+              "id": "n46",
               "collapsed": false,
               "_lines": [
                 "Interesses"
@@ -1033,7 +1033,7 @@
               "uid": "umtacpoo5x25quu"
             }
           ],
-          "id": "n67",
+          "id": "n43",
           "collapsed": false,
           "_lines": [
             "Conversão - Lead Form"
@@ -1054,7 +1054,7 @@
         }
       ],
       "uid": "umta6embsqcxfs6",
-      "id": "n14",
+      "id": "n34",
       "_lines": [
         "Meta Ads"
       ],
@@ -1098,7 +1098,7 @@
               "collapsed": false,
               "suggestion": false,
               "uid": "umta6embsinwk4r",
-              "id": "n25"
+              "id": "n49"
             },
             {
               "name": "Empresas-alvo (ABM)",
@@ -1107,7 +1107,7 @@
               "collapsed": false,
               "suggestion": false,
               "uid": "umta6embs64k8tp",
-              "id": "n26"
+              "id": "n50"
             },
             {
               "name": "Lookalike de clientes",
@@ -1116,11 +1116,11 @@
               "collapsed": false,
               "suggestion": false,
               "uid": "umta6embsx9s6aa",
-              "id": "n27"
+              "id": "n51"
             }
           ],
           "uid": "umta6embspaj8n4",
-          "id": "n24"
+          "id": "n48"
         },
         {
           "name": "Reconhecimento",
@@ -1137,7 +1137,7 @@
               "collapsed": false,
               "suggestion": false,
               "uid": "umta6embsgiitpz",
-              "id": "n29"
+              "id": "n53"
             },
             {
               "name": "Seguidores da página",
@@ -1146,15 +1146,17 @@
               "collapsed": false,
               "suggestion": false,
               "uid": "umta6embsuoezes",
-              "id": "n30"
+              "id": "n54"
             }
           ],
           "uid": "umta6embswxcgae",
-          "id": "n28"
+          "id": "n52"
         }
       ],
       "uid": "umta6embsrp6p3s",
-      "id": "n23"
+      "id": "n47",
+      "notas": [],
+      "tracos": []
     },
     "tiktok": {
       "name": "TikTok Ads",
@@ -1181,7 +1183,7 @@
               "collapsed": false,
               "suggestion": false,
               "uid": "umta6embslykmoo",
-              "id": "n33"
+              "id": "n57"
             },
             {
               "name": "Interesses e comportamentos",
@@ -1190,7 +1192,7 @@
               "collapsed": false,
               "suggestion": false,
               "uid": "umta6embs0stmfd",
-              "id": "n34"
+              "id": "n58"
             },
             {
               "name": "Lookalike de compradores",
@@ -1199,11 +1201,11 @@
               "collapsed": false,
               "suggestion": false,
               "uid": "umta6embsr51n1m",
-              "id": "n35"
+              "id": "n59"
             }
           ],
           "uid": "umta6embsvv56um",
-          "id": "n32"
+          "id": "n56"
         },
         {
           "name": "Alcance",
@@ -1220,7 +1222,7 @@
               "collapsed": false,
               "suggestion": false,
               "uid": "umta6embsu2y27k",
-              "id": "n37"
+              "id": "n61"
             },
             {
               "name": "Engajou com o perfil",
@@ -1229,15 +1231,17 @@
               "collapsed": false,
               "suggestion": false,
               "uid": "umta6embsqhx6u8",
-              "id": "n38"
+              "id": "n62"
             }
           ],
           "uid": "umta6embs867muv",
-          "id": "n36"
+          "id": "n60"
         }
       ],
       "uid": "umta6embs3a0i8x",
-      "id": "n31"
+      "id": "n55",
+      "notas": [],
+      "tracos": []
     },
     "cliente": "Pró Condômino Curitiba",
     "estilo": {
