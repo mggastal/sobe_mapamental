@@ -2,7 +2,7 @@
   "meta": {
     "nome": "Pró Condômino Curitiba",
     "salvoPor": "Tais Jeronimo",
-    "salvoEm": "2026-08-26T14:55:34.951Z",
+    "salvoEm": "2026-08-26T17:05:33.483Z",
     "resumo": {
       "google": {
         "campanhas": 5,
@@ -726,9 +726,9 @@
           "_w": 195,
           "_h": 65.75,
           "_dragStartX": 279.9546890258789,
-          "_dragStartY": 138.7073860168457,
-          "_dragged": true,
-          "_rawX": 273.5910415649414,
+          "_dragStartY": 105.07102584838867,
+          "_dragged": false,
+          "_rawX": 279.9546890258789,
           "_rawY": 105.07102584838867,
           "_candidatos": null,
           "tipo": "demandgen",
