@@ -2,11 +2,11 @@
   "meta": {
     "nome": "GEMTE Seguros",
     "salvoPor": "Matheus",
-    "salvoEm": "2026-08-19T13:40:52.199Z",
+    "salvoEm": "2026-08-27T23:17:31.606Z",
     "resumo": {
       "google": {
-        "campanhas": 4,
-        "verba": 7900,
+        "campanhas": 3,
+        "verba": 6100,
         "inativa": false
       },
       "meta": {
@@ -42,23 +42,23 @@
           "color": "#1B2F6A",
           "suggestion": true,
           "x": 255.5,
-          "y": -806.75,
+          "y": -440.25,
           "collapsed": false,
           "budget": 2000,
           "children": [
             {
               "name": "Seguro de carro",
               "suggestion": true,
-              "x": 484.5,
-              "y": -806.75,
+              "x": 486.75,
+              "y": -440.25,
               "collapsed": false,
               "budget": 2000,
               "children": [
                 {
                   "name": "seguro de carro",
                   "suggestion": true,
-                  "x": 703.245,
-                  "y": -1001.75,
+                  "x": 675.35,
+                  "y": -635.25,
                   "collapsed": false,
                   "uid": "uprfq5s4p425l",
                   "id": "n4",
@@ -72,8 +72,8 @@
                 {
                   "name": "seguro para carro",
                   "suggestion": true,
-                  "x": 709.011,
-                  "y": -962.75,
+                  "x": 680.93,
+                  "y": -596.25,
                   "collapsed": false,
                   "uid": "unni9qh1o6k5p",
                   "id": "n5",
@@ -87,8 +87,8 @@
                 {
                   "name": "seguro para meu carro",
                   "suggestion": true,
-                  "x": 720.543,
-                  "y": -923.75,
+                  "x": 692.09,
+                  "y": -557.25,
                   "collapsed": false,
                   "uid": "uhd86uh8jx5fl",
                   "id": "n6",
@@ -102,8 +102,8 @@
                 {
                   "name": "seguro automóvel",
                   "suggestion": true,
-                  "x": 706.128,
-                  "y": -884.75,
+                  "x": 678.14,
+                  "y": -518.25,
                   "collapsed": false,
                   "uid": "uwjotyqjazrf1",
                   "id": "n7",
@@ -117,8 +117,8 @@
                 {
                   "name": "contratar seguro carro",
                   "suggestion": true,
-                  "x": 723.426,
-                  "y": -845.75,
+                  "x": 694.88,
+                  "y": -479.25,
                   "collapsed": false,
                   "uid": "urcl7iinvu884",
                   "id": "n8",
@@ -132,8 +132,8 @@
                 {
                   "name": "seguro de veículo",
                   "suggestion": true,
-                  "x": 709.011,
-                  "y": -806.75,
+                  "x": 680.93,
+                  "y": -440.25,
                   "collapsed": false,
                   "uid": "u0u1mbd0dbrcm",
                   "id": "n9",
@@ -147,8 +147,8 @@
                 {
                   "name": "seguro para veículo",
                   "suggestion": true,
-                  "x": 714.777,
-                  "y": -767.75,
+                  "x": 686.51,
+                  "y": -401.25,
                   "collapsed": false,
                   "uid": "u0uigxzvo14wy",
                   "id": "n10",
@@ -162,8 +162,8 @@
                 {
                   "name": "seguro veículos",
                   "suggestion": true,
-                  "x": 703.245,
-                  "y": -728.75,
+                  "x": 675.35,
+                  "y": -362.25,
                   "collapsed": false,
                   "uid": "u409zp56u3tvl",
                   "id": "n11",
@@ -177,8 +177,8 @@
                 {
                   "name": "cotação seguro auto",
                   "suggestion": true,
-                  "x": 714.777,
-                  "y": -689.75,
+                  "x": 686.51,
+                  "y": -323.25,
                   "collapsed": false,
                   "uid": "u216j2j0rpemz",
                   "id": "n12",
@@ -192,8 +192,8 @@
                 {
                   "name": "cotação seguro carro",
                   "suggestion": true,
-                  "x": 717.66,
-                  "y": -650.75,
+                  "x": 689.3,
+                  "y": -284.25,
                   "collapsed": false,
                   "uid": "u9tm9ca5m2p5h",
                   "id": "n13",
@@ -207,8 +207,8 @@
                 {
                   "name": "valor seguro carro",
                   "suggestion": true,
-                  "x": 711.894,
-                  "y": -611.75,
+                  "x": 683.72,
+                  "y": -245.25,
                   "collapsed": false,
                   "uid": "u4azwl901ru52",
                   "id": "n14",
@@ -265,7 +265,7 @@
             "Seguro Auto"
           ],
           "_apoio": [
-            "R$ 2.000,00/mês · 25,3%"
+            "R$ 2.000,00/mês · 32,8%"
           ],
           "_w": 195,
           "_h": 51.375,
@@ -277,396 +277,27 @@
           "_candidatos": null
         },
         {
-          "name": "Seguro de Vida",
-          "color": "#328596",
-          "suggestion": true,
-          "x": 255.5,
-          "y": -281.5,
-          "collapsed": false,
-          "budget": 2000,
-          "children": [
-            {
-              "name": "Seguro de vida",
-              "suggestion": true,
-              "x": 481.4,
-              "y": -461.25,
-              "collapsed": false,
-              "budget": 1000,
-              "children": [
-                {
-                  "name": "seguro de vida",
-                  "suggestion": true,
-                  "x": 700.362,
-                  "y": -558.75,
-                  "collapsed": false,
-                  "uid": "uy4uf9wh6wel9",
-                  "id": "n17",
-                  "_lines": [
-                    "seguro de vida"
-                  ],
-                  "_apoio": [],
-                  "_w": 104.12,
-                  "_h": 27
-                },
-                {
-                  "name": "seguro de vida pessoal",
-                  "suggestion": true,
-                  "x": 723.426,
-                  "y": -519.75,
-                  "collapsed": false,
-                  "uid": "u6syzp8dx4myw",
-                  "id": "n18",
-                  "_lines": [
-                    "seguro de vida pessoal"
-                  ],
-                  "_apoio": [],
-                  "_w": 148.76,
-                  "_h": 27
-                },
-                {
-                  "name": "seguro de vida individual",
-                  "suggestion": true,
-                  "x": 732.075,
-                  "y": -480.75,
-                  "collapsed": false,
-                  "uid": "u26xawsa6s29h",
-                  "id": "n19",
-                  "_lines": [
-                    "seguro de vida individual"
-                  ],
-                  "_apoio": [],
-                  "_w": 165.5,
-                  "_h": 27
-                },
-                {
-                  "name": "seguro de vida particular",
-                  "suggestion": true,
-                  "x": 732.075,
-                  "y": -441.75,
-                  "collapsed": false,
-                  "uid": "ufnf8de4a9beu",
-                  "id": "n20",
-                  "_lines": [
-                    "seguro de vida particular"
-                  ],
-                  "_apoio": [],
-                  "_w": 165.5,
-                  "_h": 27
-                },
-                {
-                  "name": "cotação seguro de vida",
-                  "suggestion": true,
-                  "x": 723.426,
-                  "y": -402.75,
-                  "collapsed": false,
-                  "uid": "uki1f2593mhuy",
-                  "id": "n21",
-                  "_lines": [
-                    "cotação seguro de vida"
-                  ],
-                  "_apoio": [],
-                  "_w": 148.76,
-                  "_h": 27
-                },
-                {
-                  "name": "preço seguro de vida",
-                  "suggestion": true,
-                  "x": 717.66,
-                  "y": -363.75,
-                  "collapsed": false,
-                  "uid": "un4b4wbxoj2h6",
-                  "id": "n22",
-                  "_lines": [
-                    "preço seguro de vida"
-                  ],
-                  "_apoio": [],
-                  "_w": 137.6,
-                  "_h": 27
-                }
-              ],
-              "ads": {
-                "url": "https://gemteseguros.com.br/seguro-de-vida/",
-                "path1": "",
-                "path2": "",
-                "headlines": [
-                  "Proteção para o que importa",
-                  "Seguro de vida",
-                  "Proteção para sua família",
-                  "Cuide de quem você ama",
-                  "Proteção para o seu futuro",
-                  "Tranquilidade para sua família",
-                  "Seguro de vida com a Gemte"
-                ],
-                "descriptions": [
-                  "Encontre a proteção ideal para você, sua família ou sua empresa.",
-                  "Proteja você e sua família com um seguro de vida sob medida para suas necessidades."
-                ],
-                "headPins": [
-                  0,
-                  0,
-                  0,
-                  0,
-                  0,
-                  0,
-                  0
-                ],
-                "descPins": [
-                  0,
-                  0
-                ]
-              },
-              "uid": "u3sqs6r6auv79",
-              "id": "n16",
-              "_lines": [
-                "Seguro de vida"
-              ],
-              "_apoio": [
-                "R$ 1.000,00/mês · 50,0%"
-              ],
-              "_w": 117,
-              "_h": 36
-            },
-            {
-              "name": "Familiar",
-              "suggestion": true,
-              "x": 470,
-              "y": -252.25,
-              "collapsed": false,
-              "budget": 500,
-              "children": [
-                {
-                  "name": "seguro de vida familiar",
-                  "suggestion": true,
-                  "x": 726.309,
-                  "y": -310.75,
-                  "collapsed": false,
-                  "uid": "ukd135robpo62",
-                  "id": "n24",
-                  "_lines": [
-                    "seguro de vida familiar"
-                  ],
-                  "_apoio": [],
-                  "_w": 154.34,
-                  "_h": 27
-                },
-                {
-                  "name": "seguro de vida para a família",
-                  "suggestion": true,
-                  "x": 743.607,
-                  "y": -271.75,
-                  "collapsed": false,
-                  "uid": "uwfg7yxoexg6g",
-                  "id": "n25",
-                  "_lines": [
-                    "seguro de vida para a família"
-                  ],
-                  "_apoio": [],
-                  "_w": 187.82,
-                  "_h": 27
-                },
-                {
-                  "name": "seguro de vida para filhos",
-                  "suggestion": true,
-                  "x": 734.958,
-                  "y": -232.75,
-                  "collapsed": false,
-                  "uid": "ud2y6x2lfopso",
-                  "id": "n26",
-                  "_lines": [
-                    "seguro de vida para filhos"
-                  ],
-                  "_apoio": [],
-                  "_w": 171.08,
-                  "_h": 27
-                },
-                {
-                  "name": "seguro de vida para família",
-                  "suggestion": true,
-                  "x": 737.841,
-                  "y": -193.75,
-                  "collapsed": false,
-                  "uid": "ualxulcl0oout",
-                  "id": "n27",
-                  "_lines": [
-                    "seguro de vida para família"
-                  ],
-                  "_apoio": [],
-                  "_w": 176.66,
-                  "_h": 27
-                }
-              ],
-              "ads": {
-                "url": "https://gemteseguros.com.br/seguro-de-vida/",
-                "path1": "",
-                "path2": "",
-                "headlines": [
-                  "Proteção para o que importa",
-                  "Seguro de vida",
-                  "Proteção para sua família",
-                  "Cuide de quem você ama",
-                  "Proteção para o seu futuro",
-                  "Tranquilidade para sua família",
-                  "Seguro de vida com a Gemte"
-                ],
-                "descriptions": [
-                  "Encontre a proteção ideal para você, sua família ou sua empresa.",
-                  "Proteja você e sua família com um seguro de vida sob medida para suas necessidades."
-                ],
-                "headPins": [
-                  0,
-                  0,
-                  0,
-                  0,
-                  0,
-                  0,
-                  0
-                ],
-                "descPins": [
-                  0,
-                  0
-                ]
-              },
-              "uid": "umunakwq4mdfx",
-              "id": "n23",
-              "_lines": [
-                "Familiar"
-              ],
-              "_apoio": [
-                "R$ 500,00/mês · 25,0%"
-              ],
-              "_w": 90,
-              "_h": 36
-            },
-            {
-              "name": "Proteção & Invalidez",
-              "suggestion": true,
-              "x": 500,
-              "y": -101.75,
-              "collapsed": false,
-              "budget": 500,
-              "children": [
-                {
-                  "name": "seguro de vida com invalidez",
-                  "suggestion": true,
-                  "x": 740.724,
-                  "y": -140.75,
-                  "collapsed": false,
-                  "uid": "u79bfatcyt4ws",
-                  "id": "n29",
-                  "_lines": [
-                    "seguro de vida com invalidez"
-                  ],
-                  "_apoio": [],
-                  "_w": 182.24,
-                  "_h": 27
-                },
-                {
-                  "name": "seguro de vida doenças graves",
-                  "suggestion": true,
-                  "x": 743.607,
-                  "y": -101.75,
-                  "collapsed": false,
-                  "uid": "uz0m2eev8miwc",
-                  "id": "n30",
-                  "_lines": [
-                    "seguro de vida doenças graves"
-                  ],
-                  "_apoio": [],
-                  "_w": 187.82,
-                  "_h": 27
-                },
-                {
-                  "name": "seguro de vida acidentes pessoais",
-                  "suggestion": true,
-                  "x": 755.139,
-                  "y": -62.75,
-                  "collapsed": false,
-                  "uid": "ur7qoqco3l75j",
-                  "id": "n31",
-                  "_lines": [
-                    "seguro de vida acidentes pessoais"
-                  ],
-                  "_apoio": [],
-                  "_w": 210.14000000000001,
-                  "_h": 27
-                }
-              ],
-              "ads": {
-                "url": "https://gemteseguros.com.br/seguro-de-vida/",
-                "path1": "",
-                "path2": "",
-                "headlines": [
-                  "Proteção para o que importa",
-                  "Seguro de vida",
-                  "Proteção para sua família",
-                  "Cuide de quem você ama",
-                  "Proteção para o seu futuro",
-                  "Tranquilidade para sua família",
-                  "Seguro de vida com a Gemte"
-                ],
-                "descriptions": [
-                  "Encontre a proteção ideal para você, sua família ou sua empresa.",
-                  "Proteja você e sua família com um seguro de vida sob medida para suas necessidades."
-                ],
-                "headPins": [
-                  0,
-                  0,
-                  0,
-                  0,
-                  0,
-                  0,
-                  0
-                ],
-                "descPins": [
-                  0,
-                  0
-                ]
-              },
-              "uid": "ufkyzsqhwsrkt",
-              "id": "n28",
-              "_lines": [
-                "Proteção & Invalidez"
-              ],
-              "_apoio": [
-                "R$ 500,00/mês · 25,0%"
-              ],
-              "_w": 156,
-              "_h": 36
-            }
-          ],
-          "uid": "uc8qqgktqlef6",
-          "id": "n15",
-          "_lines": [
-            "Seguro de Vida"
-          ],
-          "_apoio": [
-            "R$ 2.000,00/mês · 25,3%"
-          ],
-          "_w": 195,
-          "_h": 51.375
-        },
-        {
           "name": "Seguro de Pet",
           "color": "#F17747",
           "suggestion": false,
           "x": 255.5,
-          "y": 372,
+          "y": 39,
           "collapsed": false,
-          "budget": 3300,
+          "budget": 3500,
           "children": [
             {
               "name": "Cachorros",
               "suggestion": true,
               "x": 470,
-              "y": 87.75,
+              "y": -94.75,
               "collapsed": false,
-              "budget": 1000,
+              "budget": 1500,
               "children": [
                 {
                   "name": "plano de saude cachorro",
                   "suggestion": false,
-                  "x": 726.309,
-                  "y": -9.75,
+                  "x": 697.67,
+                  "y": -192.25,
                   "collapsed": false,
                   "uid": "udvu8c82m1k44",
                   "id": "n34",
@@ -680,8 +311,8 @@
                 {
                   "name": "plano de saude para cachorro",
                   "suggestion": false,
-                  "x": 740.724,
-                  "y": 29.25,
+                  "x": 711.62,
+                  "y": -153.25,
                   "collapsed": false,
                   "uid": "udoim7j5lr9ew",
                   "id": "n35",
@@ -695,8 +326,8 @@
                 {
                   "name": "convenio para cachorro",
                   "suggestion": false,
-                  "x": 723.426,
-                  "y": 68.25,
+                  "x": 694.88,
+                  "y": -114.25,
                   "collapsed": false,
                   "uid": "uc142n9izlt20",
                   "id": "n36",
@@ -710,8 +341,8 @@
                 {
                   "name": "convenio para caes",
                   "suggestion": false,
-                  "x": 711.894,
-                  "y": 107.25,
+                  "x": 683.72,
+                  "y": -75.25,
                   "collapsed": false,
                   "uid": "utg7kjm2k8475",
                   "id": "n37",
@@ -725,8 +356,8 @@
                 {
                   "name": "seguro para meu cachorro",
                   "suggestion": true,
-                  "x": 729.192,
-                  "y": 146.25,
+                  "x": 700.46,
+                  "y": -36.25,
                   "collapsed": false,
                   "uid": "uzidpglkmr77i",
                   "id": "n38",
@@ -740,8 +371,8 @@
                 {
                   "name": "plano de saúde de cachorro",
                   "suggestion": true,
-                  "x": 734.958,
-                  "y": 185.25,
+                  "x": 706.04,
+                  "y": 2.75,
                   "collapsed": false,
                   "uid": "u8ij6oemgxww0",
                   "id": "n39",
@@ -790,134 +421,29 @@
                 "Cachorros"
               ],
               "_apoio": [
-                "R$ 1.000,00/mês · 30,3%"
+                "R$ 1.500,00/mês · 42,9%"
               ],
               "_w": 90,
-              "_h": 36
-            },
-            {
-              "name": "Gatos",
-              "suggestion": true,
-              "x": 470,
-              "y": 296.75,
-              "collapsed": false,
-              "children": [
-                {
-                  "name": "plano de saude para gatos",
-                  "suggestion": false,
-                  "x": 732.075,
-                  "y": 238.25,
-                  "collapsed": false,
-                  "uid": "ufrzk29uwgj8a",
-                  "id": "n41",
-                  "_lines": [
-                    "plano de saude para gatos"
-                  ],
-                  "_apoio": [],
-                  "_w": 165.5,
-                  "_h": 27
-                },
-                {
-                  "name": "seguro para gatos",
-                  "suggestion": true,
-                  "x": 709.011,
-                  "y": 277.25,
-                  "collapsed": false,
-                  "uid": "u4flxhpcix5uf",
-                  "id": "n42",
-                  "_lines": [
-                    "seguro para gatos"
-                  ],
-                  "_apoio": [],
-                  "_w": 120.86,
-                  "_h": 27
-                },
-                {
-                  "name": "seguro pet gato",
-                  "suggestion": true,
-                  "x": 703.245,
-                  "y": 316.25,
-                  "collapsed": false,
-                  "uid": "upho3y4xc03dx",
-                  "id": "n43",
-                  "_lines": [
-                    "seguro pet gato"
-                  ],
-                  "_apoio": [],
-                  "_w": 109.7,
-                  "_h": 27
-                },
-                {
-                  "name": "seguro para meu gato",
-                  "suggestion": true,
-                  "x": 717.66,
-                  "y": 355.25,
-                  "collapsed": false,
-                  "uid": "ut3wlexdpq35w",
-                  "id": "n44",
-                  "_lines": [
-                    "seguro para meu gato"
-                  ],
-                  "_apoio": [],
-                  "_w": 137.6,
-                  "_h": 27
-                }
-              ],
-              "ads": {
-                "url": "https://gemteseguros.com.br/petlove/",
-                "path1": "",
-                "path2": "",
-                "headlines": [
-                  "Proteção para o que importa",
-                  "Proteção para o seu pet",
-                  "Seguro para cães e gatos",
-                  "Seguro pet sob medida",
-                  "Seu pet protegido",
-                  "Mais cuidado para seu pet",
-                  "Seguro pet com a Gemte"
-                ],
-                "descriptions": [
-                  "Conte com experiência, confiança e atendimento próximo para escolher seu seguro.",
-                  "Mais tranquilidade para você e mais cuidado para o seu pet. Faça sua cotação."
-                ],
-                "headPins": [
-                  0,
-                  0,
-                  0,
-                  0,
-                  0,
-                  0,
-                  0
-                ],
-                "descPins": [
-                  0,
-                  0
-                ]
-              },
-              "budget": 1000,
-              "uid": "usfvvsziif81e",
-              "id": "n40",
-              "_lines": [
-                "Gatos"
-              ],
-              "_apoio": [
-                "R$ 1.000,00/mês · 30,3%"
-              ],
-              "_w": 90,
-              "_h": 36
+              "_h": 36,
+              "_dragStartX": 470,
+              "_dragStartY": 87.75,
+              "_dragged": false,
+              "_rawX": 470,
+              "_rawY": 87.75,
+              "_candidatos": null
             },
             {
               "name": "Geral / PET",
               "suggestion": true,
-              "x": 472.1,
-              "y": 505.75,
+              "x": 473.75,
+              "y": 172.75,
               "collapsed": false,
               "children": [
                 {
                   "name": "plano de saude animal",
                   "suggestion": false,
-                  "x": 720.543,
-                  "y": 408.25,
+                  "x": 692.09,
+                  "y": 55.75,
                   "collapsed": false,
                   "uid": "u6fq8vstth1e9",
                   "id": "n46",
@@ -931,8 +457,8 @@
                 {
                   "name": "plano de saúde pet",
                   "suggestion": false,
-                  "x": 711.894,
-                  "y": 447.25,
+                  "x": 683.72,
+                  "y": 94.75,
                   "collapsed": false,
                   "uid": "uslrde9oofbtm",
                   "id": "n47",
@@ -946,8 +472,8 @@
                 {
                   "name": "plano de saúde para pets",
                   "suggestion": false,
-                  "x": 729.192,
-                  "y": 486.25,
+                  "x": 700.46,
+                  "y": 133.75,
                   "collapsed": false,
                   "uid": "ufzdkrs4fjuam",
                   "id": "n48",
@@ -961,8 +487,8 @@
                 {
                   "name": "convenio animal",
                   "suggestion": false,
-                  "x": 703.245,
-                  "y": 525.25,
+                  "x": 675.35,
+                  "y": 172.75,
                   "collapsed": false,
                   "uid": "u4l3pr818y590",
                   "id": "n49",
@@ -976,8 +502,8 @@
                 {
                   "name": "seguro pet",
                   "suggestion": false,
-                  "x": 692,
-                  "y": 564.25,
+                  "x": 665.5,
+                  "y": 211.75,
                   "collapsed": false,
                   "uid": "up5j1a4dm227w",
                   "id": "n50",
@@ -991,8 +517,8 @@
                 {
                   "name": "plano de saúde para pet",
                   "suggestion": true,
-                  "x": 726.309,
-                  "y": 603.25,
+                  "x": 697.67,
+                  "y": 250.75,
                   "collapsed": false,
                   "uid": "uauwph7yzko96",
                   "id": "n51",
@@ -1002,6 +528,23 @@
                   "_apoio": [],
                   "_w": 154.34,
                   "_h": 27
+                },
+                {
+                  "name": "petlove",
+                  "suggestion": true,
+                  "x": 689,
+                  "y": 289.75,
+                  "children": [],
+                  "match": "ampla",
+                  "id": "n67",
+                  "collapsed": false,
+                  "_lines": [
+                    "petlove"
+                  ],
+                  "_apoio": [],
+                  "_w": 137,
+                  "_h": 27,
+                  "uid": "umtc57qapamfic9"
                 }
               ],
               "ads": {
@@ -1035,83 +578,23 @@
                   0
                 ]
               },
-              "budget": 1000,
+              "budget": 2000,
               "uid": "usjzcis2kov84",
               "id": "n45",
               "_lines": [
                 "Geral / PET"
               ],
               "_apoio": [
-                "R$ 1.000,00/mês · 30,3%"
+                "R$ 2.000,00/mês · 57,1%"
               ],
               "_w": 97.5,
-              "_h": 36
-            },
-            {
-              "name": "Concorrentes",
-              "suggestion": true,
-              "x": 475.2,
-              "y": 656.25,
-              "collapsed": false,
-              "budget": 300,
-              "children": [
-                {
-                  "name": "petlove e suas variações ( com base nos termos)",
-                  "suggestion": true,
-                  "x": 795.501,
-                  "y": 656.25,
-                  "collapsed": false,
-                  "uid": "ui5z0a19tvezv",
-                  "id": "n53",
-                  "_lines": [
-                    "petlove e suas variações ( com base nos termos)"
-                  ],
-                  "_apoio": [],
-                  "_w": 288.26,
-                  "_h": 27
-                }
-              ],
-              "ads": {
-                "url": "https://gemteseguros.com.br/petlove/",
-                "path1": "",
-                "path2": "",
-                "headlines": [
-                  "Proteção para o que importa",
-                  "Proteção para o seu pet",
-                  "Seguro para cães e gatos",
-                  "Seguro pet sob medida",
-                  "Seu pet protegido",
-                  "Mais cuidado para seu pet",
-                  "Seguro pet com a Gemte"
-                ],
-                "descriptions": [
-                  "Conte com experiência, confiança e atendimento próximo para escolher seu seguro.",
-                  "Mais tranquilidade para você e mais cuidado para o seu pet. Faça sua cotação."
-                ],
-                "headPins": [
-                  0,
-                  0,
-                  0,
-                  0,
-                  0,
-                  0,
-                  0
-                ],
-                "descPins": [
-                  0,
-                  0
-                ]
-              },
-              "uid": "ueli0zny4beeh",
-              "id": "n52",
-              "_lines": [
-                "Concorrentes"
-              ],
-              "_apoio": [
-                "R$ 300,00/mês · 9,1%"
-              ],
-              "_w": 104,
-              "_h": 36
+              "_h": 36,
+              "_dragStartX": 472.1,
+              "_dragStartY": 505.75,
+              "_dragged": false,
+              "_rawX": 472.1,
+              "_rawY": 505.75,
+              "_candidatos": null
             }
           ],
           "uid": "uy9mtv3urk4kz",
@@ -1120,33 +603,39 @@
             "Seguro de Pet"
           ],
           "_apoio": [
-            "R$ 3.300,00/mês · 41,8%"
+            "R$ 3.500,00/mês · 57,4%"
           ],
           "_w": 195,
-          "_h": 51.375
+          "_h": 51.375,
+          "_dragStartX": 255.5,
+          "_dragStartY": 372,
+          "_dragged": false,
+          "_rawX": 255.5,
+          "_rawY": 372,
+          "_candidatos": null
         },
         {
           "name": "Institucional",
           "color": "#D14026",
           "suggestion": false,
           "x": 255.5,
-          "y": 806.75,
+          "y": 440.25,
           "collapsed": false,
           "budget": 600,
           "children": [
             {
               "name": "Gemte Seguros",
               "suggestion": false,
-              "x": 478.3,
-              "y": 806.75,
+              "x": 480.25,
+              "y": 440.25,
               "collapsed": false,
               "budget": 600,
               "children": [
                 {
                   "name": "gemte seguros",
                   "suggestion": false,
-                  "x": 697.479,
-                  "y": 709.25,
+                  "x": 669.77,
+                  "y": 342.75,
                   "collapsed": false,
                   "uid": "uje7vf39a2wq1",
                   "id": "n56",
@@ -1160,8 +649,8 @@
                 {
                   "name": "gemte seguro auto",
                   "suggestion": false,
-                  "x": 709.011,
-                  "y": 748.25,
+                  "x": 680.93,
+                  "y": 381.75,
                   "collapsed": false,
                   "uid": "u1y04alwmj1rw",
                   "id": "n57",
@@ -1175,8 +664,8 @@
                 {
                   "name": "gemte seguro pet",
                   "suggestion": false,
-                  "x": 706.128,
-                  "y": 787.25,
+                  "x": 678.14,
+                  "y": 420.75,
                   "collapsed": false,
                   "uid": "uzxpgf6ztlfd2",
                   "id": "n58",
@@ -1190,8 +679,8 @@
                 {
                   "name": "gemte seguro de vida",
                   "suggestion": false,
-                  "x": 717.66,
-                  "y": 826.25,
+                  "x": 689.3,
+                  "y": 459.75,
                   "collapsed": false,
                   "uid": "uynwmr8u6guis",
                   "id": "n59",
@@ -1205,8 +694,8 @@
                 {
                   "name": "gemte seguros cotacao",
                   "suggestion": false,
-                  "x": 720.543,
-                  "y": 865.25,
+                  "x": 692.09,
+                  "y": 498.75,
                   "collapsed": false,
                   "uid": "uy69c8hnxldwy",
                   "id": "n60",
@@ -1220,8 +709,8 @@
                 {
                   "name": "gemte seguros oficial",
                   "suggestion": false,
-                  "x": 720.543,
-                  "y": 904.25,
+                  "x": 692.09,
+                  "y": 537.75,
                   "collapsed": false,
                   "uid": "uwx1rdjpv9ow4",
                   "id": "n61",
@@ -1282,10 +771,16 @@
             "Institucional"
           ],
           "_apoio": [
-            "R$ 600,00/mês · 7,6%"
+            "R$ 600,00/mês · 9,8%"
           ],
           "_w": 195,
-          "_h": 51.375
+          "_h": 51.375,
+          "_dragStartX": 255.5,
+          "_dragStartY": 806.75,
+          "_dragged": false,
+          "_rawX": 255.5,
+          "_rawY": 806.75,
+          "_candidatos": null
         }
       ],
       "linkStyle": "curve",
