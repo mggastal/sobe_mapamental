@@ -2,7 +2,7 @@
   "meta": {
     "nome": "[Vi Oliver] - Setembro a Dezembro - 2026",
     "salvoPor": "Tais Jeronimo",
-    "salvoEm": "2026-08-27T19:43:03.981Z",
+    "salvoEm": "2026-08-27T20:07:08.080Z",
     "resumo": {
       "google": {
         "campanhas": 3,
@@ -261,57 +261,42 @@
           "collapsed": false,
           "children": [
             {
-              "name": "Grupo de anúncios 1",
+              "name": "Remarketing Site",
               "suggestion": false,
-              "x": 540.9090881347656,
+              "x": 540.2862243652344,
               "y": 70,
               "collapsed": false,
-              "children": [
-                {
-                  "name": "palavra-chave 1",
-                  "suggestion": false,
-                  "x": 820.9090881347656,
-                  "y": 55,
-                  "collapsed": false,
-                  "uid": "umtagy1hwyyovow",
-                  "id": "n12",
-                  "_lines": [
-                    "palavra-chave 1"
-                  ],
-                  "_apoio": [],
-                  "_w": 109.7,
-                  "_h": 27
-                },
-                {
-                  "name": "palavra-chave 2",
-                  "suggestion": false,
-                  "x": 820.9090881347656,
-                  "y": 85,
-                  "collapsed": false,
-                  "uid": "umtagy1hwz0qkb4",
-                  "id": "n13",
-                  "_lines": [
-                    "palavra-chave 2"
-                  ],
-                  "_apoio": [],
-                  "_w": 109.7,
-                  "_h": 27
-                }
-              ],
+              "children": [],
               "uid": "umtagy1hw9ag3sq",
               "id": "n11",
               "_lines": [
-                "Grupo de anúncios 1"
+                "Remarketing Site"
               ],
               "_apoio": [],
-              "_w": 149.5,
+              "_w": 130,
               "_h": 36,
-              "_dragStartX": 540.9090881347656,
+              "_dragStartX": 540.2862243652344,
               "_dragStartY": 70,
               "_dragged": false,
-              "_rawX": 540.9090881347656,
+              "_rawX": 540.2862243652344,
               "_rawY": 70,
               "_candidatos": null
+            },
+            {
+              "name": "Novo item",
+              "suggestion": false,
+              "x": 540.2862243652344,
+              "y": 104,
+              "children": [],
+              "id": "n56",
+              "collapsed": false,
+              "_lines": [
+                "Novo item"
+              ],
+              "_apoio": [],
+              "_w": 90,
+              "_h": 36,
+              "uid": "umtbyeug6yx8f6q"
             }
           ],
           "uid": "umtagy1hwlldi8q",
