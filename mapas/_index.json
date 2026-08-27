@@ -257,6 +257,34 @@
       },
       "logo": "",
       "share": "p26dnnju86wa6y"
+    },
+    "microkids/quest---setembro-a-dezembro---2026": {
+      "nome": "[Quest] - Setembro a Dezembro - 2026",
+      "salvoPor": "Matheus",
+      "salvoEm": "2026-08-27T21:44:38.151Z",
+      "resumo": {
+        "google": {
+          "campanhas": 3,
+          "verba": 3000,
+          "inativa": false
+        },
+        "meta": {
+          "campanhas": 4,
+          "verba": 6000,
+          "inativa": false
+        },
+        "linkedin": {
+          "campanhas": 2,
+          "verba": 1500,
+          "inativa": false
+        },
+        "tiktok": {
+          "campanhas": 0,
+          "verba": 0,
+          "inativa": true
+        }
+      },
+      "logo": ""
     }
   },
   "pastas": {
