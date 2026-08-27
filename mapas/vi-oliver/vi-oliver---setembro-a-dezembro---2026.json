@@ -2,7 +2,7 @@
   "meta": {
     "nome": "[Vi Oliver] - Setembro a Dezembro - 2026",
     "salvoPor": "Tais Jeronimo",
-    "salvoEm": "2026-08-26T19:52:23.332Z",
+    "salvoEm": "2026-08-27T19:43:03.981Z",
     "resumo": {
       "google": {
         "campanhas": 3,
@@ -42,7 +42,7 @@
           "suggestion": false,
           "x": 260,
           "y": -80.90908813476562,
-          "collapsed": false,
+          "collapsed": true,
           "children": [
             {
               "name": "Ingles",
@@ -142,7 +142,7 @@
               "collapsed": false,
               "children": [
                 {
-                  "name": "palavra-chave 1",
+                  "name": "tricologista em sydney\n",
                   "suggestion": false,
                   "x": 823.6363525390625,
                   "y": -72.2727255821228,
@@ -150,14 +150,21 @@
                   "uid": "umtagy1hwa0w5gw",
                   "id": "n8",
                   "_lines": [
-                    "palavra-chave 1"
+                    "tricologista em sydney"
                   ],
                   "_apoio": [],
-                  "_w": 109.7,
-                  "_h": 27
+                  "_w": 195.76,
+                  "_h": 27,
+                  "_dragStartX": 823.6363525390625,
+                  "_dragStartY": -72.2727255821228,
+                  "_dragged": false,
+                  "_rawX": 823.6363525390625,
+                  "_rawY": -72.2727255821228,
+                  "_candidatos": null,
+                  "match": "frase"
                 },
                 {
-                  "name": "palavra-chave 2",
+                  "name": "clinica capilar sydney\n",
                   "suggestion": false,
                   "x": 823.6363525390625,
                   "y": -42.2727255821228,
@@ -165,11 +172,52 @@
                   "uid": "umtagy1hwh2xlff",
                   "id": "n9",
                   "_lines": [
-                    "palavra-chave 2"
+                    "clinica capilar sydney"
                   ],
                   "_apoio": [],
-                  "_w": 109.7,
-                  "_h": 27
+                  "_w": 195.76,
+                  "_h": 27,
+                  "_dragStartX": 823.6363525390625,
+                  "_dragStartY": -42.2727255821228,
+                  "_dragged": false,
+                  "_rawX": 823.6363525390625,
+                  "_rawY": -42.2727255821228,
+                  "_candidatos": null,
+                  "match": "frase"
+                },
+                {
+                  "name": "tratamento queda de cabelo sydney\n",
+                  "suggestion": false,
+                  "x": 823.6363525390625,
+                  "y": -8.272725582122803,
+                  "children": [],
+                  "id": "n40",
+                  "collapsed": false,
+                  "_lines": [
+                    "tratamento queda de cabelo sydney"
+                  ],
+                  "_apoio": [],
+                  "_w": 257.14,
+                  "_h": 27,
+                  "match": "frase",
+                  "uid": "umtbxjwa900uapv"
+                },
+                {
+                  "name": "analise capilar sydney\n",
+                  "suggestion": false,
+                  "x": 823.6363525390625,
+                  "y": 25.727274417877197,
+                  "children": [],
+                  "id": "n41",
+                  "collapsed": false,
+                  "_lines": [
+                    "analise capilar sydney"
+                  ],
+                  "_apoio": [],
+                  "_w": 195.76,
+                  "_h": 27,
+                  "match": "frase",
+                  "uid": "umtbxjwa9us7vsk"
                 }
               ],
               "uid": "umtagy1hwxju3mq",
@@ -205,25 +253,25 @@
           "_candidatos": null
         },
         {
-          "name": "Campanha 2",
-          "color": "#328596",
+          "name": "Geração de Demanda - Display",
+          "color": "#F17747",
           "suggestion": false,
           "x": 260,
-          "y": 110,
+          "y": 70,
           "collapsed": false,
           "children": [
             {
               "name": "Grupo de anúncios 1",
               "suggestion": false,
-              "x": 540,
-              "y": 110,
+              "x": 540.9090881347656,
+              "y": 70,
               "collapsed": false,
               "children": [
                 {
                   "name": "palavra-chave 1",
                   "suggestion": false,
-                  "x": 820,
-                  "y": 95,
+                  "x": 820.9090881347656,
+                  "y": 55,
                   "collapsed": false,
                   "uid": "umtagy1hwyyovow",
                   "id": "n12",
@@ -237,8 +285,8 @@
                 {
                   "name": "palavra-chave 2",
                   "suggestion": false,
-                  "x": 820,
-                  "y": 125,
+                  "x": 820.9090881347656,
+                  "y": 85,
                   "collapsed": false,
                   "uid": "umtagy1hwz0qkb4",
                   "id": "n13",
@@ -257,26 +305,241 @@
               ],
               "_apoio": [],
               "_w": 149.5,
-              "_h": 36
+              "_h": 36,
+              "_dragStartX": 540.9090881347656,
+              "_dragStartY": 70,
+              "_dragged": false,
+              "_rawX": 540.9090881347656,
+              "_rawY": 70,
+              "_candidatos": null
             }
           ],
           "uid": "umtagy1hwlldi8q",
           "id": "n10",
           "_lines": [
-            "Campanha 2"
+            "Geração de Demanda -",
+            "Display"
           ],
           "_apoio": [],
           "_w": 195,
-          "_h": 40
+          "_h": 48.75,
+          "_dragStartX": 260,
+          "_dragStartY": 110,
+          "_dragged": true,
+          "_rawX": 260.9090881347656,
+          "_rawY": 70,
+          "_candidatos": null,
+          "tipo": "demandgen"
         },
         {
           "name": "Lead - Pesquisa - Master - Online",
           "suggestion": false,
-          "x": 267.2727355957031,
-          "y": 0.590911865234375,
-          "children": [],
-          "id": "n39",
-          "collapsed": false,
+          "x": 260,
+          "y": -17.9375,
+          "children": [
+            {
+              "name": "Inglês",
+              "suggestion": false,
+              "x": 505.26690673828125,
+              "y": -116.97280550003052,
+              "children": [
+                {
+                  "name": "online hair specialist\n",
+                  "suggestion": false,
+                  "x": 735.9259948730469,
+                  "y": -112.92734885215759,
+                  "children": [],
+                  "id": "n44",
+                  "collapsed": false,
+                  "_lines": [
+                    "online hair specialist"
+                  ],
+                  "_apoio": [],
+                  "_w": 195.76,
+                  "_h": 27,
+                  "match": "frase",
+                  "uid": "umtbxjwa9z7sjrt"
+                },
+                {
+                  "name": "scalp analysis online\n",
+                  "suggestion": false,
+                  "x": 735.9259948730469,
+                  "y": -78.92734885215759,
+                  "children": [],
+                  "id": "n45",
+                  "collapsed": false,
+                  "_lines": [
+                    "scalp analysis online"
+                  ],
+                  "_apoio": [],
+                  "_w": 190.18,
+                  "_h": 27,
+                  "_dragStartX": 727.2727355957031,
+                  "_dragStartY": 34.590911865234375,
+                  "_dragged": false,
+                  "_rawX": 727.2727355957031,
+                  "_rawY": 34.590911865234375,
+                  "_candidatos": null,
+                  "match": "frase",
+                  "uid": "umtbxjwa9fo70fr"
+                },
+                {
+                  "name": "hair loss diagnosis online",
+                  "suggestion": false,
+                  "x": 735.9259948730469,
+                  "y": -44.92734885215759,
+                  "children": [],
+                  "id": "n46",
+                  "collapsed": false,
+                  "_lines": [
+                    "hair loss diagnosis online"
+                  ],
+                  "_apoio": [],
+                  "_w": 218.08,
+                  "_h": 27,
+                  "match": "frase",
+                  "_dragStartX": 740.9090881347656,
+                  "_dragStartY": -26.8636314868927,
+                  "_dragged": false,
+                  "_rawX": 740.9090881347656,
+                  "_rawY": -26.8636314868927,
+                  "_candidatos": null,
+                  "uid": "umtbxjwa97hk4y4"
+                },
+                {
+                  "name": "hair loss specialist online",
+                  "suggestion": false,
+                  "x": 735.9259948730469,
+                  "y": -10.927348852157593,
+                  "children": [],
+                  "id": "n47",
+                  "collapsed": false,
+                  "_lines": [
+                    "hair loss specialist online"
+                  ],
+                  "_apoio": [],
+                  "_w": 223.66,
+                  "_h": 27,
+                  "match": "frase",
+                  "uid": "umtbxjwa9o7rwag"
+                }
+              ],
+              "id": "n42",
+              "collapsed": true,
+              "_lines": [
+                "Inglês"
+              ],
+              "_apoio": [],
+              "_w": 90,
+              "_h": 36,
+              "_dragStartX": 510.25,
+              "_dragStartY": -98.90908813476562,
+              "_dragged": false,
+              "_rawX": 510.25,
+              "_rawY": -98.90908813476562,
+              "_candidatos": null,
+              "uid": "umtbxjwa9529smq"
+            },
+            {
+              "name": "Português",
+              "suggestion": false,
+              "x": 627.7442016601562,
+              "y": -105.34780550003052,
+              "children": [
+                {
+                  "name": "tricologista online\n",
+                  "suggestion": false,
+                  "x": 857.7442016601562,
+                  "y": -109.64325952529907,
+                  "children": [],
+                  "id": "n48",
+                  "collapsed": false,
+                  "_lines": [
+                    "tricologista online"
+                  ],
+                  "_apoio": [],
+                  "_w": 179.01999999999998,
+                  "_h": 27,
+                  "match": "frase",
+                  "uid": "umtbxjwa9hhxmve"
+                },
+                {
+                  "name": "consulta capilar online\n",
+                  "suggestion": false,
+                  "x": 857.7442016601562,
+                  "y": -75.64325952529907,
+                  "children": [],
+                  "id": "n49",
+                  "collapsed": false,
+                  "_lines": [
+                    "consulta capilar online"
+                  ],
+                  "_apoio": [],
+                  "_w": 201.34,
+                  "_h": 27,
+                  "match": "frase",
+                  "uid": "umtbxjwa9bd0reb"
+                },
+                {
+                  "name": "tratamento queda cabelo online\n",
+                  "suggestion": false,
+                  "x": 857.7442016601562,
+                  "y": -41.64325952529907,
+                  "children": [],
+                  "id": "n50",
+                  "collapsed": false,
+                  "_lines": [
+                    "tratamento queda cabelo online"
+                  ],
+                  "_apoio": [],
+                  "_w": 240.4,
+                  "_h": 27,
+                  "_dragStartX": 807.272705078125,
+                  "_dragStartY": 38.238637924194336,
+                  "_dragged": false,
+                  "_rawX": 807.272705078125,
+                  "_rawY": 38.238637924194336,
+                  "_candidatos": null,
+                  "match": "frase",
+                  "uid": "umtbxjwa91hb7yg"
+                },
+                {
+                  "name": "consulta queda de cabelo online\n",
+                  "suggestion": false,
+                  "x": 857.7442016601562,
+                  "y": -7.643259525299072,
+                  "children": [],
+                  "id": "n53",
+                  "collapsed": false,
+                  "_lines": [
+                    "consulta queda de cabelo online"
+                  ],
+                  "_apoio": [],
+                  "_w": 245.98,
+                  "_h": 27,
+                  "match": "frase",
+                  "uid": "umtbxjwa9oznd0y"
+                }
+              ],
+              "id": "n43",
+              "collapsed": false,
+              "_lines": [
+                "Português"
+              ],
+              "_apoio": [],
+              "_w": 90,
+              "_h": 36,
+              "_dragStartX": 577.272705078125,
+              "_dragStartY": -24.3125,
+              "_dragged": true,
+              "_rawX": 632.727294921875,
+              "_rawY": -86.13068008422852,
+              "_candidatos": null,
+              "uid": "umtbxjwa9pgf5sj"
+            }
+          ],
+          "id": "n14",
+          "collapsed": true,
           "_lines": [
             "Lead - Pesquisa - Master",
             "- Online"
@@ -286,9 +549,9 @@
           "_h": 48.75,
           "_dragStartX": 267.2727355957031,
           "_dragStartY": 0.590911865234375,
-          "_dragged": false,
-          "_rawX": 267.2727355957031,
-          "_rawY": 0.590911865234375,
+          "_dragged": true,
+          "_rawX": 262.2896423339844,
+          "_rawY": -17.472805500030518,
           "_candidatos": null,
           "uid": "umtah8ncux4r2yq"
         }
@@ -335,7 +598,7 @@
               "collapsed": false,
               "suggestion": false,
               "uid": "umtagy1hwohac74",
-              "id": "n16"
+              "id": "n17"
             },
             {
               "name": "Lookalike 1% — compradores",
@@ -344,7 +607,7 @@
               "collapsed": false,
               "suggestion": false,
               "uid": "umtagy1hwymb40c",
-              "id": "n17"
+              "id": "n18"
             },
             {
               "name": "Interesses",
@@ -353,7 +616,7 @@
               "collapsed": false,
               "suggestion": false,
               "uid": "umtagy1hwzexmj9",
-              "id": "n18"
+              "id": "n19"
             },
             {
               "name": "Advantage+ (aberto)",
@@ -362,11 +625,11 @@
               "collapsed": false,
               "suggestion": false,
               "uid": "umtagy1hw4gst26",
-              "id": "n19"
+              "id": "n20"
             }
           ],
           "uid": "umtagy1hwdrzcq5",
-          "id": "n15"
+          "id": "n16"
         },
         {
           "name": "Reconhecimento",
@@ -383,7 +646,7 @@
               "collapsed": false,
               "suggestion": false,
               "uid": "umtagy1hwribhvs",
-              "id": "n21"
+              "id": "n22"
             },
             {
               "name": "Interesses amplos",
@@ -392,15 +655,15 @@
               "collapsed": false,
               "suggestion": false,
               "uid": "umtagy1hwyj1d9o",
-              "id": "n22"
+              "id": "n23"
             }
           ],
           "uid": "umtagy1hwcrk03e",
-          "id": "n20"
+          "id": "n21"
         }
       ],
       "uid": "umtagy1hw7i9kan",
-      "id": "n14"
+      "id": "n15"
     },
     "linkedin": {
       "name": "LinkedIn Ads",
@@ -426,7 +689,7 @@
               "collapsed": false,
               "suggestion": false,
               "uid": "umtagy1hwxw7inu",
-              "id": "n25"
+              "id": "n26"
             },
             {
               "name": "Empresas-alvo (ABM)",
@@ -435,7 +698,7 @@
               "collapsed": false,
               "suggestion": false,
               "uid": "umtagy1hw5y35l6",
-              "id": "n26"
+              "id": "n27"
             },
             {
               "name": "Lookalike de clientes",
@@ -444,11 +707,11 @@
               "collapsed": false,
               "suggestion": false,
               "uid": "umtagy1hwcqxlxr",
-              "id": "n27"
+              "id": "n28"
             }
           ],
           "uid": "umtagy1hwlv2k4n",
-          "id": "n24"
+          "id": "n25"
         },
         {
           "name": "Reconhecimento",
@@ -465,7 +728,7 @@
               "collapsed": false,
               "suggestion": false,
               "uid": "umtagy1hw7pfg9q",
-              "id": "n29"
+              "id": "n30"
             },
             {
               "name": "Seguidores da página",
@@ -474,15 +737,15 @@
               "collapsed": false,
               "suggestion": false,
               "uid": "umtagy1hwgtx3em",
-              "id": "n30"
+              "id": "n31"
             }
           ],
           "uid": "umtagy1hwtw5oz9",
-          "id": "n28"
+          "id": "n29"
         }
       ],
       "uid": "umtagy1hwcbayv7",
-      "id": "n23"
+      "id": "n24"
     },
     "tiktok": {
       "name": "TikTok Ads",
@@ -509,7 +772,7 @@
               "collapsed": false,
               "suggestion": false,
               "uid": "umtagy1hwfurhra",
-              "id": "n33"
+              "id": "n34"
             },
             {
               "name": "Interesses e comportamentos",
@@ -518,7 +781,7 @@
               "collapsed": false,
               "suggestion": false,
               "uid": "umtagy1hwzh1fet",
-              "id": "n34"
+              "id": "n35"
             },
             {
               "name": "Lookalike de compradores",
@@ -527,11 +790,11 @@
               "collapsed": false,
               "suggestion": false,
               "uid": "umtagy1hww1l5pv",
-              "id": "n35"
+              "id": "n36"
             }
           ],
           "uid": "umtagy1hw6kqs48",
-          "id": "n32"
+          "id": "n33"
         },
         {
           "name": "Alcance",
@@ -548,7 +811,7 @@
               "collapsed": false,
               "suggestion": false,
               "uid": "umtagy1hwxrx8dl",
-              "id": "n37"
+              "id": "n38"
             },
             {
               "name": "Engajou com o perfil",
@@ -557,15 +820,15 @@
               "collapsed": false,
               "suggestion": false,
               "uid": "umtagy1hwguql83",
-              "id": "n38"
+              "id": "n39"
             }
           ],
           "uid": "umtagy1hw7rxhtb",
-          "id": "n36"
+          "id": "n37"
         }
       ],
       "uid": "umtagy1hw37drq5",
-      "id": "n31"
+      "id": "n32"
     },
     "cliente": "[Vi Oliver] - Setembro a Dezembro - 2026",
     "estilo": {
