@@ -2,7 +2,7 @@
   "meta": {
     "nome": "[Quest] - Setembro a Dezembro - 2026",
     "salvoPor": "Matheus",
-    "salvoEm": "2026-08-27T22:00:56.054Z",
+    "salvoEm": "2026-08-27T22:01:28.490Z",
     "resumo": {
       "google": {
         "campanhas": 1,
@@ -1342,8 +1342,8 @@
       "geral": {
         "rotulos": true,
         "gradiente": true,
-        "coloridos": "borda",
-        "blocos": "borda"
+        "coloridos": "cheio",
+        "blocos": "cheio"
       },
       "verba": {
         "rotulos": true,
