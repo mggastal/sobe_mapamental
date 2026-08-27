@@ -228,6 +228,34 @@
         }
       },
       "logo": ""
+    },
+    "ana-scalea": {
+      "nome": "Ana Scalea",
+      "salvoPor": "Tais Jeronimo",
+      "salvoEm": "2026-08-27T20:07:26.457Z",
+      "resumo": {
+        "google": {
+          "campanhas": 2,
+          "verba": 0,
+          "inativa": false
+        },
+        "meta": {
+          "campanhas": 2,
+          "verba": 0,
+          "inativa": false
+        },
+        "linkedin": {
+          "campanhas": 0,
+          "verba": 0,
+          "inativa": true
+        },
+        "tiktok": {
+          "campanhas": 0,
+          "verba": 0,
+          "inativa": true
+        }
+      },
+      "logo": ""
     }
   },
   "pastas": {
