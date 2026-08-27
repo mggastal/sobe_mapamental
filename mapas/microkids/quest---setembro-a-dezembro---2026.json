@@ -1,0 +1,1158 @@
+{
+  "meta": {
+    "nome": "[Quest] - Setembro a Dezembro - 2026",
+    "salvoPor": "Matheus",
+    "salvoEm": "2026-08-27T21:44:38.151Z",
+    "resumo": {
+      "google": {
+        "campanhas": 3,
+        "verba": 3000,
+        "inativa": false
+      },
+      "meta": {
+        "campanhas": 4,
+        "verba": 6000,
+        "inativa": false
+      },
+      "linkedin": {
+        "campanhas": 2,
+        "verba": 1500,
+        "inativa": false
+      },
+      "tiktok": {
+        "campanhas": 0,
+        "verba": 0,
+        "inativa": true
+      }
+    },
+    "logo": ""
+  },
+  "data": {
+    "google": {
+      "name": "Google Ads",
+      "note": "Campanhas",
+      "suggestion": false,
+      "x": 0,
+      "y": 0,
+      "collapsed": false,
+      "children": [
+        {
+          "name": "Campanha de Display",
+          "color": "#4285F4",
+          "suggestion": false,
+          "x": 259.40618896484375,
+          "y": -152.59091186523438,
+          "collapsed": false,
+          "children": [
+            {
+              "name": "Visitantes do site",
+              "suggestion": false,
+              "x": 504.3123779296875,
+              "y": -152.59091186523438,
+              "collapsed": false,
+              "children": [],
+              "uid": "umsz7c723wgk6o1",
+              "id": "n3",
+              "_lines": [
+                "Visitantes do site"
+              ],
+              "_apoio": [
+                "R$ 600,00/mês · 100,0%",
+                "Anúncios em imagem para",
+                "remarketing"
+              ],
+              "_w": 143,
+              "_h": 36,
+              "_dragStartX": 504.3123779296875,
+              "_dragStartY": -144.5,
+              "_dragged": false,
+              "_rawX": 504.3123779296875,
+              "_rawY": -144.5,
+              "_candidatos": null,
+              "note": "Anúncios em imagem para remarketing",
+              "budget": 600
+            }
+          ],
+          "uid": "umsz7c723hihdyi",
+          "id": "n2",
+          "_lines": [
+            "Campanha de Display"
+          ],
+          "_apoio": [
+            "R$ 600,00/mês · 20,0%"
+          ],
+          "_w": 195,
+          "_h": 51.375,
+          "_dragStartX": 259.40618896484375,
+          "_dragStartY": -152.59091186523438,
+          "_dragged": false,
+          "_rawX": 259.40618896484375,
+          "_rawY": -152.59091186523438,
+          "_candidatos": null,
+          "budget": 600,
+          "tipo": "display"
+        },
+        {
+          "name": "Search",
+          "color": "#F0A400",
+          "suggestion": false,
+          "x": 259.40618896484375,
+          "y": 0,
+          "collapsed": false,
+          "children": [
+            {
+              "name": "Institucional",
+              "suggestion": false,
+              "x": 488.0623779296875,
+              "y": 0,
+              "collapsed": false,
+              "children": [
+                {
+                  "name": "microkids",
+                  "suggestion": false,
+                  "x": 766.1314660644531,
+                  "y": -56.36363673210144,
+                  "children": [],
+                  "id": "n6",
+                  "collapsed": false,
+                  "_lines": [
+                    "microkids"
+                  ],
+                  "_apoio": [],
+                  "_w": 234.82,
+                  "_h": 27,
+                  "_dragStartX": 766.1314660644531,
+                  "_dragStartY": -56.36363673210144,
+                  "_dragged": false,
+                  "_rawX": 766.1314660644531,
+                  "_rawY": -56.36363673210144,
+                  "_candidatos": null,
+                  "match": "exata",
+                  "_w0": 137,
+                  "_resized": true,
+                  "_resto": 0,
+                  "width": 234.82,
+                  "uid": "umszhck8ednjs4m"
+                },
+                {
+                  "name": "microkids",
+                  "suggestion": false,
+                  "x": 766.1314660644531,
+                  "y": -17.36363673210144,
+                  "children": [],
+                  "id": "n7",
+                  "collapsed": false,
+                  "_lines": [
+                    "microkids"
+                  ],
+                  "_apoio": [],
+                  "_w": 234.82,
+                  "_h": 27,
+                  "_dragStartX": 786.75,
+                  "_dragStartY": 76.5,
+                  "_dragged": false,
+                  "_rawX": 786.75,
+                  "_rawY": 76.5,
+                  "_candidatos": null,
+                  "match": "frase",
+                  "_w0": 137,
+                  "_resized": true,
+                  "_resto": 0,
+                  "width": 234.82,
+                  "uid": "umszhck8e0ynoxe"
+                },
+                {
+                  "name": "microkids",
+                  "suggestion": false,
+                  "x": 766.1314660644531,
+                  "y": 21.63636326789856,
+                  "children": [],
+                  "id": "n8",
+                  "collapsed": false,
+                  "_lines": [
+                    "microkids"
+                  ],
+                  "_apoio": [],
+                  "_w": 234.82,
+                  "_h": 27,
+                  "_dragStartX": 786.75,
+                  "_dragStartY": 110,
+                  "_dragged": false,
+                  "_rawX": 786.75,
+                  "_rawY": 110,
+                  "_candidatos": null,
+                  "match": "ampla",
+                  "_w0": 137,
+                  "_resized": true,
+                  "_resto": 0,
+                  "width": 234.82,
+                  "uid": "umszhck8eht1z2w"
+                },
+                {
+                  "name": "microkids educação financeira",
+                  "suggestion": false,
+                  "x": 766.1314660644531,
+                  "y": 60.63636326789856,
+                  "children": [],
+                  "id": "n9",
+                  "collapsed": false,
+                  "_lines": [
+                    "microkids educação financeira"
+                  ],
+                  "_apoio": [],
+                  "_w": 234.82,
+                  "_h": 27,
+                  "_dragStartX": 786.75,
+                  "_dragStartY": 151.43397521972656,
+                  "_dragged": true,
+                  "_rawX": 832.291748046875,
+                  "_rawY": 162.8194122314453,
+                  "_candidatos": null,
+                  "match": "ampla",
+                  "uid": "umszhck8e1ob4uh"
+                }
+              ],
+              "uid": "umsz7c7230y26vf",
+              "id": "n5",
+              "_lines": [
+                "Institucional"
+              ],
+              "_apoio": [
+                "R$ 1.000,00/mês · 100,0%"
+              ],
+              "_w": 110.5,
+              "_h": 36,
+              "_dragStartX": 488.0623779296875,
+              "_dragStartY": 3.045454263687134,
+              "_dragged": false,
+              "_rawX": 488.9714660644531,
+              "_rawY": 2.1363632678985596,
+              "_candidatos": null,
+              "budget": 1000,
+              "ads": {
+                "url": "",
+                "path1": "",
+                "path2": "",
+                "headlines": [
+                  ""
+                ],
+                "descriptions": [
+                  ""
+                ],
+                "headPins": [
+                  0
+                ],
+                "descPins": [
+                  0
+                ]
+              }
+            }
+          ],
+          "uid": "umsz7c723y6zj6m",
+          "id": "n4",
+          "_lines": [
+            "Search"
+          ],
+          "_apoio": [
+            "R$ 1.000,00/mês · 33,3%"
+          ],
+          "_w": 195,
+          "_h": 51.375,
+          "_dragStartX": 259.40618896484375,
+          "_dragStartY": 0,
+          "_dragged": false,
+          "_rawX": 259.40618896484375,
+          "_rawY": 0,
+          "_candidatos": null,
+          "budget": 1000
+        },
+        {
+          "name": "Youtube",
+          "suggestion": false,
+          "x": 259.40618896484375,
+          "y": 153.5,
+          "children": [
+            {
+              "name": "Webnário",
+              "suggestion": false,
+              "x": 488.0623779296875,
+              "y": 114.5,
+              "children": [],
+              "id": "n11",
+              "collapsed": false,
+              "_lines": [
+                "Webnário"
+              ],
+              "_apoio": [
+                "R$ 800,00/mês · 57,1%"
+              ],
+              "_w": 110.5,
+              "_h": 36,
+              "_dragStartX": 488.0623779296875,
+              "_dragStartY": 113.5,
+              "_dragged": false,
+              "_rawX": 488.0623779296875,
+              "_rawY": 113.5,
+              "_candidatos": null,
+              "_w0": 90,
+              "_resized": true,
+              "_resto": 0,
+              "width": 110.5,
+              "budget": 800,
+              "uid": "umszhck8eil2bev"
+            },
+            {
+              "name": "Institucional",
+              "suggestion": false,
+              "x": 488.0623779296875,
+              "y": 192.5,
+              "children": [],
+              "id": "n12",
+              "collapsed": false,
+              "_lines": [
+                "Institucional"
+              ],
+              "_apoio": [
+                "R$ 600,00/mês · 42,9%"
+              ],
+              "_w": 110.5,
+              "_h": 36,
+              "_dragStartX": 488.0623779296875,
+              "_dragStartY": 175.5,
+              "_dragged": false,
+              "_rawX": 488.0623779296875,
+              "_rawY": 175.5,
+              "_candidatos": null,
+              "budget": 600,
+              "uid": "umszhck8e06kgrd"
+            }
+          ],
+          "id": "n10",
+          "collapsed": false,
+          "_lines": [
+            "Youtube"
+          ],
+          "_apoio": [
+            "R$ 1.400,00/mês · 46,7%"
+          ],
+          "_w": 202.8123779296875,
+          "_h": 51.375,
+          "_dragStartX": 259.40618896484375,
+          "_dragStartY": 153.5,
+          "_dragged": false,
+          "_rawX": 259.40618896484375,
+          "_rawY": 153.5,
+          "_candidatos": null,
+          "_w0": 195,
+          "_resized": true,
+          "_resto": 0,
+          "width": 202.8123779296875,
+          "budget": 1400,
+          "uid": "umszhck8eojk7qz",
+          "tipo": "video",
+          "note": "",
+          "color": "#EA4335"
+        }
+      ],
+      "uid": "umsz7c723tzfx54",
+      "id": "n1",
+      "_lines": [
+        "Google Ads"
+      ],
+      "_apoio": [
+        "R$ 3.000,00/mês",
+        "Campanhas"
+      ],
+      "_w": 172,
+      "_h": 63.625,
+      "tracos": [],
+      "notas": [],
+      "_dragStartX": 0,
+      "_dragStartY": 0,
+      "_dragged": false,
+      "budget": 3000,
+      "color": "#34A853",
+      "_rawX": 0,
+      "_rawY": 0,
+      "_candidatos": null,
+      "sharedAds": {
+        "url": "",
+        "path1": "",
+        "path2": "",
+        "headlines": [],
+        "descriptions": [],
+        "headPins": [],
+        "descPins": []
+      },
+      "negativas": [
+        "gratis",
+        "curso gratis"
+      ]
+    },
+    "meta": {
+      "name": "Meta Ads",
+      "note": "Campanhas e públicos",
+      "x": 0.9090909957885742,
+      "y": 0,
+      "collapsed": false,
+      "suggestion": false,
+      "children": [
+        {
+          "name": "Webnario",
+          "color": "#F17747",
+          "x": 256.4090909957886,
+          "y": -234,
+          "collapsed": false,
+          "suggestion": false,
+          "children": [
+            {
+              "name": "Look a like",
+              "x": 516.5741758346558,
+              "y": -322.6083679199219,
+              "collapsed": false,
+              "suggestion": false,
+              "uid": "umsz7c723vjq3nu",
+              "id": "n15",
+              "_lines": [
+                "Look a like"
+              ],
+              "_apoio": [
+                "R$ 1.000,00/mês · 40,0%"
+              ],
+              "_w": 181.33016967773438,
+              "_h": 36,
+              "_dragStartX": 516.5741758346558,
+              "_dragStartY": -312,
+              "_dragged": true,
+              "_w0": 169,
+              "_resized": true,
+              "width": 181.33016967773438,
+              "_rawX": 518.6958799362183,
+              "_rawY": -322.6083679199219,
+              "_candidatos": null,
+              "budget": 1000
+            },
+            {
+              "name": "remarketing",
+              "suggestion": false,
+              "x": 516.5741758346558,
+              "y": -234,
+              "children": [],
+              "id": "n16",
+              "collapsed": false,
+              "_lines": [
+                "remarketing"
+              ],
+              "_apoio": [
+                "R$ 500,00/mês · 20,0%"
+              ],
+              "_w": 181.33016967773438,
+              "_h": 36,
+              "uid": "umszixlwhsw6xz2",
+              "_dragStartX": 474.6590909957886,
+              "_dragStartY": -194,
+              "_dragged": false,
+              "_rawX": 474.6590909957886,
+              "_rawY": -194,
+              "_candidatos": null,
+              "budget": 500,
+              "_w0": 97.5,
+              "_resized": true,
+              "_resto": 0,
+              "width": 181.33016967773438
+            },
+            {
+              "name": "interesses",
+              "suggestion": false,
+              "x": 516.5741758346558,
+              "y": -156,
+              "children": [],
+              "id": "n17",
+              "collapsed": false,
+              "_lines": [
+                "interesses"
+              ],
+              "_apoio": [
+                "R$ 1.000,00/mês · 40,0%"
+              ],
+              "_w": 181.33016967773438,
+              "_h": 36,
+              "uid": "umszixlwhf5q8vx",
+              "_dragStartX": 471.4090909957886,
+              "_dragStartY": -132,
+              "_dragged": false,
+              "_rawX": 471.4090909957886,
+              "_rawY": -133.43894958496094,
+              "_candidatos": null,
+              "budget": 1000,
+              "_w0": 91,
+              "_resized": true,
+              "_resto": 0,
+              "width": 181.33016967773438
+            }
+          ],
+          "uid": "umsz7c72300loug",
+          "id": "n14",
+          "_lines": [
+            "Webnario"
+          ],
+          "_apoio": [
+            "R$ 2.500,00/mês · 41,7%"
+          ],
+          "_w": 195,
+          "_h": 51.375,
+          "_dragStartX": 256.4090909957886,
+          "_dragStartY": -194,
+          "_dragged": false,
+          "budget": 2500,
+          "_rawX": 256.4090909957886,
+          "_rawY": -194,
+          "_candidatos": null
+        },
+        {
+          "name": "Institucional",
+          "color": "#1B2F6A",
+          "x": 256.4090909957886,
+          "y": -39,
+          "collapsed": false,
+          "suggestion": false,
+          "children": [
+            {
+              "name": "interesses",
+              "suggestion": false,
+              "x": 516.5741758346558,
+              "y": -78,
+              "children": [],
+              "id": "n19",
+              "collapsed": false,
+              "_lines": [
+                "interesses"
+              ],
+              "_apoio": [
+                "R$ 500,00/mês · 50,0%"
+              ],
+              "_w": 181.33016967773438,
+              "_h": 36,
+              "uid": "umszixlwh0kmefd",
+              "_dragStartX": 471.4090909957886,
+              "_dragStartY": -70,
+              "_dragged": false,
+              "_rawX": 471.4090909957886,
+              "_rawY": -70,
+              "_candidatos": null,
+              "budget": 500,
+              "_w0": 91,
+              "_resized": true,
+              "_resto": 0,
+              "width": 181.33016967773438
+            },
+            {
+              "name": "cargos",
+              "suggestion": false,
+              "x": 516.5741758346558,
+              "y": 0,
+              "children": [],
+              "id": "n20",
+              "collapsed": false,
+              "_lines": [
+                "cargos"
+              ],
+              "_apoio": [
+                "R$ 500,00/mês · 50,0%"
+              ],
+              "_w": 181.33016967773438,
+              "_h": 36,
+              "uid": "umszixlwh8g18oz",
+              "_dragStartX": 470.9090909957886,
+              "_dragStartY": -8,
+              "_dragged": false,
+              "_rawX": 470.9090909957886,
+              "_rawY": -8,
+              "_candidatos": null,
+              "budget": 500,
+              "_w0": 90,
+              "_resized": true,
+              "_resto": 0,
+              "width": 181.33016967773438
+            }
+          ],
+          "uid": "umsz7c723vpl48r",
+          "id": "n18",
+          "_lines": [
+            "Institucional"
+          ],
+          "_apoio": [
+            "R$ 1.000,00/mês · 16,7%"
+          ],
+          "_w": 195,
+          "_h": 51.375,
+          "_dragStartX": 256.4090909957886,
+          "_dragStartY": -39,
+          "_dragged": false,
+          "_rawX": 256.4090909957886,
+          "_rawY": -39,
+          "_candidatos": null,
+          "budget": 1000
+        },
+        {
+          "name": "Eventos",
+          "suggestion": false,
+          "x": 256.4090909957886,
+          "y": 78,
+          "children": [
+            {
+              "name": "Geolocalizada",
+              "suggestion": false,
+              "x": 516.5741758346558,
+              "y": 78,
+              "children": [],
+              "id": "n22",
+              "collapsed": false,
+              "_lines": [
+                "Geolocalizada"
+              ],
+              "_apoio": [
+                "R$ 1.000,00/mês · 100,0%"
+              ],
+              "_w": 181.33016967773438,
+              "_h": 36,
+              "_dragStartX": 516.5741758346558,
+              "_dragStartY": 54,
+              "_dragged": false,
+              "_rawX": 516.5741758346558,
+              "_rawY": 54,
+              "_candidatos": null,
+              "budget": 1000,
+              "uid": "umszhck8e27pj9m",
+              "_w0": 110.5,
+              "_resized": true,
+              "_resto": 0,
+              "width": 181.33016967773438
+            }
+          ],
+          "id": "n21",
+          "collapsed": false,
+          "_lines": [
+            "Eventos"
+          ],
+          "_apoio": [
+            "R$ 1.000,00/mês · 16,7%"
+          ],
+          "_w": 195,
+          "_h": 51.375,
+          "_dragStartX": 256.4090909957886,
+          "_dragStartY": 54,
+          "_dragged": false,
+          "_rawX": 256.4090909957886,
+          "_rawY": 54,
+          "_candidatos": null,
+          "budget": 1000,
+          "color": "#D14026",
+          "uid": "umszhck8ea68erv"
+        },
+        {
+          "name": "Circuitos",
+          "suggestion": false,
+          "x": 256.4090909957886,
+          "y": 234,
+          "children": [
+            {
+              "name": "interesses",
+              "suggestion": false,
+              "x": 516.5741758346558,
+              "y": 156,
+              "children": [],
+              "id": "n24",
+              "collapsed": false,
+              "_lines": [
+                "interesses"
+              ],
+              "_apoio": [
+                "R$ 510,00/mês · 34,0%"
+              ],
+              "_w": 181.33016967773438,
+              "_h": 36,
+              "uid": "umszixlwhrtlcd4",
+              "_dragStartX": 471.4090909957886,
+              "_dragStartY": 132,
+              "_dragged": false,
+              "_rawX": 471.4090909957886,
+              "_rawY": 132,
+              "_candidatos": null,
+              "budget": 510,
+              "_w0": 91,
+              "_resized": true,
+              "_resto": 0,
+              "width": 181.33016967773438
+            },
+            {
+              "name": "look a like",
+              "suggestion": false,
+              "x": 516.5741758346558,
+              "y": 234,
+              "children": [],
+              "id": "n25",
+              "collapsed": false,
+              "_lines": [
+                "look a like"
+              ],
+              "_apoio": [
+                "R$ 495,00/mês · 33,0%"
+              ],
+              "_w": 181.33016967773438,
+              "_h": 36,
+              "uid": "umszixlwh07ymcd",
+              "_dragStartX": 474.6590909957886,
+              "_dragStartY": 194,
+              "_dragged": false,
+              "_rawX": 474.6590909957886,
+              "_rawY": 194,
+              "_candidatos": null,
+              "budget": 495,
+              "_w0": 97.5,
+              "_resized": true,
+              "_resto": 0,
+              "width": 181.33016967773438
+            },
+            {
+              "name": "remarketing",
+              "suggestion": false,
+              "x": 516.5741758346558,
+              "y": 312,
+              "children": [],
+              "id": "n26",
+              "collapsed": false,
+              "_lines": [
+                "remarketing"
+              ],
+              "_apoio": [
+                "R$ 495,00/mês · 33,0%"
+              ],
+              "_w": 181.33016967773438,
+              "_h": 36,
+              "uid": "umszixlwhqurtuu",
+              "_dragStartX": 474.6590909957886,
+              "_dragStartY": 256,
+              "_dragged": false,
+              "_rawX": 474.6590909957886,
+              "_rawY": 256.3333282470703,
+              "_candidatos": null,
+              "budget": 495,
+              "_w0": 97.5,
+              "_resized": true,
+              "_resto": 0,
+              "width": 181.33016967773438
+            }
+          ],
+          "id": "n23",
+          "collapsed": false,
+          "_lines": [
+            "Circuitos"
+          ],
+          "_apoio": [
+            "R$ 1.500,00/mês · 25,0%"
+          ],
+          "_w": 195,
+          "_h": 51.375,
+          "_dragStartX": 256.4090909957886,
+          "_dragStartY": 194,
+          "_dragged": false,
+          "_rawX": 256.4090909957886,
+          "_rawY": 194,
+          "_candidatos": null,
+          "color": "#328596",
+          "note": "",
+          "budget": 1500,
+          "uid": "umszhidiv2dleqx"
+        }
+      ],
+      "uid": "umsz7c723f7bzt7",
+      "id": "n13",
+      "_lines": [
+        "Meta Ads"
+      ],
+      "_apoio": [
+        "R$ 6.000,00/mês",
+        "Campanhas e públicos"
+      ],
+      "_w": 172,
+      "_h": 95.625,
+      "tracos": [],
+      "notas": [],
+      "_dragStartX": 0.9090909957885742,
+      "_dragStartY": 0,
+      "_dragged": false,
+      "budget": 6000,
+      "_rawX": 0.9090909957885742,
+      "_rawY": 0,
+      "_candidatos": null,
+      "color": "#0866FF"
+    },
+    "linkedin": {
+      "name": "LinkedIn Ads",
+      "note": "Campanhas e públicos",
+      "x": 2.972248077392578,
+      "y": 0.9907469749450684,
+      "collapsed": false,
+      "suggestion": false,
+      "children": [
+        {
+          "name": "Distribuição de conteúdo",
+          "color": "#0A66C2",
+          "x": 258.4722480773926,
+          "y": -57.50925302505493,
+          "collapsed": false,
+          "suggestion": false,
+          "children": [
+            {
+              "name": "Cargos",
+              "x": 526.9110946655273,
+              "y": -96.50925302505493,
+              "collapsed": false,
+              "suggestion": false,
+              "uid": "umsz7c723lp59hc",
+              "id": "n29",
+              "_lines": [
+                "Cargos"
+              ],
+              "_apoio": [
+                "R$ 500,00/mês · 50,0%"
+              ],
+              "_w": 197.87769317626953,
+              "_h": 36,
+              "_dragStartX": 526.9110946655273,
+              "_dragStartY": -80.35300302505493,
+              "_dragged": false,
+              "_w0": 181.24044036865234,
+              "_resized": true,
+              "width": 197.87769317626953,
+              "_rawX": 526.9110946655273,
+              "_rawY": -80.35300302505493,
+              "_candidatos": null,
+              "budget": 500
+            },
+            {
+              "name": "Look a like lista de leads",
+              "x": 525.4722480773926,
+              "y": -18.50925302505493,
+              "collapsed": false,
+              "suggestion": false,
+              "uid": "umsz7c723bzj2x7",
+              "id": "n30",
+              "_lines": [
+                "Look a like lista de leads"
+              ],
+              "_apoio": [
+                "R$ 500,00/mês · 50,0%"
+              ],
+              "_w": 195,
+              "_h": 36,
+              "_dragStartX": 525.4722480773926,
+              "_dragStartY": -18.35300302505493,
+              "_dragged": false,
+              "note": "",
+              "_rawX": 525.4722480773926,
+              "_rawY": -18.35300302505493,
+              "_candidatos": null,
+              "budget": 500
+            }
+          ],
+          "uid": "umsz7c723tpezww",
+          "id": "n28",
+          "_lines": [
+            "Distribuição de conteúdo"
+          ],
+          "_apoio": [
+            "R$ 1.000,00/mês · 66,7%",
+            "Foco para crescimento da página"
+          ],
+          "_w": 195,
+          "_h": 62.375,
+          "_dragStartX": 258.4722480773926,
+          "_dragStartY": -57.50925302505493,
+          "_dragged": false,
+          "note": "Foco para crescimento da página",
+          "budget": 1000,
+          "_rawX": 258.4722480773926,
+          "_rawY": -57.50925302505493,
+          "_candidatos": null
+        },
+        {
+          "name": "LinkedIn Page Premium",
+          "color": "#5C6670",
+          "x": 258.4722480773926,
+          "y": 59.49074697494507,
+          "collapsed": false,
+          "suggestion": false,
+          "children": [
+            {
+              "name": "Premium",
+              "suggestion": false,
+              "x": 472.9722480773926,
+              "y": 59.49074697494507,
+              "children": [],
+              "id": "n32",
+              "collapsed": false,
+              "_lines": [
+                "Premium"
+              ],
+              "_apoio": [
+                "R$ 500,00/mês · 100,0%"
+              ],
+              "_w": 90,
+              "_h": 36,
+              "_dragStartX": 508.4722480773926,
+              "_dragStartY": 51.33449697494507,
+              "_dragged": false,
+              "_rawX": 508.4722480773926,
+              "_rawY": 51.33449697494507,
+              "_candidatos": null,
+              "budget": 500,
+              "uid": "umszj0vy80m95kq"
+            }
+          ],
+          "uid": "umsz7c723ucanhe",
+          "id": "n31",
+          "_lines": [
+            "LinkedIn Page Premium"
+          ],
+          "_apoio": [
+            "R$ 500,00/mês · 33,3%"
+          ],
+          "_w": 195,
+          "_h": 51.375,
+          "_dragStartX": 258.4722480773926,
+          "_dragStartY": 59.49074697494507,
+          "_dragged": false,
+          "note": "",
+          "budget": 500,
+          "_rawX": 258.4722480773926,
+          "_rawY": 59.49074697494507,
+          "_candidatos": null
+        }
+      ],
+      "uid": "umsz7c723g7kp3p",
+      "id": "n27",
+      "_lines": [
+        "LinkedIn Ads"
+      ],
+      "_apoio": [
+        "R$ 1.500,00/mês",
+        "Campanhas e públicos"
+      ],
+      "_w": 172,
+      "_h": 95.625,
+      "tracos": [],
+      "notas": [
+        {
+          "id": "nota-mszgpc71nhy",
+          "x": -95.89306640625,
+          "y": 98.62315368652344,
+          "w": 697.6778564453125,
+          "text": "O LinkedIn Page Premium é uma assinatura que ajuda você a destacar sua página e a converter mais usuários do LinkedIn em clientes para sua empresa. A LinkedIn Page Premium dá acesso a determinadas funcionalidades que só estão disponíveis para assinantes premium. Todos os administradores da página que têm uma assinatura da LinkedIn Page Premium podem usar os recursos Premium.",
+          "_h": 77.4,
+          "_moveu": false,
+          "bold": true,
+          "invisivel": true,
+          "fs": 11,
+          "uid": "nota-mszgpc71nhy",
+          "bg": "#FFF9E8",
+          "br": "#E4C97E",
+          "italic": true
+        }
+      ],
+      "_dragStartX": 2.972248077392578,
+      "_dragStartY": 0.9907469749450684,
+      "_dragged": false,
+      "budget": 1500,
+      "_rawX": 2.972248077392578,
+      "_rawY": 0.9907469749450684,
+      "_candidatos": null,
+      "color": "#0A66C2"
+    },
+    "tiktok": {
+      "name": "TikTok Ads",
+      "note": "Campanhas e públicos",
+      "color": "#111111",
+      "x": 0,
+      "y": 0,
+      "collapsed": false,
+      "suggestion": false,
+      "children": [
+        {
+          "name": "Conversão",
+          "color": "#FE2C55",
+          "x": 260,
+          "y": -130,
+          "collapsed": false,
+          "suggestion": false,
+          "children": [
+            {
+              "name": "Ampla (sem segmentação)",
+              "x": 540,
+              "y": -200,
+              "collapsed": false,
+              "suggestion": false,
+              "uid": "umsz7c7238adto2",
+              "id": "n35",
+              "_lines": [
+                "Ampla (sem segmentação)"
+              ],
+              "_apoio": [],
+              "_w": 175.5,
+              "_h": 36
+            },
+            {
+              "name": "Interesses e comportamentos",
+              "x": 540,
+              "y": -140,
+              "collapsed": false,
+              "suggestion": false,
+              "uid": "umsz7c723ydij99",
+              "id": "n36",
+              "_lines": [
+                "Interesses e comportamentos"
+              ],
+              "_apoio": [],
+              "_w": 201.5,
+              "_h": 36
+            },
+            {
+              "name": "Lookalike de compradores",
+              "x": 540,
+              "y": -80,
+              "collapsed": false,
+              "suggestion": false,
+              "uid": "umsz7c723onx0qc",
+              "id": "n37",
+              "_lines": [
+                "Lookalike de compradores"
+              ],
+              "_apoio": [],
+              "_w": 182,
+              "_h": 36
+            }
+          ],
+          "uid": "umsz7c7234v982y",
+          "id": "n34",
+          "_lines": [
+            "Conversão"
+          ],
+          "_apoio": [
+            "R$ 400,00/mês · 80,0%"
+          ],
+          "_w": 195,
+          "_h": 51.375,
+          "_dragStartX": 260,
+          "_dragStartY": -130,
+          "_dragged": false,
+          "_rawX": 260,
+          "_rawY": -130,
+          "_candidatos": null,
+          "budget": 400
+        },
+        {
+          "name": "Alcance",
+          "color": "#FE2C55",
+          "x": 260,
+          "y": 140.90908813476562,
+          "collapsed": false,
+          "suggestion": false,
+          "children": [
+            {
+              "name": "Região",
+              "x": 541.8181762695312,
+              "y": 110.90908813476562,
+              "collapsed": false,
+              "suggestion": false,
+              "uid": "umsz7c723baowx6",
+              "id": "n39",
+              "_lines": [
+                "Região"
+              ],
+              "_apoio": [],
+              "_w": 90,
+              "_h": 36
+            },
+            {
+              "name": "Engajou com o perfil",
+              "x": 541.8181762695312,
+              "y": 170.90908813476562,
+              "collapsed": false,
+              "suggestion": false,
+              "uid": "umsz7c7239odfm4",
+              "id": "n40",
+              "_lines": [
+                "Engajou com o perfil"
+              ],
+              "_apoio": [],
+              "_w": 156,
+              "_h": 36
+            }
+          ],
+          "uid": "umsz7c7238f9wem",
+          "id": "n38",
+          "_lines": [
+            "Alcance"
+          ],
+          "_apoio": [
+            "R$ 100,00/mês · 20,0%"
+          ],
+          "_w": 195,
+          "_h": 51.375,
+          "_dragStartX": 260,
+          "_dragStartY": 140.90908813476562,
+          "_dragged": false,
+          "_rawX": 260,
+          "_rawY": 140.90908813476562,
+          "_candidatos": null,
+          "budget": 100
+        }
+      ],
+      "uid": "umsz7c723c9dx50",
+      "id": "n33",
+      "_lines": [
+        "TikTok Ads"
+      ],
+      "_apoio": [
+        "R$ 500,00/mês",
+        "Campanhas e públicos"
+      ],
+      "_w": 172,
+      "_h": 95.625,
+      "tracos": [],
+      "notas": [],
+      "_dragStartX": 0,
+      "_dragStartY": 0,
+      "_dragged": false,
+      "_rawX": 0,
+      "_rawY": 0,
+      "_candidatos": null,
+      "budget": 500,
+      "inativa": true
+    },
+    "cliente": "[Microkids] - Setembro a Dezembro",
+    "estilo": {
+      "cantos": "suave",
+      "sombra": true,
+      "gradiente": true,
+      "borda": false
+    },
+    "relatorio": {
+      "geral": {
+        "rotulos": true,
+        "gradiente": true,
+        "coloridos": "borda",
+        "blocos": "borda"
+      },
+      "verba": {
+        "rotulos": true,
+        "gradiente": true,
+        "coloridos": "borda",
+        "blocos": "borda"
+      }
+    },
+    "logoCliente": "data:image/png;base64,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",
+    "logoMini": "data:image/png;base64,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"
+  }
+}
