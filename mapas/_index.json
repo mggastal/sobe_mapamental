@@ -60,11 +60,11 @@
     "gemte-seguros/gemte-seguros": {
       "nome": "GEMTE Seguros",
       "salvoPor": "Matheus",
-      "salvoEm": "2026-08-19T13:40:52.199Z",
+      "salvoEm": "2026-08-27T23:17:31.606Z",
       "resumo": {
         "google": {
-          "campanhas": 4,
-          "verba": 7900,
+          "campanhas": 3,
+          "verba": 6100,
           "inativa": false
         },
         "meta": {
