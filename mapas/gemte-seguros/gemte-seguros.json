@@ -2,7 +2,7 @@
   "meta": {
     "nome": "GEMTE Seguros",
     "salvoPor": "Matheus",
-    "salvoEm": "2026-08-27T23:17:31.606Z",
+    "salvoEm": "2026-08-27T23:17:36.987Z",
     "resumo": {
       "google": {
         "campanhas": 3,
@@ -10,9 +10,9 @@
         "inativa": false
       },
       "meta": {
-        "campanhas": 1,
-        "verba": 500,
-        "inativa": false
+        "campanhas": 0,
+        "verba": 0,
+        "inativa": true
       },
       "linkedin": {
         "campanhas": 0,
@@ -891,7 +891,8 @@
       "_rawX": 0,
       "_rawY": 0,
       "_candidatos": null,
-      "color": "#0866FF"
+      "color": "#0866FF",
+      "inativa": true
     },
     "linkedin": {
       "name": "LinkedIn Ads",
