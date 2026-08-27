@@ -1,0 +1,1359 @@
+{
+  "meta": {
+    "nome": "[Quest] - Setembro a Dezembro - 2026",
+    "salvoPor": "Matheus",
+    "salvoEm": "2026-08-27T22:02:35.961Z",
+    "resumo": {
+      "google": {
+        "campanhas": 1,
+        "verba": 2000,
+        "inativa": false
+      },
+      "meta": {
+        "campanhas": 3,
+        "verba": 7500,
+        "inativa": false
+      },
+      "linkedin": {
+        "campanhas": 0,
+        "verba": 0,
+        "inativa": true
+      },
+      "tiktok": {
+        "campanhas": 0,
+        "verba": 0,
+        "inativa": true
+      }
+    },
+    "logo": "data:image/png;base64,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",
+    "share": "68hc88kwnaa99z"
+  },
+  "data": {
+    "google": {
+      "name": "Google Ads",
+      "note": "Campanhas",
+      "suggestion": false,
+      "x": 0,
+      "y": 0,
+      "collapsed": false,
+      "children": [
+        {
+          "name": "Search",
+          "color": "#C9962C",
+          "suggestion": false,
+          "x": 255.5,
+          "y": 0,
+          "collapsed": false,
+          "children": [
+            {
+              "name": "Genéricas",
+              "suggestion": false,
+              "x": 470,
+              "y": -586.5,
+              "collapsed": false,
+              "children": [
+                {
+                  "name": "apartamento em curitiba",
+                  "suggestion": false,
+                  "x": 760.17,
+                  "y": -762,
+                  "children": [],
+                  "match": "ampla",
+                  "id": "n4",
+                  "collapsed": false,
+                  "_lines": [
+                    "apartamento em curitiba"
+                  ],
+                  "_apoio": [],
+                  "_w": 201.34,
+                  "_h": 27,
+                  "uid": "umtc2h8krcul0s1"
+                },
+                {
+                  "name": "apartamento à venda curitiba",
+                  "suggestion": false,
+                  "x": 774.12,
+                  "y": -723,
+                  "children": [],
+                  "match": "ampla",
+                  "id": "n5",
+                  "collapsed": false,
+                  "_lines": [
+                    "apartamento à venda curitiba"
+                  ],
+                  "_apoio": [],
+                  "_w": 229.24,
+                  "_h": 27,
+                  "uid": "umtc2h8kra5f5l0"
+                },
+                {
+                  "name": "apartamento novo curitiba",
+                  "suggestion": false,
+                  "x": 765.75,
+                  "y": -684,
+                  "children": [],
+                  "match": "ampla",
+                  "id": "n6",
+                  "collapsed": false,
+                  "_lines": [
+                    "apartamento novo curitiba"
+                  ],
+                  "_apoio": [],
+                  "_w": 212.5,
+                  "_h": 27,
+                  "uid": "umtc2h8krt8r1qv"
+                },
+                {
+                  "name": "apartamento na planta curitiba",
+                  "suggestion": false,
+                  "x": 779.7,
+                  "y": -645,
+                  "children": [],
+                  "match": "ampla",
+                  "id": "n7",
+                  "collapsed": false,
+                  "_lines": [
+                    "apartamento na planta curitiba"
+                  ],
+                  "_apoio": [],
+                  "_w": 240.4,
+                  "_h": 27,
+                  "uid": "umtc2h8krbq53kl"
+                },
+                {
+                  "name": "apartamentos curitiba",
+                  "suggestion": false,
+                  "x": 754.59,
+                  "y": -606,
+                  "children": [],
+                  "match": "ampla",
+                  "id": "n8",
+                  "collapsed": false,
+                  "_lines": [
+                    "apartamentos curitiba"
+                  ],
+                  "_apoio": [],
+                  "_w": 190.18,
+                  "_h": 27,
+                  "uid": "umtc2h8krwl68je"
+                },
+                {
+                  "name": "imóveis em curitiba",
+                  "suggestion": false,
+                  "x": 749.01,
+                  "y": -567,
+                  "children": [],
+                  "match": "ampla",
+                  "id": "n9",
+                  "collapsed": false,
+                  "_lines": [
+                    "imóveis em curitiba"
+                  ],
+                  "_apoio": [],
+                  "_w": 179.01999999999998,
+                  "_h": 27,
+                  "uid": "umtc2h8krg2gze7"
+                },
+                {
+                  "name": "lançamentos imobiliários curitiba",
+                  "suggestion": false,
+                  "x": 788.0699999999999,
+                  "y": -528,
+                  "children": [],
+                  "match": "ampla",
+                  "id": "n10",
+                  "collapsed": false,
+                  "_lines": [
+                    "lançamentos imobiliários curitiba"
+                  ],
+                  "_apoio": [],
+                  "_w": 257.14,
+                  "_h": 27,
+                  "uid": "umtc2h8krun6ngu"
+                },
+                {
+                  "name": "empreendimentos imobiliários curitiba",
+                  "suggestion": false,
+                  "x": 799.23,
+                  "y": -489,
+                  "children": [],
+                  "match": "ampla",
+                  "id": "n11",
+                  "collapsed": false,
+                  "_lines": [
+                    "empreendimentos imobiliários curitiba"
+                  ],
+                  "_apoio": [],
+                  "_w": 279.46000000000004,
+                  "_h": 27,
+                  "uid": "umtc2h8krnuk7u2"
+                },
+                {
+                  "name": "studio em curitiba",
+                  "suggestion": false,
+                  "x": 746.22,
+                  "y": -450,
+                  "children": [],
+                  "match": "ampla",
+                  "id": "n12",
+                  "collapsed": false,
+                  "_lines": [
+                    "studio em curitiba"
+                  ],
+                  "_apoio": [],
+                  "_w": 173.44,
+                  "_h": 27,
+                  "uid": "umtc2h8krq2exzn"
+                },
+                {
+                  "name": "apartamento 2 quartos curitiba",
+                  "suggestion": false,
+                  "x": 779.7,
+                  "y": -411,
+                  "children": [],
+                  "match": "ampla",
+                  "id": "n13",
+                  "collapsed": false,
+                  "_lines": [
+                    "apartamento 2 quartos curitiba"
+                  ],
+                  "_apoio": [],
+                  "_w": 240.4,
+                  "_h": 27,
+                  "uid": "umtc2h8krwt2bgq"
+                }
+              ],
+              "uid": "umsz7c7230y26vf",
+              "id": "n3",
+              "_lines": [
+                "Genéricas"
+              ],
+              "_apoio": [
+                "R$ 500,00/mês · 25,0%"
+              ],
+              "_w": 90,
+              "_h": 36,
+              "_dragStartX": 470,
+              "_dragStartY": -586.5,
+              "_dragged": false,
+              "_rawX": 470,
+              "_rawY": -586.5,
+              "_candidatos": null,
+              "budget": 500,
+              "ads": {
+                "url": "",
+                "path1": "",
+                "path2": "",
+                "headlines": [
+                  ""
+                ],
+                "descriptions": [
+                  ""
+                ],
+                "headPins": [
+                  0
+                ],
+                "descPins": [
+                  0
+                ]
+              }
+            },
+            {
+              "name": "Produto - DOT",
+              "suggestion": false,
+              "x": 480.25,
+              "y": -184.28909301757812,
+              "children": [
+                {
+                  "name": "apartamento capão raso",
+                  "suggestion": false,
+                  "x": 757.38,
+                  "y": -359.7890930175781,
+                  "children": [],
+                  "match": "ampla",
+                  "id": "n15",
+                  "collapsed": false,
+                  "_lines": [
+                    "apartamento capão raso"
+                  ],
+                  "_apoio": [],
+                  "_w": 195.76,
+                  "_h": 27,
+                  "uid": "umtc2h8kraql68m"
+                },
+                {
+                  "name": "apartamento à venda capão raso",
+                  "suggestion": false,
+                  "x": 779.7,
+                  "y": -320.7890930175781,
+                  "children": [],
+                  "match": "ampla",
+                  "id": "n16",
+                  "collapsed": false,
+                  "_lines": [
+                    "apartamento à venda capão raso"
+                  ],
+                  "_apoio": [],
+                  "_w": 240.4,
+                  "_h": 27,
+                  "uid": "umtc2h8kr7gm9iq"
+                },
+                {
+                  "name": "apartamento novo capão raso",
+                  "suggestion": false,
+                  "x": 771.33,
+                  "y": -281.7890930175781,
+                  "children": [],
+                  "match": "ampla",
+                  "id": "n17",
+                  "collapsed": false,
+                  "_lines": [
+                    "apartamento novo capão raso"
+                  ],
+                  "_apoio": [],
+                  "_w": 223.66,
+                  "_h": 27,
+                  "uid": "umtc2h8krbezuno"
+                },
+                {
+                  "name": "apartamento na planta capão raso",
+                  "suggestion": false,
+                  "x": 785.28,
+                  "y": -242.78909301757812,
+                  "children": [],
+                  "match": "ampla",
+                  "id": "n18",
+                  "collapsed": false,
+                  "_lines": [
+                    "apartamento na planta capão raso"
+                  ],
+                  "_apoio": [],
+                  "_w": 251.56,
+                  "_h": 27,
+                  "uid": "umtc2h8kr2cjgk6"
+                },
+                {
+                  "name": "studio capão raso",
+                  "suggestion": false,
+                  "x": 743.4300000000001,
+                  "y": -203.78909301757812,
+                  "children": [],
+                  "match": "ampla",
+                  "id": "n19",
+                  "collapsed": false,
+                  "_lines": [
+                    "studio capão raso"
+                  ],
+                  "_apoio": [],
+                  "_w": 167.86,
+                  "_h": 27,
+                  "uid": "umtc2h8krq1dayn"
+                },
+                {
+                  "name": "studio à venda capão raso",
+                  "suggestion": false,
+                  "x": 765.75,
+                  "y": -164.78909301757812,
+                  "children": [],
+                  "match": "ampla",
+                  "id": "n20",
+                  "collapsed": false,
+                  "_lines": [
+                    "studio à venda capão raso"
+                  ],
+                  "_apoio": [],
+                  "_w": 212.5,
+                  "_h": 27,
+                  "uid": "umtc2h8kr978dub"
+                },
+                {
+                  "name": "apartamento 2 quartos capão raso",
+                  "suggestion": false,
+                  "x": 785.28,
+                  "y": -125.78909301757812,
+                  "children": [],
+                  "match": "ampla",
+                  "id": "n21",
+                  "collapsed": false,
+                  "_lines": [
+                    "apartamento 2 quartos capão raso"
+                  ],
+                  "_apoio": [],
+                  "_w": 251.56,
+                  "_h": 27,
+                  "uid": "umtc2h8kr56fozx"
+                },
+                {
+                  "name": "empreendimento capão raso",
+                  "suggestion": false,
+                  "x": 765.75,
+                  "y": -86.78909301757812,
+                  "children": [],
+                  "match": "ampla",
+                  "id": "n22",
+                  "collapsed": false,
+                  "_lines": [
+                    "empreendimento capão raso"
+                  ],
+                  "_apoio": [],
+                  "_w": 212.5,
+                  "_h": 27,
+                  "uid": "umtc2h8kr7mqxoz"
+                },
+                {
+                  "name": "lançamento capão raso",
+                  "suggestion": false,
+                  "x": 754.59,
+                  "y": -47.789093017578125,
+                  "children": [],
+                  "match": "ampla",
+                  "id": "n23",
+                  "collapsed": false,
+                  "_lines": [
+                    "lançamento capão raso"
+                  ],
+                  "_apoio": [],
+                  "_w": 190.18,
+                  "_h": 27,
+                  "uid": "umtc2h8krrv6rvm"
+                },
+                {
+                  "name": "apartamento winston churchill",
+                  "suggestion": false,
+                  "x": 776.91,
+                  "y": -8.789093017578125,
+                  "children": [],
+                  "match": "ampla",
+                  "id": "n24",
+                  "collapsed": false,
+                  "_lines": [
+                    "apartamento winston churchill"
+                  ],
+                  "_apoio": [],
+                  "_w": 234.82,
+                  "_h": 27,
+                  "uid": "umtc2h8kr3r8vse"
+                }
+              ],
+              "id": "n14",
+              "collapsed": false,
+              "_lines": [
+                "Produto - DOT"
+              ],
+              "_apoio": [
+                "R$ 500,00/mês · 25,0%"
+              ],
+              "_w": 110.5,
+              "_h": 36,
+              "_dragStartX": 480.25,
+              "_dragStartY": -182.5,
+              "_dragged": false,
+              "_rawX": 480.25,
+              "_rawY": -184.28909301757812,
+              "_candidatos": null,
+              "budget": 500,
+              "uid": "umtc2h8kry0ak4u"
+            },
+            {
+              "name": "Produto - Mantiqueira",
+              "suggestion": false,
+              "x": 506.25,
+              "y": 221.5,
+              "children": [
+                {
+                  "name": "apartamento bairro alto curitiba",
+                  "suggestion": false,
+                  "x": 785.28,
+                  "y": 46,
+                  "children": [],
+                  "match": "ampla",
+                  "id": "n26",
+                  "collapsed": false,
+                  "_lines": [
+                    "apartamento bairro alto curitiba"
+                  ],
+                  "_apoio": [],
+                  "_w": 251.56,
+                  "_h": 27,
+                  "uid": "umtc2h8krrfsa18"
+                },
+                {
+                  "name": "apartamento à venda bairro alto curitiba",
+                  "suggestion": false,
+                  "x": 807.6,
+                  "y": 85,
+                  "children": [],
+                  "match": "ampla",
+                  "id": "n27",
+                  "collapsed": false,
+                  "_lines": [
+                    "apartamento à venda bairro alto curitiba"
+                  ],
+                  "_apoio": [],
+                  "_w": 296.2,
+                  "_h": 27,
+                  "uid": "umtc2h8kremlt4z"
+                },
+                {
+                  "name": "apartamento novo bairro alto curitiba",
+                  "suggestion": false,
+                  "x": 799.23,
+                  "y": 124,
+                  "children": [],
+                  "match": "ampla",
+                  "id": "n28",
+                  "collapsed": false,
+                  "_lines": [
+                    "apartamento novo bairro alto curitiba"
+                  ],
+                  "_apoio": [],
+                  "_w": 279.46000000000004,
+                  "_h": 27,
+                  "uid": "umtc2h8krx75pnk"
+                },
+                {
+                  "name": "apartamento na planta bairro alto",
+                  "suggestion": false,
+                  "x": 788.0699999999999,
+                  "y": 163,
+                  "children": [],
+                  "match": "ampla",
+                  "id": "n29",
+                  "collapsed": false,
+                  "_lines": [
+                    "apartamento na planta bairro alto"
+                  ],
+                  "_apoio": [],
+                  "_w": 257.14,
+                  "_h": 27,
+                  "uid": "umtc2h8krtqxpvq"
+                },
+                {
+                  "name": "apartamento 2 quartos bairro alto",
+                  "suggestion": false,
+                  "x": 788.0699999999999,
+                  "y": 202,
+                  "children": [],
+                  "match": "ampla",
+                  "id": "n30",
+                  "collapsed": false,
+                  "_lines": [
+                    "apartamento 2 quartos bairro alto"
+                  ],
+                  "_apoio": [],
+                  "_w": 257.14,
+                  "_h": 27,
+                  "uid": "umtc2h8krshs8xw"
+                },
+                {
+                  "name": "apartamento 3 quartos bairro alto",
+                  "suggestion": false,
+                  "x": 788.0699999999999,
+                  "y": 241,
+                  "children": [],
+                  "match": "ampla",
+                  "id": "n31",
+                  "collapsed": false,
+                  "_lines": [
+                    "apartamento 3 quartos bairro alto"
+                  ],
+                  "_apoio": [],
+                  "_w": 257.14,
+                  "_h": 27,
+                  "uid": "umtc2h8krmeg2vy"
+                },
+                {
+                  "name": "empreendimento bairro alto curitiba",
+                  "suggestion": false,
+                  "x": 793.65,
+                  "y": 280,
+                  "children": [],
+                  "match": "ampla",
+                  "id": "n32",
+                  "collapsed": false,
+                  "_lines": [
+                    "empreendimento bairro alto curitiba"
+                  ],
+                  "_apoio": [],
+                  "_w": 268.3,
+                  "_h": 27,
+                  "uid": "umtc2h8krxe0qg3"
+                },
+                {
+                  "name": "lançamento bairro alto curitiba",
+                  "suggestion": false,
+                  "x": 782.49,
+                  "y": 319,
+                  "children": [],
+                  "match": "ampla",
+                  "id": "n33",
+                  "collapsed": false,
+                  "_lines": [
+                    "lançamento bairro alto curitiba"
+                  ],
+                  "_apoio": [],
+                  "_w": 245.98,
+                  "_h": 27,
+                  "uid": "umtc2h8krsfb3x5"
+                },
+                {
+                  "name": "apartamento linha verde curitiba",
+                  "suggestion": false,
+                  "x": 785.28,
+                  "y": 358,
+                  "children": [],
+                  "match": "ampla",
+                  "id": "n34",
+                  "collapsed": false,
+                  "_lines": [
+                    "apartamento linha verde curitiba"
+                  ],
+                  "_apoio": [],
+                  "_w": 251.56,
+                  "_h": 27,
+                  "uid": "umtc2h8krtdsymz"
+                },
+                {
+                  "name": "apartamento perto da linha verde",
+                  "suggestion": false,
+                  "x": 785.28,
+                  "y": 397,
+                  "children": [],
+                  "match": "ampla",
+                  "id": "n35",
+                  "collapsed": false,
+                  "_lines": [
+                    "apartamento perto da linha verde"
+                  ],
+                  "_apoio": [],
+                  "_w": 251.56,
+                  "_h": 27,
+                  "uid": "umtc2h8kr6b1tpb"
+                }
+              ],
+              "id": "n25",
+              "collapsed": false,
+              "_lines": [
+                "Produto - Mantiqueira"
+              ],
+              "_apoio": [
+                "R$ 500,00/mês · 25,0%"
+              ],
+              "_w": 162.5,
+              "_h": 36,
+              "_dragStartX": 506.25,
+              "_dragStartY": 221.5,
+              "_dragged": false,
+              "_rawX": 506.25,
+              "_rawY": 221.5,
+              "_candidatos": null,
+              "budget": 500,
+              "uid": "umtc2h8krexpfqp"
+            },
+            {
+              "name": "Institucional",
+              "suggestion": false,
+              "x": 480.25,
+              "y": 586.5,
+              "children": [
+                {
+                  "name": "construtora quest",
+                  "suggestion": false,
+                  "x": 743.4300000000001,
+                  "y": 450,
+                  "children": [],
+                  "match": "ampla",
+                  "id": "n37",
+                  "collapsed": false,
+                  "_lines": [
+                    "construtora quest"
+                  ],
+                  "_apoio": [],
+                  "_w": 167.86,
+                  "_h": 27,
+                  "uid": "umtc2h8krxgllr0"
+                },
+                {
+                  "name": "construtora quest curitiba",
+                  "suggestion": false,
+                  "x": 768.54,
+                  "y": 489,
+                  "children": [],
+                  "match": "ampla",
+                  "id": "n38",
+                  "collapsed": false,
+                  "_lines": [
+                    "construtora quest curitiba"
+                  ],
+                  "_apoio": [],
+                  "_w": 218.08,
+                  "_h": 27,
+                  "uid": "umtc2h8krc9nhbn"
+                },
+                {
+                  "name": "quest construtora",
+                  "suggestion": false,
+                  "x": 743.4300000000001,
+                  "y": 528,
+                  "children": [],
+                  "match": "ampla",
+                  "id": "n39",
+                  "collapsed": false,
+                  "_lines": [
+                    "quest construtora"
+                  ],
+                  "_apoio": [],
+                  "_w": 167.86,
+                  "_h": 27,
+                  "uid": "umtc2h8krkrfr56"
+                },
+                {
+                  "name": "quest empreendimentos",
+                  "suggestion": false,
+                  "x": 754.59,
+                  "y": 567,
+                  "children": [],
+                  "match": "ampla",
+                  "id": "n40",
+                  "collapsed": false,
+                  "_lines": [
+                    "quest empreendimentos"
+                  ],
+                  "_apoio": [],
+                  "_w": 190.18,
+                  "_h": 27,
+                  "uid": "umtc2h8krku2hd7"
+                },
+                {
+                  "name": "quest imóveis",
+                  "suggestion": false,
+                  "x": 732.27,
+                  "y": 606,
+                  "children": [],
+                  "match": "ampla",
+                  "id": "n41",
+                  "collapsed": false,
+                  "_lines": [
+                    "quest imóveis"
+                  ],
+                  "_apoio": [],
+                  "_w": 145.54000000000002,
+                  "_h": 27,
+                  "uid": "umtc2h8krecn6x5"
+                },
+                {
+                  "name": "quest curitiba",
+                  "suggestion": false,
+                  "x": 735.06,
+                  "y": 645,
+                  "children": [],
+                  "match": "ampla",
+                  "id": "n42",
+                  "collapsed": false,
+                  "_lines": [
+                    "quest curitiba"
+                  ],
+                  "_apoio": [],
+                  "_w": 151.12,
+                  "_h": 27,
+                  "uid": "umtc2h8kra3d5pi"
+                },
+                {
+                  "name": "construtora quest empreendimentos",
+                  "suggestion": false,
+                  "x": 788.0699999999999,
+                  "y": 684,
+                  "children": [],
+                  "match": "ampla",
+                  "id": "n43",
+                  "collapsed": false,
+                  "_lines": [
+                    "construtora quest empreendimentos"
+                  ],
+                  "_apoio": [],
+                  "_w": 257.14,
+                  "_h": 27,
+                  "uid": "umtc2h8kr0w48mq"
+                },
+                {
+                  "name": "empreendimentos quest",
+                  "suggestion": false,
+                  "x": 754.59,
+                  "y": 723,
+                  "children": [],
+                  "match": "ampla",
+                  "id": "n44",
+                  "collapsed": false,
+                  "_lines": [
+                    "empreendimentos quest"
+                  ],
+                  "_apoio": [],
+                  "_w": 190.18,
+                  "_h": 27,
+                  "uid": "umtc2h8krw38cf5"
+                }
+              ],
+              "id": "n36",
+              "collapsed": false,
+              "_lines": [
+                "Institucional"
+              ],
+              "_apoio": [
+                "R$ 500,00/mês · 25,0%"
+              ],
+              "_w": 110.5,
+              "_h": 36,
+              "_dragStartX": 480.25,
+              "_dragStartY": 586.5,
+              "_dragged": false,
+              "_rawX": 480.25,
+              "_rawY": 586.5,
+              "_candidatos": null,
+              "budget": 500,
+              "uid": "umtc2h8krcl71ui"
+            }
+          ],
+          "uid": "umsz7c723y6zj6m",
+          "id": "n2",
+          "_lines": [
+            "Search"
+          ],
+          "_apoio": [
+            "R$ 2.000,00/mês · 100,0%"
+          ],
+          "_w": 195,
+          "_h": 51.375,
+          "_dragStartX": 255.5,
+          "_dragStartY": 0,
+          "_dragged": false,
+          "_rawX": 255.5,
+          "_rawY": 0,
+          "_candidatos": null,
+          "budget": 2000
+        }
+      ],
+      "uid": "umsz7c723tzfx54",
+      "id": "n1",
+      "_lines": [
+        "Google Ads"
+      ],
+      "_apoio": [
+        "R$ 2.000,00/mês",
+        "Campanhas"
+      ],
+      "_w": 172,
+      "_h": 63.625,
+      "tracos": [],
+      "notas": [],
+      "_dragStartX": 0,
+      "_dragStartY": 0,
+      "_dragged": false,
+      "budget": 2000,
+      "color": "#34A853",
+      "_rawX": 0,
+      "_rawY": 0,
+      "_candidatos": null,
+      "sharedAds": {
+        "url": "",
+        "path1": "",
+        "path2": "",
+        "headlines": [],
+        "descriptions": [],
+        "headPins": [],
+        "descPins": []
+      },
+      "negativas": [
+        "aluguel",
+        "alugar",
+        "locação",
+        "locar",
+        "temporada",
+        "airbnb",
+        "quarto",
+        "república",
+        "pensão",
+        "hotel",
+        "hostel",
+        "diária",
+        "hospedagem",
+        "vaga de emprego",
+        "emprego",
+        "empregos",
+        "estágio",
+        "estagio",
+        "currículo",
+        "curriculo",
+        "salário",
+        "salario",
+        "trabalhe conosco",
+        "curso",
+        "cursos",
+        "faculdade",
+        "gratuito",
+        "gratuita",
+        "grátis",
+        "gratis",
+        "reforma",
+        "reformas",
+        "pedreiro",
+        "pintor",
+        "pintura",
+        "eletricista",
+        "encanador",
+        "marceneiro",
+        "marcenaria",
+        "material de construção",
+        "materiais de construção",
+        "cimento",
+        "tijolo",
+        "piso",
+        "porcelanato",
+        "telha",
+        "tinta",
+        "ferramentas",
+        "móveis",
+        "moveis",
+        "móveis planejados",
+        "moveis planejados",
+        "decoração",
+        "decorador",
+        "decoradora",
+        "designer",
+        "arquitetura",
+        "arquiteto",
+        "arquiteta",
+        "projeto arquitetônico",
+        "obra",
+        "construção",
+        "construtor",
+        "financiamento",
+        "simulador",
+        "simulação",
+        "segunda via",
+        "boleto",
+        "telefone",
+        "whatsapp",
+        "sac",
+        "reclamação",
+        "reclamações",
+        "reclame aqui",
+        "olx",
+        "mercado livre",
+        "usado",
+        "usada",
+        "seminovo",
+        "seminova"
+      ]
+    },
+    "meta": {
+      "name": "Meta Ads",
+      "note": "Campanhas e públicos",
+      "x": 1.8451299667358398,
+      "y": 0,
+      "collapsed": false,
+      "suggestion": false,
+      "children": [
+        {
+          "name": "Distribuição de conteúdo",
+          "color": "#1B2F6A",
+          "x": 257.34512996673584,
+          "y": -221.1875,
+          "collapsed": false,
+          "suggestion": false,
+          "children": [
+            {
+              "name": "Advantage+",
+              "suggestion": false,
+              "x": 517.510214805603,
+              "y": -221.1875,
+              "children": [],
+              "id": "n47",
+              "collapsed": false,
+              "_lines": [
+                "Advantage+"
+              ],
+              "_apoio": [
+                "R$ 500,00/mês · 100,0%"
+              ],
+              "_w": 181.33016967773438,
+              "_h": 36,
+              "uid": "umszixlwh8g18oz",
+              "_dragStartX": 530.2628698348999,
+              "_dragStartY": -182.10940742492676,
+              "_dragged": false,
+              "_rawX": 530.2628698348999,
+              "_rawY": -182.10940742492676,
+              "_candidatos": null,
+              "budget": 500,
+              "_w0": 90,
+              "_resized": true,
+              "_resto": 0,
+              "width": 181.33016967773438
+            }
+          ],
+          "uid": "umsz7c723vpl48r",
+          "id": "n46",
+          "_lines": [
+            "Distribuição de conteúdo"
+          ],
+          "_apoio": [
+            "R$ 500,00/mês · 6,7%",
+            "Objetivo de criar públicos de",
+            "envolvimento e crescimento do",
+            "instagram constante"
+          ],
+          "_w": 195,
+          "_h": 84.375,
+          "_dragStartX": 267.4548101425171,
+          "_dragStartY": -180.10940742492676,
+          "_dragged": false,
+          "_rawX": 267.4548101425171,
+          "_rawY": -180.10940742492676,
+          "_candidatos": null,
+          "note": "Objetivo de criar públicos de envolvimento e crescimento do instagram constante",
+          "budget": 500
+        },
+        {
+          "name": "DOT",
+          "suggestion": false,
+          "x": 257.34512996673584,
+          "y": -32.8125,
+          "children": [
+            {
+              "name": "Investidores",
+              "suggestion": false,
+              "x": 517.510214805603,
+              "y": -110.8125,
+              "children": [],
+              "id": "n49",
+              "collapsed": false,
+              "_lines": [
+                "Investidores"
+              ],
+              "_apoio": [
+                "R$ 1.500,00/mês · 42,9%"
+              ],
+              "_w": 181.33016967773438,
+              "_h": 36,
+              "_dragStartX": 543.1198949813843,
+              "_dragStartY": -35.3125,
+              "_dragged": false,
+              "_rawX": 542.5482397079468,
+              "_rawY": -35.3125,
+              "_candidatos": null,
+              "budget": 1500,
+              "uid": "umszhck8e27pj9m",
+              "_w0": 110.5,
+              "_resized": true,
+              "_resto": 0,
+              "width": 181.33016967773438,
+              "note": ""
+            },
+            {
+              "name": "Interesses",
+              "suggestion": false,
+              "x": 517.510214805603,
+              "y": -32.8125,
+              "children": [],
+              "id": "n50",
+              "collapsed": false,
+              "_lines": [
+                "Interesses"
+              ],
+              "_apoio": [
+                "R$ 1.500,00/mês · 42,9%"
+              ],
+              "_w": 181.33016967773438,
+              "_h": 36,
+              "_w0": 91,
+              "_resized": true,
+              "_resto": 0,
+              "width": 181.33016967773438,
+              "_dragStartX": 543.1198949813843,
+              "_dragStartY": 44.375,
+              "_dragged": false,
+              "_rawX": 543.1198949813843,
+              "_rawY": 44.375,
+              "_candidatos": null,
+              "note": "",
+              "budget": 1500,
+              "uid": "umtc2h8krwwh4la"
+            },
+            {
+              "name": "MIX Quente",
+              "suggestion": false,
+              "x": 517.510214805603,
+              "y": 45.1875,
+              "children": [],
+              "id": "n51",
+              "collapsed": false,
+              "_lines": [
+                "MIX Quente"
+              ],
+              "_apoio": [
+                "R$ 500,00/mês · 14,3%",
+                "Videoview 50% +, seguidores,",
+                "envolvidos nos últimos 180D"
+              ],
+              "_w": 181.33016967773438,
+              "_h": 36,
+              "_w0": 90,
+              "_resized": true,
+              "_resto": 0,
+              "width": 181.33016967773438,
+              "note": "Videoview 50% +, seguidores, envolvidos nos últimos 180D",
+              "_dragStartX": 543.1198949813843,
+              "_dragStartY": 99.1875,
+              "_dragged": false,
+              "_rawX": 543.1198949813843,
+              "_rawY": 99.1875,
+              "_candidatos": null,
+              "budget": 500,
+              "uid": "umtc2h8kr417fld"
+            }
+          ],
+          "id": "n48",
+          "collapsed": false,
+          "_lines": [
+            "DOT"
+          ],
+          "_apoio": [
+            "R$ 3.500,00/mês · 46,7%"
+          ],
+          "_w": 195,
+          "_h": 51.375,
+          "_dragStartX": 267.4548101425171,
+          "_dragStartY": 31.1875,
+          "_dragged": false,
+          "_rawX": 267.4548101425171,
+          "_rawY": 31.1875,
+          "_candidatos": null,
+          "color": "#D14026",
+          "uid": "umszhck8ea68erv",
+          "budget": 3500
+        },
+        {
+          "name": "Mantiqueira",
+          "suggestion": false,
+          "x": 257.34512996673584,
+          "y": 221.1875,
+          "children": [
+            {
+              "name": "Investidores",
+              "suggestion": false,
+              "x": 517.510214805603,
+              "y": 143.1875,
+              "children": [],
+              "id": "n53",
+              "collapsed": false,
+              "_lines": [
+                "Investidores"
+              ],
+              "_apoio": [
+                "R$ 1.500,00/mês · 42,9%"
+              ],
+              "_w": 181.33016967773438,
+              "_h": 36,
+              "uid": "umszixlwhrtlcd4",
+              "_dragStartX": 517.510214805603,
+              "_dragStartY": 156,
+              "_dragged": false,
+              "_rawX": 517.510214805603,
+              "_rawY": 156,
+              "_candidatos": null,
+              "budget": 1500,
+              "_w0": 91,
+              "_resized": true,
+              "_resto": 0,
+              "width": 181.33016967773438
+            },
+            {
+              "name": "Interesses",
+              "suggestion": false,
+              "x": 517.510214805603,
+              "y": 221.1875,
+              "children": [],
+              "id": "n54",
+              "collapsed": false,
+              "_lines": [
+                "Interesses"
+              ],
+              "_apoio": [
+                "R$ 1.500,00/mês · 42,9%"
+              ],
+              "_w": 181.33016967773438,
+              "_h": 36,
+              "uid": "umszixlwh07ymcd",
+              "_dragStartX": 517.510214805603,
+              "_dragStartY": 234,
+              "_dragged": false,
+              "_rawX": 517.510214805603,
+              "_rawY": 234,
+              "_candidatos": null,
+              "budget": 1500,
+              "_w0": 97.5,
+              "_resized": true,
+              "_resto": 0,
+              "width": 181.33016967773438
+            },
+            {
+              "name": "MIX Quente",
+              "suggestion": false,
+              "x": 517.510214805603,
+              "y": 299.1875,
+              "children": [],
+              "id": "n55",
+              "collapsed": false,
+              "_lines": [
+                "MIX Quente"
+              ],
+              "_apoio": [
+                "R$ 500,00/mês · 14,3%"
+              ],
+              "_w": 181.33016967773438,
+              "_h": 36,
+              "uid": "umszixlwhqurtuu",
+              "_dragStartX": 517.510214805603,
+              "_dragStartY": 312,
+              "_dragged": false,
+              "_rawX": 517.510214805603,
+              "_rawY": 312,
+              "_candidatos": null,
+              "budget": 500,
+              "_w0": 97.5,
+              "_resized": true,
+              "_resto": 0,
+              "width": 181.33016967773438
+            }
+          ],
+          "id": "n52",
+          "collapsed": false,
+          "_lines": [
+            "Mantiqueira"
+          ],
+          "_apoio": [
+            "R$ 3.500,00/mês · 46,7%"
+          ],
+          "_w": 195,
+          "_h": 51.375,
+          "_dragStartX": 257.34512996673584,
+          "_dragStartY": 234,
+          "_dragged": false,
+          "_rawX": 257.34512996673584,
+          "_rawY": 234,
+          "_candidatos": null,
+          "color": "#328596",
+          "note": "",
+          "uid": "umszhidiv2dleqx",
+          "budget": 3500
+        }
+      ],
+      "uid": "umsz7c723f7bzt7",
+      "id": "n45",
+      "_lines": [
+        "Meta Ads"
+      ],
+      "_apoio": [
+        "R$ 7.500,00/mês",
+        "Campanhas e públicos"
+      ],
+      "_w": 172,
+      "_h": 95.625,
+      "tracos": [],
+      "notas": [],
+      "_dragStartX": 1.8451299667358398,
+      "_dragStartY": 0,
+      "_dragged": false,
+      "budget": 7500,
+      "_rawX": 1.8451299667358398,
+      "_rawY": 0,
+      "_candidatos": null,
+      "color": "#0866FF"
+    },
+    "linkedin": {
+      "name": "LinkedIn Ads",
+      "note": "Campanhas e públicos",
+      "x": 2.972248077392578,
+      "y": 0.9907469749450684,
+      "collapsed": false,
+      "suggestion": false,
+      "children": [],
+      "uid": "umsz7c723g7kp3p",
+      "id": "n56",
+      "_lines": [
+        "LinkedIn Ads"
+      ],
+      "_apoio": [
+        "R$ 0,00/mês",
+        "Campanhas e públicos"
+      ],
+      "_w": 172,
+      "_h": 95.625,
+      "tracos": [],
+      "notas": [],
+      "_dragStartX": 2.972248077392578,
+      "_dragStartY": 0.9907469749450684,
+      "_dragged": false,
+      "budget": 0,
+      "_rawX": 2.972248077392578,
+      "_rawY": 0.9907469749450684,
+      "_candidatos": null,
+      "color": "#0A66C2",
+      "inativa": true
+    },
+    "tiktok": {
+      "name": "TikTok Ads",
+      "note": "Campanhas e públicos",
+      "color": "#111111",
+      "x": 0,
+      "y": 0,
+      "collapsed": false,
+      "suggestion": false,
+      "children": [],
+      "uid": "umsz7c723c9dx50",
+      "id": "n57",
+      "_lines": [
+        "TikTok Ads"
+      ],
+      "_apoio": [
+        "R$ 0,00/mês",
+        "Campanhas e públicos"
+      ],
+      "_w": 172,
+      "_h": 95.625,
+      "tracos": [],
+      "notas": [],
+      "_dragStartX": 0,
+      "_dragStartY": 0,
+      "_dragged": false,
+      "_rawX": 0,
+      "_rawY": 0,
+      "_candidatos": null,
+      "budget": 0,
+      "inativa": true
+    },
+    "cliente": "[Quest] - Setembro a Dezembro",
+    "estilo": {
+      "cantos": "suave",
+      "sombra": true,
+      "gradiente": true,
+      "borda": false
+    },
+    "relatorio": {
+      "geral": {
+        "rotulos": true,
+        "gradiente": true,
+        "coloridos": "cheio",
+        "blocos": "cheio"
+      },
+      "verba": {
+        "rotulos": true,
+        "gradiente": true,
+        "coloridos": "cheio",
+        "blocos": "cheio"
+      }
+    },
+    "logoCliente": "data:image/png;base64,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",
+    "logoMini": "data:image/png;base64,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"
+  }
+}
