@@ -2,7 +2,7 @@
   "meta": {
     "nome": "[Microkids] - Setembro a Dezembro",
     "salvoPor": "Matheus",
-    "salvoEm": "2026-09-01T14:35:34.572Z",
+    "salvoEm": "2026-09-01T15:05:23.629Z",
     "resumo": {
       "google": {
         "campanhas": 3,
@@ -63,11 +63,11 @@
               ],
               "_w": 169.39501953125,
               "_h": 36,
-              "_dragStartX": 504.3123779296875,
-              "_dragStartY": -152.59091186523438,
-              "_dragged": true,
-              "_rawX": 498.85784912109375,
-              "_rawY": -154.40908813476562,
+              "_dragStartX": 517.5098876953125,
+              "_dragStartY": -265.5,
+              "_dragged": false,
+              "_rawX": 517.5098876953125,
+              "_rawY": -265.5,
               "_candidatos": null,
               "note": "Anúncios em imagem para remarketing",
               "budget": 600,
@@ -88,10 +88,10 @@
           "_w": 195,
           "_h": 51.375,
           "_dragStartX": 259.40618896484375,
-          "_dragStartY": -152.59091186523438,
+          "_dragStartY": -265.5,
           "_dragged": false,
           "_rawX": 259.40618896484375,
-          "_rawY": -152.59091186523438,
+          "_rawY": -265.5,
           "_candidatos": null,
           "budget": 600,
           "tipo": "display"
@@ -319,7 +319,13 @@
                   "_apoio": [],
                   "_w": 137,
                   "_h": 27,
-                  "uid": "umtinmnhhbaum5v"
+                  "uid": "umtinmnhhbaum5v",
+                  "_dragStartX": 742.7073974609375,
+                  "_dragStartY": 169,
+                  "_dragged": false,
+                  "_rawX": 742.7073974609375,
+                  "_rawY": 169,
+                  "_candidatos": null
                 }
               ],
               "uid": "umsz7c7230y26vf",
@@ -328,17 +334,17 @@
                 "Palavras-chave"
               ],
               "_apoio": [
-                "R$ 1.000,00/mês · 83,3%"
+                "R$ 1.200,00/mês · 100,0%"
               ],
               "_w": 117,
               "_h": 36,
-              "_dragStartX": 488.0623779296875,
-              "_dragStartY": 0,
+              "_dragStartX": 491.3123779296875,
+              "_dragStartY": -6.5,
               "_dragged": false,
-              "_rawX": 488.0623779296875,
-              "_rawY": 0,
+              "_rawX": 491.3123779296875,
+              "_rawY": -6.5,
               "_candidatos": null,
-              "budget": 1000,
+              "budget": 1200,
               "ads": {
                 "url": "",
                 "path1": "",
@@ -364,11 +370,10 @@
             "Search"
           ],
           "_apoio": [
-            "R$ 1.200,00/mês · 37,5%",
-            "⚠ faltam R$ 200,00 a distribuir"
+            "R$ 1.200,00/mês · 37,5%"
           ],
           "_w": 195,
-          "_h": 62.375,
+          "_h": 51.375,
           "_dragStartX": 259.40618896484375,
           "_dragStartY": -6.5,
           "_dragged": false,
