@@ -1,8 +1,8 @@
 {
   "meta": {
     "nome": "[Vi Oliver] - Setembro a Dezembro - 2026",
-    "salvoPor": "Tais Jeronimo",
-    "salvoEm": "2026-08-27T20:07:08.080Z",
+    "salvoPor": "Matheus",
+    "salvoEm": "2026-09-01T17:51:39.295Z",
     "resumo": {
       "google": {
         "campanhas": 3,
@@ -25,7 +25,8 @@
         "inativa": true
       }
     },
-    "logo": ""
+    "logo": "",
+    "moeda": "USD"
   },
   "data": {
     "google": {
@@ -191,7 +192,7 @@
                   "x": 823.6363525390625,
                   "y": -8.272725582122803,
                   "children": [],
-                  "id": "n40",
+                  "id": "n10",
                   "collapsed": false,
                   "_lines": [
                     "tratamento queda de cabelo sydney"
@@ -208,7 +209,7 @@
                   "x": 823.6363525390625,
                   "y": 25.727274417877197,
                   "children": [],
-                  "id": "n41",
+                  "id": "n11",
                   "collapsed": false,
                   "_lines": [
                     "analise capilar sydney"
@@ -268,7 +269,7 @@
               "collapsed": false,
               "children": [],
               "uid": "umtagy1hw9ag3sq",
-              "id": "n11",
+              "id": "n13",
               "_lines": [
                 "Remarketing Site"
               ],
@@ -288,7 +289,7 @@
               "x": 540.2862243652344,
               "y": 104,
               "children": [],
-              "id": "n56",
+              "id": "n14",
               "collapsed": false,
               "_lines": [
                 "Novo item"
@@ -300,7 +301,7 @@
             }
           ],
           "uid": "umtagy1hwlldi8q",
-          "id": "n10",
+          "id": "n12",
           "_lines": [
             "Geração de Demanda -",
             "Display"
@@ -334,7 +335,7 @@
                   "x": 735.9259948730469,
                   "y": -112.92734885215759,
                   "children": [],
-                  "id": "n44",
+                  "id": "n17",
                   "collapsed": false,
                   "_lines": [
                     "online hair specialist"
@@ -351,7 +352,7 @@
                   "x": 735.9259948730469,
                   "y": -78.92734885215759,
                   "children": [],
-                  "id": "n45",
+                  "id": "n18",
                   "collapsed": false,
                   "_lines": [
                     "scalp analysis online"
@@ -374,7 +375,7 @@
                   "x": 735.9259948730469,
                   "y": -44.92734885215759,
                   "children": [],
-                  "id": "n46",
+                  "id": "n19",
                   "collapsed": false,
                   "_lines": [
                     "hair loss diagnosis online"
@@ -397,7 +398,7 @@
                   "x": 735.9259948730469,
                   "y": -10.927348852157593,
                   "children": [],
-                  "id": "n47",
+                  "id": "n20",
                   "collapsed": false,
                   "_lines": [
                     "hair loss specialist online"
@@ -409,7 +410,7 @@
                   "uid": "umtbxjwa9o7rwag"
                 }
               ],
-              "id": "n42",
+              "id": "n16",
               "collapsed": true,
               "_lines": [
                 "Inglês"
@@ -437,7 +438,7 @@
                   "x": 857.7442016601562,
                   "y": -109.64325952529907,
                   "children": [],
-                  "id": "n48",
+                  "id": "n22",
                   "collapsed": false,
                   "_lines": [
                     "tricologista online"
@@ -454,7 +455,7 @@
                   "x": 857.7442016601562,
                   "y": -75.64325952529907,
                   "children": [],
-                  "id": "n49",
+                  "id": "n23",
                   "collapsed": false,
                   "_lines": [
                     "consulta capilar online"
@@ -471,7 +472,7 @@
                   "x": 857.7442016601562,
                   "y": -41.64325952529907,
                   "children": [],
-                  "id": "n50",
+                  "id": "n24",
                   "collapsed": false,
                   "_lines": [
                     "tratamento queda cabelo online"
@@ -494,7 +495,7 @@
                   "x": 857.7442016601562,
                   "y": -7.643259525299072,
                   "children": [],
-                  "id": "n53",
+                  "id": "n25",
                   "collapsed": false,
                   "_lines": [
                     "consulta queda de cabelo online"
@@ -506,7 +507,7 @@
                   "uid": "umtbxjwa9oznd0y"
                 }
               ],
-              "id": "n43",
+              "id": "n21",
               "collapsed": false,
               "_lines": [
                 "Português"
@@ -523,7 +524,7 @@
               "uid": "umtbxjwa9pgf5sj"
             }
           ],
-          "id": "n14",
+          "id": "n15",
           "collapsed": true,
           "_lines": [
             "Lead - Pesquisa - Master",
@@ -583,7 +584,7 @@
               "collapsed": false,
               "suggestion": false,
               "uid": "umtagy1hwohac74",
-              "id": "n17"
+              "id": "n28"
             },
             {
               "name": "Lookalike 1% — compradores",
@@ -592,7 +593,7 @@
               "collapsed": false,
               "suggestion": false,
               "uid": "umtagy1hwymb40c",
-              "id": "n18"
+              "id": "n29"
             },
             {
               "name": "Interesses",
@@ -601,7 +602,7 @@
               "collapsed": false,
               "suggestion": false,
               "uid": "umtagy1hwzexmj9",
-              "id": "n19"
+              "id": "n30"
             },
             {
               "name": "Advantage+ (aberto)",
@@ -610,11 +611,11 @@
               "collapsed": false,
               "suggestion": false,
               "uid": "umtagy1hw4gst26",
-              "id": "n20"
+              "id": "n31"
             }
           ],
           "uid": "umtagy1hwdrzcq5",
-          "id": "n16"
+          "id": "n27"
         },
         {
           "name": "Reconhecimento",
@@ -631,7 +632,7 @@
               "collapsed": false,
               "suggestion": false,
               "uid": "umtagy1hwribhvs",
-              "id": "n22"
+              "id": "n33"
             },
             {
               "name": "Interesses amplos",
@@ -640,15 +641,15 @@
               "collapsed": false,
               "suggestion": false,
               "uid": "umtagy1hwyj1d9o",
-              "id": "n23"
+              "id": "n34"
             }
           ],
           "uid": "umtagy1hwcrk03e",
-          "id": "n21"
+          "id": "n32"
         }
       ],
       "uid": "umtagy1hw7i9kan",
-      "id": "n15"
+      "id": "n26"
     },
     "linkedin": {
       "name": "LinkedIn Ads",
@@ -674,7 +675,7 @@
               "collapsed": false,
               "suggestion": false,
               "uid": "umtagy1hwxw7inu",
-              "id": "n26"
+              "id": "n37"
             },
             {
               "name": "Empresas-alvo (ABM)",
@@ -683,7 +684,7 @@
               "collapsed": false,
               "suggestion": false,
               "uid": "umtagy1hw5y35l6",
-              "id": "n27"
+              "id": "n38"
             },
             {
               "name": "Lookalike de clientes",
@@ -692,11 +693,11 @@
               "collapsed": false,
               "suggestion": false,
               "uid": "umtagy1hwcqxlxr",
-              "id": "n28"
+              "id": "n39"
             }
           ],
           "uid": "umtagy1hwlv2k4n",
-          "id": "n25"
+          "id": "n36"
         },
         {
           "name": "Reconhecimento",
@@ -713,7 +714,7 @@
               "collapsed": false,
               "suggestion": false,
               "uid": "umtagy1hw7pfg9q",
-              "id": "n30"
+              "id": "n41"
             },
             {
               "name": "Seguidores da página",
@@ -722,15 +723,15 @@
               "collapsed": false,
               "suggestion": false,
               "uid": "umtagy1hwgtx3em",
-              "id": "n31"
+              "id": "n42"
             }
           ],
           "uid": "umtagy1hwtw5oz9",
-          "id": "n29"
+          "id": "n40"
         }
       ],
       "uid": "umtagy1hwcbayv7",
-      "id": "n24"
+      "id": "n35"
     },
     "tiktok": {
       "name": "TikTok Ads",
@@ -757,7 +758,7 @@
               "collapsed": false,
               "suggestion": false,
               "uid": "umtagy1hwfurhra",
-              "id": "n34"
+              "id": "n45"
             },
             {
               "name": "Interesses e comportamentos",
@@ -766,7 +767,7 @@
               "collapsed": false,
               "suggestion": false,
               "uid": "umtagy1hwzh1fet",
-              "id": "n35"
+              "id": "n46"
             },
             {
               "name": "Lookalike de compradores",
@@ -775,11 +776,11 @@
               "collapsed": false,
               "suggestion": false,
               "uid": "umtagy1hww1l5pv",
-              "id": "n36"
+              "id": "n47"
             }
           ],
           "uid": "umtagy1hw6kqs48",
-          "id": "n33"
+          "id": "n44"
         },
         {
           "name": "Alcance",
@@ -796,7 +797,7 @@
               "collapsed": false,
               "suggestion": false,
               "uid": "umtagy1hwxrx8dl",
-              "id": "n38"
+              "id": "n49"
             },
             {
               "name": "Engajou com o perfil",
@@ -805,15 +806,15 @@
               "collapsed": false,
               "suggestion": false,
               "uid": "umtagy1hwguql83",
-              "id": "n39"
+              "id": "n50"
             }
           ],
           "uid": "umtagy1hw7rxhtb",
-          "id": "n37"
+          "id": "n48"
         }
       ],
       "uid": "umtagy1hw37drq5",
-      "id": "n32"
+      "id": "n43"
     },
     "cliente": "[Vi Oliver] - Setembro a Dezembro - 2026",
     "estilo": {
@@ -835,6 +836,7 @@
         "coloridos": "",
         "blocos": ""
       }
-    }
+    },
+    "moeda": "USD"
   }
 }
