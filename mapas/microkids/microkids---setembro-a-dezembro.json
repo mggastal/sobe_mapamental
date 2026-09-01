@@ -2,7 +2,7 @@
   "meta": {
     "nome": "[Microkids] - Setembro a Dezembro",
     "salvoPor": "Matheus",
-    "salvoEm": "2026-09-01T14:34:17.177Z",
+    "salvoEm": "2026-09-01T14:34:42.461Z",
     "resumo": {
       "google": {
         "campanhas": 3,
@@ -792,7 +792,7 @@
                 "interesses"
               ],
               "_apoio": [
-                "R$ 1.000,00/mês · 40,0%"
+                "R$ 750,00/mês · 30,0%"
               ],
               "_w": 181.33016967773438,
               "_h": 36,
@@ -803,7 +803,7 @@
               "_rawX": 516.5741758346558,
               "_rawY": 155.18439865112305,
               "_candidatos": null,
-              "budget": 1000,
+              "budget": 750,
               "_w0": 91,
               "_resized": true,
               "_resto": 0,
@@ -821,7 +821,7 @@
                 "look a like"
               ],
               "_apoio": [
-                "R$ 1.000,00/mês · 40,0%"
+                "R$ 750,00/mês · 30,0%"
               ],
               "_w": 181.33016967773438,
               "_h": 36,
@@ -832,7 +832,7 @@
               "_rawX": 516.5741758346558,
               "_rawY": 233.18439865112305,
               "_candidatos": null,
-              "budget": 1000,
+              "budget": 750,
               "_w0": 97.5,
               "_resized": true,
               "_resto": 0,
@@ -874,10 +874,11 @@
             "Circuito"
           ],
           "_apoio": [
-            "R$ 2.500,00/mês · 39,7%"
+            "R$ 2.500,00/mês · 39,7%",
+            "⚠ faltam R$ 500,00 a distribuir"
           ],
           "_w": 195,
-          "_h": 51.375,
+          "_h": 62.375,
           "_dragStartX": 256.4090909957886,
           "_dragStartY": 233.18439865112305,
           "_dragged": false,
