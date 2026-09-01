@@ -2,7 +2,7 @@
   "meta": {
     "nome": "[Microkids] - Setembro a Dezembro",
     "salvoPor": "Matheus",
-    "salvoEm": "2026-09-01T12:39:37.903Z",
+    "salvoEm": "2026-09-01T12:41:15.613Z",
     "resumo": {
       "google": {
         "campanhas": 3,
@@ -531,7 +531,7 @@
             {
               "name": "Look a like",
               "x": 516.5741758346558,
-              "y": -322.6083679199219,
+              "y": -312,
               "collapsed": false,
               "suggestion": false,
               "uid": "umsz7c723vjq3nu",
@@ -545,13 +545,13 @@
               "_w": 181.33016967773438,
               "_h": 36,
               "_dragStartX": 516.5741758346558,
-              "_dragStartY": -312,
+              "_dragStartY": -322.6083679199219,
               "_dragged": true,
               "_w0": 169,
               "_resized": true,
               "width": 181.33016967773438,
-              "_rawX": 518.6958799362183,
-              "_rawY": -322.6083679199219,
+              "_rawX": 513.3524961471558,
+              "_rawY": -309.72186279296875,
               "_candidatos": null,
               "budget": 1000
             },
@@ -625,11 +625,11 @@
           "_w": 195,
           "_h": 51.375,
           "_dragStartX": 256.4090909957886,
-          "_dragStartY": -194,
+          "_dragStartY": -234,
           "_dragged": false,
           "budget": 2500,
           "_rawX": 256.4090909957886,
-          "_rawY": -194,
+          "_rawY": -234,
           "_candidatos": null
         },
         {
@@ -764,17 +764,17 @@
           "_w": 195,
           "_h": 51.375,
           "_dragStartX": 256.4090909957886,
-          "_dragStartY": 54,
+          "_dragStartY": 78,
           "_dragged": false,
           "_rawX": 256.4090909957886,
-          "_rawY": 54,
+          "_rawY": 78,
           "_candidatos": null,
           "budget": 1000,
           "color": "#D14026",
           "uid": "umszhck8ea68erv"
         },
         {
-          "name": "Circuitos",
+          "name": "Circuito",
           "suggestion": false,
           "x": 256.4090909957886,
           "y": 234,
@@ -870,7 +870,7 @@
           "id": "n23",
           "collapsed": false,
           "_lines": [
-            "Circuitos"
+            "Circuito"
           ],
           "_apoio": [
             "R$ 1.500,00/mês · 25,0%"
@@ -878,10 +878,10 @@
           "_w": 195,
           "_h": 51.375,
           "_dragStartX": 256.4090909957886,
-          "_dragStartY": 194,
+          "_dragStartY": 234,
           "_dragged": false,
           "_rawX": 256.4090909957886,
-          "_rawY": 194,
+          "_rawY": 234,
           "_candidatos": null,
           "color": "#328596",
           "note": "",
