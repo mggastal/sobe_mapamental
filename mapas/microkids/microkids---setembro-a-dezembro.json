@@ -2,7 +2,7 @@
   "meta": {
     "nome": "[Microkids] - Setembro a Dezembro",
     "salvoPor": "Matheus",
-    "salvoEm": "2026-09-01T14:33:05.576Z",
+    "salvoEm": "2026-09-01T14:34:17.177Z",
     "resumo": {
       "google": {
         "campanhas": 3,
@@ -11,12 +11,12 @@
       },
       "meta": {
         "campanhas": 4,
-        "verba": 5300,
+        "verba": 6300,
         "inativa": false
       },
       "linkedin": {
         "campanhas": 2,
-        "verba": 1500,
+        "verba": 1000,
         "inativa": false
       },
       "tiktok": {
@@ -621,7 +621,7 @@
             "Webnario"
           ],
           "_apoio": [
-            "R$ 1.800,00/mês · 34,0%"
+            "R$ 1.800,00/mês · 28,6%"
           ],
           "_w": 195,
           "_h": 51.375,
@@ -706,7 +706,7 @@
             "Institucional"
           ],
           "_apoio": [
-            "R$ 1.000,00/mês · 18,9%"
+            "R$ 1.000,00/mês · 15,9%"
           ],
           "_w": 195,
           "_h": 51.375,
@@ -760,7 +760,7 @@
             "Eventos"
           ],
           "_apoio": [
-            "R$ 1.000,00/mês · 18,9%"
+            "R$ 1.000,00/mês · 15,9%"
           ],
           "_w": 195,
           "_h": 51.375,
@@ -792,18 +792,18 @@
                 "interesses"
               ],
               "_apoio": [
-                "R$ 510,00/mês · 34,0%"
+                "R$ 1.000,00/mês · 40,0%"
               ],
               "_w": 181.33016967773438,
               "_h": 36,
               "uid": "umszixlwhrtlcd4",
-              "_dragStartX": 471.4090909957886,
-              "_dragStartY": 132,
+              "_dragStartX": 516.5741758346558,
+              "_dragStartY": 155.18439865112305,
               "_dragged": false,
-              "_rawX": 471.4090909957886,
-              "_rawY": 132,
+              "_rawX": 516.5741758346558,
+              "_rawY": 155.18439865112305,
               "_candidatos": null,
-              "budget": 510,
+              "budget": 1000,
               "_w0": 91,
               "_resized": true,
               "_resto": 0,
@@ -821,18 +821,18 @@
                 "look a like"
               ],
               "_apoio": [
-                "R$ 495,00/mês · 33,0%"
+                "R$ 1.000,00/mês · 40,0%"
               ],
               "_w": 181.33016967773438,
               "_h": 36,
               "uid": "umszixlwh07ymcd",
-              "_dragStartX": 474.6590909957886,
-              "_dragStartY": 194,
+              "_dragStartX": 516.5741758346558,
+              "_dragStartY": 233.18439865112305,
               "_dragged": false,
-              "_rawX": 474.6590909957886,
-              "_rawY": 194,
+              "_rawX": 516.5741758346558,
+              "_rawY": 233.18439865112305,
               "_candidatos": null,
-              "budget": 495,
+              "budget": 1000,
               "_w0": 97.5,
               "_resized": true,
               "_resto": 0,
@@ -850,18 +850,18 @@
                 "remarketing"
               ],
               "_apoio": [
-                "R$ 495,00/mês · 33,0%"
+                "R$ 500,00/mês · 20,0%"
               ],
               "_w": 181.33016967773438,
               "_h": 36,
               "uid": "umszixlwhqurtuu",
-              "_dragStartX": 474.6590909957886,
-              "_dragStartY": 256,
+              "_dragStartX": 516.5741758346558,
+              "_dragStartY": 311.18439865112305,
               "_dragged": false,
-              "_rawX": 474.6590909957886,
-              "_rawY": 256.3333282470703,
+              "_rawX": 516.5741758346558,
+              "_rawY": 311.18439865112305,
               "_candidatos": null,
-              "budget": 495,
+              "budget": 500,
               "_w0": 97.5,
               "_resized": true,
               "_resto": 0,
@@ -874,20 +874,20 @@
             "Circuito"
           ],
           "_apoio": [
-            "R$ 1.500,00/mês · 28,3%"
+            "R$ 2.500,00/mês · 39,7%"
           ],
           "_w": 195,
           "_h": 51.375,
           "_dragStartX": 256.4090909957886,
-          "_dragStartY": 234,
+          "_dragStartY": 233.18439865112305,
           "_dragged": false,
           "_rawX": 256.4090909957886,
-          "_rawY": 234,
+          "_rawY": 233.18439865112305,
           "_candidatos": null,
           "color": "#328596",
           "note": "",
-          "budget": 1500,
-          "uid": "umszhidiv2dleqx"
+          "uid": "umszhidiv2dleqx",
+          "budget": 2500
         }
       ],
       "uid": "umsz7c723f7bzt7",
@@ -896,7 +896,7 @@
         "Meta Ads"
       ],
       "_apoio": [
-        "R$ 5.300,00/mês",
+        "R$ 6.300,00/mês",
         "Campanhas e públicos"
       ],
       "_w": 172,
@@ -904,9 +904,9 @@
       "tracos": [],
       "notas": [],
       "_dragStartX": 0.9090909957885742,
-      "_dragStartY": 0,
+      "_dragStartY": -0.8156013488769531,
       "_dragged": false,
-      "budget": 5300,
+      "budget": 6300,
       "_rawX": 0.9090909957885742,
       "_rawY": -0.8156013488769531,
       "_candidatos": null,
@@ -987,7 +987,7 @@
             "Distribuição de conteúdo"
           ],
           "_apoio": [
-            "R$ 1.000,00/mês · 66,7%",
+            "R$ 1.000,00/mês · 100,0%",
             "Foco para crescimento da página"
           ],
           "_w": 195,
@@ -1020,18 +1020,15 @@
               "_lines": [
                 "Premium"
               ],
-              "_apoio": [
-                "R$ 500,00/mês · 100,0%"
-              ],
+              "_apoio": [],
               "_w": 90,
               "_h": 36,
-              "_dragStartX": 508.4722480773926,
-              "_dragStartY": 51.33449697494507,
+              "_dragStartX": 472.9722480773926,
+              "_dragStartY": 59.49074697494507,
               "_dragged": false,
-              "_rawX": 508.4722480773926,
-              "_rawY": 51.33449697494507,
+              "_rawX": 472.9722480773926,
+              "_rawY": 59.49074697494507,
               "_candidatos": null,
-              "budget": 500,
               "uid": "umszj0vy80m95kq"
             }
           ],
@@ -1040,16 +1037,13 @@
           "_lines": [
             "LinkedIn Page Premium"
           ],
-          "_apoio": [
-            "R$ 500,00/mês · 33,3%"
-          ],
+          "_apoio": [],
           "_w": 195,
-          "_h": 51.375,
+          "_h": 40,
           "_dragStartX": 258.4722480773926,
           "_dragStartY": 59.49074697494507,
           "_dragged": false,
           "note": "",
-          "budget": 500,
           "_rawX": 258.4722480773926,
           "_rawY": 59.49074697494507,
           "_candidatos": null
@@ -1061,7 +1055,7 @@
         "LinkedIn Ads"
       ],
       "_apoio": [
-        "R$ 1.500,00/mês",
+        "R$ 1.000,00/mês",
         "Campanhas e públicos"
       ],
       "_w": 172,
@@ -1088,7 +1082,7 @@
       "_dragStartX": 2.972248077392578,
       "_dragStartY": 0.9907469749450684,
       "_dragged": false,
-      "budget": 1500,
+      "budget": 1000,
       "_rawX": 2.972248077392578,
       "_rawY": 0.9907469749450684,
       "_candidatos": null,
