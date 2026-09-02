@@ -1,8 +1,8 @@
 {
   "meta": {
     "nome": "[Ana Scalea] - Setembro a Dezembro - 2026",
-    "salvoPor": "Tais Jeronimo",
-    "salvoEm": "2026-08-27T20:07:26.457Z",
+    "salvoPor": "Sarah",
+    "salvoEm": "2026-09-02T15:31:22.214Z",
     "resumo": {
       "google": {
         "campanhas": 2,
@@ -11,7 +11,7 @@
       },
       "meta": {
         "campanhas": 2,
-        "verba": 0,
+        "verba": 3600,
         "inativa": false
       },
       "linkedin": {
@@ -26,6 +26,7 @@
       }
     },
     "logo": "",
+    "moeda": "BRL",
     "share": "p26dnnju86wa6y"
   },
   "data": {
@@ -239,7 +240,7 @@
         "Campanhas"
       ],
       "_w": 172,
-      "_h": 52.625,
+      "_h": 84.625,
       "tracos": [],
       "notas": []
     },
@@ -255,83 +256,288 @@
           "name": "Conversão",
           "color": "#1B2F6A",
           "x": 260,
-          "y": -140,
+          "y": -149.09091186523438,
           "collapsed": false,
           "suggestion": false,
           "children": [
             {
               "name": "Remarketing — site 30d",
-              "x": 540,
-              "y": -230,
+              "x": 535.4545288085938,
+              "y": -283.6363525390625,
               "collapsed": false,
               "suggestion": false,
               "uid": "umtbyf8x56496in",
-              "id": "n16"
+              "id": "n16",
+              "_lines": [
+                "Remarketing — site 30d"
+              ],
+              "_apoio": [
+                "R$ 450,00/mês · 15,0%",
+                "Valor máximo"
+              ],
+              "_w": 169,
+              "_h": 36,
+              "_dragStartX": 535.4545288085938,
+              "_dragStartY": -283.6363525390625,
+              "_dragged": false,
+              "_rawX": 535.4545288085938,
+              "_rawY": -283.6363525390625,
+              "_candidatos": null,
+              "budget": 450,
+              "note": "Valor máximo",
+              "children": [
+                {
+                  "name": "Anúncios de remarketing: \"Eu vi que você quase garantiu a vaga...\"",
+                  "suggestion": false,
+                  "x": 881.8181762695312,
+                  "y": -283.6363525390625,
+                  "children": [],
+                  "id": "n40",
+                  "collapsed": false,
+                  "_lines": [
+                    "Anúncios de remarketing: \"Eu vi que você quase",
+                    "garantiu a vaga...\""
+                  ],
+                  "_apoio": [],
+                  "_w": 282.68,
+                  "_h": 39.11,
+                  "_dragStartX": 875.45458984375,
+                  "_dragStartY": -321.1913525390625,
+                  "_dragged": true,
+                  "_rawX": 881.8181762695312,
+                  "_rawY": -283.9186169433594,
+                  "_candidatos": null,
+                  "uid": "umtk97cplx9t98c"
+                }
+              ]
             },
             {
               "name": "Lookalike 1% — compradores",
-              "x": 540,
-              "y": -170,
+              "x": 557.1931648254395,
+              "y": -192.77841186523438,
               "collapsed": false,
               "suggestion": false,
               "uid": "umtbyf8x5g3uc1w",
-              "id": "n17"
+              "id": "n17",
+              "_lines": [
+                "Lookalike 1% — compradores"
+              ],
+              "_apoio": [
+                "R$ 600,00/mês · 20,0%",
+                "orçamento a nível da campanha"
+              ],
+              "_w": 195,
+              "_h": 36,
+              "_dragStartX": 557.1931648254395,
+              "_dragStartY": -192.77841186523438,
+              "_dragged": false,
+              "_rawX": 557.1931648254395,
+              "_rawY": -192.77841186523438,
+              "_candidatos": null,
+              "budget": 600,
+              "note": "orçamento a nível da campanha",
+              "children": [
+                {
+                  "name": "Mais anúncios mostrando o curso por dentro",
+                  "suggestion": false,
+                  "x": 873.7016868591309,
+                  "y": -192.77841186523438,
+                  "children": [],
+                  "id": "n42",
+                  "collapsed": false,
+                  "_lines": [
+                    "Mais anúncios mostrando o curso por dentro"
+                  ],
+                  "_apoio": [],
+                  "_w": 263.0170440673828,
+                  "_h": 27,
+                  "_dragStartX": 787.1931648254395,
+                  "_dragStartY": -192.77841186523438,
+                  "_dragged": false,
+                  "_rawX": 787.1931648254395,
+                  "_rawY": -192.77841186523438,
+                  "_candidatos": null,
+                  "_w0": 90,
+                  "_resized": true,
+                  "_resto": 0,
+                  "width": 263.0170440673828,
+                  "link": "https://www.instagram.com/p/Db5iNg7ggMS/#advertiser",
+                  "uid": "umtk97cpld39gau"
+                }
+              ]
             },
             {
               "name": "Interesses",
-              "x": 540,
-              "y": -110,
+              "x": 557.1931648254395,
+              "y": -105.40341186523438,
               "collapsed": false,
               "suggestion": false,
               "uid": "umtbyf8x54zgkf1",
-              "id": "n18"
+              "id": "n18",
+              "_lines": [
+                "Interesses"
+              ],
+              "_apoio": [
+                "R$ 1.000,00/mês · 33,3%",
+                "orçamento a nível da",
+                "campanha"
+              ],
+              "_w": 125.5227279663086,
+              "_h": 36,
+              "_dragStartX": 552.715892791748,
+              "_dragStartY": -135.90341186523438,
+              "_dragged": true,
+              "_rawX": 551.8068351745605,
+              "_rawY": -112.26705932617188,
+              "_candidatos": null,
+              "budget": 1000,
+              "note": "orçamento a nível da campanha",
+              "_w0": 91,
+              "_resized": true,
+              "_resto": 0,
+              "width": 125.5227279663086
             },
             {
               "name": "Advantage+ (aberto)",
-              "x": 540,
-              "y": -50,
+              "x": 558.2045288085938,
+              "y": -18,
               "collapsed": false,
               "suggestion": false,
               "uid": "umtbyf8x51iwlj0",
-              "id": "n19"
+              "id": "n19",
+              "_lines": [
+                "Advantage+ (aberto)"
+              ],
+              "_apoio": [
+                "R$ 950,00/mês · 31,7%",
+                "orçamento a nível da campanha"
+              ],
+              "_w": 149.5,
+              "_h": 36,
+              "_dragStartX": 545.2045288085938,
+              "_dragStartY": -27.090911865234375,
+              "_dragged": true,
+              "_rawX": 557.022705078125,
+              "_rawY": -11.636366367340088,
+              "_candidatos": null,
+              "note": "orçamento a nível da campanha",
+              "budget": 950
             }
           ],
           "uid": "umtbyf8x58z56tk",
-          "id": "n15"
+          "id": "n15",
+          "_lines": [
+            "Conversão"
+          ],
+          "_apoio": [
+            "R$ 3.000,00/mês · 83,3%"
+          ],
+          "_w": 195,
+          "_h": 51.375,
+          "_dragStartX": 260,
+          "_dragStartY": -149.09091186523438,
+          "_dragged": false,
+          "_rawX": 260,
+          "_rawY": -149.09091186523438,
+          "_candidatos": null,
+          "budget": 3000,
+          "link": "https://docs.google.com/spreadsheets/d/1koWxjLgxc0YroUWkMxPeWcWfcTrDNi6E/edit?usp=sharing&ouid=102427695766134450821&rtpof=true&sd=true"
         },
         {
-          "name": "Reconhecimento",
+          "name": "Distribuição e Seguidores",
           "color": "#328596",
-          "x": 260,
-          "y": 150,
+          "x": 300,
+          "y": 148.18182373046875,
           "collapsed": false,
           "suggestion": false,
           "children": [
             {
               "name": "Ampla — região",
-              "x": 540,
-              "y": 110,
+              "x": 580,
+              "y": 109.80682373046875,
               "collapsed": false,
               "suggestion": false,
               "uid": "umtbyf8x5xyegkn",
-              "id": "n21"
+              "id": "n21",
+              "_lines": [
+                "Ampla — região"
+              ],
+              "_apoio": [
+                "R$ 300,00/mês · 50,0%",
+                "orçamento a nível da",
+                "campanha"
+              ],
+              "_w": 117,
+              "_h": 36,
+              "_dragStartX": 580,
+              "_dragStartY": 109.80682373046875,
+              "_dragged": false,
+              "_rawX": 580,
+              "_rawY": 109.80682373046875,
+              "_candidatos": null,
+              "note": "orçamento a nível da campanha",
+              "budget": 300
             },
             {
               "name": "Interesses amplos",
-              "x": 540,
-              "y": 175,
+              "x": 580,
+              "y": 171.80682373046875,
               "collapsed": false,
               "suggestion": false,
               "uid": "umtbyf8x5e15xjq",
-              "id": "n22"
+              "id": "n22",
+              "_lines": [
+                "Interesses amplos"
+              ],
+              "_apoio": [
+                "R$ 300,00/mês · 50,0%",
+                "orçamento a nível da",
+                "campanha"
+              ],
+              "_w": 136.5,
+              "_h": 36,
+              "_dragStartX": 580,
+              "_dragStartY": 173.18182373046875,
+              "_dragged": false,
+              "_rawX": 580,
+              "_rawY": 173.18182373046875,
+              "_candidatos": null,
+              "note": "orçamento a nível da campanha",
+              "budget": 300
             }
           ],
           "uid": "umtbyf8x58tvo2l",
-          "id": "n20"
+          "id": "n20",
+          "_lines": [
+            "Distribuição e",
+            "Seguidores"
+          ],
+          "_apoio": [
+            "R$ 600,00/mês · 16,7%"
+          ],
+          "_w": 195,
+          "_h": 65.75,
+          "_dragStartX": 300,
+          "_dragStartY": 148.18182373046875,
+          "_dragged": false,
+          "_rawX": 300,
+          "_rawY": 148.18182373046875,
+          "_candidatos": null,
+          "budget": 600
         }
       ],
       "uid": "umtbyf8x4s0pt5s",
-      "id": "n14"
+      "id": "n14",
+      "_lines": [
+        "Meta Ads"
+      ],
+      "_apoio": [
+        "Campanhas e públicos"
+      ],
+      "_w": 172,
+      "_h": 84.625,
+      "tracos": [],
+      "notas": []
     },
     "linkedin": {
       "name": "LinkedIn Ads",
