@@ -1,13 +1,13 @@
 {
   "meta": {
     "nome": "[Ana Scalea] - Setembro a Dezembro - 2026",
-    "salvoPor": "Sarah",
-    "salvoEm": "2026-09-02T15:31:22.214Z",
+    "salvoPor": "Tais Jeronimo",
+    "salvoEm": "2026-09-02T19:42:07.387Z",
     "resumo": {
       "google": {
-        "campanhas": 2,
+        "campanhas": 0,
         "verba": 0,
-        "inativa": false
+        "inativa": true
       },
       "meta": {
         "campanhas": 2,
@@ -242,7 +242,8 @@
       "_w": 172,
       "_h": 84.625,
       "tracos": [],
-      "notas": []
+      "notas": [],
+      "inativa": true
     },
     "meta": {
       "name": "Meta Ads",
@@ -292,7 +293,7 @@
                   "x": 881.8181762695312,
                   "y": -283.6363525390625,
                   "children": [],
-                  "id": "n40",
+                  "id": "n17",
                   "collapsed": false,
                   "_lines": [
                     "Anúncios de remarketing: \"Eu vi que você quase",
@@ -318,7 +319,7 @@
               "collapsed": false,
               "suggestion": false,
               "uid": "umtbyf8x5g3uc1w",
-              "id": "n17",
+              "id": "n18",
               "_lines": [
                 "Lookalike 1% — compradores"
               ],
@@ -343,7 +344,7 @@
                   "x": 873.7016868591309,
                   "y": -192.77841186523438,
                   "children": [],
-                  "id": "n42",
+                  "id": "n19",
                   "collapsed": false,
                   "_lines": [
                     "Mais anúncios mostrando o curso por dentro"
@@ -373,7 +374,7 @@
               "collapsed": false,
               "suggestion": false,
               "uid": "umtbyf8x54zgkf1",
-              "id": "n18",
+              "id": "n20",
               "_lines": [
                 "Interesses"
               ],
@@ -404,7 +405,7 @@
               "collapsed": false,
               "suggestion": false,
               "uid": "umtbyf8x51iwlj0",
-              "id": "n19",
+              "id": "n21",
               "_lines": [
                 "Advantage+ (aberto)"
               ],
@@ -458,7 +459,7 @@
               "collapsed": false,
               "suggestion": false,
               "uid": "umtbyf8x5xyegkn",
-              "id": "n21",
+              "id": "n23",
               "_lines": [
                 "Ampla — região"
               ],
@@ -485,7 +486,7 @@
               "collapsed": false,
               "suggestion": false,
               "uid": "umtbyf8x5e15xjq",
-              "id": "n22",
+              "id": "n24",
               "_lines": [
                 "Interesses amplos"
               ],
@@ -507,7 +508,7 @@
             }
           ],
           "uid": "umtbyf8x58tvo2l",
-          "id": "n20",
+          "id": "n22",
           "_lines": [
             "Distribuição e",
             "Seguidores"
@@ -563,7 +564,7 @@
               "collapsed": false,
               "suggestion": false,
               "uid": "umtbyf8x53ktfic",
-              "id": "n25"
+              "id": "n27"
             },
             {
               "name": "Empresas-alvo (ABM)",
@@ -572,7 +573,7 @@
               "collapsed": false,
               "suggestion": false,
               "uid": "umtbyf8x5z5hmdw",
-              "id": "n26"
+              "id": "n28"
             },
             {
               "name": "Lookalike de clientes",
@@ -581,11 +582,11 @@
               "collapsed": false,
               "suggestion": false,
               "uid": "umtbyf8x5co99vc",
-              "id": "n27"
+              "id": "n29"
             }
           ],
           "uid": "umtbyf8x51lcwiy",
-          "id": "n24"
+          "id": "n26"
         },
         {
           "name": "Reconhecimento",
@@ -602,7 +603,7 @@
               "collapsed": false,
               "suggestion": false,
               "uid": "umtbyf8x59mkjg2",
-              "id": "n29"
+              "id": "n31"
             },
             {
               "name": "Seguidores da página",
@@ -611,15 +612,15 @@
               "collapsed": false,
               "suggestion": false,
               "uid": "umtbyf8x5yrybsq",
-              "id": "n30"
+              "id": "n32"
             }
           ],
           "uid": "umtbyf8x5cv8hpv",
-          "id": "n28"
+          "id": "n30"
         }
       ],
       "uid": "umtbyf8x50gzxk6",
-      "id": "n23"
+      "id": "n25"
     },
     "tiktok": {
       "name": "TikTok Ads",
@@ -646,7 +647,7 @@
               "collapsed": false,
               "suggestion": false,
               "uid": "umtbyf8x527z1lf",
-              "id": "n33"
+              "id": "n35"
             },
             {
               "name": "Interesses e comportamentos",
@@ -655,7 +656,7 @@
               "collapsed": false,
               "suggestion": false,
               "uid": "umtbyf8x5tdac4d",
-              "id": "n34"
+              "id": "n36"
             },
             {
               "name": "Lookalike de compradores",
@@ -664,11 +665,11 @@
               "collapsed": false,
               "suggestion": false,
               "uid": "umtbyf8x5l9p43j",
-              "id": "n35"
+              "id": "n37"
             }
           ],
           "uid": "umtbyf8x5ljtgc5",
-          "id": "n32"
+          "id": "n34"
         },
         {
           "name": "Alcance",
@@ -685,7 +686,7 @@
               "collapsed": false,
               "suggestion": false,
               "uid": "umtbyf8x5dhn9os",
-              "id": "n37"
+              "id": "n39"
             },
             {
               "name": "Engajou com o perfil",
@@ -694,15 +695,15 @@
               "collapsed": false,
               "suggestion": false,
               "uid": "umtbyf8x5gs1844",
-              "id": "n38"
+              "id": "n40"
             }
           ],
           "uid": "umtbyf8x5t8mmka",
-          "id": "n36"
+          "id": "n38"
         }
       ],
       "uid": "umtbyf8x5xagqay",
-      "id": "n31"
+      "id": "n33"
     },
     "cliente": "Ana Scalea",
     "estilo": {
