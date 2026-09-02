@@ -1,16 +1,16 @@
 {
   "meta": {
     "nome": "[Vi Oliver] - Setembro a Dezembro - 2026",
-    "salvoPor": "Matheus",
-    "salvoEm": "2026-09-01T17:51:39.295Z",
+    "salvoPor": "Tais Jeronimo",
+    "salvoEm": "2026-09-02T13:21:43.193Z",
     "resumo": {
       "google": {
         "campanhas": 3,
-        "verba": 0,
+        "verba": 400,
         "inativa": false
       },
       "meta": {
-        "campanhas": 2,
+        "campanhas": 4,
         "verba": 0,
         "inativa": false
       },
@@ -243,15 +243,18 @@
             "Lead - Pesquisa - Master",
             "- Presencial"
           ],
-          "_apoio": [],
+          "_apoio": [
+            "$ 220.00/mês · 55,0%"
+          ],
           "_w": 195,
-          "_h": 48.75,
+          "_h": 65.75,
           "_dragStartX": 260,
           "_dragStartY": -80.90908813476562,
           "_dragged": false,
           "_rawX": 260,
           "_rawY": -80.90908813476562,
-          "_candidatos": null
+          "_candidatos": null,
+          "budget": 220
         },
         {
           "name": "Geração de Demanda - Display",
@@ -259,7 +262,7 @@
           "suggestion": false,
           "x": 260,
           "y": 70,
-          "collapsed": false,
+          "collapsed": true,
           "children": [
             {
               "name": "Remarketing Site",
@@ -284,20 +287,26 @@
               "_candidatos": null
             },
             {
-              "name": "Novo item",
+              "name": "Interesses-Beleza e Saúde",
               "suggestion": false,
               "x": 540.2862243652344,
-              "y": 104,
+              "y": 112.375,
               "children": [],
               "id": "n14",
               "collapsed": false,
               "_lines": [
-                "Novo item"
+                "Interesses-Beleza e Saúde"
               ],
               "_apoio": [],
-              "_w": 90,
+              "_w": 188.5,
               "_h": 36,
-              "uid": "umtbyeug6yx8f6q"
+              "uid": "umtbyeug6yx8f6q",
+              "_dragStartX": 540.2862243652344,
+              "_dragStartY": 104,
+              "_dragged": true,
+              "_rawX": 541.1952819824219,
+              "_rawY": 114,
+              "_candidatos": null
             }
           ],
           "uid": "umtagy1hwlldi8q",
@@ -306,34 +315,37 @@
             "Geração de Demanda -",
             "Display"
           ],
-          "_apoio": [],
+          "_apoio": [
+            "$ 60.00/mês · 15,0%"
+          ],
           "_w": 195,
-          "_h": 48.75,
+          "_h": 65.75,
           "_dragStartX": 260,
-          "_dragStartY": 110,
-          "_dragged": true,
-          "_rawX": 260.9090881347656,
+          "_dragStartY": 70,
+          "_dragged": false,
+          "_rawX": 260,
           "_rawY": 70,
           "_candidatos": null,
-          "tipo": "demandgen"
+          "tipo": "demandgen",
+          "budget": 60
         },
         {
           "name": "Lead - Pesquisa - Master - Online",
           "suggestion": false,
           "x": 260,
-          "y": -17.9375,
+          "y": 0,
           "children": [
             {
               "name": "Inglês",
               "suggestion": false,
-              "x": 505.26690673828125,
-              "y": -116.97280550003052,
+              "x": 503.44873046875,
+              "y": -94.2455335855484,
               "children": [
                 {
                   "name": "online hair specialist\n",
                   "suggestion": false,
-                  "x": 735.9259948730469,
-                  "y": -112.92734885215759,
+                  "x": 734.1078186035156,
+                  "y": -90.20007693767548,
                   "children": [],
                   "id": "n17",
                   "collapsed": false,
@@ -349,8 +361,8 @@
                 {
                   "name": "scalp analysis online\n",
                   "suggestion": false,
-                  "x": 735.9259948730469,
-                  "y": -78.92734885215759,
+                  "x": 734.1078186035156,
+                  "y": -56.200076937675476,
                   "children": [],
                   "id": "n18",
                   "collapsed": false,
@@ -372,8 +384,8 @@
                 {
                   "name": "hair loss diagnosis online",
                   "suggestion": false,
-                  "x": 735.9259948730469,
-                  "y": -44.92734885215759,
+                  "x": 734.1078186035156,
+                  "y": -22.200076937675476,
                   "children": [],
                   "id": "n19",
                   "collapsed": false,
@@ -395,8 +407,8 @@
                 {
                   "name": "hair loss specialist online",
                   "suggestion": false,
-                  "x": 735.9259948730469,
-                  "y": -10.927348852157593,
+                  "x": 734.1078186035156,
+                  "y": 11.799923062324524,
                   "children": [],
                   "id": "n20",
                   "collapsed": false,
@@ -429,14 +441,14 @@
             {
               "name": "Português",
               "suggestion": false,
-              "x": 627.7442016601562,
-              "y": -105.34780550003052,
+              "x": 625.926025390625,
+              "y": -82.6205335855484,
               "children": [
                 {
                   "name": "tricologista online\n",
                   "suggestion": false,
-                  "x": 857.7442016601562,
-                  "y": -109.64325952529907,
+                  "x": 855.926025390625,
+                  "y": -86.91598761081696,
                   "children": [],
                   "id": "n22",
                   "collapsed": false,
@@ -452,8 +464,8 @@
                 {
                   "name": "consulta capilar online\n",
                   "suggestion": false,
-                  "x": 857.7442016601562,
-                  "y": -75.64325952529907,
+                  "x": 855.926025390625,
+                  "y": -52.915987610816956,
                   "children": [],
                   "id": "n23",
                   "collapsed": false,
@@ -469,8 +481,8 @@
                 {
                   "name": "tratamento queda cabelo online\n",
                   "suggestion": false,
-                  "x": 857.7442016601562,
-                  "y": -41.64325952529907,
+                  "x": 855.926025390625,
+                  "y": -18.915987610816956,
                   "children": [],
                   "id": "n24",
                   "collapsed": false,
@@ -492,8 +504,8 @@
                 {
                   "name": "consulta queda de cabelo online\n",
                   "suggestion": false,
-                  "x": 857.7442016601562,
-                  "y": -7.643259525299072,
+                  "x": 855.926025390625,
+                  "y": 15.084012389183044,
                   "children": [],
                   "id": "n25",
                   "collapsed": false,
@@ -530,16 +542,19 @@
             "Lead - Pesquisa - Master",
             "- Online"
           ],
-          "_apoio": [],
+          "_apoio": [
+            "$ 120.00/mês · 30,0%"
+          ],
           "_w": 195,
-          "_h": 48.75,
-          "_dragStartX": 267.2727355957031,
-          "_dragStartY": 0.590911865234375,
+          "_h": 65.75,
+          "_dragStartX": 260,
+          "_dragStartY": -16.386361241340637,
           "_dragged": true,
-          "_rawX": 262.2896423339844,
-          "_rawY": -17.472805500030518,
+          "_rawX": 258.18182373046875,
+          "_rawY": -0.9318162202835083,
           "_candidatos": null,
-          "uid": "umtah8ncux4r2yq"
+          "uid": "umtah8ncux4r2yq",
+          "budget": 120
         }
       ],
       "uid": "umtagy1hwzx72mz",
@@ -548,7 +563,349 @@
         "Google Ads"
       ],
       "_apoio": [
+        "$ 400.00/mês",
         "Campanhas"
+      ],
+      "_w": 172,
+      "_h": 95.625,
+      "tracos": [],
+      "notas": [],
+      "_dragStartX": 0,
+      "_dragStartY": 0,
+      "_dragged": false,
+      "_rawX": 0,
+      "_rawY": 0,
+      "_candidatos": null,
+      "budget": 400
+    },
+    "meta": {
+      "name": "Meta Ads",
+      "note": "Campanhas e públicos",
+      "x": 0,
+      "y": 0,
+      "collapsed": false,
+      "suggestion": false,
+      "children": [
+        {
+          "name": "Distribuição PT",
+          "color": "#328596",
+          "x": 252.59548950195312,
+          "y": -117.43897247314453,
+          "collapsed": true,
+          "suggestion": false,
+          "children": [
+            {
+              "name": "Remarketing — site 30d",
+              "x": 533.5539855957031,
+              "y": -206.20488739013672,
+              "collapsed": false,
+              "suggestion": false,
+              "uid": "umtagy1hwohac74",
+              "id": "n28",
+              "_lines": [
+                "Remarketing — site 30d"
+              ],
+              "_apoio": [],
+              "_w": 169,
+              "_h": 36,
+              "_dragStartX": 540,
+              "_dragStartY": -230,
+              "_dragged": false,
+              "_rawX": 540,
+              "_rawY": -228.7659149169922,
+              "_candidatos": null
+            },
+            {
+              "name": "Lookalike 1% — compradores & Interesses",
+              "x": 545.7721862792969,
+              "y": -135.43897247314453,
+              "collapsed": false,
+              "suggestion": false,
+              "uid": "umtagy1hwymb40c",
+              "id": "n29",
+              "_lines": [
+                "Lookalike 1% — compradores & Interesses"
+              ],
+              "_apoio": [],
+              "_w": 279.5,
+              "_h": 36,
+              "_dragStartX": 552.2182006835938,
+              "_dragStartY": -158,
+              "_dragged": false,
+              "_rawX": 552.2182006835938,
+              "_rawY": -158,
+              "_candidatos": null
+            }
+          ],
+          "uid": "umtagy1hwdrzcq5",
+          "id": "n27",
+          "_lines": [
+            "Distribuição PT"
+          ],
+          "_apoio": [],
+          "_w": 195,
+          "_h": 40,
+          "_dragStartX": 260,
+          "_dragStartY": -140,
+          "_dragged": true,
+          "_rawX": 253.55398559570312,
+          "_rawY": -117.43897247314453,
+          "_candidatos": null
+        },
+        {
+          "name": "Conversão",
+          "color": "#F17747",
+          "x": 252.59548950195312,
+          "y": 73.4866714477539,
+          "collapsed": true,
+          "suggestion": false,
+          "children": [
+            {
+              "name": "Engajados AU",
+              "x": 531.3613739013672,
+              "y": 33.486671447753906,
+              "collapsed": false,
+              "suggestion": false,
+              "uid": "umtagy1hwribhvs",
+              "id": "n33",
+              "_lines": [
+                "Engajados AU"
+              ],
+              "_apoio": [],
+              "_w": 104,
+              "_h": 36,
+              "_dragStartX": 531.3613739013672,
+              "_dragStartY": 33.486671447753906,
+              "_dragged": false,
+              "_rawX": 531.3613739013672,
+              "_rawY": 33.486671447753906,
+              "_candidatos": null
+            },
+            {
+              "name": "Engajados PT",
+              "x": 519.6375579833984,
+              "y": 131.59447479248047,
+              "collapsed": false,
+              "suggestion": false,
+              "uid": "umtagy1hwyj1d9o",
+              "id": "n34",
+              "_lines": [
+                "Engajados PT"
+              ],
+              "_apoio": [],
+              "_w": 104,
+              "_h": 36,
+              "_dragStartX": 531.3613739013672,
+              "_dragStartY": 142.7012481689453,
+              "_dragged": true,
+              "_rawX": 519.6375579833984,
+              "_rawY": 131.59447479248047,
+              "_candidatos": null
+            },
+            {
+              "name": "Lookalike 1% — compradores & Interesses - AU",
+              "suggestion": false,
+              "x": 611.5,
+              "y": 75.4866714477539,
+              "children": [],
+              "id": "n57",
+              "collapsed": false,
+              "_lines": [
+                "Lookalike 1% — compradores & Interesses - AU"
+              ],
+              "_apoio": [],
+              "_w": 312,
+              "_h": 36,
+              "_dragStartX": 531.3613739013672,
+              "_dragStartY": 67.4866714477539,
+              "_dragged": true,
+              "_rawX": 617.7473907470703,
+              "_rawY": 80.44457244873047,
+              "_candidatos": null,
+              "uid": "umtk4klifk6vuyp"
+            },
+            {
+              "name": "Lookalike 1% — compradores & Interesses - PT",
+              "suggestion": false,
+              "x": 623.6375579833984,
+              "y": 184.10576629638672,
+              "children": [],
+              "id": "n59",
+              "collapsed": false,
+              "_lines": [
+                "Lookalike 1% — compradores & Interesses - PT"
+              ],
+              "_apoio": [],
+              "_w": 312,
+              "_h": 36,
+              "_dragStartX": 519.6375579833984,
+              "_dragStartY": 165.59447479248047,
+              "_dragged": true,
+              "_rawX": 621.4496307373047,
+              "_rawY": 184.10576629638672,
+              "_candidatos": null,
+              "uid": "umtk4klif3qg2ie"
+            }
+          ],
+          "uid": "umtagy1hwcrk03e",
+          "id": "n32",
+          "_lines": [
+            "Conversão"
+          ],
+          "_apoio": [],
+          "_w": 195,
+          "_h": 40,
+          "_dragStartX": 252.59548950195312,
+          "_dragStartY": 73.4866714477539,
+          "_dragged": false,
+          "_rawX": 252.59548950195312,
+          "_rawY": 73.4866714477539,
+          "_candidatos": null
+        },
+        {
+          "name": "Distribuição AU",
+          "suggestion": false,
+          "x": 252.59548950195312,
+          "y": -62.3125,
+          "children": [
+            {
+              "name": "Remarketing Site 30d - Inglês",
+              "suggestion": false,
+              "x": 556.7123718261719,
+              "y": -59.49685287475586,
+              "children": [],
+              "id": "n52",
+              "collapsed": false,
+              "_lines": [
+                "Remarketing Site 30d - Inglês"
+              ],
+              "_apoio": [],
+              "_w": 214.5,
+              "_h": 36,
+              "_dragStartX": 549.75,
+              "_dragStartY": -42.3125,
+              "_dragged": true,
+              "_rawX": 555.92041015625,
+              "_rawY": -62.05788040161133,
+              "_candidatos": null,
+              "uid": "umtk4klif4nluab"
+            },
+            {
+              "name": "Lookalike 1% — compradores & Interesses",
+              "suggestion": false,
+              "x": 566.4623718261719,
+              "y": -15.18435287475586,
+              "children": [],
+              "id": "n53",
+              "collapsed": false,
+              "_lines": [
+                "Lookalike 1% — compradores & Interesses"
+              ],
+              "_apoio": [],
+              "_w": 279.5,
+              "_h": 36,
+              "_dragStartX": 571.7182006835938,
+              "_dragStartY": -5.659141540527344,
+              "_dragged": false,
+              "_rawX": 571.7182006835938,
+              "_rawY": -5.659141540527344,
+              "_candidatos": null,
+              "uid": "umtk4klif0i5m0w"
+            }
+          ],
+          "id": "n51",
+          "collapsed": true,
+          "_lines": [
+            "Distribuição AU"
+          ],
+          "_apoio": [],
+          "_w": 195,
+          "_h": 40,
+          "_dragStartX": 252.59548950195312,
+          "_dragStartY": -72.38886260986328,
+          "_dragged": true,
+          "_rawX": 252.59548950195312,
+          "_rawY": -59.49685287475586,
+          "_candidatos": null,
+          "color": "#328596",
+          "uid": "umtk4klifb65lm2"
+        },
+        {
+          "name": "E-book",
+          "suggestion": false,
+          "x": 252.59548950195312,
+          "y": 0,
+          "children": [
+            {
+              "name": "Engajados Perfil PT (Excluindo conversoes)",
+              "suggestion": false,
+              "x": 572.5240173339844,
+              "y": -25.910017132759094,
+              "children": [],
+              "id": "n55",
+              "collapsed": false,
+              "_lines": [
+                "Engajados Perfil PT (Excluindo conversoes)"
+              ],
+              "_apoio": [],
+              "_w": 299,
+              "_h": 36,
+              "_dragStartX": 554.1724548339844,
+              "_dragStartY": -24.3125,
+              "_dragged": false,
+              "_rawX": 554.1724548339844,
+              "_rawY": -24.3125,
+              "_candidatos": null,
+              "uid": "umtk4kliftgh3ql"
+            },
+            {
+              "name": "Engajados Perfil AU (Excluindo conversoes)",
+              "suggestion": false,
+              "x": 572.5240173339844,
+              "y": 22.714982867240906,
+              "children": [],
+              "id": "n56",
+              "collapsed": false,
+              "_lines": [
+                "Engajados Perfil AU (Excluindo conversoes)"
+              ],
+              "_apoio": [],
+              "_w": 299,
+              "_h": 36,
+              "_dragStartX": 469.0205383300781,
+              "_dragStartY": 34.25462341308594,
+              "_dragged": true,
+              "_rawX": 557.8747253417969,
+              "_rawY": 23.147850036621094,
+              "_candidatos": null,
+              "uid": "umtk4klifcv62p0"
+            }
+          ],
+          "id": "n54",
+          "collapsed": true,
+          "_lines": [
+            "E-book"
+          ],
+          "_apoio": [],
+          "_w": 195,
+          "_h": 40,
+          "_dragStartX": 252.59548950195312,
+          "_dragStartY": -12.086238026618958,
+          "_dragged": true,
+          "_rawX": 253.66983032226562,
+          "_rawY": -1.3428937196731567,
+          "_candidatos": null,
+          "color": "#C2508C",
+          "uid": "umtk4klifv3fo3y"
+        }
+      ],
+      "uid": "umtagy1hw7i9kan",
+      "id": "n26",
+      "_lines": [
+        "Meta Ads"
+      ],
+      "_apoio": [
+        "Campanhas e públicos"
       ],
       "_w": 172,
       "_h": 84.625,
@@ -560,96 +917,6 @@
       "_rawX": 0,
       "_rawY": 0,
       "_candidatos": null
-    },
-    "meta": {
-      "name": "Meta Ads",
-      "note": "Campanhas e públicos",
-      "x": 0,
-      "y": 0,
-      "collapsed": false,
-      "suggestion": false,
-      "children": [
-        {
-          "name": "Conversão",
-          "color": "#1B2F6A",
-          "x": 260,
-          "y": -140,
-          "collapsed": false,
-          "suggestion": false,
-          "children": [
-            {
-              "name": "Remarketing — site 30d",
-              "x": 540,
-              "y": -230,
-              "collapsed": false,
-              "suggestion": false,
-              "uid": "umtagy1hwohac74",
-              "id": "n28"
-            },
-            {
-              "name": "Lookalike 1% — compradores",
-              "x": 540,
-              "y": -170,
-              "collapsed": false,
-              "suggestion": false,
-              "uid": "umtagy1hwymb40c",
-              "id": "n29"
-            },
-            {
-              "name": "Interesses",
-              "x": 540,
-              "y": -110,
-              "collapsed": false,
-              "suggestion": false,
-              "uid": "umtagy1hwzexmj9",
-              "id": "n30"
-            },
-            {
-              "name": "Advantage+ (aberto)",
-              "x": 540,
-              "y": -50,
-              "collapsed": false,
-              "suggestion": false,
-              "uid": "umtagy1hw4gst26",
-              "id": "n31"
-            }
-          ],
-          "uid": "umtagy1hwdrzcq5",
-          "id": "n27"
-        },
-        {
-          "name": "Reconhecimento",
-          "color": "#328596",
-          "x": 260,
-          "y": 150,
-          "collapsed": false,
-          "suggestion": false,
-          "children": [
-            {
-              "name": "Ampla — região",
-              "x": 540,
-              "y": 110,
-              "collapsed": false,
-              "suggestion": false,
-              "uid": "umtagy1hwribhvs",
-              "id": "n33"
-            },
-            {
-              "name": "Interesses amplos",
-              "x": 540,
-              "y": 175,
-              "collapsed": false,
-              "suggestion": false,
-              "uid": "umtagy1hwyj1d9o",
-              "id": "n34"
-            }
-          ],
-          "uid": "umtagy1hwcrk03e",
-          "id": "n32"
-        }
-      ],
-      "uid": "umtagy1hw7i9kan",
-      "id": "n26"
     },
     "linkedin": {
       "name": "LinkedIn Ads",
