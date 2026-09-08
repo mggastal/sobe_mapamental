@@ -2,7 +2,7 @@
   "meta": {
     "nome": "[AdOpt] - Setembro a Dezembro",
     "salvoPor": "Matheus",
-    "salvoEm": "2026-09-01T17:51:21.986Z",
+    "salvoEm": "2026-09-08T16:55:17.987Z",
     "resumo": {
       "google": {
         "campanhas": 4,
@@ -11,7 +11,7 @@
       },
       "meta": {
         "campanhas": 1,
-        "verba": 300,
+        "verba": 200,
         "inativa": false
       },
       "linkedin": {
@@ -42,59 +42,115 @@
           "name": "Branding",
           "color": "#C9962C",
           "suggestion": false,
-          "x": 260,
-          "y": -73.5,
+          "x": 255.5,
+          "y": -227.28125,
           "collapsed": false,
           "children": [
             {
-              "name": "Grupo de anúncios 1",
+              "name": "Branding",
               "suggestion": false,
-              "x": 539.0909118652344,
-              "y": -137.2727279663086,
+              "x": 470,
+              "y": -227.28125,
               "collapsed": false,
-              "children": [],
+              "children": [
+                {
+                  "name": "adopt",
+                  "suggestion": false,
+                  "x": 655.5,
+                  "y": -285.78125,
+                  "children": [],
+                  "match": "frase",
+                  "id": "n23",
+                  "collapsed": false,
+                  "_lines": [
+                    "adopt"
+                  ],
+                  "_apoio": [],
+                  "_w": 137,
+                  "_h": 27,
+                  "_dragStartX": 789.0909118652344,
+                  "_dragStartY": -124.5,
+                  "_dragged": false,
+                  "_rawX": 789.0909118652344,
+                  "_rawY": -124.5,
+                  "_candidatos": null,
+                  "uid": "umtswueoecg3kwx"
+                },
+                {
+                  "name": "adopt cookies",
+                  "suggestion": false,
+                  "x": 659.77,
+                  "y": -246.78125,
+                  "children": [],
+                  "match": "ampla",
+                  "id": "n24",
+                  "collapsed": false,
+                  "_lines": [
+                    "adopt cookies"
+                  ],
+                  "_apoio": [],
+                  "_w": 145.54000000000002,
+                  "_h": 27,
+                  "_dragStartX": 789.0909118652344,
+                  "_dragStartY": -91.5,
+                  "_dragged": false,
+                  "_rawX": 789.0909118652344,
+                  "_rawY": -90.59090423583984,
+                  "_candidatos": null,
+                  "uid": "umtswueoea55ady"
+                },
+                {
+                  "name": "adopt lgpd",
+                  "suggestion": false,
+                  "x": 655.5,
+                  "y": -207.78125,
+                  "children": [],
+                  "match": "ampla",
+                  "id": "n25",
+                  "collapsed": false,
+                  "_lines": [
+                    "adopt lgpd"
+                  ],
+                  "_apoio": [],
+                  "_w": 137,
+                  "_h": 27,
+                  "uid": "umtswueoex9jp61"
+                },
+                {
+                  "name": "adopt politica",
+                  "suggestion": false,
+                  "x": 662.56,
+                  "y": -168.78125,
+                  "children": [],
+                  "match": "ampla",
+                  "id": "n26",
+                  "collapsed": false,
+                  "_lines": [
+                    "adopt politica"
+                  ],
+                  "_apoio": [],
+                  "_w": 151.12,
+                  "_h": 27,
+                  "uid": "umtswueoezqxydu"
+                }
+              ],
               "uid": "umszk7sqizjhk5b",
               "id": "n3",
               "_lines": [
-                "Grupo de anúncios 1"
+                "Branding"
               ],
               "_apoio": [
-                "$ 350.00/mês · 50,0%"
+                "$ 700.00/mês · 100,0%"
               ],
-              "_w": 149.5,
+              "_w": 90,
               "_h": 36,
               "_dragStartX": 539.0909118652344,
-              "_dragStartY": -137.2727279663086,
+              "_dragStartY": -73.5,
               "_dragged": false,
               "_rawX": 539.0909118652344,
-              "_rawY": -137.2727279663086,
+              "_rawY": -73.5,
               "_candidatos": null,
-              "budget": 350
-            },
-            {
-              "name": "Grupo de anúncios 2",
-              "suggestion": false,
-              "x": 539.0909118652344,
-              "y": -17.272727966308594,
-              "collapsed": false,
-              "children": [],
-              "uid": "umszk7sqiddk2t9",
-              "id": "n4",
-              "_lines": [
-                "Grupo de anúncios 2"
-              ],
-              "_apoio": [
-                "$ 350.00/mês · 50,0%"
-              ],
-              "_w": 149.5,
-              "_h": 36,
-              "_dragStartX": 539.0909118652344,
-              "_dragStartY": -17.272727966308594,
-              "_dragged": false,
-              "_rawX": 539.0909118652344,
-              "_rawY": -17.272727966308594,
-              "_candidatos": null,
-              "budget": 350
+              "budget": 700
             }
           ],
           "uid": "umszk7sqixnwmp1",
@@ -119,34 +175,137 @@
           "name": "Genéricas",
           "color": "#34A853",
           "suggestion": false,
-          "x": 260,
-          "y": 73.5,
+          "x": 255.5,
+          "y": -18.28125,
           "collapsed": false,
           "children": [
             {
-              "name": "Grupo de anúncios 1",
+              "name": "Genéricas",
               "suggestion": false,
-              "x": 539.0909118652344,
-              "y": 77.2727279663086,
+              "x": 470,
+              "y": -18.28125,
               "collapsed": false,
-              "children": [],
+              "children": [
+                {
+                  "name": "aviso de cookies",
+                  "suggestion": false,
+                  "x": 668.14,
+                  "y": -115.78125,
+                  "children": [],
+                  "match": "ampla",
+                  "id": "n27",
+                  "collapsed": false,
+                  "_lines": [
+                    "aviso de cookies"
+                  ],
+                  "_apoio": [],
+                  "_w": 162.28,
+                  "_h": 27,
+                  "uid": "umtswueoegzn5q8"
+                },
+                {
+                  "name": "politica de cookies",
+                  "suggestion": false,
+                  "x": 676.51,
+                  "y": -76.78125,
+                  "children": [],
+                  "match": "ampla",
+                  "id": "n28",
+                  "collapsed": false,
+                  "_lines": [
+                    "politica de cookies"
+                  ],
+                  "_apoio": [],
+                  "_w": 179.01999999999998,
+                  "_h": 27,
+                  "uid": "umtswueoem0mt5q"
+                },
+                {
+                  "name": "lgpd no site",
+                  "suggestion": false,
+                  "x": 656.98,
+                  "y": -37.78125,
+                  "children": [],
+                  "match": "ampla",
+                  "id": "n29",
+                  "collapsed": false,
+                  "_lines": [
+                    "lgpd no site"
+                  ],
+                  "_apoio": [],
+                  "_w": 139.96,
+                  "_h": 27,
+                  "uid": "umtswueoe29hmfh"
+                },
+                {
+                  "name": "sistema lgpd",
+                  "suggestion": false,
+                  "x": 656.98,
+                  "y": 1.21875,
+                  "children": [],
+                  "match": "ampla",
+                  "id": "n30",
+                  "collapsed": false,
+                  "_lines": [
+                    "sistema lgpd"
+                  ],
+                  "_apoio": [],
+                  "_w": 139.96,
+                  "_h": 27,
+                  "uid": "umtswueoeq80ipt"
+                },
+                {
+                  "name": "politica de cookies",
+                  "suggestion": false,
+                  "x": 676.51,
+                  "y": 40.21875,
+                  "children": [],
+                  "match": "ampla",
+                  "id": "n31",
+                  "collapsed": false,
+                  "_lines": [
+                    "politica de cookies"
+                  ],
+                  "_apoio": [],
+                  "_w": 179.01999999999998,
+                  "_h": 27,
+                  "uid": "umtswueoehy6vq1"
+                },
+                {
+                  "name": "politica cookies",
+                  "suggestion": false,
+                  "x": 668.14,
+                  "y": 79.21875,
+                  "children": [],
+                  "match": "ampla",
+                  "id": "n32",
+                  "collapsed": false,
+                  "_lines": [
+                    "politica cookies"
+                  ],
+                  "_apoio": [],
+                  "_w": 162.28,
+                  "_h": 27,
+                  "uid": "umtswueoen3u13a"
+                }
+              ],
               "uid": "umszk7sqirmyfr9",
               "id": "n6",
               "_lines": [
-                "Grupo de anúncios 1"
+                "Genéricas"
               ],
               "_apoio": [
-                "$ 250.00/mês · 83,3%"
+                "$ 300.00/mês · 100,0%"
               ],
-              "_w": 149.5,
+              "_w": 90,
               "_h": 36,
-              "_dragStartX": 539.0909118652344,
-              "_dragStartY": 77.2727279663086,
+              "_dragStartX": 470,
+              "_dragStartY": -18.28125,
               "_dragged": false,
-              "_rawX": 539.0909118652344,
-              "_rawY": 77.2727279663086,
+              "_rawX": 470,
+              "_rawY": -18.28125,
               "_candidatos": null,
-              "budget": 250
+              "budget": 300
             }
           ],
           "uid": "umszk7sqi3b9ced",
@@ -155,25 +314,47 @@
             "Genéricas"
           ],
           "_apoio": [
-            "$ 300.00/mês · 20,0%",
-            "⚠ faltam $ 50.00 a distribuir"
+            "$ 300.00/mês · 20,0%"
           ],
           "_w": 195,
-          "_h": 62.375,
-          "_dragStartX": 260,
-          "_dragStartY": 73.5,
+          "_h": 51.375,
+          "_dragStartX": 255.5,
+          "_dragStartY": -18.28125,
           "_dragged": false,
-          "_rawX": 260,
-          "_rawY": 73.5,
+          "_rawX": 255.5,
+          "_rawY": -18.28125,
           "_candidatos": null,
           "budget": 300
         },
         {
           "name": "YouTube",
           "suggestion": false,
-          "x": 260,
-          "y": 197.99999237060547,
-          "children": [],
+          "x": 255.5,
+          "y": 144.40625,
+          "children": [
+            {
+              "name": "Vídeo institucional + CTA",
+              "suggestion": false,
+              "x": 519.25,
+              "y": 144.40625,
+              "children": [],
+              "id": "n33",
+              "collapsed": false,
+              "_lines": [
+                "Vídeo institucional + CTA"
+              ],
+              "_apoio": [],
+              "_w": 188.5,
+              "_h": 36,
+              "_dragStartX": 485.5,
+              "_dragStartY": 144.40625,
+              "_dragged": true,
+              "_rawX": 521.4419555664062,
+              "_rawY": 142.2279510498047,
+              "_candidatos": null,
+              "uid": "umtswueoezqa4d4"
+            }
+          ],
           "id": "n7",
           "collapsed": false,
           "_lines": [
@@ -185,11 +366,11 @@
           "_w": 195,
           "_h": 51.375,
           "tipo": "video",
-          "_dragStartX": 260,
-          "_dragStartY": 197.99999237060547,
+          "_dragStartX": 255.5,
+          "_dragStartY": 144.40625,
           "_dragged": false,
-          "_rawX": 260,
-          "_rawY": 197.99999237060547,
+          "_rawX": 255.5,
+          "_rawY": 144.40625,
           "_candidatos": null,
           "color": "#FF0000",
           "budget": 300,
@@ -198,9 +379,40 @@
         {
           "name": "Display",
           "suggestion": false,
-          "x": 260,
-          "y": 308.3636474609375,
-          "children": [],
+          "x": 255.5,
+          "y": 227.28125,
+          "children": [
+            {
+              "name": "Remarketing",
+              "suggestion": false,
+              "x": 519.25,
+              "y": 227.28125,
+              "children": [],
+              "id": "n34",
+              "collapsed": false,
+              "_lines": [
+                "Remarketing"
+              ],
+              "_apoio": [
+                "Público principalmente de pageview +",
+                "Envolvimento no YouTube"
+              ],
+              "_w": 188.5,
+              "_h": 36,
+              "note": "Público principalmente de pageview + Envolvimento no YouTube",
+              "_dragStartX": 525.8590602874756,
+              "_dragStartY": 227.28125,
+              "_dragged": true,
+              "_rawX": 512.7892665863037,
+              "_rawY": 228.3704071044922,
+              "_candidatos": null,
+              "_w0": 178.21812057495117,
+              "_resized": true,
+              "_resto": 0,
+              "width": 188.5,
+              "uid": "umtswueoefc6tv1"
+            }
+          ],
           "id": "n8",
           "collapsed": false,
           "_lines": [
@@ -212,11 +424,11 @@
           ],
           "_w": 195,
           "_h": 62.375,
-          "_dragStartX": 260,
-          "_dragStartY": 291.0909118652344,
-          "_dragged": true,
-          "_rawX": 259.0909118652344,
-          "_rawY": 308.3636474609375,
+          "_dragStartX": 255.5,
+          "_dragStartY": 227.28125,
+          "_dragged": false,
+          "_rawX": 255.5,
+          "_rawY": 227.28125,
           "_candidatos": null,
           "note": "Público quente",
           "color": "#4285F4",
@@ -249,7 +461,7 @@
       "name": "Meta Ads",
       "note": "Campanhas e públicos",
       "x": 0,
-      "y": 0,
+      "y": -0.9090909957885742,
       "collapsed": false,
       "suggestion": false,
       "children": [
@@ -257,36 +469,66 @@
           "name": "Distribuição de conteúdo",
           "color": "#328596",
           "x": 269.0909118652344,
-          "y": 0,
+          "y": -0.9090909957885742,
           "collapsed": false,
           "suggestion": false,
           "children": [
             {
-              "name": "Público frio",
+              "name": "Envolvimento - Interação com o conteúdo",
               "suggestion": false,
-              "x": 488.1818542480469,
-              "y": 0,
+              "x": 566.3636474609375,
+              "y": -88.18181324005127,
               "children": [],
               "id": "n11",
               "collapsed": false,
               "_lines": [
-                "Público frio"
+                "Envolvimento - Interação com o conteúdo"
               ],
               "_apoio": [
-                "$ 300.00/mês · 100,0%",
+                "$ 100.00/mês · 50,0%",
                 "(não seguidores)"
               ],
-              "_w": 104,
+              "_w": 279.5,
               "_h": 36,
               "note": "(não seguidores)",
-              "_dragStartX": 488.1818542480469,
-              "_dragStartY": 0,
-              "_dragged": false,
-              "_rawX": 488.1818542480469,
-              "_rawY": 0,
+              "_dragStartX": 566.3636474609375,
+              "_dragStartY": -125.45454120635986,
+              "_dragged": true,
+              "_rawX": 565.4545288085938,
+              "_rawY": -88.18181324005127,
               "_candidatos": null,
-              "budget": 300,
+              "budget": 100,
               "uid": "umthiab4lojrxmk"
+            },
+            {
+              "name": "Envolvimento - Interação com o Perfil",
+              "suggestion": false,
+              "x": 566.3636474609375,
+              "y": 89.4545488357544,
+              "children": [],
+              "id": "n35",
+              "collapsed": false,
+              "_lines": [
+                "Envolvimento - Interação com o Perfil"
+              ],
+              "_apoio": [
+                "$ 100.00/mês · 50,0%"
+              ],
+              "_w": 279.5,
+              "_h": 36,
+              "budget": 100,
+              "_dragStartX": 566.3636474609375,
+              "_dragStartY": 89.4545488357544,
+              "_dragged": false,
+              "_rawX": 566.3636474609375,
+              "_rawY": 89.4545488357544,
+              "_candidatos": null,
+              "_w0": 266.5,
+              "_resized": true,
+              "_resto": 0,
+              "width": 279.5,
+              "note": "",
+              "uid": "umtswueoejfvgq6"
             }
           ],
           "uid": "umszk7sqi569lzi",
@@ -295,17 +537,17 @@
             "Distribuição de conteúdo"
           ],
           "_apoio": [
-            "$ 300.00/mês · 100,0%"
+            "$ 200.00/mês · 100,0%"
           ],
           "_w": 195,
           "_h": 51.375,
           "_dragStartX": 269.0909118652344,
-          "_dragStartY": 0,
+          "_dragStartY": -0.9090909957885742,
           "_dragged": false,
           "_rawX": 269.0909118652344,
-          "_rawY": 0,
+          "_rawY": -0.9090909957885742,
           "_candidatos": null,
-          "budget": 300
+          "budget": 200
         }
       ],
       "uid": "umszk7sqiyudthr",
@@ -314,7 +556,7 @@
         "Meta Ads"
       ],
       "_apoio": [
-        "$ 300.00/mês",
+        "$ 200.00/mês",
         "Campanhas e públicos"
       ],
       "_w": 172,
@@ -325,9 +567,9 @@
       "_dragStartY": 0,
       "_dragged": false,
       "_rawX": 0,
-      "_rawY": 0,
+      "_rawY": -0.9090909957885742,
       "_candidatos": null,
-      "budget": 300
+      "budget": 200
     },
     "linkedin": {
       "name": "LinkedIn Ads",
@@ -367,7 +609,7 @@
           "name": "Crescimento página",
           "color": "#328596",
           "x": 260,
-          "y": 136.71994972229004,
+          "y": 131.26539039611816,
           "collapsed": false,
           "suggestion": false,
           "children": [],
@@ -382,10 +624,10 @@
           "_w": 195,
           "_h": 51.375,
           "_dragStartX": 260,
-          "_dragStartY": 151.3685245513916,
+          "_dragStartY": 136.71994972229004,
           "_dragged": true,
-          "_rawX": 257.55857849121094,
-          "_rawY": 136.71994972229004,
+          "_rawX": 257.2727355957031,
+          "_rawY": 131.26539039611816,
           "_candidatos": null,
           "_w0": 195,
           "_resized": false,
@@ -404,7 +646,18 @@
       "_w": 172,
       "_h": 84.625,
       "tracos": [],
-      "notas": [],
+      "notas": [
+        {
+          "id": "nota-mtswth0292n",
+          "x": 377.1817970275879,
+          "y": 88.6363594532013,
+          "w": 220,
+          "text": "Verificar se dentro do planejamento, faz sentido.. visto que o valor mínimo é alto para o investimento mensal",
+          "_h": 77.4,
+          "_moveu": true,
+          "uid": "nota-mtswth0292n"
+        }
+      ],
       "_dragStartX": 0,
       "_dragStartY": 0,
       "_dragged": false,
