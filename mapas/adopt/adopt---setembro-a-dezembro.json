@@ -2,11 +2,11 @@
   "meta": {
     "nome": "[AdOpt] - Setembro a Dezembro",
     "salvoPor": "Matheus",
-    "salvoEm": "2026-09-14T16:58:42.547Z",
+    "salvoEm": "2026-09-14T17:00:30.921Z",
     "resumo": {
       "google": {
         "campanhas": 4,
-        "verba": 1500,
+        "verba": 2000,
         "inativa": false
       },
       "meta": {
@@ -16,7 +16,7 @@
       },
       "linkedin": {
         "campanhas": 2,
-        "verba": 400,
+        "verba": 1000,
         "inativa": false
       },
       "tiktok": {
@@ -140,17 +140,17 @@
                 "Branding"
               ],
               "_apoio": [
-                "$ 700.00/mês · 100,0%"
+                "$ 1,000.00/mês · 100,0%"
               ],
               "_w": 90,
               "_h": 36,
-              "_dragStartX": 539.0909118652344,
-              "_dragStartY": -73.5,
+              "_dragStartX": 470,
+              "_dragStartY": -227.28125,
               "_dragged": false,
-              "_rawX": 539.0909118652344,
-              "_rawY": -73.5,
+              "_rawX": 470,
+              "_rawY": -227.28125,
               "_candidatos": null,
-              "budget": 700
+              "budget": 1000
             }
           ],
           "uid": "umszk7sqixnwmp1",
@@ -159,7 +159,7 @@
             "Branding"
           ],
           "_apoio": [
-            "$ 700.00/mês · 46,7%"
+            "$ 1,000.00/mês · 50,0%"
           ],
           "_w": 195,
           "_h": 51.375,
@@ -169,7 +169,7 @@
           "_rawX": 255.5,
           "_rawY": -227.28125,
           "_candidatos": null,
-          "budget": 700
+          "budget": 1000
         },
         {
           "name": "Genéricas",
@@ -295,7 +295,7 @@
                 "Genéricas"
               ],
               "_apoio": [
-                "$ 300.00/mês · 100,0%"
+                "$ 500.00/mês · 100,0%"
               ],
               "_w": 90,
               "_h": 36,
@@ -305,7 +305,7 @@
               "_rawX": 470,
               "_rawY": -18.28125,
               "_candidatos": null,
-              "budget": 300
+              "budget": 500
             }
           ],
           "uid": "umszk7sqi3b9ced",
@@ -314,7 +314,7 @@
             "Genéricas"
           ],
           "_apoio": [
-            "$ 300.00/mês · 20,0%"
+            "$ 500.00/mês · 25,0%"
           ],
           "_w": 195,
           "_h": 51.375,
@@ -324,7 +324,7 @@
           "_rawX": 255.5,
           "_rawY": -18.28125,
           "_candidatos": null,
-          "budget": 300
+          "budget": 500
         },
         {
           "name": "YouTube",
@@ -361,7 +361,7 @@
             "YouTube"
           ],
           "_apoio": [
-            "$ 300.00/mês · 20,0%"
+            "$ 300.00/mês · 15,0%"
           ],
           "_w": 195,
           "_h": 51.375,
@@ -419,7 +419,7 @@
             "Display"
           ],
           "_apoio": [
-            "$ 200.00/mês · 13,3%",
+            "$ 200.00/mês · 10,0%",
             "Público quente"
           ],
           "_w": 195,
@@ -442,7 +442,7 @@
         "Google Ads"
       ],
       "_apoio": [
-        "$ 1,500.00/mês",
+        "$ 2,000.00/mês",
         "Campanhas"
       ],
       "_w": 172,
@@ -455,7 +455,7 @@
       "_rawX": 0,
       "_rawY": 0,
       "_candidatos": null,
-      "budget": 1500
+      "budget": 2000
     },
     "meta": {
       "name": "Meta Ads",
@@ -596,7 +596,7 @@
             "Página premium"
           ],
           "_apoio": [
-            "$ 100.00/mês · 25,0%"
+            "$ 100.00/mês · 10,0%"
           ],
           "_w": 195,
           "_h": 51.375,
@@ -622,20 +622,23 @@
             "Crescimento página"
           ],
           "_apoio": [
-            "$ 300.00/mês · 75,0%"
+            "$ 900.00/mês · 90,0%",
+            "Referente a 3 campanhas em",
+            "paralelo"
           ],
           "_w": 195,
-          "_h": 51.375,
+          "_h": 73.375,
           "_dragStartX": 260,
-          "_dragStartY": 136.71994972229004,
-          "_dragged": true,
-          "_rawX": 257.2727355957031,
+          "_dragStartY": 131.26539039611816,
+          "_dragged": false,
+          "_rawX": 260,
           "_rawY": 131.26539039611816,
           "_candidatos": null,
           "_w0": 195,
           "_resized": false,
           "_resto": 0,
-          "budget": 300
+          "budget": 900,
+          "note": "Referente a 3 campanhas em paralelo"
         }
       ],
       "uid": "umszk7sqiiufb6p",
