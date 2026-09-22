@@ -2,11 +2,11 @@
   "meta": {
     "nome": "[AdOpt] - Setembro a Dezembro",
     "salvoPor": "Matheus",
-    "salvoEm": "2026-09-22T15:03:59.028Z",
+    "salvoEm": "2026-09-22T15:06:12.618Z",
     "resumo": {
       "google": {
         "campanhas": 4,
-        "verba": 2000,
+        "verba": 2500,
         "inativa": false
       },
       "meta": {
@@ -152,17 +152,17 @@
                 "Branding"
               ],
               "_apoio": [
-                "$ 1,000.00/mês · 100,0%"
+                "$ 1,100.00/mês · 100,0%"
               ],
               "_w": 90,
               "_h": 36,
               "_dragStartX": 470,
-              "_dragStartY": -227.28125,
+              "_dragStartY": -432.9375,
               "_dragged": false,
               "_rawX": 470,
-              "_rawY": -227.28125,
+              "_rawY": -432.9375,
               "_candidatos": null,
-              "budget": 1000,
+              "budget": 1100,
               "ads": {
                 "url": "",
                 "path1": "",
@@ -188,17 +188,17 @@
             "Branding"
           ],
           "_apoio": [
-            "$ 1,000.00/mês · 50,0%"
+            "$ 1,100.00/mês · 44,0%"
           ],
           "_w": 195,
           "_h": 51.375,
           "_dragStartX": 255.5,
-          "_dragStartY": -227.28125,
+          "_dragStartY": -432.9375,
           "_dragged": false,
           "_rawX": 255.5,
-          "_rawY": -227.28125,
+          "_rawY": -432.9375,
           "_candidatos": null,
-          "budget": 1000
+          "budget": 1100
         },
         {
           "name": "Genéricas",
@@ -559,17 +559,17 @@
                 "Genéricas"
               ],
               "_apoio": [
-                "$ 500.00/mês · 100,0%"
+                "$ 750.00/mês · 100,0%"
               ],
               "_w": 90,
               "_h": 36,
               "_dragStartX": 470,
-              "_dragStartY": -18.28125,
+              "_dragStartY": -9.4375,
               "_dragged": false,
-              "_rawX": 470.92669677734375,
-              "_rawY": -18.28125,
+              "_rawX": 470,
+              "_rawY": -9.4375,
               "_candidatos": null,
-              "budget": 500,
+              "budget": 750,
               "ads": {
                 "url": "",
                 "path1": "",
@@ -595,17 +595,17 @@
             "Genéricas"
           ],
           "_apoio": [
-            "$ 500.00/mês · 25,0%"
+            "$ 750.00/mês · 30,0%"
           ],
           "_w": 195,
           "_h": 51.375,
           "_dragStartX": 255.5,
-          "_dragStartY": -11.6875,
+          "_dragStartY": -9.4375,
           "_dragged": false,
           "_rawX": 255.5,
-          "_rawY": -11.6875,
+          "_rawY": -9.4375,
           "_candidatos": null,
-          "budget": 500,
+          "budget": 750,
           "negativas": [
             "curso",
             "cursos",
@@ -717,9 +717,9 @@
           "y": 355.5625,
           "children": [
             {
-              "name": "Vídeo institucional + CTA",
+              "name": "Vídeos",
               "suggestion": false,
-              "x": 519.25,
+              "x": 470,
               "y": 355.5625,
               "children": [
                 {
@@ -749,21 +749,24 @@
               "id": "n17",
               "collapsed": false,
               "_lines": [
-                "Vídeo institucional + CTA"
+                "Vídeos"
               ],
-              "_apoio": [],
-              "_w": 188.5,
+              "_apoio": [
+                "$ 450.00/mês · 100,0%"
+              ],
+              "_w": 90,
               "_h": 36,
               "_dragStartX": 519.25,
-              "_dragStartY": 377.3125,
+              "_dragStartY": 355.5625,
               "_dragged": false,
               "_rawX": 519.25,
-              "_rawY": 377.3125,
+              "_rawY": 355.5625,
               "_candidatos": null,
               "uid": "umtswueoezqa4d4",
               "negativas": [
                 "anúncios em vídeo"
-              ]
+              ],
+              "budget": 450
             }
           ],
           "id": "n16",
@@ -772,19 +775,19 @@
             "YouTube"
           ],
           "_apoio": [
-            "$ 300.00/mês · 15,0%"
+            "$ 450.00/mês · 18,0%"
           ],
           "_w": 195,
           "_h": 51.375,
           "tipo": "video",
           "_dragStartX": 255.5,
-          "_dragStartY": 144.40625,
+          "_dragStartY": 355.5625,
           "_dragged": false,
           "_rawX": 255.5,
-          "_rawY": 144.40625,
+          "_rawY": 355.5625,
           "_candidatos": null,
           "color": "#FF0000",
-          "budget": 300,
+          "budget": 450,
           "uid": "umthj7s2db7jfvv"
         },
         {
@@ -829,17 +832,18 @@
                 "Remarketing"
               ],
               "_apoio": [
+                "$ 200.00/mês · 100,0%",
                 "Público principalmente de pageview +",
                 "Envolvimento no YouTube"
               ],
               "_w": 188.5,
               "_h": 36,
               "note": "Público principalmente de pageview + Envolvimento no YouTube",
-              "_dragStartX": 525.8590602874756,
-              "_dragStartY": 227.28125,
-              "_dragged": true,
-              "_rawX": 512.7892665863037,
-              "_rawY": 228.3704071044922,
+              "_dragStartX": 519.25,
+              "_dragStartY": 432.9375,
+              "_dragged": false,
+              "_rawX": 519.25,
+              "_rawY": 432.9375,
               "_candidatos": null,
               "_w0": 178.21812057495117,
               "_resized": true,
@@ -862,7 +866,8 @@
                 "descPins": [
                   0
                 ]
-              }
+              },
+              "budget": 200
             }
           ],
           "id": "n18",
@@ -871,7 +876,7 @@
             "Display"
           ],
           "_apoio": [
-            "$ 200.00/mês · 10,0%",
+            "$ 200.00/mês · 8,0%",
             "Público quente"
           ],
           "_w": 195,
@@ -894,7 +899,7 @@
         "Google Ads"
       ],
       "_apoio": [
-        "$ 2,000.00/mês",
+        "$ 2,500.00/mês",
         "Campanhas"
       ],
       "_w": 172,
@@ -907,7 +912,7 @@
       "_rawX": 0,
       "_rawY": 0,
       "_candidatos": null,
-      "budget": 2000,
+      "budget": 2500,
       "sharedAds": {
         "url": "https://dash.goadopt.io/register",
         "path1": "",
