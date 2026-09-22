@@ -2,7 +2,7 @@
   "meta": {
     "nome": "[AdOpt] - Setembro a Dezembro",
     "salvoPor": "Matheus",
-    "salvoEm": "2026-09-16T18:08:07.150Z",
+    "salvoEm": "2026-09-22T14:54:50.703Z",
     "resumo": {
       "google": {
         "campanhas": 4,
@@ -162,7 +162,24 @@
               "_rawX": 470,
               "_rawY": -227.28125,
               "_candidatos": null,
-              "budget": 1000
+              "budget": 1000,
+              "ads": {
+                "url": "",
+                "path1": "",
+                "path2": "",
+                "headlines": [
+                  ""
+                ],
+                "descriptions": [
+                  ""
+                ],
+                "headPins": [
+                  0
+                ],
+                "descPins": [
+                  0
+                ]
+              }
             }
           ],
           "uid": "umszk7sqixnwmp1",
@@ -353,7 +370,24 @@
               "_rawX": 470,
               "_rawY": -18.28125,
               "_candidatos": null,
-              "budget": 500
+              "budget": 500,
+              "ads": {
+                "url": "",
+                "path1": "",
+                "path2": "",
+                "headlines": [
+                  ""
+                ],
+                "descriptions": [
+                  ""
+                ],
+                "headPins": [
+                  0
+                ],
+                "descPins": [
+                  0
+                ]
+              }
             }
           ],
           "uid": "umszk7sqi3b9ced",
@@ -458,7 +492,24 @@
               "_resized": true,
               "_resto": 0,
               "width": 188.5,
-              "uid": "umtswueoefc6tv1"
+              "uid": "umtswueoefc6tv1",
+              "ads": {
+                "url": "",
+                "path1": "",
+                "path2": "",
+                "headlines": [
+                  ""
+                ],
+                "descriptions": [
+                  ""
+                ],
+                "headPins": [
+                  0
+                ],
+                "descPins": [
+                  0
+                ]
+              }
             }
           ],
           "id": "n18",
@@ -503,7 +554,44 @@
       "_rawX": 0,
       "_rawY": 0,
       "_candidatos": null,
-      "budget": 2000
+      "budget": 2000,
+      "sharedAds": {
+        "url": "https://dash.goadopt.io/register",
+        "path1": "",
+        "path2": "",
+        "headlines": [
+          "AdOpt",
+          "Adicione um aviso de cookies",
+          "Instale um aviso rápido",
+          "Adeque seu site a LGPD",
+          "Crie sua política de cookies",
+          "Aviso aprovado pelo Google",
+          "Gestão de Consentimentos",
+          "Faça sua política de cookies",
+          "Evite multas da LGPD"
+        ],
+        "descriptions": [
+          "Crie, customize a sua política de cookies em minutos, torne o seu site adequado agora",
+          "Política de cookies atualizada. A solução fácil e rápida para o seu site",
+          "Geramos a sua política de cookies personalizada em segundos"
+        ],
+        "headPins": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "descPins": [
+          0,
+          0,
+          0
+        ]
+      }
     },
     "meta": {
       "name": "Meta Ads",
