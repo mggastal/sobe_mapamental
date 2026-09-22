@@ -2,11 +2,11 @@
   "meta": {
     "nome": "[AdOpt] - Setembro a Dezembro",
     "salvoPor": "Matheus",
-    "salvoEm": "2026-09-22T15:06:33.062Z",
+    "salvoEm": "2026-09-22T15:09:35.303Z",
     "resumo": {
       "google": {
         "campanhas": 4,
-        "verba": 2500,
+        "verba": 5000,
         "inativa": false
       },
       "meta": {
@@ -152,7 +152,7 @@
                 "Branding"
               ],
               "_apoio": [
-                "$ 1,100.00/mês · 100,0%"
+                "$ 2,500.00/mês · 100,0%"
               ],
               "_w": 90,
               "_h": 36,
@@ -162,7 +162,7 @@
               "_rawX": 470,
               "_rawY": -432.9375,
               "_candidatos": null,
-              "budget": 1100,
+              "budget": 2500,
               "ads": {
                 "url": "",
                 "path1": "",
@@ -188,7 +188,7 @@
             "Branding"
           ],
           "_apoio": [
-            "$ 1,100.00/mês · 44,0%"
+            "$ 2,500.00/mês · 50,0%"
           ],
           "_w": 195,
           "_h": 51.375,
@@ -198,7 +198,7 @@
           "_rawX": 255.5,
           "_rawY": -432.9375,
           "_candidatos": null,
-          "budget": 1100
+          "budget": 2500
         },
         {
           "name": "Genéricas",
@@ -360,7 +360,7 @@
                   "y": -87.4375,
                   "children": [],
                   "match": "exata",
-                  "id": "n35",
+                  "id": "n16",
                   "collapsed": false,
                   "_lines": [
                     "lgpd site"
@@ -377,7 +377,7 @@
                   "y": -48.4375,
                   "children": [],
                   "match": "exata",
-                  "id": "n36",
+                  "id": "n17",
                   "collapsed": false,
                   "_lines": [
                     "aviso de cookies"
@@ -394,7 +394,7 @@
                   "y": -9.4375,
                   "children": [],
                   "match": "exata",
-                  "id": "n37",
+                  "id": "n18",
                   "collapsed": false,
                   "_lines": [
                     "política de cookies"
@@ -411,7 +411,7 @@
                   "y": 29.5625,
                   "children": [],
                   "match": "exata",
-                  "id": "n38",
+                  "id": "n19",
                   "collapsed": false,
                   "_lines": [
                     "politica de cookie"
@@ -428,7 +428,7 @@
                   "y": 68.5625,
                   "children": [],
                   "match": "exata",
-                  "id": "n39",
+                  "id": "n20",
                   "collapsed": false,
                   "_lines": [
                     "sistema lgpd"
@@ -445,7 +445,7 @@
                   "y": 107.5625,
                   "children": [],
                   "match": "exata",
-                  "id": "n40",
+                  "id": "n21",
                   "collapsed": false,
                   "_lines": [
                     "texto para cookies"
@@ -462,7 +462,7 @@
                   "y": 146.5625,
                   "children": [],
                   "match": "exata",
-                  "id": "n41",
+                  "id": "n22",
                   "collapsed": false,
                   "_lines": [
                     "politicas de cookies"
@@ -479,7 +479,7 @@
                   "y": 185.5625,
                   "children": [],
                   "match": "exata",
-                  "id": "n42",
+                  "id": "n23",
                   "collapsed": false,
                   "_lines": [
                     "politica de cookies"
@@ -496,7 +496,7 @@
                   "y": 224.5625,
                   "children": [],
                   "match": "exata",
-                  "id": "n43",
+                  "id": "n24",
                   "collapsed": false,
                   "_lines": [
                     "adequação lgpd"
@@ -513,7 +513,7 @@
                   "y": 263.5625,
                   "children": [],
                   "match": "exata",
-                  "id": "n44",
+                  "id": "n25",
                   "collapsed": false,
                   "_lines": [
                     "aviso de cookie"
@@ -536,7 +536,7 @@
                   "y": 302.5625,
                   "children": [],
                   "match": "exata",
-                  "id": "n45",
+                  "id": "n26",
                   "collapsed": false,
                   "_lines": [
                     "texto de cookies"
@@ -559,7 +559,7 @@
                 "Genéricas"
               ],
               "_apoio": [
-                "$ 750.00/mês · 100,0%"
+                "$ 1,500.00/mês · 100,0%"
               ],
               "_w": 90,
               "_h": 36,
@@ -569,7 +569,7 @@
               "_rawX": 470,
               "_rawY": -9.4375,
               "_candidatos": null,
-              "budget": 750,
+              "budget": 1500,
               "ads": {
                 "url": "",
                 "path1": "",
@@ -595,7 +595,7 @@
             "Genéricas"
           ],
           "_apoio": [
-            "$ 750.00/mês · 30,0%"
+            "$ 1,500.00/mês · 30,0%"
           ],
           "_w": 195,
           "_h": 51.375,
@@ -605,7 +605,7 @@
           "_rawX": 255.5,
           "_rawY": -9.4375,
           "_candidatos": null,
-          "budget": 750,
+          "budget": 1500,
           "negativas": [
             "curso",
             "cursos",
@@ -728,7 +728,7 @@
                   "x": 755.48,
                   "y": 355.5625,
                   "children": [],
-                  "id": "n48",
+                  "id": "n29",
                   "collapsed": false,
                   "_lines": [
                     "Ads em vídeo"
@@ -746,36 +746,36 @@
                   "match": "exata"
                 }
               ],
-              "id": "n17",
+              "id": "n28",
               "collapsed": false,
               "_lines": [
                 "Vídeos"
               ],
               "_apoio": [
-                "$ 450.00/mês · 100,0%"
+                "$ 700.00/mês · 100,0%"
               ],
               "_w": 90,
               "_h": 36,
-              "_dragStartX": 519.25,
+              "_dragStartX": 470,
               "_dragStartY": 355.5625,
               "_dragged": false,
-              "_rawX": 519.25,
+              "_rawX": 470,
               "_rawY": 355.5625,
               "_candidatos": null,
               "uid": "umtswueoezqa4d4",
               "negativas": [
                 "anúncios em vídeo"
               ],
-              "budget": 450
+              "budget": 700
             }
           ],
-          "id": "n16",
+          "id": "n27",
           "collapsed": false,
           "_lines": [
             "YouTube"
           ],
           "_apoio": [
-            "$ 450.00/mês · 18,0%"
+            "$ 700.00/mês · 14,0%"
           ],
           "_w": 195,
           "_h": 51.375,
@@ -787,8 +787,8 @@
           "_rawY": 355.5625,
           "_candidatos": null,
           "color": "#FF0000",
-          "budget": 450,
-          "uid": "umthj7s2db7jfvv"
+          "uid": "umthj7s2db7jfvv",
+          "budget": 700
         },
         {
           "name": "Display",
@@ -808,7 +808,7 @@
                   "x": 758.27,
                   "y": 432.9375,
                   "children": [],
-                  "id": "n47",
+                  "id": "n32",
                   "collapsed": false,
                   "_lines": [
                     "Ads em imagem"
@@ -826,13 +826,13 @@
                   "match": "exata"
                 }
               ],
-              "id": "n19",
+              "id": "n31",
               "collapsed": false,
               "_lines": [
                 "Remarketing"
               ],
               "_apoio": [
-                "$ 200.00/mês · 100,0%",
+                "$ 300.00/mês · 100,0%",
                 "Público principalmente de pageview +",
                 "Envolvimento no YouTube"
               ],
@@ -867,29 +867,29 @@
                   0
                 ]
               },
-              "budget": 200
+              "budget": 300
             }
           ],
-          "id": "n18",
+          "id": "n30",
           "collapsed": false,
           "_lines": [
             "Display"
           ],
           "_apoio": [
-            "$ 200.00/mês · 8,0%",
+            "$ 300.00/mês · 6,0%",
             "Público quente"
           ],
           "_w": 195,
           "_h": 62.375,
           "_dragStartX": 255.5,
-          "_dragStartY": 227.28125,
+          "_dragStartY": 432.9375,
           "_dragged": false,
           "_rawX": 255.5,
-          "_rawY": 227.28125,
+          "_rawY": 432.9375,
           "_candidatos": null,
           "note": "Público quente",
           "color": "#4285F4",
-          "budget": 200,
+          "budget": 300,
           "uid": "umthj7s2d201pur"
         }
       ],
@@ -899,7 +899,7 @@
         "Google Ads"
       ],
       "_apoio": [
-        "$ 2,500.00/mês",
+        "$ 5,000.00/mês",
         "Campanhas"
       ],
       "_w": 172,
@@ -912,7 +912,7 @@
       "_rawX": 0,
       "_rawY": 0,
       "_candidatos": null,
-      "budget": 2500,
+      "budget": 5000,
       "sharedAds": {
         "url": "https://dash.goadopt.io/register",
         "path1": "",
@@ -973,7 +973,7 @@
               "x": 566.3636474609375,
               "y": -88.18181324005127,
               "children": [],
-              "id": "n22",
+              "id": "n35",
               "collapsed": false,
               "_lines": [
                 "Envolvimento - Interação com o conteúdo"
@@ -1000,7 +1000,7 @@
               "x": 566.3636474609375,
               "y": 89.4545488357544,
               "children": [],
-              "id": "n23",
+              "id": "n36",
               "collapsed": false,
               "_lines": [
                 "Envolvimento - Interação com o Perfil"
@@ -1026,7 +1026,7 @@
             }
           ],
           "uid": "umszk7sqi569lzi",
-          "id": "n21",
+          "id": "n34",
           "_lines": [
             "Distribuição de conteúdo"
           ],
@@ -1048,7 +1048,7 @@
         }
       ],
       "uid": "umszk7sqiyudthr",
-      "id": "n20",
+      "id": "n33",
       "_lines": [
         "Meta Ads"
       ],
@@ -1085,7 +1085,7 @@
           "suggestion": false,
           "children": [],
           "uid": "umszk7sqidq4ib0",
-          "id": "n25",
+          "id": "n38",
           "_lines": [
             "Página premium"
           ],
@@ -1111,7 +1111,7 @@
           "suggestion": false,
           "children": [],
           "uid": "umszk7sqijkl40f",
-          "id": "n26",
+          "id": "n39",
           "_lines": [
             "Crescimento página"
           ],
@@ -1136,7 +1136,7 @@
         }
       ],
       "uid": "umszk7sqiiufb6p",
-      "id": "n24",
+      "id": "n37",
       "_lines": [
         "LinkedIn Ads"
       ],
@@ -1190,7 +1190,7 @@
               "collapsed": false,
               "suggestion": false,
               "uid": "umszk7sqiqofd57",
-              "id": "n29"
+              "id": "n42"
             },
             {
               "name": "Interesses e comportamentos",
@@ -1199,7 +1199,7 @@
               "collapsed": false,
               "suggestion": false,
               "uid": "umszk7sqix4ji0s",
-              "id": "n30"
+              "id": "n43"
             },
             {
               "name": "Lookalike de compradores",
@@ -1208,11 +1208,11 @@
               "collapsed": false,
               "suggestion": false,
               "uid": "umszk7sqi12jnev",
-              "id": "n31"
+              "id": "n44"
             }
           ],
           "uid": "umszk7sqi2imt7a",
-          "id": "n28"
+          "id": "n41"
         },
         {
           "name": "Alcance",
@@ -1229,7 +1229,7 @@
               "collapsed": false,
               "suggestion": false,
               "uid": "umszk7sqi5z2ued",
-              "id": "n33"
+              "id": "n46"
             },
             {
               "name": "Engajou com o perfil",
@@ -1238,15 +1238,15 @@
               "collapsed": false,
               "suggestion": false,
               "uid": "umszk7sqi7yh7dy",
-              "id": "n34"
+              "id": "n47"
             }
           ],
           "uid": "umszk7sqi94l6a1",
-          "id": "n32"
+          "id": "n45"
         }
       ],
       "uid": "umszk7sqi575ixp",
-      "id": "n27"
+      "id": "n40"
     },
     "cliente": "[AdOpt] - Setembro a Dezembro",
     "estilo": {
