@@ -2,21 +2,21 @@
   "meta": {
     "nome": "[AdOpt] - Setembro a Dezembro",
     "salvoPor": "Matheus",
-    "salvoEm": "2026-09-28T18:21:55.271Z",
+    "salvoEm": "2026-10-23T14:56:53.926Z",
     "resumo": {
       "google": {
         "campanhas": 4,
-        "verba": 5000,
+        "verba": 1500,
         "inativa": false
       },
       "meta": {
         "campanhas": 1,
-        "verba": 600,
+        "verba": 300,
         "inativa": false
       },
       "linkedin": {
         "campanhas": 2,
-        "verba": 1000,
+        "verba": 200,
         "inativa": false
       },
       "tiktok": {
@@ -152,7 +152,7 @@
                 "Branding"
               ],
               "_apoio": [
-                "$ 2,500.00/mês · 100,0%"
+                "$ 800.00/mês · 100,0%"
               ],
               "_w": 90,
               "_h": 36,
@@ -162,7 +162,7 @@
               "_rawX": 470,
               "_rawY": -432.9375,
               "_candidatos": null,
-              "budget": 2500,
+              "budget": 800,
               "ads": {
                 "url": "",
                 "path1": "",
@@ -188,7 +188,7 @@
             "Branding"
           ],
           "_apoio": [
-            "$ 2,500.00/mês · 50,0%"
+            "$ 800.00/mês · 53,3%"
           ],
           "_w": 195,
           "_h": 51.375,
@@ -198,7 +198,7 @@
           "_rawX": 255.5,
           "_rawY": -432.9375,
           "_candidatos": null,
-          "budget": 2500
+          "budget": 800
         },
         {
           "name": "Genéricas",
@@ -559,7 +559,7 @@
                 "Genéricas"
               ],
               "_apoio": [
-                "$ 1,500.00/mês · 100,0%"
+                "$ 400.00/mês · 100,0%"
               ],
               "_w": 90,
               "_h": 36,
@@ -569,7 +569,7 @@
               "_rawX": 470,
               "_rawY": -9.4375,
               "_candidatos": null,
-              "budget": 1500,
+              "budget": 400,
               "ads": {
                 "url": "",
                 "path1": "",
@@ -595,7 +595,7 @@
             "Genéricas"
           ],
           "_apoio": [
-            "$ 1,500.00/mês · 30,0%"
+            "$ 400.00/mês · 26,7%"
           ],
           "_w": 195,
           "_h": 51.375,
@@ -605,7 +605,7 @@
           "_rawX": 255.5,
           "_rawY": -9.4375,
           "_candidatos": null,
-          "budget": 1500,
+          "budget": 400,
           "negativas": [
             "curso",
             "cursos",
@@ -752,7 +752,7 @@
                 "Vídeos"
               ],
               "_apoio": [
-                "$ 700.00/mês · 100,0%"
+                "$ 200.00/mês · 100,0%"
               ],
               "_w": 90,
               "_h": 36,
@@ -766,7 +766,7 @@
               "negativas": [
                 "anúncios em vídeo"
               ],
-              "budget": 700
+              "budget": 200
             }
           ],
           "id": "n27",
@@ -775,7 +775,7 @@
             "YouTube"
           ],
           "_apoio": [
-            "$ 700.00/mês · 14,0%"
+            "$ 200.00/mês · 13,3%"
           ],
           "_w": 195,
           "_h": 51.375,
@@ -788,7 +788,7 @@
           "_candidatos": null,
           "color": "#FF0000",
           "uid": "umthj7s2db7jfvv",
-          "budget": 700
+          "budget": 200
         },
         {
           "name": "Display",
@@ -832,7 +832,7 @@
                 "Remarketing"
               ],
               "_apoio": [
-                "$ 300.00/mês · 100,0%",
+                "$ 100.00/mês · 100,0%",
                 "Público principalmente de pageview +",
                 "Envolvimento no YouTube"
               ],
@@ -867,7 +867,7 @@
                   0
                 ]
               },
-              "budget": 300
+              "budget": 100
             }
           ],
           "id": "n30",
@@ -876,7 +876,7 @@
             "Display"
           ],
           "_apoio": [
-            "$ 300.00/mês · 6,0%",
+            "$ 100.00/mês · 6,7%",
             "Público quente"
           ],
           "_w": 195,
@@ -889,7 +889,7 @@
           "_candidatos": null,
           "note": "Público quente",
           "color": "#4285F4",
-          "budget": 300,
+          "budget": 100,
           "uid": "umthj7s2d201pur"
         }
       ],
@@ -899,7 +899,7 @@
         "Google Ads"
       ],
       "_apoio": [
-        "$ 5,000.00/mês",
+        "$ 1,500.00/mês",
         "Campanhas"
       ],
       "_w": 172,
@@ -912,7 +912,6 @@
       "_rawX": 0,
       "_rawY": 0,
       "_candidatos": null,
-      "budget": 5000,
       "sharedAds": {
         "url": "https://dash.goadopt.io/register",
         "path1": "",
@@ -949,7 +948,8 @@
           0,
           0
         ]
-      }
+      },
+      "budget": 1500
     },
     "meta": {
       "name": "Meta Ads",
@@ -968,37 +968,10 @@
           "suggestion": false,
           "children": [
             {
-              "name": "Envolvimento - Interação com o conteúdo",
-              "suggestion": false,
-              "x": 566.3636474609375,
-              "y": -88.18181324005127,
-              "children": [],
-              "id": "n35",
-              "collapsed": false,
-              "_lines": [
-                "Envolvimento - Interação com o conteúdo"
-              ],
-              "_apoio": [
-                "$ 100.00/mês · 16,7%",
-                "(não seguidores)"
-              ],
-              "_w": 279.5,
-              "_h": 36,
-              "note": "(não seguidores)",
-              "_dragStartX": 566.3636474609375,
-              "_dragStartY": -88.18181324005127,
-              "_dragged": false,
-              "_rawX": 566.3636474609375,
-              "_rawY": -88.18181324005127,
-              "_candidatos": null,
-              "budget": 100,
-              "uid": "umthiab4lojrxmk"
-            },
-            {
               "name": "Envolvimento - Interação com o Perfil",
               "suggestion": false,
-              "x": 566.3636474609375,
-              "y": 89.4545488357544,
+              "x": 580.9090576171875,
+              "y": -0.9090909957885742,
               "children": [],
               "id": "n36",
               "collapsed": false,
@@ -1006,16 +979,16 @@
                 "Envolvimento - Interação com o Perfil"
               ],
               "_apoio": [
-                "$ 500.00/mês · 83,3%"
+                "$ 300.00/mês · 100,0%"
               ],
               "_w": 279.5,
               "_h": 36,
-              "budget": 500,
+              "budget": 300,
               "_dragStartX": 566.3636474609375,
               "_dragStartY": 89.4545488357544,
-              "_dragged": false,
-              "_rawX": 566.3636474609375,
-              "_rawY": 89.4545488357544,
+              "_dragged": true,
+              "_rawX": 580.9090576171875,
+              "_rawY": -4.181815505027771,
               "_candidatos": null,
               "_w0": 266.5,
               "_resized": true,
@@ -1031,7 +1004,7 @@
             "Distribuição de conteúdo"
           ],
           "_apoio": [
-            "$ 600.00/mês · 100,0%",
+            "$ 300.00/mês · 100,0%",
             "Foco em aumento de seguidores e",
             "crescimento de engajamento"
           ],
@@ -1044,7 +1017,7 @@
           "_rawY": -0.9090909957885742,
           "_candidatos": null,
           "note": "Foco em aumento de seguidores e crescimento de engajamento",
-          "budget": 600
+          "budget": 300
         }
       ],
       "uid": "umszk7sqiyudthr",
@@ -1053,7 +1026,7 @@
         "Meta Ads"
       ],
       "_apoio": [
-        "$ 600.00/mês",
+        "$ 300.00/mês",
         "Campanhas e públicos"
       ],
       "_w": 172,
@@ -1066,7 +1039,7 @@
       "_rawX": 0,
       "_rawY": -0.9090909957885742,
       "_candidatos": null,
-      "budget": 600
+      "budget": 300
     },
     "linkedin": {
       "name": "LinkedIn Ads",
@@ -1090,7 +1063,7 @@
             "Página premium"
           ],
           "_apoio": [
-            "$ 100.00/mês · 10,0%"
+            "$ 100.00/mês · 50,0%"
           ],
           "_w": 195,
           "_h": 51.375,
@@ -1116,7 +1089,7 @@
             "Crescimento página"
           ],
           "_apoio": [
-            "$ 900.00/mês · 90,0%",
+            "$ 100.00/mês · 50,0%",
             "Referente a 3 campanhas em",
             "paralelo"
           ],
@@ -1131,7 +1104,7 @@
           "_w0": 195,
           "_resized": false,
           "_resto": 0,
-          "budget": 900,
+          "budget": 100,
           "note": "Referente a 3 campanhas em paralelo"
         }
       ],
