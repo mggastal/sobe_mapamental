@@ -1,6 +1,10 @@
 <!DOCTYPE html>
 <html lang="pt-BR">
 <head>
+<script>
+  // link do cliente: esconde a tela até o projeto compartilhado chegar, para não aparecer o mapa padrão
+  if (/[?&]s=[a-z0-9]+/i.test(location.search)) document.documentElement.classList.add("abrindo-link");
+</script>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>Mapa Mental</title>
@@ -1080,6 +1084,9 @@
   body.cl-compartilhado #platformBar, body.cl-compartilhado .tabs, body.cl-compartilhado #moedaSelect,
   body.cl-compartilhado .logo-cliente, body.cl-compartilhado .barra-bolinha{display:none !important;}
   #checklistPrint{display:none;}
+  html.abrindo-link body > *{visibility:hidden !important;}
+  html.abrindo-link body::before{content:"Carregando…"; position:fixed; inset:0; z-index:9999; display:flex; align-items:center; justify-content:center;
+    background:var(--bg); color:var(--gray); font:13px Arial, Helvetica, sans-serif; visibility:visible;}
   @media print{
     body.imprimindo-cl{display:block; height:auto; overflow:visible; background:#fff;}
     html:has(body.imprimindo-cl){height:auto; overflow:visible;}
@@ -8497,7 +8504,11 @@ if (TOKEN_CLIENTE && nuvemConfigurada()) {
   (async () => {
     try {
       const r = await apiNuvem("/shared?s=" + encodeURIComponent(TOKEN_CLIENTE));
-      if (r.data && r.data.tipo === "checklist") { clAbrirCompartilhado(r); return; }
+      if (r.data && r.data.tipo === "checklist") {
+        clAbrirCompartilhado(r);
+        document.documentElement.classList.remove("abrindo-link");
+        return;
+      }
       aplicarStore(r.data);
       projetoAtual = null;
       const inp = document.getElementById("clientName");
@@ -8511,7 +8522,9 @@ if (TOKEN_CLIENTE && nuvemConfigurada()) {
         if (primeira) setPlatform(primeira);
       }
       fitView();
+      document.documentElement.classList.remove("abrindo-link");
     } catch (e) {
+      document.documentElement.classList.remove("abrindo-link");
       document.body.innerHTML =
         '<div style="font-family:DM Sans,Segoe UI,sans-serif; max-width:420px; margin:16vh auto; text-align:center; color:#2E3646;">' +
         '<h2 style="font-family:Georgia,serif; color:#18355E;">Link indisponível</h2>' +
