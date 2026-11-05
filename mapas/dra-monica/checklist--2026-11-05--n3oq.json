@@ -2,13 +2,13 @@
   "meta": {
     "nome": "Checklist – POPLIST - Perpetuo - Dra Monica – 05/11/2026",
     "salvoPor": "Matheus",
-    "salvoEm": "2026-11-05T16:01:56.317Z",
+    "salvoEm": "2026-11-05T18:30:01.021Z",
     "resumo": {
       "tipo": "checklist",
       "data": "2026-11-05",
       "responsavel": "Matheus",
-      "total": 32,
-      "avaliados": 32,
+      "total": 31,
+      "avaliados": 31,
       "problemas": 0
     },
     "logo": "",
@@ -131,6 +131,13 @@
       "linkedin",
       "google_ads",
       "gmb"
-    ]
+    ],
+    "tags": {
+      "ga4": "G-QQ9HKVW657",
+      "gtm": "GTM-5342JKGS",
+      "google_ads": "AW-17972367008",
+      "hotjar": "6655950",
+      "meta": "1432275918328069"
+    }
   }
 }
