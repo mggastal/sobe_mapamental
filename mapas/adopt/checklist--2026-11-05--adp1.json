@@ -2,7 +2,7 @@
   "meta": {
     "nome": "Checklist – AdOpt – 05/11/2026",
     "salvoPor": "Matheus",
-    "salvoEm": "2026-11-05T18:08:39.284Z",
+    "salvoEm": "2026-11-05T18:11:50.784Z",
     "resumo": {
       "tipo": "checklist",
       "data": "2026-11-05",
@@ -37,8 +37,7 @@
         "s": "ok"
       },
       "gtm-container-publicado-e-sem-tags": {
-        "s": "ok",
-        "o": "A revisar: o script do GTM aparece mais de uma vez na página"
+        "s": "ok"
       },
       "gtm-tags-antigas-ou-nao-utilizadas": {
         "s": "ok"
@@ -122,8 +121,7 @@
         "s": "ok"
       },
       "meta-frequencia-de-exibicao-control": {
-        "s": "ok",
-        "o": "A revisar: conjunto QUENTE com frequência alta"
+        "s": "ok"
       },
       "meta-conjuntos-com-melhor-e-pior-pe": {
         "s": "ok"
