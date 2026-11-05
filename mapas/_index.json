@@ -298,16 +298,16 @@
     "dra-monica/checklist-dra-monica": {
       "nome": "Checklist Dra Monica",
       "salvoPor": "Matheus",
-      "salvoEm": "2026-11-05T15:53:24.663Z",
+      "salvoEm": "2026-11-05T15:56:07.702Z",
       "resumo": {
         "google": {
-          "campanhas": 2,
+          "campanhas": 0,
           "verba": 0,
-          "inativa": false
+          "inativa": true
         },
         "meta": {
           "campanhas": 2,
-          "verba": 0,
+          "verba": 2400,
           "inativa": false
         },
         "linkedin": {
