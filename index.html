@@ -995,9 +995,112 @@
   @media print{
     .toolbar, .edit-panel, .credit{ display:none !important; }
   }
+
+  /* ---------- tela de projetos: tipo do item ---------- */
+  .proj-tag{display:inline-block; font-size:10px; font-weight:700; letter-spacing:.02em; border-radius:4px; padding:2px 6px; margin-right:7px; vertical-align:1px; white-space:nowrap;}
+  .proj-tag.mapa{background:#E4F1F4; color:#1B6E7E;}
+  .proj-tag.checklist{background:#FBEDE6; color:#A8451D;}
+  .proj-tipos{display:inline-flex; border:1px solid #D8DEE7; border-radius:7px; overflow:hidden; background:#fff;}
+  .proj-topo .proj-tipos button{border:none; border-radius:0; background:transparent; color:var(--gray); padding:9px 12px; font-size:12px; font-weight:700; white-space:nowrap;}
+  .proj-topo .proj-tipos button + button{border-left:1px solid #D8DEE7;}
+  .proj-topo .proj-tipos button span{font-weight:400; opacity:.75; margin-left:3px;}
+  .proj-topo .proj-tipos button.sel{background:var(--title-blue); color:#fff;}
+  .proj-total .cl-prob{color:#C1121F;}
+  .proj-total .cl-semprob{color:#1E6E4A;}
+
+  /* ---------- checklist ---------- */
+  body.em-checklist .tool-group, body.em-checklist .barra-bolinha{display:none;}
+  body.cliente .pbtn[data-platform="checklist"]{display:none !important;}
+  #checklistView{font-size:13px; color:var(--navy);}
+  .cl-botoes{display:flex; flex-wrap:wrap; gap:8px; align-items:center;}
+  .cl-btn{border:1px solid #D8DEE7; background:#fff; color:var(--title-blue); border-radius:7px; padding:8px 13px; font:700 12px Arial, Helvetica, sans-serif; cursor:pointer;}
+  .cl-btn:hover{background:#F4F6F9;}
+  .cl-btn.forte{background:var(--title-blue); border-color:var(--title-blue); color:#fff;}
+  .cl-btn.forte:hover{background:var(--navy-bar);}
+  .cl-btn:focus-visible, .cl-st:focus-visible, .cl-head:focus-visible{outline:2px solid var(--teal); outline-offset:1px;}
+  .cl-voltar{background:none; border:none; padding:0; margin:0 0 12px; color:var(--teal); font:700 12px Arial, Helvetica, sans-serif; cursor:pointer;}
+  .cl-tabela{background:#fff; border-radius:10px; overflow:hidden; margin-top:14px;}
+  .cl-linha{display:flex; align-items:center; gap:14px; width:100%; padding:13px 16px; border:none; border-bottom:1px solid #EEF1F5; background:none; text-align:left; font:13px Arial, Helvetica, sans-serif; color:var(--navy); cursor:pointer;}
+  .cl-linha:last-child{border-bottom:none;}
+  .cl-linha:hover{background:#F7F9FB;}
+  .cl-linha b{color:var(--title-blue);}
+  .cl-linha .cl-l-data{width:92px; flex-shrink:0; font-weight:700; color:var(--title-blue); font-variant-numeric:tabular-nums;}
+  .cl-linha .cl-l-quem{flex:1; min-width:0; color:var(--gray);}
+  .cl-linha .cl-l-prog{color:var(--gray); white-space:nowrap; font-variant-numeric:tabular-nums;}
+  .cl-pill{display:inline-block; border-radius:10px; padding:2px 9px; font-size:11px; font-weight:700; white-space:nowrap;}
+  .cl-pill.prob{background:#FBE9EA; color:#C1121F;}
+  .cl-pill.limpo{background:#E7F0EC; color:#1E6E4A;}
+  .cl-meta{display:flex; flex-wrap:wrap; gap:12px; background:#fff; border-radius:10px; padding:12px 16px; margin-bottom:12px;}
+  .cl-campo{display:flex; flex-direction:column; gap:3px; flex:1 1 160px; min-width:0;}
+  .cl-campo label{font-size:10px; font-weight:700; letter-spacing:.04em; text-transform:uppercase; color:var(--gray-light);}
+  .cl-campo input{border:1px solid #D8DEE7; border-radius:6px; padding:7px 9px; font:13px Arial, Helvetica, sans-serif; color:var(--navy); width:100%; background:#fff;}
+  .cl-campo .cl-fixo{padding:7px 0; font-weight:700; color:var(--title-blue);}
+  .cl-prog{display:flex; align-items:center; gap:12px; flex-wrap:wrap; margin-bottom:12px;}
+  .cl-barra{flex:1 1 160px; height:6px; border-radius:3px; background:#DCE2EA; overflow:hidden;}
+  .cl-barra i{display:block; height:100%; width:0; background:var(--teal);}
+  .cl-prog-txt{font-size:12px; color:var(--gray); font-variant-numeric:tabular-nums; white-space:nowrap;}
+  .cl-card{background:#fff; border-radius:10px; margin-bottom:8px; overflow:hidden;}
+  .cl-head{display:flex; align-items:center; gap:10px; padding:11px 14px; cursor:pointer; user-select:none;}
+  .cl-head img{width:20px; height:20px; object-fit:contain; flex-shrink:0;}
+  .cl-nome{flex:1; min-width:0; font-weight:700; color:var(--title-blue);}
+  .cl-conta{font-size:11.5px; color:var(--gray-light); font-variant-numeric:tabular-nums; white-space:nowrap;}
+  .cl-conta .tem-prob{color:#C1121F; font-weight:700;}
+  .cl-usa{display:inline-flex; align-items:center; gap:5px; font-size:11px; color:var(--gray); cursor:pointer; white-space:nowrap;}
+  .cl-seta{color:var(--gray-light); font-size:10px; transition:transform .15s;}
+  .cl-card.aberto .cl-seta{transform:rotate(180deg);}
+  .cl-corpo{display:none; border-top:1px solid #EEF1F5;}
+  .cl-card.aberto .cl-corpo{display:block;}
+  .cl-card.desligado .cl-corpo{display:none;}
+  .cl-card.desligado .cl-head{opacity:.5;}
+  .cl-secao{padding:8px 14px 3px; font-size:10px; font-weight:700; letter-spacing:.05em; text-transform:uppercase; color:var(--gray-light); background:#F7F9FB;}
+  .cl-item{display:flex; flex-wrap:wrap; gap:6px 12px; align-items:flex-start; padding:9px 14px; border-top:1px solid #F1F4F8;}
+  .cl-txt{flex:1 1 280px; min-width:0;}
+  .cl-txt textarea{display:block; width:100%; margin-top:5px; border:1px solid transparent; border-radius:5px; padding:4px 6px; background:#F7F9FB; font:12px Arial, Helvetica, sans-serif; color:var(--navy); resize:none; overflow:hidden;}
+  .cl-txt textarea:focus{border-color:#B9C4D2; background:#fff; outline:none;}
+  .cl-sts{display:flex; gap:4px; flex-shrink:0;}
+  .cl-st{border:1px solid #D8DEE7; background:#fff; color:var(--gray); border-radius:6px; padding:5px 9px; font:700 11px Arial, Helvetica, sans-serif; cursor:pointer; white-space:nowrap;}
+  .cl-st.sel-ok{background:#1E6E4A; border-color:#1E6E4A; color:#fff;}
+  .cl-st.sel-issue{background:#C1121F; border-color:#C1121F; color:#fff;}
+  .cl-st.sel-na{background:#7B8494; border-color:#7B8494; color:#fff;}
+  .cl-item.na .cl-rotulo{color:var(--gray-light); text-decoration:line-through;}
+  .cl-estado{font-size:12px; color:var(--gray);}
+  .cl-estado.sujo{color:#A8451D; font-weight:700;}
+  .cl-estado.erro{color:#C1121F; font-weight:700;}
+  .cl-estado.ok{color:#1E6E4A; font-weight:700;}
+  .cl-acoes{position:sticky; bottom:0; background:var(--bg); padding:12px 0; margin-top:6px;}
+  #checklistPrint{display:none;}
+  @media print{
+    body.imprimindo-cl{display:block; height:auto; overflow:visible; background:#fff;}
+    html:has(body.imprimindo-cl){height:auto; overflow:visible;}
+    body.imprimindo-cl > *:not(#checklistPrint){display:none !important;}
+    body.imprimindo-cl #checklistPrint{display:block; font:11px Arial, Helvetica, sans-serif; color:#171C2A;}
+    @page{margin:14mm 12mm;}
+    .clp-topo{display:flex; align-items:center; gap:12px; border-bottom:2px solid #18355E; padding-bottom:8px; margin-bottom:10px;}
+    .clp-topo img{height:30px;}
+    .clp-topo h1{font:700 16px Georgia, serif; color:#18355E; margin:0;}
+    .clp-meta{font-size:11px; color:#444; margin-bottom:10px;}
+    .clp-meta b{color:#171C2A;}
+    .clp-card{border:1px solid #DCE2EA; border-radius:6px; margin-bottom:8px; break-inside:avoid-page;}
+    .clp-card h2{display:flex; align-items:center; gap:7px; margin:0; padding:6px 10px; font-size:12px; color:#18355E; background:#F4F6F9; -webkit-print-color-adjust:exact; print-color-adjust:exact;}
+    .clp-card h2 img{width:14px; height:14px; object-fit:contain;}
+    .clp-sec{padding:5px 10px 1px; font-size:8.5px; font-weight:700; letter-spacing:.05em; text-transform:uppercase; color:#8A93A3;}
+    .clp-item{display:flex; gap:8px; justify-content:space-between; padding:3px 10px; break-inside:avoid;}
+    .clp-obs{font-size:10px; color:#444; margin-top:2px;}
+    .clp-st{flex-shrink:0; font-weight:700; font-size:10px;}
+    .clp-st.ok{color:#1A7A45;} .clp-st.issue{color:#C1121F;} .clp-st.na{color:#8A93A3;} .clp-st.vazio{color:#B9C4D2;}
+  }
+  @media (max-width: 640px){
+    .proj-tipos{width:100%;}
+    .proj-topo .proj-tipos button{flex:1; padding:9px 4px;}
+    .cl-sts{width:100%;}
+    .cl-st{flex:1;}
+    .cl-linha{flex-wrap:wrap;}
+  }
 </style>
 </head>
 <body>
+
+<div id="checklistPrint"></div>
 
 <header>
   <img src="sobe.png" alt="Sobé Estratégias" class="header-logo" onerror="this.style.display='none'">
@@ -1024,6 +1127,7 @@
 
 <nav class="platform-bar" id="platformBar">
   <button class="pbtn" data-platform="geral">◱ Geral</button>
+  <button class="pbtn" data-platform="checklist">☑ Checklist</button>
   <button class="pbtn active" data-platform="google"><img src="googleads.png" alt="" onerror="this.remove()">Google Ads</button>
   <button class="pbtn" data-platform="meta"><img src="metaads.png" alt="" onerror="this.remove()">Meta Ads</button>
   <button class="pbtn" data-platform="linkedin"><img src="linkedinads.png" alt="" onerror="this.remove()">LinkedIn Ads</button>
@@ -1077,7 +1181,7 @@
       <img src="sobe.png" alt="" onerror="this.style.display='none'">
       <div>
         <h1>Projetos</h1>
-        <p>Mapas de mídia paga da Sobé</p>
+        <p>Mapas e checklists de mídia paga da Sobé</p>
       </div>
     </div>
     <div style="display:flex; gap:8px; align-items:center;">
@@ -1091,6 +1195,7 @@
     <div class="proj-topo">
       <button class="btn-add" id="projNovo">+ Novo projeto</button>
       <input type="search" id="projBusca" placeholder="Buscar por projeto, responsável ou pasta…" autocomplete="off">
+      <span class="proj-tipos" id="projTipos" role="group" aria-label="Filtrar por tipo"></span>
       <span class="vis-troca">
         <button class="btn-color" id="visLista" title="Ver em lista">☰</button>
         <button class="btn-color" id="visGrade" title="Ver em grade">▦</button>
@@ -1514,6 +1619,7 @@
   <div id="listView"></div>
   <div id="budgetView" class="panel-view"></div>
   <div id="geralView" class="panel-view"></div>
+  <div id="checklistView" class="panel-view"></div>
   <div id="reviewView" class="panel-view"></div>
   <div id="adsView" class="panel-view"></div>
   <div class="credit"><img src="sobe.png" alt="" onerror="this.style.display='none'">Sobé Estratégias</div>
@@ -2154,7 +2260,7 @@ function scheduleSave() {
   saveTimer = setTimeout(() => {
     // na aba Geral o treeData é o da última plataforma aberta:
     // gravar aqui sobrescreveria a árvore errada
-    if (platform !== "geral") store[platform] = treeData;
+    if (!semArvore(platform)) store[platform] = treeData;
     localStorage.setItem(STORAGE_KEY, JSON.stringify(store));
     if (typeof alteradoDesdeSalvar !== "undefined") {
       alteradoDesdeSalvar = true;
@@ -2671,16 +2777,21 @@ const geralViewEl = document.getElementById("geralView");
 const reviewViewEl = document.getElementById("reviewView");
 const PLATFORM_TITLES = {
   geral: "Visão Geral — Distribuição de Verba",
+  checklist: "Checklist de Performance",
   google: "Google Ads — Mapa Mental",
   meta: "Meta Ads — Mapa Mental",
   linkedin: "LinkedIn Ads — Mapa Mental",
   tiktok: "TikTok Ads — Mapa Mental"
 };
 
+// abas que não têm árvore própria: não podem gravar treeData em store[platform]
+function semArvore(p) { return p === "geral" || p === "checklist"; }
+
 function setPlatform(p) {
   platform = p;
   document.querySelectorAll(".pbtn[data-platform]").forEach(b => b.classList.toggle("active", b.getAttribute("data-platform") === p));
-  document.body.classList.toggle("no-subtabs", p === "geral");
+  document.body.classList.toggle("no-subtabs", semArvore(p));
+  document.body.classList.toggle("em-checklist", p === "checklist");
   document.getElementById("headerTitle").textContent = PLATFORM_TITLES[p];
   history = [];
   selectedIds.clear();
@@ -2688,6 +2799,12 @@ function setPlatform(p) {
 
   if (typeof atualizaBarraPlataformas === "function") atualizaBarraPlataformas();
   if (p === "geral") { setView("geral"); return; }
+  if (p === "checklist") {
+    setView("checklist");
+    if (!clAtual) carregarLista().then(() => { if (currentView === "checklist") renderChecklist(); });
+    atualizaChipNuvem();
+    return;
+  }
 
   treeData = store[p];
   const ehGoogle = (p === "google");
@@ -2712,7 +2829,7 @@ function setPlatform(p) {
   const csvBtn = document.getElementById("exportCsv");
   if (csvBtn) csvBtn.parentNode.style.display = ehGoogle ? "" : "none";
   let v = currentView;
-  if (v === "geral" || (v === "ads" && !ehGoogle)) v = "map";
+  if (v === "geral" || v === "checklist" || (v === "ads" && !ehGoogle)) v = "map";
   setView(v);
   render();
   setTimeout(fitView, 40);
@@ -2729,6 +2846,7 @@ function setView(v) {
   listViewEl.classList.toggle("active", v === "list");
   budgetViewEl.classList.toggle("active", v === "budget");
   geralViewEl.classList.toggle("active", v === "geral");
+  document.getElementById("checklistView").classList.toggle("active", v === "checklist");
   reviewViewEl.classList.toggle("active", v === "review");
   adsViewEl.classList.toggle("active", v === "ads");
   document.querySelector(".toolbar").style.display = (v === "map" || v === "list") ? "" : "none";
@@ -2736,6 +2854,7 @@ function setView(v) {
   if (v === "list") renderListView();
   if (v === "budget") renderBudget();
   if (v === "geral") renderGeral();
+  if (v === "checklist") renderChecklist();
   if (v === "review") renderReview();
   if (v === "ads") renderAds();
 }
@@ -3362,7 +3481,7 @@ function updatePanelForSelection() {
 
   // a caixinha só existe no item que representa a plataforma
   const linhaInativa = document.getElementById("inativaRow");
-  linhaInativa.style.display = (depth === 0 && platform !== "geral") ? "flex" : "none";
+  linhaInativa.style.display = (depth === 0 && !semArvore(platform)) ? "flex" : "none";
   if (depth === 0) {
     document.getElementById("inativaToggle").checked = !!n.inativa;
     document.getElementById("inativaTexto").textContent =
@@ -3497,7 +3616,7 @@ noteInputEl.addEventListener("input", () => {
 });
 function alternaUsoPlataforma(usar) {
   const raiz = store[platform];
-  if (!raiz || platform === "geral") return;
+  if (!raiz || semArvore(platform)) return;
   pushHistory();
   if (usar) delete raiz.inativa; else raiz.inativa = true;
   if (typeof updatePanelForSelection === "function" && selectedIds.size === 1) updatePanelForSelection();
@@ -3528,7 +3647,7 @@ document.getElementById("inativaToggle").addEventListener("change", function () 
 function atualizaBarraPlataformas() {
   const btn = document.getElementById("usaPlataforma");
   if (btn) {
-    const ehPlataforma = (platform !== "geral");
+    const ehPlataforma = !semArvore(platform);
     btn.style.display = (ehPlataforma && !MODO_CLIENTE) ? "" : "none";
     if (ehPlataforma) {
       const usa = plataformaAtiva(platform);
@@ -3541,7 +3660,7 @@ function atualizaBarraPlataformas() {
   }
   document.querySelectorAll(".pbtn[data-platform]").forEach(b => {
     const p = b.getAttribute("data-platform");
-    if (p === "geral") return;
+    if (semArvore(p)) return;
     const fora = !plataformaAtiva(p);
     b.classList.toggle("fora", fora);
     b.title = fora ? "O cliente não utiliza esta plataforma" : "";
@@ -3733,7 +3852,7 @@ document.getElementById("exportHtml").onclick = () => {
     shell = shell.replace("__SHELL_B64_TOKEN__", () => APP_SHELL_B64);
     // na aba Geral o treeData é o da última plataforma aberta:
     // gravar aqui sobrescreveria a árvore errada
-    if (platform !== "geral") store[platform] = treeData;
+    if (!semArvore(platform)) store[platform] = treeData;
     shell = shell.replace('"__INITIAL_DATA_JSON__"', () => JSON.stringify(JSON.stringify(store)));
     const novoId = "m" + Date.now().toString(36) + Math.random().toString(36).slice(2, 7);
     shell = shell.replace('"__MAP_ID__"', () => JSON.stringify(novoId));
@@ -5573,7 +5692,7 @@ function undo() {
     treeData = JSON.parse(snap);
     // na aba Geral o treeData é o da última plataforma aberta:
     // gravar aqui sobrescreveria a árvore errada
-    if (platform !== "geral") store[platform] = treeData;
+    if (!semArvore(platform)) store[platform] = treeData;
     selectedIds.clear();
     deselect();
     render();
@@ -7105,6 +7224,452 @@ function textoRelatorio(rel) {
   return partes.length ? partes.join(", ") : "nenhuma alteração sua";
 }
 
+// ================= CHECKLIST DE PERFORMANCE =================
+// Cada checklist é um arquivo próprio na pasta do cliente (checklist--data--xxxx),
+// gravado pelo mesmo Worker dos mapas. O prefixo do arquivo é o que define o tipo.
+const CHECKLIST_TOOLS = [
+  {"id": "ga4", "logo": "logos/ga4.svg", "name": "Google Analytics 4", "secoes": [{"titulo": "Configuração", "itens": [["ga4-propriedade-ga4-instalada-e-re", "Propriedade GA4 instalada e recebendo dados"], ["ga4-codigo-via-gtm-ou-direto-sem-d", "Código via GTM ou direto — sem duplicidade"]]}, {"titulo": "Eventos e Conversões", "itens": [["ga4-conversoes-configuradas-e-alin", "Conversões configuradas e alinhadas ao objetivo do cliente"], ["ga4-eventos-de-formulario-e-cta-di", "Eventos de formulário e CTA disparando corretamente"]]}, {"titulo": "Integrações", "itens": [["ga4-google-ads-vinculado", "Google Ads vinculado"], ["ga4-search-console-vinculado", "Search Console vinculado"]]}]},
+  {"id": "gtm", "logo": "logos/gtm.svg", "name": "Google Tag Manager", "secoes": [{"titulo": "Saúde do Container", "itens": [["gtm-container-publicado-e-sem-tags", "Container publicado e sem tags duplicadas"], ["gtm-tags-antigas-ou-nao-utilizadas", "Tags antigas ou não utilizadas removidas"], ["gtm-preview-mode-testado-sem-erros", "Preview mode testado sem erros"]]}, {"titulo": "Tags Críticas", "itens": [["gtm-tag-ga4-configurada-corretamen", "Tag GA4 configurada corretamente"], ["gtm-tag-google-ads-conversoes-disp", "Tag Google Ads / conversões disparando"], ["gtm-tag-meta-pixel-disparando", "Tag Meta Pixel disparando"], ["gtm-gatilhos-de-conversao-corretos", "Gatilhos de conversão corretos (formulário, clique CTA)"]]}]},
+  {"id": "google_ads", "logo": "logos/google-ads.svg", "name": "Google Ads", "secoes": [{"titulo": "Estrutura", "itens": [["googleads-campanhas-organizadas-por-obje", "Campanhas organizadas por objetivo / produto"], ["googleads-grupos-de-anuncio-segmentados", "Grupos de anúncio segmentados (não misturar temas)"], ["googleads-campanha-de-marca-existente-e", "Campanha de marca existente e ativa"]]}, {"titulo": "Palavras-chave", "itens": [["googleads-palavras-chave-negativas-atual", "Palavras-chave negativas atualizadas"], ["googleads-termos-de-pesquisa-revisados-i", "Termos de pesquisa revisados — irrelevantes negativados"], ["googleads-palavras-com-alto-gasto-e-baix", "Palavras com alto gasto e baixa conversão identificadas"]]}, {"titulo": "Leilão e Concorrência", "itens": [["googleads-relatorio-de-leilao-analisado", "Relatório de Leilão analisado"]]}, {"titulo": "Anúncios", "itens": [["googleads-extensoes-configuradas-sitelin", "Extensões configuradas (sitelinks, callouts)"], ["googleads-anuncios-com-ctr-abaixo-da-med", "Anúncios com CTR abaixo da média identificados"]]}, {"titulo": "Performance e Investimento", "itens": [["googleads-cpa-dentro-da-meta-do-cliente", "CPA dentro da meta do cliente"], ["googleads-distribuicao-de-investimento-p", "Distribuição de investimento por campanha analisada"], ["googleads-campanhas-com-melhor-performan", "Campanhas com melhor performance no período identificadas"], ["googleads-campanhas-com-pior-resultado-t", "Campanhas com pior resultado tratadas ou pausadas"], ["googleads-estrategia-de-lance-alinhada-a", "Estratégia de lance alinhada ao objetivo"]]}], "plat": "google"},
+  {"id": "navegg", "logo": "logos/navegg.svg", "name": "Navegg", "secoes": [{"titulo": "Instalação e Dados", "itens": [["navegg-script-instalado-e-conta-ativa", "Script instalado e conta ativa com dados sendo enviados"], ["navegg-integracao-com-plataformas-de", "Integração com plataformas de mídia configurada"]]}]},
+  {"id": "hotjar", "logo": "logos/hotjar.svg", "name": "Hotjar", "secoes": [{"titulo": "Instalação e Dados", "itens": [["hotjar-script-instalado-e-sessoes-sen", "Script instalado e sessões sendo gravadas"], ["hotjar-dados-de-heatmap-disponiveis-n", "Dados de heatmap disponíveis nas páginas principais"]]}]},
+  {"id": "gmb", "logo": "logos/gmb.svg", "name": "Google Meu Negócio", "secoes": [{"titulo": "Perfil", "itens": [["gmb-perfil-verificado-endereco-e-h", "Perfil verificado, endereço e horário corretos"], ["gmb-fotos-atualizadas", "Fotos atualizadas"], ["gmb-avaliacoes-respondidas-positiv", "Avaliações respondidas (positivas e negativas)"]]}, {"titulo": "Performance", "itens": [["gmb-cliques-para-ligacao-e-rotas-a", "Cliques para ligação e rotas analisados"], ["gmb-avaliacao-media-e-evolucao-mon", "Avaliação média e evolução monitoradas"], ["gmb-posts-recentes-no-perfil", "Posts recentes no perfil"]]}]},
+  {"id": "meta", "logo": "logos/meta.svg", "name": "Meta Ads", "secoes": [{"titulo": "Configuração", "itens": [["meta-pixel-instalado-e-disparando-s", "Pixel instalado e disparando sem duplicidade"], ["meta-conversions-api-capi-configura", "Conversions API (CAPI) configurada"], ["meta-dominio-verificado-no-business", "Domínio verificado no Business Manager"]]}, {"titulo": "Estrutura e Audiências", "itens": [["meta-campanhas-por-etapa-de-funil-t", "Campanhas por etapa de funil (topo / meio / fundo)"], ["meta-remarketing-ativo-com-publico", "Remarketing ativo com público adequado"]]}, {"titulo": "Performance", "itens": [["meta-ctr-cpm-e-cpc-analisados", "CTR, CPM e CPC analisados"], ["meta-cpa-dentro-da-meta-do-cliente", "CPA dentro da meta do cliente"], ["meta-frequencia-de-exibicao-control", "Frequência de exibição controlada (alerta acima de 4)"], ["meta-conjuntos-com-melhor-e-pior-pe", "Conjuntos com melhor e pior performance identificados"], ["meta-distribuicao-de-investimento-p", "Distribuição de investimento por campanha revisada"]]}], "plat": "meta"},
+  {"id": "tiktok", "logo": "logos/tiktok.svg", "name": "TikTok Ads", "secoes": [{"titulo": "Configuração", "itens": [["tiktok-pixel-instalado-e-eventos-conf", "Pixel instalado e eventos configurados"]]}, {"titulo": "Performance", "itens": [["tiktok-taxa-de-visualizacao-de-video", "Taxa de visualização de vídeo analisada"], ["tiktok-cpa-dentro-da-meta", "CPA dentro da meta"], ["tiktok-conjuntos-com-melhor-e-pior-re", "Conjuntos com melhor e pior resultado identificados"]]}], "plat": "tiktok"},
+  {"id": "linkedin", "logo": "logos/linkedin.svg", "name": "LinkedIn Ads", "secoes": [{"titulo": "Configuração", "itens": [["linkedin-insight-tag-instalada-no-site", "Insight Tag instalada no site"], ["linkedin-conversoes-configuradas", "Conversões configuradas"]]}, {"titulo": "Segmentação", "itens": [["linkedin-segmentacao-b2b-configurada-ca", "Segmentação B2B configurada (cargo, setor, senioridade)"]]}, {"titulo": "Performance", "itens": [["linkedin-ctr-analisado", "CTR analisado"], ["linkedin-cpl-dentro-da-meta-do-cliente", "CPL dentro da meta do cliente"], ["linkedin-campanhas-com-melhor-e-pior-re", "Campanhas com melhor e pior resultado identificadas"]]}], "plat": "linkedin"},
+  {"id": "hotmart", "logo": "logos/hotmart.png", "name": "Hotmart", "secoes": [{"titulo": "Configuração", "itens": [["hotmart-pixel-e-ga4-integrados-ao-chec", "Pixel e GA4 integrados ao checkout"], ["hotmart-utms-de-campanha-chegando-corr", "UTMs de campanha chegando corretamente"]]}, {"titulo": "Performance de Vendas", "itens": [["hotmart-receita-total-ticket-medio-e-n", "Receita total, ticket médio e número de vendas revisados"], ["hotmart-origem-das-vendas-por-canal-id", "Origem das vendas por canal identificada"], ["hotmart-reembolsos-e-chargeback-monito", "Reembolsos e chargeback monitorados"]]}]},
+];
+const CL_ROTULO = { ok: "✓ Ok", issue: "⚠ Problema", na: "N/A" };
+let clAtual = null;    // { id, sha, data }: id nulo até o primeiro salvamento
+let clBase = null;     // como estava ao abrir, para mesclar se outra pessoa salvar junto
+let clSujo = false;
+let clEstadoMsg = null;
+const clAbertos = new Set();
+let projTipo = "tudo";
+try { projTipo = localStorage.getItem("sobe_proj_tipo") || "tudo"; } catch (e) {}
+
+function ehChecklistId(id) { return /(^|\/)checklist--/.test(String(id || "")); }
+function pastaDoId(id) {
+  const i = String(id || "").lastIndexOf("/");
+  return i >= 0 ? String(id).slice(0, i) : "";
+}
+function clDataBR(iso) { return iso ? String(iso).split("-").reverse().join("/") : "sem data"; }
+function clHoje() {
+  const d = new Date();
+  return d.getFullYear() + "-" + String(d.getMonth() + 1).padStart(2, "0") + "-" + String(d.getDate()).padStart(2, "0");
+}
+function clNomeDe(d) {
+  return ["Checklist", d.cliente, clDataBR(d.data)].filter(Boolean).join(" – ");
+}
+function clItensDe(tool) {
+  return tool.secoes.reduce((s, sec) => s.concat(sec.itens), []);
+}
+function clResumo(d) {
+  const r = { tipo: "checklist", data: d.data, responsavel: d.responsavel || "", total: 0, avaliados: 0, problemas: 0 };
+  CHECKLIST_TOOLS.forEach(t => {
+    if ((d.desligadas || []).indexOf(t.id) >= 0) return;
+    clItensDe(t).forEach(it => {
+      r.total++;
+      const st = ((d.respostas || {})[it[0]] || {}).s;
+      if (st) r.avaliados++;
+      if (st === "issue") r.problemas++;
+    });
+  });
+  return r;
+}
+function clMarcaSujo() {
+  clSujo = true;
+  clEstadoMsg = null;
+  atualizaChipNuvem();
+  clAtualizaEstado();
+}
+function podeSairDoChecklist() {
+  return !clSujo || confirm("Este checklist tem alterações não salvas. Sair mesmo assim?");
+}
+
+// ---------- abrir e criar ----------
+function clNovo() {
+  if (!podeSairDoChecklist()) return;
+  pedeNome();
+  const desligadas = CHECKLIST_TOOLS.filter(t => t.plat && !plataformaAtiva(t.plat)).map(t => t.id);
+  clAtual = {
+    id: null, sha: null,
+    data: {
+      tipo: "checklist", cliente: clienteNome() || (projetoAtual && projetoAtual.nome) || "",
+      responsavel: meuNome || "", data: clHoje(), mapa: projetoAtual ? projetoAtual.id : "",
+      respostas: {}, desligadas: desligadas
+    }
+  };
+  clBase = clonar(clAtual.data);
+  clAbertos.clear();
+  clSujo = true;
+  clEstadoMsg = null;
+  atualizaChipNuvem();
+  renderChecklist();
+}
+
+// o mapa do checklist abre junto, para o restante das abas falar do mesmo cliente
+function clMapaDe(d, id) {
+  const lista = listaCache.projetos || [];
+  if (d.mapa && lista.some(p => p.id === d.mapa)) return d.mapa;
+  const pasta = pastaDoId(id);
+  const vizinho = lista.find(p => !ehChecklistId(p.id) && (p.pasta || "") === pasta);
+  return vizinho ? vizinho.id : "";
+}
+async function abrirChecklist(id) {
+  if (!podeSairDoChecklist()) return;
+  msgProj("abrindo…");
+  try {
+    const r = await apiNuvem("/project?id=" + encodeURIComponent(id));
+    clSujo = false;
+    const mapa = clMapaDe(r.data || {}, id);
+    if (mapa && (!projetoAtual || projetoAtual.id !== mapa)) await abrirProjeto(mapa);
+    clAtual = { id: r.id || id, sha: r.sha, data: Object.assign({ respostas: {}, desligadas: [] }, r.data) };
+    clBase = clonar(clAtual.data);
+    clAbertos.clear();
+    clEstadoMsg = null;
+    document.getElementById("projView").classList.remove("aberta");
+    msgProj("");
+    setPlatform("checklist");
+    atualizaChipNuvem();
+  } catch (e) {
+    msgProj("Não consegui abrir: " + e.message, "erro");
+  }
+}
+async function abrirDaLista(id) {
+  if (ehChecklistId(id)) return abrirChecklist(id);
+  await abrirProjeto(id);
+  if (platform === "checklist" && projetoAtual && projetoAtual.id === id) {
+    setPlatform(plataformasAtivas()[0] || "google");
+  }
+}
+
+// ---------- salvar ----------
+function clMesclar(base, meu, serv) {
+  const s = clonar(serv);
+  s.respostas = s.respostas || {};
+  ["cliente", "responsavel", "data"].forEach(c => { if (meu[c] !== base[c]) s[c] = meu[c]; });
+  if (JSON.stringify(meu.desligadas) !== JSON.stringify(base.desligadas)) s.desligadas = clonar(meu.desligadas);
+  const mB = base.respostas || {}, mM = meu.respostas || {};
+  Object.keys(Object.assign({}, mB, mM)).forEach(k => {
+    if (JSON.stringify(mM[k]) === JSON.stringify(mB[k])) return;
+    if (mM[k]) s.respostas[k] = clonar(mM[k]); else delete s.respostas[k];
+  });
+  return s;
+}
+function clGravar() {
+  return apiNuvem("/project", {
+    method: "PUT",
+    body: JSON.stringify({
+      id: clAtual.id, nome: clNomeDe(clAtual.data), data: clAtual.data, resumo: clResumo(clAtual.data),
+      logo: store.logoMini || "", sha: clAtual.sha || null, savedBy: meuNome || "equipe", forcar: false
+    })
+  });
+}
+async function salvarChecklist() {
+  if (!clAtual) return;
+  pedeNome();
+  if (!clAtual.id) {
+    const pasta = projetoAtual ? pastaDoId(projetoAtual.id) : "";
+    const sufixo = Math.random().toString(36).slice(2, 6);
+    clAtual.id = (pasta ? pasta + "/" : "") + "checklist--" + clAtual.data.data + "--" + sufixo;
+  }
+  clEstadoMsg = { texto: "salvando…", tipo: "" };
+  clAtualizaEstado();
+  let aviso = "";
+  try {
+    let r;
+    try {
+      r = await clGravar();
+    } catch (e) {
+      if (e.status !== 409) throw e;
+      // outra pessoa salvou junto: junta as respostas e tenta de novo
+      const remoto = await apiNuvem("/project?id=" + encodeURIComponent(clAtual.id));
+      clAtual.data = clMesclar(clBase, clAtual.data, remoto.data);
+      clAtual.sha = remoto.sha;
+      r = await clGravar();
+      aviso = " Mesclado com a versão de outra pessoa.";
+      renderChecklist();
+    }
+    clAtual.id = r.id || clAtual.id;
+    clAtual.sha = r.sha;
+    clBase = clonar(clAtual.data);
+    clSujo = false;
+    const pasta = pastaDoId(clAtual.id);
+    clEstadoMsg = { texto: "Salvo" + (pasta ? " na pasta " + nomePasta(pasta) : "") + "." + aviso, tipo: "ok" };
+    carregarLista();
+  } catch (e) {
+    clEstadoMsg = { texto: "Não consegui salvar: " + e.message, tipo: "erro" };
+  }
+  atualizaChipNuvem();
+  clAtualizaEstado();
+}
+
+// ---------- telas ----------
+function renderChecklist() {
+  const el = document.getElementById("checklistView");
+  if (clAtual) { clDesenhaFicha(el); return; }
+  if (!projetoAtual) {
+    el.innerHTML = '<div class="pv-wrap"><h2>Checklist de performance</h2>' +
+      '<div class="empty-state">Abra o mapa de um cliente para ver ou fazer os checklists dele.<br><br>' +
+      '<button class="cl-btn forte" id="clIrProjetos">☁ Abrir Projetos</button></div></div>';
+    document.getElementById("clIrProjetos").onclick = abrirTelaProjetos;
+    return;
+  }
+  const pasta = pastaDoId(projetoAtual.id);
+  const itens = (listaCache.projetos || [])
+    .filter(p => ehChecklistId(p.id) && (p.pasta || "") === pasta)
+    .sort((a, b) => String((b.resumo || {}).data || "").localeCompare(String((a.resumo || {}).data || "")));
+  let html = '<div class="pv-wrap">' + marcaDoCliente() +
+    '<h2>Checklists' + (clienteNome() ? " de " + esc(clienteNome()) : "") + '</h2>' +
+    '<p class="pv-sub">' + (pasta ? "Salvos na pasta " + esc(nomePasta(pasta)) + "." : "Salvos fora de pastas.") + '</p>' +
+    '<div class="cl-botoes"><button class="cl-btn forte" id="clNovoBtn">+ Novo checklist</button></div>';
+  if (!itens.length) {
+    html += '<div class="empty-state" style="margin-top:14px;">Nenhum checklist salvo ainda.<br>' +
+      'Clique em <b>+ Novo checklist</b> para auditar as contas deste cliente.</div>';
+  } else {
+    html += '<div class="cl-tabela">' + itens.map(p => {
+      const r = p.resumo || {};
+      const pill = r.problemas
+        ? '<span class="cl-pill prob">' + r.problemas + (r.problemas === 1 ? " problema" : " problemas") + '</span>'
+        : '<span class="cl-pill limpo">sem problemas</span>';
+      return '<button class="cl-linha" data-cl-abrir="' + esc(p.id) + '">' +
+        '<span class="cl-l-data">' + esc(clDataBR(r.data)) + '</span>' +
+        '<span class="cl-l-quem">' + esc(r.responsavel || p.salvoPor || "") + '</span>' +
+        '<span class="cl-l-prog">' + (r.avaliados || 0) + ' / ' + (r.total || 0) + ' avaliados</span>' + pill + '</button>';
+    }).join("") + '</div>';
+  }
+  el.innerHTML = html + '</div>';
+  document.getElementById("clNovoBtn").onclick = clNovo;
+  el.querySelectorAll("[data-cl-abrir]").forEach(b => { b.onclick = () => abrirChecklist(b.getAttribute("data-cl-abrir")); });
+}
+
+function clDesenhaFicha(el) {
+  const d = clAtual.data;
+  const cards = CHECKLIST_TOOLS.map(t => {
+    const desligada = (d.desligadas || []).indexOf(t.id) >= 0;
+    const corpo = t.secoes.map(sec => '<div class="cl-secao">' + esc(sec.titulo) + '</div>' + sec.itens.map(it => {
+      const r = (d.respostas || {})[it[0]] || {};
+      return '<div class="cl-item' + (r.s === "na" ? " na" : "") + '" data-cl-item="' + it[0] + '">' +
+        '<div class="cl-txt"><div class="cl-rotulo">' + esc(it[1]) + '</div>' +
+        '<textarea rows="1" id="clObs-' + it[0] + '" placeholder="Observação…" aria-label="Observação: ' + esc(it[1]) + '">' + esc(r.o || "") + '</textarea></div>' +
+        '<div class="cl-sts">' + ["ok", "issue", "na"].map(s =>
+          '<button class="cl-st' + (r.s === s ? " sel-" + s : "") + '" data-cl-st="' + s + '">' + CL_ROTULO[s] + '</button>').join("") +
+        '</div></div>';
+    }).join("")).join("");
+    return '<div class="cl-card' + (clAbertos.has(t.id) ? " aberto" : "") + (desligada ? " desligado" : "") + '" data-cl-card="' + t.id + '">' +
+      '<div class="cl-head" tabindex="0" role="button">' +
+      '<img src="' + t.logo + '" alt="" onerror="this.style.visibility=\'hidden\'">' +
+      '<span class="cl-nome">' + esc(t.name) + '</span>' +
+      '<span class="cl-conta" id="clConta-' + t.id + '"></span>' +
+      '<label class="cl-usa" title="Desligue se o cliente não usa esta ferramenta"><input type="checkbox" data-cl-usa' + (desligada ? "" : " checked") + '> usa</label>' +
+      '<span class="cl-seta">▼</span></div>' +
+      '<div class="cl-corpo">' + corpo + '</div></div>';
+  }).join("");
+
+  el.innerHTML = '<div class="pv-wrap">' +
+    '<button class="cl-voltar" id="clVoltar">← Todos os checklists</button>' +
+    '<div class="cl-meta">' +
+    '<div class="cl-campo"><label>Cliente</label><div class="cl-fixo">' + esc(d.cliente || "—") + '</div></div>' +
+    '<div class="cl-campo"><label for="clResp">Responsável</label><input id="clResp" type="text" value="' + esc(d.responsavel || "") + '"></div>' +
+    '<div class="cl-campo"><label for="clData">Data</label><input id="clData" type="date" value="' + esc(d.data || "") + '"></div>' +
+    '</div>' +
+    '<div class="cl-prog"><div class="cl-barra"><i id="clBarra"></i></div><span class="cl-prog-txt" id="clProgTxt"></span>' +
+    '<button class="cl-btn" id="clExpandir"></button></div>' +
+    cards +
+    '<div class="cl-acoes cl-botoes">' +
+    '<button class="cl-btn forte" id="clSalvar">💾 Salvar na pasta do cliente</button>' +
+    '<button class="cl-btn" id="clPdf">🖨 Imprimir / Salvar PDF</button>' +
+    '<span class="cl-estado" id="clEstado" role="status"></span></div></div>';
+
+  document.getElementById("clVoltar").onclick = () => {
+    if (!podeSairDoChecklist()) return;
+    clAtual = null; clBase = null; clSujo = false;
+    atualizaChipNuvem();
+    carregarLista().then(renderChecklist);
+    renderChecklist();
+  };
+  document.getElementById("clSalvar").onclick = salvarChecklist;
+  document.getElementById("clPdf").onclick = clImprimir;
+  document.getElementById("clResp").oninput = function () { d.responsavel = this.value; clMarcaSujo(); };
+  document.getElementById("clData").oninput = function () { d.data = this.value; clMarcaSujo(); };
+  document.getElementById("clExpandir").onclick = () => {
+    const abrir = clAbertos.size < CHECKLIST_TOOLS.length;
+    clAbertos.clear();
+    if (abrir) CHECKLIST_TOOLS.forEach(t => clAbertos.add(t.id));
+    el.querySelectorAll(".cl-card").forEach(c => c.classList.toggle("aberto", abrir));
+    clCrescerObs(el);
+    clAtualizaContas();
+  };
+
+  el.querySelectorAll(".cl-card").forEach(card => {
+    const id = card.getAttribute("data-cl-card");
+    const head = card.querySelector(".cl-head");
+    const alterna = () => {
+      if (clAbertos.has(id)) clAbertos.delete(id); else clAbertos.add(id);
+      card.classList.toggle("aberto", clAbertos.has(id));
+      clCrescerObs(card);
+      clAtualizaContas();
+    };
+    head.onclick = (ev) => { if (!ev.target.closest(".cl-usa")) alterna(); };
+    head.onkeydown = (ev) => {
+      if ((ev.key === "Enter" || ev.key === " ") && ev.target === head) { ev.preventDefault(); alterna(); }
+    };
+    card.querySelector("[data-cl-usa]").onchange = function () {
+      d.desligadas = (d.desligadas || []).filter(x => x !== id);
+      if (!this.checked) d.desligadas.push(id);
+      card.classList.toggle("desligado", !this.checked);
+      clAtualizaContas();
+      clMarcaSujo();
+    };
+    card.querySelectorAll("[data-cl-item]").forEach(row => {
+      const chave = row.getAttribute("data-cl-item");
+      const ta = row.querySelector("textarea");
+      const guarda = (campo, valor) => {
+        d.respostas = d.respostas || {};
+        const r = d.respostas[chave] || {};
+        if (valor) r[campo] = valor; else delete r[campo];
+        if (r.s || r.o) d.respostas[chave] = r; else delete d.respostas[chave];
+      };
+      ta.oninput = () => { guarda("o", ta.value); clCresce(ta); clMarcaSujo(); };
+      row.querySelectorAll("[data-cl-st]").forEach(b => {
+        b.onclick = () => {
+          const v = b.getAttribute("data-cl-st");
+          const atual = ((d.respostas || {})[chave] || {}).s;
+          const novo = atual === v ? "" : v;
+          guarda("s", novo);
+          row.querySelectorAll("[data-cl-st]").forEach(x => {
+            x.className = "cl-st" + (x.getAttribute("data-cl-st") === novo ? " sel-" + novo : "");
+          });
+          row.classList.toggle("na", novo === "na");
+          clAtualizaContas();
+          clMarcaSujo();
+        };
+      });
+    });
+  });
+  clCrescerObs(el);
+  clAtualizaContas();
+  clAtualizaEstado();
+}
+function clCresce(ta) {
+  ta.style.height = "auto";
+  if (ta.scrollHeight) ta.style.height = ta.scrollHeight + "px";
+}
+function clCrescerObs(raiz) { raiz.querySelectorAll("textarea").forEach(clCresce); }
+function clAtualizaContas() {
+  if (!clAtual) return;
+  const d = clAtual.data;
+  CHECKLIST_TOOLS.forEach(t => {
+    const el = document.getElementById("clConta-" + t.id);
+    if (!el) return;
+    if ((d.desligadas || []).indexOf(t.id) >= 0) { el.textContent = "não usa"; return; }
+    const itens = clItensDe(t);
+    const feitos = itens.filter(it => ((d.respostas || {})[it[0]] || {}).s);
+    const prob = itens.filter(it => ((d.respostas || {})[it[0]] || {}).s === "issue").length;
+    el.innerHTML = feitos.length + " / " + itens.length +
+      (prob ? ' · <span class="tem-prob">' + prob + (prob === 1 ? " problema" : " problemas") + '</span>' : "");
+  });
+  const r = clResumo(d);
+  const barra = document.getElementById("clBarra");
+  if (barra) barra.style.width = (r.total ? r.avaliados / r.total * 100 : 0) + "%";
+  const txt = document.getElementById("clProgTxt");
+  if (txt) txt.textContent = r.avaliados + " / " + r.total + " itens avaliados";
+  const exp = document.getElementById("clExpandir");
+  if (exp) exp.textContent = clAbertos.size >= CHECKLIST_TOOLS.length ? "Recolher todas" : "Expandir todas";
+}
+function clAtualizaEstado() {
+  const el = document.getElementById("clEstado");
+  if (!el) return;
+  const m = clEstadoMsg || (clSujo ? { texto: "Alterações não salvas", tipo: "sujo" } : { texto: "", tipo: "" });
+  el.textContent = m.texto;
+  el.className = "cl-estado" + (m.tipo ? " " + m.tipo : "");
+}
+
+// ---------- PDF ----------
+function clImprimir() {
+  const d = clAtual.data;
+  const alvo = document.getElementById("checklistPrint");
+  const r = clResumo(d);
+  alvo.innerHTML =
+    '<div class="clp-topo"><img src="sobe.png" alt="Sobé"><h1>Checklist de Performance</h1></div>' +
+    '<div class="clp-meta"><b>Cliente:</b> ' + esc(d.cliente || "—") + ' &nbsp; <b>Responsável:</b> ' + esc(d.responsavel || "—") +
+    ' &nbsp; <b>Data:</b> ' + esc(clDataBR(d.data)) + ' &nbsp; <b>Avaliados:</b> ' + r.avaliados + ' / ' + r.total +
+    ' &nbsp; <b>Problemas:</b> ' + r.problemas + '</div>' +
+    CHECKLIST_TOOLS.filter(t => (d.desligadas || []).indexOf(t.id) < 0).map(t =>
+      '<div class="clp-card"><h2><img src="' + t.logo + '" alt="">' + esc(t.name) + '</h2>' +
+      t.secoes.map(sec => '<div class="clp-sec">' + esc(sec.titulo) + '</div>' + sec.itens.map(it => {
+        const x = (d.respostas || {})[it[0]] || {};
+        return '<div class="clp-item"><div>' + esc(it[1]) +
+          (x.o ? '<div class="clp-obs"><b>Obs:</b> ' + esc(x.o) + '</div>' : '') + '</div>' +
+          '<span class="clp-st ' + (x.s || "vazio") + '">' + (x.s ? CL_ROTULO[x.s] : "—") + '</span></div>';
+      }).join("")).join("") + '</div>').join("");
+  // o navegador usa o título da página como nome do PDF
+  const original = document.title;
+  document.title = clNomeDe(d).replace(/\//g, "-");
+  document.body.classList.add("imprimindo-cl");
+  window.addEventListener("afterprint", () => {
+    document.title = original;
+    document.body.classList.remove("imprimindo-cl");
+  }, { once: true });
+  window.print();
+}
+
+// ---------- tela de projetos: tipo do item ----------
+function tipoPassa(p) {
+  if (projTipo === "tudo") return true;
+  return projTipo === "checklist" ? ehChecklistId(p.id) : !ehChecklistId(p.id);
+}
+function desenhaTipos(todos) {
+  const el = document.getElementById("projTipos");
+  if (!el) return;
+  const naPasta = todos.filter(p => pastaSel === "" || (pastaSel === "__raiz" ? !p.pasta : p.pasta === pastaSel));
+  const qChk = naPasta.filter(p => ehChecklistId(p.id)).length;
+  const opcoes = [["tudo", "Tudo", naPasta.length], ["mapa", "Mapas mentais", naPasta.length - qChk], ["checklist", "Checklists", qChk]];
+  el.innerHTML = opcoes.map(o =>
+    '<button data-tipo="' + o[0] + '" class="' + (projTipo === o[0] ? "sel" : "") + '" aria-pressed="' + (projTipo === o[0]) + '">' +
+    o[1] + '<span>' + o[2] + '</span></button>').join("");
+  el.querySelectorAll("[data-tipo]").forEach(b => {
+    b.onclick = () => {
+      projTipo = b.getAttribute("data-tipo");
+      try { localStorage.setItem("sobe_proj_tipo", projTipo); } catch (e) {}
+      desenhaLista();
+    };
+  });
+}
+// mantém a ordem dos mapas e coloca os checklists logo depois do mapa da mesma pasta, do mais novo ao mais antigo
+function ordenaComChecklists(lista) {
+  const novoPrimeiro = (a, b) => String((b.resumo || {}).data || "").localeCompare(String((a.resumo || {}).data || ""));
+  const chks = lista.filter(p => ehChecklistId(p.id)).sort(novoPrimeiro);
+  const usados = new Set();
+  const saida = [];
+  lista.filter(p => !ehChecklistId(p.id)).forEach(p => {
+    saida.push(p);
+    const pasta = p.pasta || "";
+    if (!pasta || usados.has(pasta)) return;
+    usados.add(pasta);
+    chks.filter(c => (c.pasta || "") === pasta).forEach(c => saida.push(c));
+  });
+  chks.filter(c => saida.indexOf(c) < 0).forEach(c => saida.push(c));
+  return saida;
+}
+function linhaChecklist(p) {
+  const r = p.resumo || {};
+  const aberto = clAtual && clAtual.id === p.id;
+  const prob = r.problemas
+    ? '<b class="cl-prob">' + r.problemas + (r.problemas === 1 ? " problema" : " problemas") + '</b>'
+    : '<b class="cl-semprob">sem problemas</b>';
+  return '<div class="proj-item' + (aberto ? " aberto" : "") + '" draggable="true" data-abrir="' + esc(p.id) + '">' +
+    (p.logo ? '<img class="proj-logo" src="' + p.logo + '" alt="">' : '') +
+    '<div class="proj-txt"><div class="proj-nome"><span class="proj-tag checklist">Checklist</span>' + esc(p.nome || p.id) +
+    (aberto ? ' <span class="proj-flag">aberto</span>' : '') + '</div>' +
+    '<div class="proj-info">' + (p.pasta ? esc(nomePasta(p.pasta)) + " · " : "") +
+    (p.salvoPor ? 'por <a class="proj-quem" data-quem="' + esc(p.salvoPor) + '">' + esc(p.salvoPor) + '</a>' : "") + '</div></div>' +
+    '<div class="proj-total">' + prob + '<span>' + (r.avaliados || 0) + ' / ' + (r.total || 0) + ' avaliados</span></div>' +
+    '<div class="proj-data">' + quandoTexto(p.salvoEm) + '</div>' +
+    '<div class="proj-acoes"><button class="del" data-excluir="' + esc(p.id) + '" title="Excluir">🗑</button></div></div>';
+}
+
 // ================= PROJETOS NA NUVEM =================
 // A URL do Worker fica aqui. Ninguém digita nada: quem abre o arquivo já
 // enxerga a lista de projetos da agência.
@@ -7175,7 +7740,8 @@ function quandoTexto(iso) {
 function atualizaChipNuvem(alerta) {
   const el = document.getElementById("nuvemChip");
   const btn = document.getElementById("salvarBtn");
-  const pendente = !!alteradoDesdeSalvar;
+  const noChecklist = platform === "checklist" && clAtual;
+  const pendente = noChecklist ? clSujo : !!alteradoDesdeSalvar;
   if (btn) {
     btn.textContent = pendente ? "💾 Salvar agora" : "💾 Salvo";
     btn.classList.toggle("pendente", pendente);
@@ -7183,6 +7749,11 @@ function atualizaChipNuvem(alerta) {
   }
   if (!el) return;
   if (!nuvemConfigurada()) { el.textContent = ""; return; }
+  if (noChecklist) {
+    el.className = "nuvem-chip" + (pendente ? " pendente" : "");
+    el.innerHTML = "<b>" + esc(clNomeDe(clAtual.data)) + "</b> — " + (pendente ? "alterações não salvas" : "salvo");
+    return;
+  }
   if (!projetoAtual) { el.textContent = "sem projeto aberto"; el.className = "nuvem-chip"; return; }
   if (alerta) {
     el.className = "nuvem-chip alerta";
@@ -7224,8 +7795,10 @@ function desenhaLista() {
   const pastasEl = document.getElementById("projPastas");
   const listaEl = document.getElementById("projLista");
   const pastas = listaCache.pastas || [];
-  const projs = listaCache.projetos || [];
+  const todosProjs = listaCache.projetos || [];
+  const projs = todosProjs.filter(tipoPassa);
   const conta = (p) => projs.filter(x => (x.pasta || "") === p).length;
+  desenhaTipos(todosProjs);
 
   pastasEl.style.display = pastas.length ? "" : "none";
   if (pastas.length) {
@@ -7262,13 +7835,20 @@ function desenhaLista() {
     .filter(p => pastaSel === "" || (pastaSel === "__raiz" ? !p.pasta : p.pasta === pastaSel))
     .filter(p => {
       if (!busca) return true;
-      const alvo = semAcento([(p.nome || ""), p.id, (p.salvoPor || ""), (p.pasta || ""), nomePasta(p.pasta || "")].join(" "));
+      const alvo = semAcento([(p.nome || ""), p.id, (p.salvoPor || ""), (p.pasta || ""), nomePasta(p.pasta || ""),
+        ehChecklistId(p.id) ? "checklist" : "mapa mental"].join(" "));
       // aceita várias palavras: "matheus padaria" acha o que tiver as duas
       return busca.split(/\s+/).filter(Boolean).every(t => alvo.indexOf(t) >= 0);
     });
   if (!filtrados.length && busca) {
     listaEl.innerHTML = '<div class="proj-vazio">Nenhum projeto com “' + esc(busca) +
       '”. A busca considera o nome do projeto, quem salvou por último e a pasta.</div>';
+    return;
+  }
+  if (!filtrados.length && projTipo !== "tudo") {
+    listaEl.innerHTML = '<div class="proj-vazio">' + (projTipo === "checklist"
+      ? 'Nenhum checklist aqui. Abra o mapa do cliente e clique em <b>☑ Checklist</b> para fazer o primeiro.'
+      : 'Nenhum mapa mental aqui.') + '</div>';
     return;
   }
   if (!filtrados.length) {
@@ -7288,7 +7868,8 @@ function desenhaLista() {
     '<div class="proj-cab"><span class="cab-nome">Nome</span>' +
     '<span class="cab-total">Investimento</span><span class="cab-data">Modificado</span>' +
     '<span class="cab-acoes"></span></div>' +
-    filtrados.map(p => {
+    ordenaComChecklists(filtrados).map(p => {
+      if (ehChecklistId(p.id)) return linhaChecklist(p);
       const aberto = projetoAtual && projetoAtual.id === p.id;
       const r = p.resumo || {};
       const moedaDele = p.moeda || "BRL";     // cada projeto tem a sua
@@ -7308,7 +7889,7 @@ function desenhaLista() {
       const somaCamp = ativas.reduce((s, p) => s + (r[p].campanhas || 0), 0);
       return '<div class="proj-item' + (aberto ? " aberto" : "") + '" draggable="true" data-abrir="' + esc(p.id) + '">' +
         (p.logo ? '<img class="proj-logo" src="' + p.logo + '" alt="">' : '') +
-        '<div class="proj-txt"><div class="proj-nome">' + esc(p.nome || p.id) + (aberto ? ' <span class="proj-flag">aberto</span>' : '') + '</div>' +
+        '<div class="proj-txt"><div class="proj-nome"><span class="proj-tag mapa">Mapa mental</span>' + esc(p.nome || p.id) + (aberto ? ' <span class="proj-flag">aberto</span>' : '') + '</div>' +
         '<div class="proj-info">' + (p.pasta ? esc(nomePasta(p.pasta)) + " · " : "") +
         (p.salvoPor ? 'por <a class="proj-quem" data-quem="' + esc(p.salvoPor) + '">' + esc(p.salvoPor) + '</a>' : "") + '</div>' +
         (plats ? '<div class="proj-plats">' + plats + '</div>' : '') + '</div>' +
@@ -7329,7 +7910,7 @@ function desenhaLista() {
       if (ev.target.closest("[data-renomear]") || ev.target.closest("[data-excluir]") ||
           ev.target.closest("[data-link]") || ev.target.closest("[data-quem]") ||
           ev.target.closest("[data-duplicar]")) return;
-      abrirProjeto(item.getAttribute("data-abrir"));
+      abrirDaLista(item.getAttribute("data-abrir"));
     };
   });
   listaEl.querySelectorAll("[data-excluir]").forEach(b => b.onclick = () => excluirProjeto(b.getAttribute("data-excluir")));
@@ -7363,7 +7944,7 @@ function aplicarStore(novo) {
   garantirUidsStore(store);
   idCounter = 1;
   PLATAFORMAS.forEach(p => assignIds(store[p]));
-  treeData = store[platform === "geral" ? "google" : platform];
+  treeData = store[semArvore(platform) ? "google" : platform];
   PLATAFORMAS.forEach(p => ensureLayout(store[p]));
   history = [];
   deselect();
@@ -7379,6 +7960,7 @@ function aplicarStore(novo) {
 
 async function abrirProjeto(id) {
   if (alteradoDesdeSalvar && !confirm("Há alterações não salvas no projeto atual. Abrir outro mesmo assim?")) return;
+  if (!podeSairDoChecklist()) return;
   msgProj("abrindo…");
   try {
     const r = await apiNuvem("/project?id=" + encodeURIComponent(id));
@@ -7386,10 +7968,12 @@ async function abrirProjeto(id) {
     baseStore = clonar(store);
     projetoAtual = { id: r.id, sha: r.sha, nome: r.nome || r.id.split("/").pop() };
     alteradoDesdeSalvar = false;
+    clAtual = null; clBase = null; clSujo = false;
     atualizaBotoesProjeto();
     fitView();
     atualizaChipNuvem();
     fecharTelaProjetos();
+    if (currentView === "checklist") renderChecklist();
   } catch (e) {
     msgProj("Não consegui abrir: " + e.message, "erro");
   }
@@ -7425,6 +8009,7 @@ async function gravar(id, nome, sha, forcar) {
 
 async function salvarProjeto() {
   if (!nuvemConfigurada()) return;
+  if (platform === "checklist" && clAtual) return salvarChecklist();
   if (!projetoAtual) return criarProjeto();
   pedeNome();
   garantirUidsStore(store);
@@ -7527,6 +8112,7 @@ async function excluirProjeto(id) {
   try {
     await apiNuvem("/project?id=" + encodeURIComponent(id), { method: "DELETE" });
     if (projetoAtual && projetoAtual.id === id) { projetoAtual = null; atualizaChipNuvem(); atualizaBotoesProjeto(); }
+    if (clAtual && clAtual.id === id) { clAtual = null; clBase = null; clSujo = false; atualizaChipNuvem(); }
     msgProj("Excluído.", "ok");
     carregarLista();
   } catch (e) { msgProj("Não consegui excluir: " + e.message, "erro"); }
@@ -7546,6 +8132,7 @@ async function moverParaPasta(id, pasta) {
       body: JSON.stringify({ from: id, to: destino, nome: atual.nome || arquivo })
     });
     if (projetoAtual && projetoAtual.id === id) projetoAtual = { id: r.id, sha: r.sha, nome: projetoAtual.nome };
+    if (clAtual && clAtual.id === id) { clAtual.id = r.id; clAtual.sha = r.sha; }
     msgProj('"' + (atual.nome || arquivo) + '" → ' + (pasta ? nomePasta(pasta) : "sem pasta"), "ok");
     carregarLista();
   } catch (e) {
@@ -7634,7 +8221,7 @@ async function gerarLinkCliente(id) {
 
 // segura o fechamento da aba quando há trabalho não salvo
 window.addEventListener("beforeunload", (e) => {
-  if (MODO_CLIENTE || !nuvemConfigurada() || !alteradoDesdeSalvar) return;
+  if (MODO_CLIENTE || !nuvemConfigurada() || !(alteradoDesdeSalvar || clSujo)) return;
   e.preventDefault();
   e.returnValue = "";
   return "";
@@ -7659,6 +8246,8 @@ function atualizaBotoesProjeto() {
 // fecha o projeto: volta ao mapa em branco e nada fica marcado como aberto
 function fecharProjeto() {
   if (alteradoDesdeSalvar && !confirm("Há alterações não salvas neste projeto. Fechar mesmo assim?")) return;
+  if (!podeSairDoChecklist()) return;
+  clAtual = null; clBase = null; clSujo = false;
   aplicarStore(buildDefaultStore());
   garantirUidsStore(store);
   baseStore = clonar(store);
