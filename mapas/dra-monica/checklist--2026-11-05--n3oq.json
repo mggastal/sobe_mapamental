@@ -1,0 +1,136 @@
+{
+  "meta": {
+    "nome": "Checklist – POPLIST - Perpetuo - Dra Monica – 05/11/2026",
+    "salvoPor": "Matheus",
+    "salvoEm": "2026-11-05T16:00:51.494Z",
+    "resumo": {
+      "tipo": "checklist",
+      "data": "2026-11-05",
+      "responsavel": "Matheus",
+      "total": 32,
+      "avaliados": 32,
+      "problemas": 0
+    },
+    "logo": "",
+    "moeda": "BRL"
+  },
+  "data": {
+    "tipo": "checklist",
+    "cliente": "POPLIST - Perpetuo - Dra Monica",
+    "responsavel": "Matheus",
+    "data": "2026-11-05",
+    "mapa": "dra-monica/checklist-dra-monica",
+    "respostas": {
+      "ga4-propriedade-ga4-instalada-e-re": {
+        "o": "G-QQ9HKVW657",
+        "s": "ok"
+      },
+      "ga4-codigo-via-gtm-ou-direto-sem-d": {
+        "s": "ok"
+      },
+      "ga4-conversoes-configuradas-e-alin": {
+        "s": "ok"
+      },
+      "ga4-eventos-de-formulario-e-cta-di": {
+        "s": "ok"
+      },
+      "ga4-google-ads-vinculado": {
+        "s": "ok"
+      },
+      "ga4-search-console-vinculado": {
+        "s": "na"
+      },
+      "gtm-container-publicado-e-sem-tags": {
+        "o": "GTM-5342JKGS",
+        "s": "ok"
+      },
+      "gtm-tags-antigas-ou-nao-utilizadas": {
+        "s": "ok"
+      },
+      "gtm-preview-mode-testado-sem-erros": {
+        "s": "ok"
+      },
+      "gtm-tag-ga4-configurada-corretamen": {
+        "s": "ok"
+      },
+      "gtm-tag-google-ads-conversoes-disp": {
+        "s": "ok"
+      },
+      "gtm-tag-meta-pixel-disparando": {
+        "s": "ok"
+      },
+      "gtm-gatilhos-de-conversao-corretos": {
+        "s": "ok"
+      },
+      "googleads-campanhas-organizadas-por-obje": {
+        "s": "na"
+      },
+      "googleads-grupos-de-anuncio-segmentados": {
+        "s": "na"
+      },
+      "hotjar-script-instalado-e-sessoes-sen": {
+        "s": "ok"
+      },
+      "hotjar-dados-de-heatmap-disponiveis-n": {
+        "s": "ok"
+      },
+      "navegg-script-instalado-e-conta-ativa": {
+        "s": "ok"
+      },
+      "navegg-integracao-com-plataformas-de": {
+        "s": "ok"
+      },
+      "meta-pixel-instalado-e-disparando-s": {
+        "s": "ok"
+      },
+      "meta-conversions-api-capi-configura": {
+        "s": "ok"
+      },
+      "meta-dominio-verificado-no-business": {
+        "s": "ok"
+      },
+      "meta-campanhas-por-etapa-de-funil-t": {
+        "s": "ok"
+      },
+      "meta-remarketing-ativo-com-publico": {
+        "s": "ok"
+      },
+      "meta-ctr-cpm-e-cpc-analisados": {
+        "s": "ok"
+      },
+      "meta-cpa-dentro-da-meta-do-cliente": {
+        "s": "ok"
+      },
+      "meta-frequencia-de-exibicao-control": {
+        "s": "ok"
+      },
+      "meta-conjuntos-com-melhor-e-pior-pe": {
+        "s": "ok"
+      },
+      "meta-distribuicao-de-investimento-p": {
+        "s": "ok"
+      },
+      "hotmart-pixel-e-ga4-integrados-ao-chec": {
+        "s": "ok"
+      },
+      "hotmart-utms-de-campanha-chegando-corr": {
+        "s": "ok"
+      },
+      "hotmart-receita-total-ticket-medio-e-n": {
+        "s": "ok"
+      },
+      "hotmart-origem-das-vendas-por-canal-id": {
+        "s": "ok"
+      },
+      "hotmart-reembolsos-e-chargeback-monito": {
+        "s": "ok"
+      }
+    },
+    "desligadas": [
+      "tiktok",
+      "linkedin",
+      "google_ads",
+      "gmb"
+    ]
+  }
+}
