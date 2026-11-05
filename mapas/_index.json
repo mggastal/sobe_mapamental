@@ -357,13 +357,13 @@
     "unibrasil/checklist--2026-11-05--unb1": {
       "nome": "Checklist – UniBrasil – 05/11/2026",
       "salvoPor": "Matheus",
-      "salvoEm": "2026-11-05T18:11:45.213Z",
+      "salvoEm": "2026-11-05T18:12:25.147Z",
       "resumo": {
         "tipo": "checklist",
         "data": "2026-11-05",
         "responsavel": "Matheus",
         "total": 50,
-        "avaliados": 43,
+        "avaliados": 50,
         "problemas": 0
       },
       "logo": "",
