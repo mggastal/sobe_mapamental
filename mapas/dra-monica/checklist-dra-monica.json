@@ -2,16 +2,16 @@
   "meta": {
     "nome": "Checklist Dra Monica",
     "salvoPor": "Matheus",
-    "salvoEm": "2026-11-05T15:53:24.663Z",
+    "salvoEm": "2026-11-05T15:56:07.702Z",
     "resumo": {
       "google": {
-        "campanhas": 2,
+        "campanhas": 0,
         "verba": 0,
-        "inativa": false
+        "inativa": true
       },
       "meta": {
         "campanhas": 2,
-        "verba": 0,
+        "verba": 2400,
         "inativa": false
       },
       "linkedin": {
@@ -241,7 +241,8 @@
       "_w": 172,
       "_h": 84.625,
       "tracos": [],
-      "notas": []
+      "notas": [],
+      "inativa": true
     },
     "meta": {
       "name": "Meta Ads",
@@ -252,86 +253,176 @@
       "suggestion": false,
       "children": [
         {
-          "name": "Conversão",
+          "name": "Vendas - Quente",
           "color": "#1B2F6A",
-          "x": 260,
-          "y": -140,
+          "x": 255.5,
+          "y": -78,
           "collapsed": false,
           "suggestion": false,
           "children": [
             {
-              "name": "Remarketing — site 30d",
-              "x": 540,
-              "y": -230,
+              "name": "01 . Envolvimento + PV 180D",
+              "x": 525.75,
+              "y": -117,
               "collapsed": false,
               "suggestion": false,
               "uid": "umw3q5ukzzbjgnz",
-              "id": "n16"
+              "id": "n16",
+              "_lines": [
+                "01 . Envolvimento + PV 180D"
+              ],
+              "_apoio": [
+                "R$ 1.200,00/mês · 80,0%"
+              ],
+              "_w": 201.5,
+              "_h": 36,
+              "_dragStartX": 540,
+              "_dragStartY": -229.09091186523438,
+              "_dragged": false,
+              "_rawX": 540,
+              "_rawY": -229.09091186523438,
+              "_candidatos": null,
+              "budget": 1200
             },
             {
-              "name": "Lookalike 1% — compradores",
-              "x": 540,
-              "y": -170,
+              "name": "00 . Leads 180D",
+              "x": 486.75,
+              "y": -39,
               "collapsed": false,
               "suggestion": false,
               "uid": "umw3q5ukzxx1ru0",
-              "id": "n17"
-            },
-            {
-              "name": "Interesses",
-              "x": 540,
-              "y": -110,
-              "collapsed": false,
-              "suggestion": false,
-              "uid": "umw3q5ukzznxnqi",
-              "id": "n18"
-            },
-            {
-              "name": "Advantage+ (aberto)",
-              "x": 540,
-              "y": -50,
-              "collapsed": false,
-              "suggestion": false,
-              "uid": "umw3q5ukz52jcgn",
-              "id": "n19"
+              "id": "n17",
+              "_lines": [
+                "00 . Leads 180D"
+              ],
+              "_apoio": [
+                "R$ 300,00/mês · 20,0%"
+              ],
+              "_w": 123.5,
+              "_h": 36,
+              "_dragStartX": 540,
+              "_dragStartY": -170,
+              "_dragged": false,
+              "_rawX": 540,
+              "_rawY": -170,
+              "_candidatos": null,
+              "budget": 300
             }
           ],
           "uid": "umw3q5ukz0m11lx",
-          "id": "n15"
+          "id": "n15",
+          "_lines": [
+            "Vendas - Quente"
+          ],
+          "_apoio": [
+            "R$ 1.500,00/mês · 62,5%"
+          ],
+          "_w": 195,
+          "_h": 51.375,
+          "_dragStartX": 260,
+          "_dragStartY": -140,
+          "_dragged": false,
+          "_rawX": 260,
+          "_rawY": -140,
+          "_candidatos": null,
+          "budget": 1500
         },
         {
-          "name": "Reconhecimento",
+          "name": "Vendas - Frio",
           "color": "#328596",
-          "x": 260,
-          "y": 150,
+          "x": 255.5,
+          "y": 78,
           "collapsed": false,
           "suggestion": false,
           "children": [
             {
-              "name": "Ampla — região",
-              "x": 540,
-              "y": 110,
+              "name": "02-LAL_DIRECT_1%",
+              "x": 490,
+              "y": 39,
               "collapsed": false,
               "suggestion": false,
               "uid": "umw3q5ukzdzy3df",
-              "id": "n21"
+              "id": "n21",
+              "_lines": [
+                "02-LAL_DIRECT_1%"
+              ],
+              "_apoio": [
+                "R$ 450,00/mês · 50,0%"
+              ],
+              "_w": 130,
+              "_h": 36,
+              "_dragStartX": 540,
+              "_dragStartY": 110,
+              "_dragged": false,
+              "_rawX": 540,
+              "_rawY": 110,
+              "_candidatos": null,
+              "budget": 450
             },
             {
-              "name": "Interesses amplos",
-              "x": 540,
-              "y": 175,
+              "name": "02-LAL_COMPRADORES_1%",
+              "x": 506.25,
+              "y": 117,
               "collapsed": false,
               "suggestion": false,
               "uid": "umw3q5ukzcx7fby",
-              "id": "n22"
+              "id": "n22",
+              "_lines": [
+                "02-LAL_COMPRADORES_1%"
+              ],
+              "_apoio": [
+                "R$ 450,00/mês · 50,0%"
+              ],
+              "_w": 162.5,
+              "_h": 36,
+              "_dragStartX": 540,
+              "_dragStartY": 175,
+              "_dragged": false,
+              "_rawX": 540,
+              "_rawY": 175,
+              "_candidatos": null,
+              "budget": 450
             }
           ],
           "uid": "umw3q5ukzbjimtm",
-          "id": "n20"
+          "id": "n20",
+          "_lines": [
+            "Vendas - Frio"
+          ],
+          "_apoio": [
+            "R$ 900,00/mês · 37,5%"
+          ],
+          "_w": 195,
+          "_h": 51.375,
+          "_dragStartX": 260,
+          "_dragStartY": 150,
+          "_dragged": false,
+          "_rawX": 260,
+          "_rawY": 150,
+          "_candidatos": null,
+          "budget": 900
         }
       ],
       "uid": "umw3q5ukzkrljna",
-      "id": "n14"
+      "id": "n14",
+      "_lines": [
+        "Meta Ads"
+      ],
+      "_apoio": [
+        "R$ 2.400,00/mês",
+        "Campanhas e públicos"
+      ],
+      "_w": 172,
+      "_h": 95.625,
+      "tracos": [],
+      "notas": [],
+      "_dragStartX": 0,
+      "_dragStartY": 0,
+      "_dragged": false,
+      "_rawX": 0,
+      "_rawY": 0,
+      "_candidatos": null,
+      "budget": 2400
     },
     "linkedin": {
       "name": "LinkedIn Ads",
@@ -498,7 +589,7 @@
       "uid": "umw3q5ukz5aadez",
       "id": "n31"
     },
-    "cliente": "Perpetuo Dra Monica",
+    "cliente": "POPLIST - Perpetuo - Dra Monica",
     "estilo": {
       "cantos": "suave",
       "sombra": false,
