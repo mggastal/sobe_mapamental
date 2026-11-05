@@ -1052,6 +1052,9 @@
   .cl-card.aberto .cl-corpo{display:block;}
   .cl-card.desligado .cl-corpo{display:none;}
   .cl-card.desligado .cl-head{opacity:.5;}
+  .cl-tag{display:flex; align-items:center; gap:10px; padding:10px 14px; flex-wrap:wrap;}
+  .cl-tag label{font-size:10px; font-weight:700; letter-spacing:.04em; text-transform:uppercase; color:var(--gray-light); white-space:nowrap;}
+  .cl-tag input{flex:1 1 220px; min-width:0; border:1px solid #D8DEE7; border-radius:6px; padding:6px 9px; font:12px Arial, Helvetica, sans-serif; color:var(--navy); background:#fff;}
   .cl-secao{padding:8px 14px 3px; font-size:10px; font-weight:700; letter-spacing:.05em; text-transform:uppercase; color:var(--gray-light); background:#F7F9FB;}
   .cl-item{display:flex; flex-wrap:wrap; gap:6px 12px; align-items:flex-start; padding:9px 14px; border-top:1px solid #F1F4F8;}
   .cl-txt{flex:1 1 280px; min-width:0;}
@@ -1083,6 +1086,7 @@
     .clp-card{border:1px solid #DCE2EA; border-radius:6px; margin-bottom:8px; break-inside:avoid-page;}
     .clp-card h2{display:flex; align-items:center; gap:7px; margin:0; padding:6px 10px; font-size:12px; color:#18355E; background:#F4F6F9; -webkit-print-color-adjust:exact; print-color-adjust:exact;}
     .clp-card h2 img{width:14px; height:14px; object-fit:contain;}
+    .clp-tag{margin-left:auto; font-weight:400; font-size:10px; color:#444;}
     .clp-sec{padding:5px 10px 1px; font-size:8.5px; font-weight:700; letter-spacing:.05em; text-transform:uppercase; color:#8A93A3;}
     .clp-item{display:flex; gap:8px; justify-content:space-between; padding:3px 10px; break-inside:avoid;}
     .clp-obs{font-size:10px; color:#444; margin-top:2px;}
@@ -7239,6 +7243,9 @@ const CHECKLIST_TOOLS = [
   {"id": "linkedin", "logo": "logos/linkedin.svg", "name": "LinkedIn Ads", "secoes": [{"titulo": "Configuração", "itens": [["linkedin-insight-tag-instalada-no-site", "Insight Tag instalada no site"], ["linkedin-conversoes-configuradas", "Conversões configuradas"]]}, {"titulo": "Segmentação", "itens": [["linkedin-segmentacao-b2b-configurada-ca", "Segmentação B2B configurada (cargo, setor, senioridade)"]]}, {"titulo": "Performance", "itens": [["linkedin-ctr-analisado", "CTR analisado"], ["linkedin-cpl-dentro-da-meta-do-cliente", "CPL dentro da meta do cliente"], ["linkedin-campanhas-com-melhor-e-pior-re", "Campanhas com melhor e pior resultado identificadas"]]}], "plat": "linkedin"},
   {"id": "hotmart", "logo": "logos/hotmart.png", "name": "Hotmart", "secoes": [{"titulo": "Configuração", "itens": [["hotmart-pixel-e-ga4-integrados-ao-chec", "Pixel e GA4 integrados ao checkout"], ["hotmart-utms-de-campanha-chegando-corr", "UTMs de campanha chegando corretamente"]]}, {"titulo": "Performance de Vendas", "itens": [["hotmart-receita-total-ticket-medio-e-n", "Receita total, ticket médio e número de vendas revisados"], ["hotmart-origem-das-vendas-por-canal-id", "Origem das vendas por canal identificada"], ["hotmart-reembolsos-e-chargeback-monito", "Reembolsos e chargeback monitorados"]]}]},
 ];
+// ferramentas que têm um código próprio para anotar
+const CL_TAG_EXEMPLO = { ga4: "G-XXXXXXXXXX", gtm: "GTM-XXXXXXX", google_ads: "AW-XXXXXXXXX", navegg: "nvgXXXXX",
+  hotjar: "ID do site", meta: "ID do pixel", tiktok: "ID do pixel", linkedin: "Partner ID" };
 const CL_ROTULO = { ok: "✓ Ok", issue: "⚠ Problema", na: "N/A" };
 let clAtual = null;    // { id, sha, data }: id nulo até o primeiro salvamento
 let clBase = null;     // como estava ao abrir, para mesclar se outra pessoa salvar junto
@@ -7302,7 +7309,7 @@ function clNovo() {
     data: {
       tipo: "checklist", cliente: clienteNome() || (projetoAtual && projetoAtual.nome) || "",
       responsavel: meuNome || "", data: clHoje(), mapa: projetoAtual ? projetoAtual.id : "",
-      respostas: {}, desligadas: desligadas
+      respostas: {}, desligadas: desligadas, tags: {}
     }
   };
   clBase = clonar(clAtual.data);
@@ -7329,7 +7336,7 @@ async function abrirChecklist(id) {
     clSujo = false;
     const mapa = clMapaDe(r.data || {}, id);
     if (mapa && (!projetoAtual || projetoAtual.id !== mapa)) await abrirProjeto(mapa);
-    clAtual = { id: r.id || id, sha: r.sha, data: Object.assign({ respostas: {}, desligadas: [] }, r.data) };
+    clAtual = { id: r.id || id, sha: r.sha, data: Object.assign({ respostas: {}, desligadas: [], tags: {} }, r.data) };
     clBase = clonar(clAtual.data);
     clAbertos.clear();
     clEstadoMsg = null;
@@ -7355,6 +7362,12 @@ function clMesclar(base, meu, serv) {
   s.respostas = s.respostas || {};
   ["cliente", "responsavel", "data"].forEach(c => { if (meu[c] !== base[c]) s[c] = meu[c]; });
   if (JSON.stringify(meu.desligadas) !== JSON.stringify(base.desligadas)) s.desligadas = clonar(meu.desligadas);
+  s.tags = s.tags || {};
+  const tB = base.tags || {}, tM = meu.tags || {};
+  Object.keys(Object.assign({}, tB, tM)).forEach(k => {
+    if ((tM[k] || "") === (tB[k] || "")) return;
+    if (tM[k]) s.tags[k] = tM[k]; else delete s.tags[k];
+  });
   const mB = base.respostas || {}, mM = meu.respostas || {};
   Object.keys(Object.assign({}, mB, mM)).forEach(k => {
     if (JSON.stringify(mM[k]) === JSON.stringify(mB[k])) return;
@@ -7483,7 +7496,10 @@ function clDesenhaFicha(el) {
       '<span class="cl-conta" id="clConta-' + t.id + '"></span>' +
       '<label class="cl-usa" title="Desligue se o cliente não usa esta ferramenta"><input type="checkbox" data-cl-usa' + (desligada ? "" : " checked") + '> usa</label>' +
       '<span class="cl-seta">▼</span></div>' +
-      '<div class="cl-corpo">' + corpo + '</div></div>';
+      '<div class="cl-corpo">' + (CL_TAG_EXEMPLO[t.id]
+        ? '<div class="cl-tag"><label for="clTag-' + t.id + '">Tag instalada</label>' +
+          '<input id="clTag-' + t.id + '" type="text" spellcheck="false" placeholder="' + esc(CL_TAG_EXEMPLO[t.id]) + '" value="' + esc((d.tags || {})[t.id] || "") + '"></div>'
+        : '') + corpo + '</div></div>';
   }).join("");
 
   el.innerHTML = '<div class="pv-wrap">' +
@@ -7533,6 +7549,13 @@ function clDesenhaFicha(el) {
     head.onclick = (ev) => { if (!ev.target.closest(".cl-usa")) alterna(); };
     head.onkeydown = (ev) => {
       if ((ev.key === "Enter" || ev.key === " ") && ev.target === head) { ev.preventDefault(); alterna(); }
+    };
+    const campoTag = card.querySelector(".cl-tag input");
+    if (campoTag) campoTag.oninput = function () {
+      d.tags = d.tags || {};
+      const v = this.value.trim();
+      if (v) d.tags[id] = v; else delete d.tags[id];
+      clMarcaSujo();
     };
     card.querySelector("[data-cl-usa]").onchange = function () {
       d.desligadas = (d.desligadas || []).filter(x => x !== id);
@@ -7616,7 +7639,8 @@ function clImprimir() {
     ' &nbsp; <b>Data:</b> ' + esc(clDataBR(d.data)) + ' &nbsp; <b>Avaliados:</b> ' + r.avaliados + ' / ' + r.total +
     ' &nbsp; <b>Problemas:</b> ' + r.problemas + '</div>' +
     CHECKLIST_TOOLS.filter(t => (d.desligadas || []).indexOf(t.id) < 0).map(t =>
-      '<div class="clp-card"><h2><img src="' + t.logo + '" alt="">' + esc(t.name) + '</h2>' +
+      '<div class="clp-card"><h2><img src="' + t.logo + '" alt="">' + esc(t.name) +
+      ((d.tags || {})[t.id] ? '<span class="clp-tag">' + esc(d.tags[t.id]) + '</span>' : '') + '</h2>' +
       t.secoes.map(sec => '<div class="clp-sec">' + esc(sec.titulo) + '</div>' + sec.itens.map(it => {
         const x = (d.respostas || {})[it[0]] || {};
         return '<div class="clp-item"><div>' + esc(it[1]) +
