@@ -2,7 +2,7 @@
   "meta": {
     "nome": "Checklist – Quest Construtora – 05/11/2026",
     "salvoPor": "Matheus",
-    "salvoEm": "2026-11-05T18:08:28.428Z",
+    "salvoEm": "2026-11-05T18:11:40.080Z",
     "resumo": {
       "tipo": "checklist",
       "data": "2026-11-05",
@@ -25,8 +25,7 @@
         "s": "ok"
       },
       "meta-conversions-api-capi-configura": {
-        "s": "na",
-        "o": "Form nativo. Integração com o CRM ok."
+        "s": "na"
       },
       "meta-dominio-verificado-no-business": {
         "s": "na"
