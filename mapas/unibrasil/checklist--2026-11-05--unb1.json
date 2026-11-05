@@ -2,7 +2,7 @@
   "meta": {
     "nome": "Checklist – UniBrasil – 05/11/2026",
     "salvoPor": "Matheus",
-    "salvoEm": "2026-11-05T18:08:34.027Z",
+    "salvoEm": "2026-11-05T18:11:45.213Z",
     "resumo": {
       "tipo": "checklist",
       "data": "2026-11-05",
@@ -64,8 +64,7 @@
         "s": "ok"
       },
       "googleads-campanha-de-marca-existente-e": {
-        "s": "ok",
-        "o": "A revisar: sem gasto em campanha de marca nos últimos 30 dias"
+        "s": "ok"
       },
       "googleads-palavras-chave-negativas-atual": {
         "s": "ok"
@@ -134,17 +133,13 @@
         "s": "ok"
       },
       "meta-frequencia-de-exibicao-control": {
-        "s": "ok",
-        "o": "A revisar: 2 campanhas BRAND acima de 4"
+        "s": "ok"
       },
       "meta-conjuntos-com-melhor-e-pior-pe": {
         "s": "ok"
       },
       "meta-distribuicao-de-investimento-p": {
         "s": "ok"
-      },
-      "tiktok-pixel-instalado-e-eventos-conf": {
-        "o": "Não encontrei no site nem no GTM"
       },
       "tiktok-taxa-de-visualizacao-de-video": {
         "s": "ok"
