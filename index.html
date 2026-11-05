@@ -224,6 +224,8 @@
   }
   .proj-lista.grade .proj-logo{height:34px; max-width:100%; align-self:flex-start;}
   .proj-logo.vazio{display:none;}
+  .proj-logo.logo-clara{background:var(--navy); border-color:var(--navy);}
+  .rel-marca img.logo-clara{background:var(--navy); border-radius:6px; padding:4px 8px;}
   .proj-lista.grade .proj-logo.vazio{display:block; width:1px; border:none; background:none; padding:0;}
   .proj-sempasta{display:inline-block; font-size:9.5px; font-weight:700; letter-spacing:.02em; color:var(--gray-light);
     background:#F1F4F8; border-radius:3px; padding:1px 5px; margin-right:5px; vertical-align:1px;}
@@ -4902,9 +4904,26 @@ function estiloRel(qual) {
 }
 
 // bloco com a logo do cliente, no topo dos relatórios
+// logo clara com fundo transparente some no fundo branco: ganha fundo escuro
+function ajustaFundoLogo(img) {
+  try {
+    const w = Math.min(img.naturalWidth, 120), hh = Math.max(1, Math.round(img.naturalHeight * w / img.naturalWidth));
+    if (!w) return;
+    const c = document.createElement("canvas"); c.width = w; c.height = hh;
+    const ctx = c.getContext("2d"); ctx.drawImage(img, 0, 0, w, hh);
+    const px = ctx.getImageData(0, 0, w, hh).data;
+    let opacos = 0, soma = 0;
+    for (let i = 0; i < px.length; i += 4) {
+      if (px[i + 3] < 32) continue;
+      opacos++; soma += 0.2126 * px[i] + 0.7152 * px[i + 1] + 0.0722 * px[i + 2];
+    }
+    const total = px.length / 4;
+    img.classList.toggle("logo-clara", opacos > 0 && opacos / total < 0.9 && soma / opacos > 200);
+  } catch (e) {}
+}
 function marcaDoCliente() {
   if (!logoCliente()) return "";
-  return '<div class="rel-marca"><img src="' + logoCliente() + '" alt="">' +
+  return '<div class="rel-marca"><img src="' + logoCliente() + '" alt="" onload="ajustaFundoLogo(this)">' +
     (clienteNome() ? '<span>' + esc(clienteNome()) + '</span>' : '') + '</div>';
 }
 
@@ -7773,7 +7792,7 @@ function linhaChecklist(p) {
     ? '<b class="cl-prob">' + r.problemas + (r.problemas === 1 ? " problema" : " problemas") + '</b>'
     : '<b class="cl-semprob">sem problemas</b>';
   return '<div class="proj-item' + (aberto ? " aberto" : "") + '" draggable="true" data-abrir="' + esc(p.id) + '">' +
-    (p.logo ? '<img class="proj-logo" src="' + p.logo + '" alt="">' : '<span class="proj-logo vazio"></span>') +
+    (p.logo ? '<img class="proj-logo" src="' + p.logo + '" alt="" onload="ajustaFundoLogo(this)">' : '<span class="proj-logo vazio"></span>') +
     '<div class="proj-txt"><div class="proj-nome" title="' + esc(p.nome || p.id) + '"><span class="proj-tag checklist">Checklist</span>' + esc(r.total ? (p.nome || p.id) : clNomeSemIndice(p)) +
     (aberto ? ' <span class="proj-flag">aberto</span>' : '') + '</div>' +
     '<div class="proj-info">' + (p.pasta ? esc(nomePasta(p.pasta)) + " · " : '<span class="proj-sempasta">Sem pasta</span>') +
@@ -8003,7 +8022,7 @@ function desenhaLista() {
       const somaVerba = ativas.reduce((s, p) => s + (r[p].verba || 0), 0);
       const somaCamp = ativas.reduce((s, p) => s + (r[p].campanhas || 0), 0);
       return '<div class="proj-item' + (aberto ? " aberto" : "") + '" draggable="true" data-abrir="' + esc(p.id) + '">' +
-        (p.logo ? '<img class="proj-logo" src="' + p.logo + '" alt="">' : '<span class="proj-logo vazio"></span>') +
+        (p.logo ? '<img class="proj-logo" src="' + p.logo + '" alt="" onload="ajustaFundoLogo(this)">' : '<span class="proj-logo vazio"></span>') +
         '<div class="proj-txt"><div class="proj-nome" title="' + esc(p.nome || p.id) + '"><span class="proj-tag mapa">Mapa mental</span>' + esc(p.nome || p.id) + (aberto ? ' <span class="proj-flag">aberto</span>' : '') + '</div>' +
         '<div class="proj-info">' + (p.pasta ? esc(nomePasta(p.pasta)) + " · " : '<span class="proj-sempasta">Sem pasta</span>') +
         (p.salvoPor ? 'por <a class="proj-quem" data-quem="' + esc(p.salvoPor) + '">' + esc(p.salvoPor) + '</a>' : "") + '</div>' +
