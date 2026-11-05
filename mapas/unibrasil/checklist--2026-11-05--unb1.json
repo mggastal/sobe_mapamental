@@ -2,7 +2,7 @@
   "meta": {
     "nome": "Checklist – UniBrasil – 05/11/2026",
     "salvoPor": "Matheus",
-    "salvoEm": "2026-11-05T17:53:43.203Z",
+    "salvoEm": "2026-11-05T18:08:34.027Z",
     "resumo": {
       "tipo": "checklist",
       "data": "2026-11-05",
@@ -22,167 +22,116 @@
     "mapa": "",
     "respostas": {
       "ga4-propriedade-ga4-instalada-e-re": {
-        "s": "ok",
-        "o": "A revisar: G-NETDV4XFTL, G-PK5V02ZHVF, G-TGLPKGTFB0 (3 propriedades via GTM)"
+        "s": "ok"
       },
       "ga4-codigo-via-gtm-ou-direto-sem-d": {
-        "s": "ok",
-        "o": "A revisar"
+        "s": "ok"
       },
       "ga4-conversoes-configuradas-e-alin": {
-        "s": "ok",
-        "o": "A revisar"
+        "s": "ok"
       },
       "ga4-eventos-de-formulario-e-cta-di": {
-        "s": "ok",
-        "o": "A revisar"
+        "s": "ok"
       },
       "ga4-google-ads-vinculado": {
-        "s": "ok",
-        "o": "A revisar"
+        "s": "ok"
       },
       "gtm-container-publicado-e-sem-tags": {
-        "s": "ok",
-        "o": "GTM-K2SKNRW"
+        "s": "ok"
       },
       "gtm-tags-antigas-ou-nao-utilizadas": {
-        "s": "ok",
-        "o": "A revisar"
+        "s": "ok"
       },
       "gtm-preview-mode-testado-sem-erros": {
-        "s": "ok",
-        "o": "A revisar"
+        "s": "ok"
       },
       "gtm-tag-ga4-configurada-corretamen": {
-        "s": "ok",
-        "o": "A revisar"
+        "s": "ok"
       },
       "gtm-tag-google-ads-conversoes-disp": {
-        "s": "ok",
-        "o": "AW-973802374"
+        "s": "ok"
       },
       "gtm-tag-meta-pixel-disparando": {
-        "s": "ok",
-        "o": "3556804391306900"
+        "s": "ok"
       },
       "gtm-gatilhos-de-conversao-corretos": {
-        "s": "ok",
-        "o": "A revisar"
+        "s": "ok"
       },
       "googleads-campanhas-organizadas-por-obje": {
-        "s": "ok",
-        "o": "A revisar"
+        "s": "ok"
       },
       "googleads-grupos-de-anuncio-segmentados": {
-        "s": "ok",
-        "o": "A revisar"
+        "s": "ok"
       },
       "googleads-campanha-de-marca-existente-e": {
         "s": "ok",
         "o": "A revisar: sem gasto em campanha de marca nos últimos 30 dias"
       },
       "googleads-palavras-chave-negativas-atual": {
-        "s": "ok",
-        "o": "A revisar"
+        "s": "ok"
       },
       "googleads-termos-de-pesquisa-revisados-i": {
-        "s": "ok",
-        "o": "A revisar"
+        "s": "ok"
       },
       "googleads-palavras-com-alto-gasto-e-baix": {
-        "s": "ok",
-        "o": "A revisar"
+        "s": "ok"
       },
       "googleads-relatorio-de-leilao-analisado": {
-        "s": "ok",
-        "o": "A revisar"
+        "s": "ok"
       },
       "googleads-extensoes-configuradas-sitelin": {
-        "s": "ok",
-        "o": "A revisar"
+        "s": "ok"
       },
       "googleads-anuncios-com-ctr-abaixo-da-med": {
-        "s": "ok",
-        "o": "A revisar"
+        "s": "ok"
       },
       "googleads-cpa-dentro-da-meta-do-cliente": {
-        "s": "ok",
-        "o": "A revisar"
+        "s": "ok"
       },
       "googleads-distribuicao-de-investimento-p": {
         "s": "ok"
       },
       "googleads-campanhas-com-melhor-performan": {
-        "s": "ok",
-        "o": "A revisar"
+        "s": "ok"
       },
       "googleads-campanhas-com-pior-resultado-t": {
-        "s": "ok",
-        "o": "A revisar"
+        "s": "ok"
       },
       "googleads-estrategia-de-lance-alinhada-a": {
         "s": "ok"
       },
       "navegg-script-instalado-e-conta-ativa": {
-        "s": "ok",
-        "o": "A revisar: nvg94714"
+        "s": "ok"
       },
       "navegg-integracao-com-plataformas-de": {
-        "s": "ok",
-        "o": "A revisar"
+        "s": "ok"
       },
       "hotjar-script-instalado-e-sessoes-sen": {
-        "s": "ok",
-        "o": "A revisar: 6372760 e 3698508 (2 contas)"
+        "s": "ok"
       },
       "hotjar-dados-de-heatmap-disponiveis-n": {
-        "s": "ok",
-        "o": "A revisar"
-      },
-      "gmb-perfil-verificado-endereco-e-h": {
-        "o": "A confirmar se o Google Meu Negócio entra"
-      },
-      "gmb-fotos-atualizadas": {
-        "o": "A confirmar se o Google Meu Negócio entra"
-      },
-      "gmb-avaliacoes-respondidas-positiv": {
-        "o": "A confirmar se o Google Meu Negócio entra"
-      },
-      "gmb-cliques-para-ligacao-e-rotas-a": {
-        "o": "A confirmar se o Google Meu Negócio entra"
-      },
-      "gmb-avaliacao-media-e-evolucao-mon": {
-        "o": "A confirmar se o Google Meu Negócio entra"
-      },
-      "gmb-posts-recentes-no-perfil": {
-        "o": "A confirmar se o Google Meu Negócio entra"
+        "s": "ok"
       },
       "meta-pixel-instalado-e-disparando-s": {
-        "s": "ok",
-        "o": "A revisar: 3556804391306900"
+        "s": "ok"
       },
       "meta-conversions-api-capi-configura": {
-        "s": "ok",
-        "o": "A revisar"
+        "s": "ok"
       },
       "meta-dominio-verificado-no-business": {
-        "s": "ok",
-        "o": "A revisar"
+        "s": "ok"
       },
       "meta-campanhas-por-etapa-de-funil-t": {
-        "s": "ok",
-        "o": "A revisar"
+        "s": "ok"
       },
       "meta-remarketing-ativo-com-publico": {
-        "s": "ok",
-        "o": "A revisar"
+        "s": "ok"
       },
       "meta-ctr-cpm-e-cpc-analisados": {
         "s": "ok"
       },
       "meta-cpa-dentro-da-meta-do-cliente": {
-        "s": "ok",
-        "o": "A revisar"
+        "s": "ok"
       },
       "meta-frequencia-de-exibicao-control": {
         "s": "ok",
@@ -195,24 +144,29 @@
         "s": "ok"
       },
       "tiktok-pixel-instalado-e-eventos-conf": {
-        "o": "Não encontrei o pixel na página inicial"
+        "o": "Não encontrei no site nem no GTM"
       },
       "tiktok-taxa-de-visualizacao-de-video": {
-        "s": "ok",
-        "o": "A revisar"
+        "s": "ok"
       },
       "tiktok-cpa-dentro-da-meta": {
-        "s": "ok",
-        "o": "A revisar"
+        "s": "ok"
       },
       "tiktok-conjuntos-com-melhor-e-pior-re": {
-        "s": "ok",
-        "o": "A revisar"
+        "s": "ok"
       }
     },
     "desligadas": [
       "linkedin",
       "hotmart"
-    ]
+    ],
+    "tags": {
+      "ga4": "G-NETDV4XFTL, G-PK5V02ZHVF, G-TGLPKGTFB0",
+      "gtm": "GTM-K2SKNRW",
+      "google_ads": "AW-973802374",
+      "navegg": "nvg94714",
+      "hotjar": "6372760, 3698508",
+      "meta": "3556804391306900"
+    }
   }
 }
