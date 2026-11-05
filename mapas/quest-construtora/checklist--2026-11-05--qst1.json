@@ -2,7 +2,7 @@
   "meta": {
     "nome": "Checklist – Quest Construtora – 05/11/2026",
     "salvoPor": "Matheus",
-    "salvoEm": "2026-11-05T17:53:38.115Z",
+    "salvoEm": "2026-11-05T18:05:08.536Z",
     "resumo": {
       "tipo": "checklist",
       "data": "2026-11-05",
@@ -22,7 +22,8 @@
     "mapa": "quest-construtora/quest---setembro-a-dezembro---2026",
     "respostas": {
       "meta-pixel-instalado-e-disparando-s": {
-        "s": "na"
+        "s": "ok",
+        "o": "750261192704425 (construtoraquest.com.br)"
       },
       "meta-conversions-api-capi-configura": {
         "s": "na",
