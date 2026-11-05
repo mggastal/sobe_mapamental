@@ -323,6 +323,21 @@
       },
       "logo": "",
       "moeda": "BRL"
+    },
+    "dra-monica/checklist--2026-11-05--n3oq": {
+      "nome": "Checklist – POPLIST - Perpetuo - Dra Monica – 05/11/2026",
+      "salvoPor": "Matheus",
+      "salvoEm": "2026-11-05T16:01:56.317Z",
+      "resumo": {
+        "tipo": "checklist",
+        "data": "2026-11-05",
+        "responsavel": "Matheus",
+        "total": 32,
+        "avaliados": 32,
+        "problemas": 0
+      },
+      "logo": "",
+      "moeda": "BRL"
     }
   },
   "pastas": {
