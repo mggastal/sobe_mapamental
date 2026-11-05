@@ -223,6 +223,10 @@
     background:#fff; border:1px solid #EEF1F5; border-radius:6px; padding:3px 5px;
   }
   .proj-lista.grade .proj-logo{height:34px; max-width:100%; align-self:flex-start;}
+  .proj-logo.vazio{display:none;}
+  .proj-lista.grade .proj-logo.vazio{display:block; width:1px; border:none; background:none; padding:0;}
+  .proj-sempasta{display:inline-block; font-size:9.5px; font-weight:700; letter-spacing:.02em; color:var(--gray-light);
+    background:#F1F4F8; border-radius:3px; padding:1px 5px; margin-right:5px; vertical-align:1px;}
   .proj-txt{flex:1; min-width:0;}
   .proj-data{font-size:12px; color:var(--gray-light); white-space:nowrap; width:84px; text-align:right; flex-shrink:0;}
   .proj-total{text-align:right; white-space:nowrap; line-height:1.3; width:145px; flex-shrink:0;}
@@ -253,17 +257,18 @@
   .tela-proj .proj-lista{max-height:none; overflow:visible;}
   .proj-lista.grade{
     display:grid; grid-template-columns:repeat(3, minmax(0, 1fr));
-    gap:14px; align-items:start; overflow-x:hidden;
+    grid-auto-rows:1fr; gap:14px; align-items:stretch; overflow-x:hidden;
   }
   @media (max-width: 900px){ .proj-lista.grade{grid-template-columns:repeat(2, minmax(0, 1fr));} }
-  @media (max-width: 560px){ .proj-lista.grade{grid-template-columns:1fr;} }
+  @media (max-width: 560px){ .proj-lista.grade{grid-template-columns:1fr; grid-auto-rows:auto;} }
 
   .proj-lista.grade .proj-cab{display:none;}
   .proj-lista.grade .proj-item{
     flex-direction:column; align-items:stretch; gap:8px; margin-bottom:0; padding:14px; min-width:0;
   }
-  .proj-lista.grade .proj-txt{min-width:0; width:100%;}
-  .proj-lista.grade .proj-nome{white-space:nowrap; overflow:hidden; text-overflow:ellipsis;}
+  .proj-lista.grade .proj-txt{min-width:0; width:100%; flex:1 1 auto;}
+  .proj-lista.grade .proj-nome{display:-webkit-box; -webkit-box-orient:vertical; -webkit-line-clamp:3; line-clamp:3; overflow:hidden;
+    line-height:1.3; min-height:2.6em; overflow-wrap:anywhere;}
   .proj-lista.grade .proj-info{white-space:nowrap; overflow:hidden; text-overflow:ellipsis;}
   /* cada plataforma na sua linha, sem espremer os valores */
   .proj-lista.grade .proj-plat{white-space:nowrap; max-width:100%; overflow:hidden; text-overflow:ellipsis;}
@@ -7768,10 +7773,10 @@ function linhaChecklist(p) {
     ? '<b class="cl-prob">' + r.problemas + (r.problemas === 1 ? " problema" : " problemas") + '</b>'
     : '<b class="cl-semprob">sem problemas</b>';
   return '<div class="proj-item' + (aberto ? " aberto" : "") + '" draggable="true" data-abrir="' + esc(p.id) + '">' +
-    (p.logo ? '<img class="proj-logo" src="' + p.logo + '" alt="">' : '') +
-    '<div class="proj-txt"><div class="proj-nome"><span class="proj-tag checklist">Checklist</span>' + esc(r.total ? (p.nome || p.id) : clNomeSemIndice(p)) +
+    (p.logo ? '<img class="proj-logo" src="' + p.logo + '" alt="">' : '<span class="proj-logo vazio"></span>') +
+    '<div class="proj-txt"><div class="proj-nome" title="' + esc(p.nome || p.id) + '"><span class="proj-tag checklist">Checklist</span>' + esc(r.total ? (p.nome || p.id) : clNomeSemIndice(p)) +
     (aberto ? ' <span class="proj-flag">aberto</span>' : '') + '</div>' +
-    '<div class="proj-info">' + (p.pasta ? esc(nomePasta(p.pasta)) + " · " : "") +
+    '<div class="proj-info">' + (p.pasta ? esc(nomePasta(p.pasta)) + " · " : '<span class="proj-sempasta">Sem pasta</span>') +
     (p.salvoPor ? 'por <a class="proj-quem" data-quem="' + esc(p.salvoPor) + '">' + esc(p.salvoPor) + '</a>' : "") + '</div></div>' +
     '<div class="proj-total">' + prob + '<span>' + (r.total ? (r.avaliados || 0) + ' / ' + r.total + ' avaliados' : 'abra para ver o resumo') + '</span></div>' +
     '<div class="proj-data">' + quandoTexto(p.salvoEm) + '</div>' +
@@ -7998,9 +8003,9 @@ function desenhaLista() {
       const somaVerba = ativas.reduce((s, p) => s + (r[p].verba || 0), 0);
       const somaCamp = ativas.reduce((s, p) => s + (r[p].campanhas || 0), 0);
       return '<div class="proj-item' + (aberto ? " aberto" : "") + '" draggable="true" data-abrir="' + esc(p.id) + '">' +
-        (p.logo ? '<img class="proj-logo" src="' + p.logo + '" alt="">' : '') +
-        '<div class="proj-txt"><div class="proj-nome"><span class="proj-tag mapa">Mapa mental</span>' + esc(p.nome || p.id) + (aberto ? ' <span class="proj-flag">aberto</span>' : '') + '</div>' +
-        '<div class="proj-info">' + (p.pasta ? esc(nomePasta(p.pasta)) + " · " : "") +
+        (p.logo ? '<img class="proj-logo" src="' + p.logo + '" alt="">' : '<span class="proj-logo vazio"></span>') +
+        '<div class="proj-txt"><div class="proj-nome" title="' + esc(p.nome || p.id) + '"><span class="proj-tag mapa">Mapa mental</span>' + esc(p.nome || p.id) + (aberto ? ' <span class="proj-flag">aberto</span>' : '') + '</div>' +
+        '<div class="proj-info">' + (p.pasta ? esc(nomePasta(p.pasta)) + " · " : '<span class="proj-sempasta">Sem pasta</span>') +
         (p.salvoPor ? 'por <a class="proj-quem" data-quem="' + esc(p.salvoPor) + '">' + esc(p.salvoPor) + '</a>' : "") + '</div>' +
         (plats ? '<div class="proj-plats">' + plats + '</div>' : '') + '</div>' +
         '<div class="proj-total">' +
