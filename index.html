@@ -2,8 +2,8 @@
 <html lang="pt-BR">
 <head>
 <script>
-  // link do cliente: esconde a tela até o projeto compartilhado chegar, para não aparecer o mapa padrão
-  if (/[?&]s=[a-z0-9]+/i.test(location.search)) document.documentElement.classList.add("abrindo-link");
+  // tela de carregamento: esconde o app até ele saber o que mostrar (login, projetos ou link do cliente)
+  document.documentElement.classList.add("abrindo");
 </script>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -1084,9 +1084,14 @@
   body.cl-compartilhado #platformBar, body.cl-compartilhado .tabs, body.cl-compartilhado #moedaSelect,
   body.cl-compartilhado .logo-cliente, body.cl-compartilhado .barra-bolinha{display:none !important;}
   #checklistPrint{display:none;}
-  html.abrindo-link body > *{visibility:hidden !important;}
-  html.abrindo-link body::before{content:"Carregando…"; position:fixed; inset:0; z-index:9999; display:flex; align-items:center; justify-content:center;
-    background:var(--bg); color:var(--gray); font:13px Arial, Helvetica, sans-serif; visibility:visible;}
+  html.abrindo body > *{visibility:hidden !important;}
+  html.abrindo body::before{content:""; position:fixed; inset:0; z-index:9998; visibility:visible;
+    background:var(--bg) url("logos/sobe-carregando.png") center calc(50% - 18px) / 88px auto no-repeat;
+    animation:abrindo-pulsa 1.4s ease-in-out infinite;}
+  html.abrindo body::after{content:"Carregando…"; position:fixed; left:0; right:0; top:calc(50% + 46px); z-index:9999; visibility:visible;
+    text-align:center; color:var(--gray-light); font:12px Arial, Helvetica, sans-serif; letter-spacing:.04em;}
+  @keyframes abrindo-pulsa{0%,100%{opacity:1;} 50%{opacity:.55;}}
+  @media (prefers-reduced-motion: reduce){ html.abrindo body::before{animation:none;} }
   @media print{
     body.imprimindo-cl{display:block; height:auto; overflow:visible; background:#fff;}
     html:has(body.imprimindo-cl){height:auto; overflow:visible;}
@@ -8432,9 +8437,11 @@ atualizaChipNuvem();
 // ---------- entrada da equipe ----------
 // A senha não está aqui: o app manda o que foi digitado para o Worker,
 // que devolve um bilhete de sessão assinado, válido por 30 dias.
+function fimDoCarregamento() { document.documentElement.classList.remove("abrindo"); }
 function liberarApp() {
   document.getElementById("portao").classList.remove("aberto");
   if (nuvemConfigurada()) setTimeout(abrirTelaProjetos, 40);
+  setTimeout(fimDoCarregamento, 160);
   setTimeout(fitView, 120);
 }
 
@@ -8506,7 +8513,7 @@ if (TOKEN_CLIENTE && nuvemConfigurada()) {
       const r = await apiNuvem("/shared?s=" + encodeURIComponent(TOKEN_CLIENTE));
       if (r.data && r.data.tipo === "checklist") {
         clAbrirCompartilhado(r);
-        document.documentElement.classList.remove("abrindo-link");
+        fimDoCarregamento();
         return;
       }
       aplicarStore(r.data);
@@ -8522,9 +8529,9 @@ if (TOKEN_CLIENTE && nuvemConfigurada()) {
         if (primeira) setPlatform(primeira);
       }
       fitView();
-      document.documentElement.classList.remove("abrindo-link");
+      fimDoCarregamento();
     } catch (e) {
-      document.documentElement.classList.remove("abrindo-link");
+      fimDoCarregamento();
       document.body.innerHTML =
         '<div style="font-family:DM Sans,Segoe UI,sans-serif; max-width:420px; margin:16vh auto; text-align:center; color:#2E3646;">' +
         '<h2 style="font-family:Georgia,serif; color:#18355E;">Link indisponível</h2>' +
@@ -8535,6 +8542,9 @@ if (TOKEN_CLIENTE && nuvemConfigurada()) {
 }
 
 // ---------- INITIAL RENDER ----------
+// sem link de cliente, a tela já sabe o que mostrar logo depois do primeiro desenho
+if (!TOKEN_CLIENTE) setTimeout(fimDoCarregamento, 260);
+setTimeout(fimDoCarregamento, 15000);   // nunca deixar a tela presa no carregamento
 render();
 try {
   svg.call(zoom.transform, d3.zoomIdentity.translate(340, 300).scale(0.75));
