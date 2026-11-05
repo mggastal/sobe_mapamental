@@ -7253,6 +7253,8 @@ function pastaDoId(id) {
   const i = String(id || "").lastIndexOf("/");
   return i >= 0 ? String(id).slice(0, i) : "";
 }
+function clDataDoId(id) { return (String(id || "").match(/checklist--(\d{4}-\d\d-\d\d)/) || [])[1] || ""; }
+function clNomeSemIndice(p) { return "Checklist – " + clDataBR(clDataDoId(p.id)); }
 function clDataBR(iso) { return iso ? String(iso).split("-").reverse().join("/") : "sem data"; }
 function clHoje() {
   const d = new Date();
@@ -7377,19 +7379,33 @@ async function salvarChecklist() {
   clEstadoMsg = { texto: "salvando…", tipo: "" };
   clAtualizaEstado();
   let aviso = "";
+  const tenta = async () => {
+    try {
+      return await clGravar();
+    } catch (e) {
+      if (e.status !== 409) throw e;
+      // o arquivo mudou desde que abrimos: junta as respostas e tenta de novo
+      const remoto = await apiNuvem("/project?id=" + encodeURIComponent(clAtual.id));
+      const mesclado = clMesclar(clBase, clAtual.data, remoto.data);
+      clAtual.sha = remoto.sha;
+      // só troca o objeto (e redesenha) se mudou: a ficha na tela escreve nele
+      if (JSON.stringify(mesclado) !== JSON.stringify(clAtual.data)) {
+        clAtual.data = mesclado;
+        aviso = " Mesclado com a versão de outra pessoa.";
+        renderChecklist();
+      }
+      return await clGravar();
+    }
+  };
   try {
     let r;
     try {
-      r = await clGravar();
+      r = await tenta();
     } catch (e) {
-      if (e.status !== 409) throw e;
-      // outra pessoa salvou junto: junta as respostas e tenta de novo
-      const remoto = await apiNuvem("/project?id=" + encodeURIComponent(clAtual.id));
-      clAtual.data = clMesclar(clBase, clAtual.data, remoto.data);
-      clAtual.sha = remoto.sha;
-      r = await clGravar();
-      aviso = " Mesclado com a versão de outra pessoa.";
-      renderChecklist();
+      if (e.status !== 500) throw e;
+      // o Worker grava o arquivo e depois o índice: se o índice falhar, repetir completa os dois
+      await new Promise(ok => setTimeout(ok, 2500));
+      r = await tenta();
     }
     clAtual.id = r.id || clAtual.id;
     clAtual.sha = r.sha;
@@ -7430,13 +7446,13 @@ function renderChecklist() {
   } else {
     html += '<div class="cl-tabela">' + itens.map(p => {
       const r = p.resumo || {};
-      const pill = r.problemas
+      const pill = !r.total ? "" : r.problemas
         ? '<span class="cl-pill prob">' + r.problemas + (r.problemas === 1 ? " problema" : " problemas") + '</span>'
         : '<span class="cl-pill limpo">sem problemas</span>';
       return '<button class="cl-linha" data-cl-abrir="' + esc(p.id) + '">' +
-        '<span class="cl-l-data">' + esc(clDataBR(r.data)) + '</span>' +
+        '<span class="cl-l-data">' + esc(clDataBR(r.data || clDataDoId(p.id))) + '</span>' +
         '<span class="cl-l-quem">' + esc(r.responsavel || p.salvoPor || "") + '</span>' +
-        '<span class="cl-l-prog">' + (r.avaliados || 0) + ' / ' + (r.total || 0) + ' avaliados</span>' + pill + '</button>';
+        '<span class="cl-l-prog">' + (r.total ? (r.avaliados || 0) + ' / ' + r.total + ' avaliados' : 'abra para ver o resumo') + '</span>' + pill + '</button>';
     }).join("") + '</div>';
   }
   el.innerHTML = html + '</div>';
@@ -7656,16 +7672,16 @@ function ordenaComChecklists(lista) {
 function linhaChecklist(p) {
   const r = p.resumo || {};
   const aberto = clAtual && clAtual.id === p.id;
-  const prob = r.problemas
+  const prob = !r.total ? "" : r.problemas
     ? '<b class="cl-prob">' + r.problemas + (r.problemas === 1 ? " problema" : " problemas") + '</b>'
     : '<b class="cl-semprob">sem problemas</b>';
   return '<div class="proj-item' + (aberto ? " aberto" : "") + '" draggable="true" data-abrir="' + esc(p.id) + '">' +
     (p.logo ? '<img class="proj-logo" src="' + p.logo + '" alt="">' : '') +
-    '<div class="proj-txt"><div class="proj-nome"><span class="proj-tag checklist">Checklist</span>' + esc(p.nome || p.id) +
+    '<div class="proj-txt"><div class="proj-nome"><span class="proj-tag checklist">Checklist</span>' + esc(r.total ? (p.nome || p.id) : clNomeSemIndice(p)) +
     (aberto ? ' <span class="proj-flag">aberto</span>' : '') + '</div>' +
     '<div class="proj-info">' + (p.pasta ? esc(nomePasta(p.pasta)) + " · " : "") +
     (p.salvoPor ? 'por <a class="proj-quem" data-quem="' + esc(p.salvoPor) + '">' + esc(p.salvoPor) + '</a>' : "") + '</div></div>' +
-    '<div class="proj-total">' + prob + '<span>' + (r.avaliados || 0) + ' / ' + (r.total || 0) + ' avaliados</span></div>' +
+    '<div class="proj-total">' + prob + '<span>' + (r.total ? (r.avaliados || 0) + ' / ' + r.total + ' avaliados' : 'abra para ver o resumo') + '</span></div>' +
     '<div class="proj-data">' + quandoTexto(p.salvoEm) + '</div>' +
     '<div class="proj-acoes"><button class="del" data-excluir="' + esc(p.id) + '" title="Excluir">🗑</button></div></div>';
 }
