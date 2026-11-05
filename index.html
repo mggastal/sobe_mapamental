@@ -7245,8 +7245,7 @@ let clBase = null;     // como estava ao abrir, para mesclar se outra pessoa sal
 let clSujo = false;
 let clEstadoMsg = null;
 const clAbertos = new Set();
-let projTipo = "tudo";
-try { projTipo = localStorage.getItem("sobe_proj_tipo") || "tudo"; } catch (e) {}
+let projTipo = "mapa";   // a tela abre em mapas; os checklists ficam a um clique
 
 function ehChecklistId(id) { return /(^|\/)checklist--/.test(String(id || "")); }
 function pastaDoId(id) {
@@ -7255,6 +7254,10 @@ function pastaDoId(id) {
 }
 function clDataDoId(id) { return (String(id || "").match(/checklist--(\d{4}-\d\d-\d\d)/) || [])[1] || ""; }
 function clNomeSemIndice(p) { return "Checklist – " + clDataBR(clDataDoId(p.id)); }
+function clPastaDoCliente() {
+  if (!projetoAtual) return "";
+  return pastaDoId(projetoAtual.id) || slugify(clienteNome() || projetoAtual.nome);
+}
 function clDataBR(iso) { return iso ? String(iso).split("-").reverse().join("/") : "sem data"; }
 function clHoje() {
   const d = new Date();
@@ -7372,7 +7375,7 @@ async function salvarChecklist() {
   if (!clAtual) return;
   pedeNome();
   if (!clAtual.id) {
-    const pasta = projetoAtual ? pastaDoId(projetoAtual.id) : "";
+    const pasta = clPastaDoCliente();
     const sufixo = Math.random().toString(36).slice(2, 6);
     clAtual.id = (pasta ? pasta + "/" : "") + "checklist--" + clAtual.data.data + "--" + sufixo;
   }
@@ -7432,7 +7435,7 @@ function renderChecklist() {
     document.getElementById("clIrProjetos").onclick = abrirTelaProjetos;
     return;
   }
-  const pasta = pastaDoId(projetoAtual.id);
+  const pasta = clPastaDoCliente();
   const itens = (listaCache.projetos || [])
     .filter(p => ehChecklistId(p.id) && (p.pasta || "") === pasta)
     .sort((a, b) => String((b.resumo || {}).data || "").localeCompare(String((a.resumo || {}).data || "")));
@@ -7641,14 +7644,13 @@ function desenhaTipos(todos) {
   if (!el) return;
   const naPasta = todos.filter(p => pastaSel === "" || (pastaSel === "__raiz" ? !p.pasta : p.pasta === pastaSel));
   const qChk = naPasta.filter(p => ehChecklistId(p.id)).length;
-  const opcoes = [["tudo", "Tudo", naPasta.length], ["mapa", "Mapas mentais", naPasta.length - qChk], ["checklist", "Checklists", qChk]];
+  const opcoes = [["mapa", "Mapas mentais", naPasta.length - qChk], ["checklist", "Checklists", qChk], ["tudo", "Tudo", naPasta.length]];
   el.innerHTML = opcoes.map(o =>
     '<button data-tipo="' + o[0] + '" class="' + (projTipo === o[0] ? "sel" : "") + '" aria-pressed="' + (projTipo === o[0]) + '">' +
     o[1] + '<span>' + o[2] + '</span></button>').join("");
   el.querySelectorAll("[data-tipo]").forEach(b => {
     b.onclick = () => {
       projTipo = b.getAttribute("data-tipo");
-      try { localStorage.setItem("sobe_proj_tipo", projTipo); } catch (e) {}
       desenhaLista();
     };
   });
