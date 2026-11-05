@@ -1071,6 +1071,14 @@
   .cl-estado.erro{color:#C1121F; font-weight:700;}
   .cl-estado.ok{color:#1E6E4A; font-weight:700;}
   .cl-acoes{position:sticky; bottom:0; background:var(--bg); padding:12px 0; margin-top:6px;}
+  .cl-estado{overflow-wrap:anywhere; min-width:0;}
+  .cl-tag[hidden], .cl-txt textarea[hidden]{display:none;}
+  .cl-campo input:disabled, .cl-tag input:disabled, .cl-txt textarea:disabled{background:transparent; border-color:transparent; color:var(--navy); opacity:1; padding-left:0;}
+  .cl-st:disabled{cursor:default;}
+  body.cliente .cl-voltar, body.cliente #clSalvar, body.cliente #clLink, body.cliente #clEstado, body.cliente .cl-usa,
+  body.cliente .cl-card.desligado, body.cliente .cl-st:not([class*="sel-"]){display:none !important;}
+  body.cl-compartilhado #platformBar, body.cl-compartilhado .tabs, body.cl-compartilhado #moedaSelect,
+  body.cl-compartilhado .logo-cliente, body.cl-compartilhado .barra-bolinha{display:none !important;}
   #checklistPrint{display:none;}
   @media print{
     body.imprimindo-cl{display:block; height:auto; overflow:visible; background:#fff;}
@@ -7518,6 +7526,7 @@ function clDesenhaFicha(el) {
     '<div class="cl-acoes cl-botoes">' +
     '<button class="cl-btn forte" id="clSalvar">💾 Salvar na pasta do cliente</button>' +
     '<button class="cl-btn" id="clPdf">🖨 Imprimir / Salvar PDF</button>' +
+    '<button class="cl-btn" id="clLink">🔗 Link do cliente</button>' +
     '<span class="cl-estado" id="clEstado" role="status"></span></div></div>';
 
   document.getElementById("clVoltar").onclick = () => {
@@ -7529,6 +7538,7 @@ function clDesenhaFicha(el) {
   };
   document.getElementById("clSalvar").onclick = salvarChecklist;
   document.getElementById("clPdf").onclick = clImprimir;
+  document.getElementById("clLink").onclick = clLinkCliente;
   document.getElementById("clResp").oninput = function () { d.responsavel = this.value; clMarcaSujo(); };
   document.getElementById("clData").oninput = function () { d.data = this.value; clMarcaSujo(); };
   document.getElementById("clExpandir").onclick = () => {
@@ -7593,8 +7603,49 @@ function clDesenhaFicha(el) {
       });
     });
   });
+  if (MODO_CLIENTE) clSomenteLeitura(el);
   clCrescerObs(el);
   clAtualizaContas();
+  clAtualizaEstado();
+}
+// link do cliente: mesma ficha, sem nada que altere o checklist
+function clSomenteLeitura(el) {
+  el.querySelectorAll("input, textarea, .cl-st").forEach(x => { x.disabled = true; });
+  el.querySelectorAll(".cl-txt textarea").forEach(ta => { if (!ta.value) ta.hidden = true; });
+  el.querySelectorAll(".cl-tag").forEach(linha => { if (!linha.querySelector("input").value) linha.hidden = true; });
+}
+function clAbrirCompartilhado(r) {
+  clAtual = { id: null, sha: null, data: Object.assign({ respostas: {}, desligadas: [], tags: {} }, r.data) };
+  clBase = clonar(clAtual.data);
+  clSujo = false;
+  CHECKLIST_TOOLS.forEach(t => clAbertos.add(t.id));
+  document.body.classList.add("cl-compartilhado");
+  const inp = document.getElementById("clientName");
+  if (inp) inp.value = clAtual.data.cliente || "";
+  setPlatform("checklist");
+  document.title = clNomeDe(clAtual.data);
+}
+async function clLinkCliente() {
+  if (!clAtual) return;
+  if (clSujo || !clAtual.id) {
+    await salvarChecklist();
+    if (clSujo) return;
+  }
+  clEstadoMsg = { texto: "gerando link…", tipo: "" };
+  clAtualizaEstado();
+  try {
+    const r = await apiNuvem("/share", { method: "POST", body: JSON.stringify({ id: clAtual.id }) });
+    // gerar o link regrava o arquivo: guarda a versão nova para o próximo salvamento
+    const m = await apiNuvem("/meta?id=" + encodeURIComponent(clAtual.id));
+    clAtual.sha = m.sha;
+    clBase = clonar(clAtual.data);
+    const link = linkDeVisualizacao(r.token);
+    const copiou = await copiar(link);
+    clEstadoMsg = { texto: (copiou ? "Link copiado: " : "Link: ") + link, tipo: "ok" };
+    carregarLista();
+  } catch (e) {
+    clEstadoMsg = { texto: "Não consegui gerar o link: " + e.message, tipo: "erro" };
+  }
   clAtualizaEstado();
 }
 function clCresce(ta) {
@@ -7712,7 +7763,9 @@ function linhaChecklist(p) {
     (p.salvoPor ? 'por <a class="proj-quem" data-quem="' + esc(p.salvoPor) + '">' + esc(p.salvoPor) + '</a>' : "") + '</div></div>' +
     '<div class="proj-total">' + prob + '<span>' + (r.total ? (r.avaliados || 0) + ' / ' + r.total + ' avaliados' : 'abra para ver o resumo') + '</span></div>' +
     '<div class="proj-data">' + quandoTexto(p.salvoEm) + '</div>' +
-    '<div class="proj-acoes"><button class="del" data-excluir="' + esc(p.id) + '" title="Excluir">🗑</button></div></div>';
+    '<div class="proj-acoes">' +
+    '<button class="proj-link' + (p.temLink ? " tem" : "") + '" data-link="' + esc(p.id) + '" title="Link de visualização para o cliente">🔗</button>' +
+    '<button class="del" data-excluir="' + esc(p.id) + '" title="Excluir">🗑</button></div></div>';
 }
 
 // ================= PROJETOS NA NUVEM =================
@@ -8323,6 +8376,7 @@ function fecharTelaProjetos() {
 document.getElementById("projBtn").addEventListener("click", abrirTelaProjetos);
 document.getElementById("salvarBtn").addEventListener("click", salvarProjeto);
 document.getElementById("linkBtn").addEventListener("click", async () => {
+  if (platform === "checklist" && clAtual) return clLinkCliente();
   if (!projetoAtual) { alert("Abra um projeto para gerar o link."); return; }
   try {
     const r = await apiNuvem("/share", { method: "POST", body: JSON.stringify({ id: projetoAtual.id }) });
@@ -8443,6 +8497,7 @@ if (TOKEN_CLIENTE && nuvemConfigurada()) {
   (async () => {
     try {
       const r = await apiNuvem("/shared?s=" + encodeURIComponent(TOKEN_CLIENTE));
+      if (r.data && r.data.tipo === "checklist") { clAbrirCompartilhado(r); return; }
       aplicarStore(r.data);
       projetoAtual = null;
       const inp = document.getElementById("clientName");
